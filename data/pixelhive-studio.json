@@ -6,178 +6,191 @@
     "url": null
   },
   "prepared_for": null,
-  "created_at": "2026-09-27T10:04:15.076Z",
+  "created_at": "2026-09-27T11:17:55.279Z",
   "profile": {
     "company": {
       "name": "Pixelhive Studio",
       "industry": "Creative and digital marketing agency",
-      "summary": "You run an 18-person creative and digital marketing agency in Berlin. Your team includes designers, copywriters, social media managers, account managers, and one developer. You sell ongoing social campaigns, ad creative, and monthly reporting to clients, with many revision rounds along the way.",
+      "summary": "Pixelhive Studio is a Berlin creative and digital marketing agency with 18 people. You and your team run social campaigns, create ads, produce design and copy, report monthly results to clients, and manage many revision rounds.",
       "offerings": [
-        "Social media campaign planning and execution",
-        "Paid ad creative and copy",
-        "Copywriting for social, ads, and landing pages",
-        "Monthly performance reports and client dashboards",
-        "Account management and revision coordination",
-        "Landing page and campaign microsite updates"
+        "Social media campaign strategy and management",
+        "Digital ad creation for Meta, Google and similar platforms",
+        "Graphic design and brand creative",
+        "Copywriting and content production",
+        "Monthly performance reporting and analytics",
+        "Landing page and small website development"
       ],
-      "customers": "Small and mid-sized consumer brands, local Berlin businesses, ecommerce shops, and startups that need regular marketing execution.",
+      "customers": "Small and mid-sized brands, consumer companies and local businesses that need ongoing marketing creative and campaign support. Likely B2C clients plus some B2B clients in Berlin, Germany and nearby markets.",
       "locations": [
         "Berlin, Germany"
       ],
       "size_band": "11-50",
       "employee_estimate": 18,
       "tech_signals": [
-        "Meta Business Suite",
-        "Instagram",
-        "Facebook",
-        "LinkedIn",
-        "TikTok",
+        "Adobe Creative Cloud (Photoshop, Illustrator, InDesign)",
+        "Figma",
+        "Canva",
+        "Meta Business Suite and Ads Manager",
         "Google Ads",
         "Google Analytics 4",
-        "Looker Studio",
         "Google Workspace",
-        "Slack"
+        "Slack",
+        "Asana or Trello",
+        "Hootsuite or Later"
       ],
       "evidence_quality": "low"
     },
     "departments": [
       {
-        "name": "Creative and Design",
+        "name": "Creative & Design",
         "headcount_estimate": 5,
         "roles": [
           {
             "title": "Graphic Designer",
             "count_estimate": 3,
             "repetitive_tasks": [
-              "Resize ad creative for Instagram, Facebook, LinkedIn, and TikTok",
-              "Make client revision rounds on layouts and images",
-              "Export final files in required formats",
-              "Keep brand asset folders organized"
+              "Resizing ad creative for multiple placements",
+              "Exporting and naming final assets",
+              "Applying client brand templates",
+              "Preparing revision versions after feedback"
+            ]
+          },
+          {
+            "title": "Senior Designer",
+            "count_estimate": 1,
+            "repetitive_tasks": [
+              "Reviewing junior design work",
+              "Building campaign visual systems",
+              "Preparing client presentation mockups"
             ]
           },
           {
             "title": "Art Director",
             "count_estimate": 1,
             "repetitive_tasks": [
-              "Review campaign concepts before client delivery",
-              "Give feedback on design and copy pairings",
-              "Set visual direction for new client pitches"
-            ]
-          },
-          {
-            "title": "Motion Designer",
-            "count_estimate": 1,
-            "repetitive_tasks": [
-              "Cut short video ads from existing footage",
-              "Add captions and brand animations",
-              "Export vertical and square versions"
+              "Setting creative direction for campaigns",
+              "Reviewing and approving design files",
+              "Joining client feedback calls"
             ]
           }
         ]
       },
       {
-        "name": "Copywriting and Content",
-        "headcount_estimate": 3,
+        "name": "Copy & Content",
+        "headcount_estimate": 4,
         "roles": [
           {
             "title": "Copywriter",
             "count_estimate": 2,
             "repetitive_tasks": [
-              "Draft social captions and ad headlines",
-              "Rewrite copy after client feedback",
-              "Write A/B variants for ad tests",
-              "Check copy against brand tone guides"
+              "Writing social captions and ad copy variants",
+              "Adapting copy for different platforms",
+              "Rewriting copy after client feedback"
             ]
           },
           {
             "title": "Content Strategist",
             "count_estimate": 1,
             "repetitive_tasks": [
-              "Build monthly content calendars",
-              "Map posts to campaign goals",
-              "Review competitor posts for ideas"
+              "Building monthly content calendars",
+              "Researching audience topics and hashtags",
+              "Briefing writers and designers"
+            ]
+          },
+          {
+            "title": "Editor",
+            "count_estimate": 1,
+            "repetitive_tasks": [
+              "Proofreading client-facing copy",
+              "Checking tone and brand voice",
+              "Formatting final content for delivery"
             ]
           }
         ]
       },
       {
-        "name": "Social Media Management",
+        "name": "Social Media & Campaigns",
         "headcount_estimate": 4,
         "roles": [
           {
             "title": "Social Media Manager",
-            "count_estimate": 3,
+            "count_estimate": 2,
             "repetitive_tasks": [
-              "Schedule posts across client accounts",
-              "Monitor comments and direct messages",
-              "Pull engagement numbers for reports",
-              "Coordinate post approvals with account managers"
+              "Scheduling posts across client accounts",
+              "Monitoring comments and messages",
+              "Pulling engagement metrics for reports"
+            ]
+          },
+          {
+            "title": "Campaign Manager",
+            "count_estimate": 1,
+            "repetitive_tasks": [
+              "Setting up ad campaigns in Meta and Google",
+              "Tracking budgets and pacing",
+              "Coordinating campaign assets with design and copy"
             ]
           },
           {
             "title": "Community Manager",
             "count_estimate": 1,
             "repetitive_tasks": [
-              "Reply to common comments and questions",
-              "Flag sensitive comments to account managers",
-              "Log repeated customer questions"
+              "Responding to routine comments",
+              "Flagging negative or urgent messages",
+              "Logging common audience questions"
             ]
           }
         ]
       },
       {
-        "name": "Account Management and Client Services",
-        "headcount_estimate": 4,
+        "name": "Account Management",
+        "headcount_estimate": 3,
         "roles": [
           {
             "title": "Account Manager",
-            "count_estimate": 3,
+            "count_estimate": 2,
             "repetitive_tasks": [
-              "Collect client feedback and approvals",
-              "Run weekly status calls",
-              "Update project trackers and reports",
-              "Manage revision rounds and deadlines"
+              "Running client status calls",
+              "Collecting and sharing client feedback",
+              "Tracking revision rounds and approvals"
             ]
           },
           {
-            "title": "Project Coordinator",
+            "title": "Account Coordinator",
             "count_estimate": 1,
             "repetitive_tasks": [
-              "Schedule internal reviews",
-              "Chase missing assets from clients",
-              "Keep shared calendars up to date"
+              "Scheduling meetings and reminders",
+              "Updating project trackers",
+              "Preparing simple client reports and invoices"
             ]
           }
         ]
       },
       {
-        "name": "Development",
+        "name": "Web Development",
         "headcount_estimate": 1,
         "roles": [
           {
             "title": "Web Developer",
             "count_estimate": 1,
             "repetitive_tasks": [
-              "Update landing pages for campaigns",
-              "Fix tracking pixels and forms",
-              "Deploy small campaign sites",
-              "Check page speed and mobile layout"
+              "Updating landing pages",
+              "Fixing tracking pixels and forms",
+              "Running small site edits and QA"
             ]
           }
         ]
       },
       {
-        "name": "Operations and Finance",
+        "name": "Operations & Leadership",
         "headcount_estimate": 1,
         "roles": [
           {
             "title": "Operations Manager",
             "count_estimate": 1,
             "repetitive_tasks": [
-              "Track invoices and payment reminders",
-              "Manage software subscriptions",
-              "Onboard freelancers and contractors",
-              "Keep internal process notes current"
+              "Managing tool access and accounts",
+              "Tracking invoices and contractor paperwork",
+              "Keeping internal processes and templates updated"
             ]
           }
         ]
@@ -185,474 +198,474 @@
     ]
   },
   "strategy": {
-    "executive_summary": "Pixelhive Studio is an 18-person Berlin agency with five designers, three copy and content people, four social media managers, four account managers, one developer, and one operations manager. Most of your current work runs through Meta Business Suite, Instagram, Facebook, LinkedIn, TikTok, Google Ads, GA4, Looker Studio, Google Workspace, and Slack, with little automation between them. The best near-term gains are in comment and DM triage, client approval chasing, first-draft copy, monthly report data pulls, and ad resize prep. Start with low-effort agents that keep a human in the loop for public replies, client emails, and final numbers.",
+    "situation": "Pixelhive Studio is an 18-person Berlin agency running social campaigns, ad creative, copy, and monthly reporting for many clients. Most work moves through Slack, Asana or Trello, Google Workspace, Adobe Creative Cloud, Figma, and platform ad tools.",
+    "complication": "Your team repeats the same setup, scheduling, metric pulling, feedback chasing, and file prep across every client, so deadlines slip when volume rises. Client reporting and campaign checks depend on busy people remembering manual steps, which creates errors and slow responses.",
+    "governing_thought": "Start with three agents for social scheduling and comment triage, monthly client reporting, and campaign setup QA to reduce missed messages, produce cleaner reports, and speed campaign launches.",
+    "key_arguments": [
+      {
+        "role": "where",
+        "headline": "Social, account, and creative teams carry most repeated client work",
+        "support": "Social managers and community managers repeat scheduling, comment checks, and metric pulls for every client. Account teams chase feedback, build monthly reports, and track revision rounds by hand. Creative teams spend hours resizing, exporting, and renaming files after each approval."
+      },
+      {
+        "role": "what",
+        "headline": "The first three agents target frequent, low-risk work with clear inputs",
+        "support": "Social scheduling and comment triage use tools you already have and affect every client account. Monthly reporting pulls from known platforms into a template your account team already owns. Campaign setup QA catches costly mistakes before spend starts. These three show proof quickly without touching sensitive creative decisions."
+      },
+      {
+        "role": "how",
+        "headline": "Pilot each agent with one owner, human approval, and weekly checks",
+        "support": "Run a four-week pilot per agent with one process owner and human approval on client-facing output. Review errors and time saved weekly, then scale to all clients once the workflow is stable. Keep manual fallbacks for platform access issues and unclear briefs."
+      }
+    ],
+    "executive_summary": "Pixelhive Studio is an 18-person Berlin agency running social campaigns, ad creative, copy, and monthly reporting for many clients. Most work moves through Slack, Asana or Trello, Google Workspace, Adobe Creative Cloud, Figma, and platform ad tools. Your team repeats the same setup, scheduling, metric pulling, feedback chasing, and file prep across every client, so deadlines slip when volume rises. Client reporting and campaign checks depend on busy people remembering manual steps, which creates errors and slow responses. Start with three agents for social scheduling and comment triage, monthly client reporting, and campaign setup QA to reduce missed messages, produce cleaner reports, and speed campaign launches.",
     "maturity": {
       "score": 2,
-      "label": "Early stage",
-      "note": "You have the tools in place but the work is still manual. No agents are running, data lives in separate platforms and sheets, and team time is spent on repetition rather than strategy."
+      "label": "Early",
+      "note": "AI use is ad hoc, mostly writing help and simple automations, and no agent owns a recurring workflow yet."
     },
     "opportunities": [
       {
-        "title": "Comments and DMs answered in minutes",
-        "department": "Social Media Management",
+        "title": "Social posts scheduled and routine comments triaged",
+        "department": "Social Media & Campaigns",
         "roles": [
           "Social Media Manager",
           "Community Manager"
         ],
-        "description": "An agent watches comments and direct messages across client accounts, drafts replies from approved FAQs, and flags sensitive or buying-intent threads to the right person. It logs repeated questions so your team can update the FAQ bank.",
+        "description": "An agent schedules approved posts across client accounts and drafts replies to routine comments for human review. It flags urgent or negative messages in Slack with context.",
         "before": [
-          "Open Meta Business Suite, Instagram, Facebook, LinkedIn, and TikTok one by one.",
-          "Read each comment and DM.",
-          "Copy common answers from a notes doc.",
-          "Flag sensitive messages in Slack.",
-          "Log repeated questions in a sheet."
+          "Collect approved copy and assets from Asana",
+          "Log into each client account",
+          "Upload and schedule posts one by one",
+          "Check comments and messages across platforms",
+          "Copy engagement numbers into a sheet"
         ],
         "after": [
-          "Agent checks all connected accounts every 15 minutes.",
-          "Agent drafts replies for common questions.",
-          "Agent flags sensitive threads in Slack with context.",
-          "Human: approves or edits drafts and sends replies.",
-          "Agent updates the repeated-question log."
+          "Agent pulls approved assets from Asana and Google Drive",
+          "Agent schedules posts in Hootsuite, Later, and Meta Business Suite",
+          "Agent drafts routine comment replies and flags urgent ones in Slack",
+          "Human: reviews and approves replies and schedule changes",
+          "Agent logs engagement numbers for reporting"
         ],
-        "hours_saved_per_week": 8,
+        "hours_saved_per_week": 11,
         "impact": 5,
-        "effort": 3,
-        "tools": [
-          "Meta Business Suite",
-          "Instagram",
-          "Facebook",
-          "LinkedIn",
-          "Slack"
-        ]
-      },
-      {
-        "title": "Client approvals chased automatically",
-        "department": "Account Management and Client Services",
-        "roles": [
-          "Account Manager",
-          "Project Coordinator"
-        ],
-        "description": "An agent reads client email and Slack threads, pulls out feedback and approvals, and keeps a shared approval tracker current. It sends polite reminders when a client is holding up a deadline.",
-        "before": [
-          "Account manager searches email and Slack for feedback.",
-          "Copies comments into a tracker.",
-          "Checks which items are still waiting.",
-          "Writes reminder emails one by one.",
-          "Updates the deadline list."
-        ],
-        "after": [
-          "Agent reads client email and Slack threads.",
-          "Agent extracts feedback, approvals, and open questions.",
-          "Agent updates the approval tracker.",
-          "Agent drafts reminder emails for late items.",
-          "Human: reviews the tracker and sends reminders."
-        ],
-        "hours_saved_per_week": 6,
-        "impact": 5,
-        "effort": 3,
-        "tools": [
-          "Google Workspace",
-          "Slack",
-          "Google Sheets"
-        ]
-      },
-      {
-        "title": "First drafts for captions and ad variants",
-        "department": "Copywriting and Content",
-        "roles": [
-          "Copywriter",
-          "Content Strategist"
-        ],
-        "description": "An agent turns a short brief and brand tone guide into first drafts for social captions, headlines, and A/B variants. It marks claims or phrases that need human checking before client delivery.",
-        "before": [
-          "Read the client brief and old posts.",
-          "Open a blank doc.",
-          "Write captions and headlines.",
-          "Create A/B variants by hand.",
-          "Check every line against the tone guide."
-        ],
-        "after": [
-          "Human: writes a 5-line brief.",
-          "Agent drafts captions, headlines, and 5 to 10 variants.",
-          "Agent checks drafts against the tone guide and flags claims.",
-          "Human: edits the best options.",
-          "Agent saves approved copy to the client folder."
-        ],
-        "hours_saved_per_week": 8,
-        "impact": 4,
         "effort": 2,
         "tools": [
-          "Google Workspace",
+          "Hootsuite",
+          "Later",
           "Meta Business Suite",
-          "Google Ads"
-        ]
+          "Slack",
+          "Asana",
+          "Google Sheets"
+        ],
+        "phase1": true
       },
       {
-        "title": "Monthly report data pull and first notes",
-        "department": "Social Media Management",
+        "title": "Monthly client reports built from live metrics",
+        "department": "Account Management",
         "roles": [
-          "Social Media Manager",
-          "Account Manager"
+          "Account Manager",
+          "Account Coordinator"
         ],
-        "description": "An agent pulls numbers from each platform and GA4 into a reporting sheet, then writes plain-language notes about what changed. Your team checks the numbers and edits the story before it goes to the client.",
+        "description": "An agent pulls metrics from Meta, Google Ads, and GA4 into a client-ready draft with commentary prompts. It updates the same report template each month.",
         "before": [
-          "Log into Meta, LinkedIn, TikTok, and GA4.",
-          "Export numbers for each client.",
-          "Paste data into a sheet.",
-          "Write commentary by hand.",
-          "Build slides or a Looker Studio page."
+          "Log into each ad and analytics platform",
+          "Export separate CSV files",
+          "Paste numbers into slide templates",
+          "Write first draft commentary",
+          "Ask account lead to check and send"
         ],
         "after": [
-          "Agent pulls numbers from connected platforms and GA4.",
-          "Agent fills the reporting sheet and Looker Studio data source.",
-          "Agent drafts plain-language notes on changes.",
-          "Human: checks numbers and edits notes.",
-          "Agent builds the client-ready report draft."
+          "Agent connects to Meta Ads, Google Ads, and GA4",
+          "Agent fills the monthly report template",
+          "Agent drafts commentary based on changes",
+          "Human: checks numbers, edits narrative, and approves",
+          "Agent saves final PDF and updates client tracker"
+        ],
+        "hours_saved_per_week": 9,
+        "impact": 5,
+        "effort": 3,
+        "tools": [
+          "Meta Ads Manager",
+          "Google Ads",
+          "Google Analytics 4",
+          "Google Slides",
+          "Google Sheets",
+          "Asana"
+        ],
+        "phase1": true
+      },
+      {
+        "title": "Ad campaigns checked before launch and pacing alerts sent daily",
+        "department": "Social Media & Campaigns",
+        "roles": [
+          "Campaign Manager"
+        ],
+        "description": "An agent runs a pre-launch checklist on new Meta and Google campaigns and posts daily pacing alerts. It catches missing pixels, wrong budgets, and broken links before spend starts.",
+        "before": [
+          "Build campaign in Meta and Google",
+          "Manually check budgets, audiences, and tracking",
+          "Ask designer for missing asset sizes",
+          "Watch spend during first days",
+          "Send status updates in Slack"
+        ],
+        "after": [
+          "Agent reads campaign setup from Meta and Google",
+          "Agent checks budget, audience, pixels, links, and asset sizes",
+          "Agent posts a Slack checklist with failed items",
+          "Human: fixes flagged items and approves launch",
+          "Agent sends daily pacing alerts with budget burn"
         ],
         "hours_saved_per_week": 6,
         "impact": 4,
         "effort": 3,
         "tools": [
-          "Google Analytics 4",
-          "Looker Studio",
-          "Meta Business Suite",
+          "Meta Ads Manager",
+          "Google Ads",
+          "Slack",
+          "Asana",
           "Google Sheets"
-        ]
+        ],
+        "phase1": true
       },
       {
-        "title": "Ad resize prep and export names",
-        "department": "Creative and Design",
+        "title": "Ad creative resized and exported for every placement",
+        "department": "Creative & Design",
         "roles": [
           "Graphic Designer",
-          "Motion Designer"
+          "Senior Designer"
         ],
-        "description": "An agent reads campaign specs and prepares the resize list, file names, and export checklist for each platform. It reduces the manual admin around exports and gives designers a clean queue.",
+        "description": "An agent prepares common ad sizes from approved Figma or Photoshop files and names files to your convention. Designers review and adjust only where the layout breaks.",
         "before": [
-          "Check platform size requirements.",
-          "Write a resize list by hand.",
-          "Rename files to match naming rules.",
-          "Export each size.",
-          "Upload files to shared folders."
+          "Open master design file",
+          "Duplicate artboards for each size",
+          "Resize and rearrange elements manually",
+          "Export PNG and JPG files",
+          "Rename and upload to shared drive"
         ],
         "after": [
-          "Agent reads campaign specs and builds the size list.",
-          "Agent renames source files and sets export names.",
-          "Agent creates the export checklist.",
-          "Human: reviews the list and exports final files.",
-          "Agent files exports into the right client folders."
+          "Agent reads approved master file",
+          "Agent creates standard ad sizes",
+          "Agent exports and names files by campaign and placement",
+          "Human: checks layouts and fixes edge cases",
+          "Agent uploads to Google Drive and links in Asana"
+        ],
+        "hours_saved_per_week": 8,
+        "impact": 4,
+        "effort": 3,
+        "tools": [
+          "Figma",
+          "Adobe Photoshop",
+          "Adobe Illustrator",
+          "Google Drive",
+          "Asana"
+        ],
+        "phase1": false
+      },
+      {
+        "title": "First-draft ad copy and captions ready for editing",
+        "department": "Copy & Content",
+        "roles": [
+          "Copywriter",
+          "Content Strategist",
+          "Editor"
+        ],
+        "description": "An agent drafts ad copy and social captions from a brief, brand voice notes, and past top performers. It gives writers a clear starting point instead of a blank page.",
+        "before": [
+          "Read client brief and old posts",
+          "Write captions for each platform",
+          "Create multiple ad variants",
+          "Check brand voice and hashtags",
+          "Send to editor for proofing"
+        ],
+        "after": [
+          "Agent reads brief, brand notes, and past posts",
+          "Agent drafts captions and ad variants by platform",
+          "Agent checks tone against brand guide",
+          "Human: edits, approves, and adds final ideas",
+          "Agent formats approved copy for scheduling"
+        ],
+        "hours_saved_per_week": 7,
+        "impact": 4,
+        "effort": 3,
+        "tools": [
+          "Google Docs",
+          "Google Workspace",
+          "Slack",
+          "Asana"
+        ],
+        "phase1": false
+      },
+      {
+        "title": "Revision rounds tracked and client feedback collected in one place",
+        "department": "Account Management",
+        "roles": [
+          "Account Manager",
+          "Account Coordinator"
+        ],
+        "description": "An agent gathers feedback from email, Slack, and calls into a numbered revision list. It tracks rounds and approvals so nothing gets lost between client and creative.",
+        "before": [
+          "Client sends feedback in email, Slack, and calls",
+          "Account coordinator copies notes into a document",
+          "Team asks which comments are approved",
+          "Designer guesses order and priority",
+          "Rounds get counted manually"
+        ],
+        "after": [
+          "Agent collects feedback from email, Slack, and call notes",
+          "Agent creates a numbered revision list with source links",
+          "Agent flags unclear or conflicting requests",
+          "Human: confirms priorities with client and team",
+          "Agent updates approval status and round count"
         ],
         "hours_saved_per_week": 5,
         "impact": 4,
-        "effort": 4,
-        "tools": [
-          "Google Workspace",
-          "Meta Business Suite",
-          "LinkedIn"
-        ]
-      },
-      {
-        "title": "Weekly call recaps and action items",
-        "department": "Account Management and Client Services",
-        "roles": [
-          "Account Manager",
-          "Project Coordinator"
-        ],
-        "description": "An agent turns recorded weekly status calls into a short recap with owners and due dates. It posts the recap in the client Slack channel or drafts the follow-up email for the account manager.",
-        "before": [
-          "Join the weekly call.",
-          "Take notes during the call.",
-          "Write a recap email after the call.",
-          "Add action items to the tracker.",
-          "Send tasks in Slack."
-        ],
-        "after": [
-          "Agent records and transcribes the call with permission.",
-          "Agent writes a short recap with owners and dates.",
-          "Agent adds action items to the tracker.",
-          "Human: checks names, dates, and tone.",
-          "Agent sends the recap or saves it as an email draft."
-        ],
-        "hours_saved_per_week": 4,
-        "impact": 3,
         "effort": 2,
         "tools": [
           "Google Workspace",
           "Slack",
-          "Google Sheets"
-        ]
+          "Asana",
+          "Trello"
+        ],
+        "phase1": false
       },
       {
-        "title": "Invoice reminders and subscription renewals",
-        "department": "Operations and Finance",
-        "roles": [
-          "Operations Manager"
-        ],
-        "description": "An agent watches invoice due dates and software renewal dates in your finance sheet and inbox. It drafts reminder emails and flags subscriptions that are close to renewal.",
-        "before": [
-          "Check the invoice sheet each week.",
-          "Compare due dates to payments received.",
-          "Write reminder emails by hand.",
-          "Check software renewal dates.",
-          "Update the finance sheet."
-        ],
-        "after": [
-          "Agent checks invoice due dates and payment status.",
-          "Agent drafts reminder emails for late invoices.",
-          "Agent flags upcoming software renewals.",
-          "Human: reviews and sends reminders.",
-          "Agent updates the finance log."
-        ],
-        "hours_saved_per_week": 3,
-        "impact": 3,
-        "effort": 2,
-        "tools": [
-          "Google Workspace",
-          "Google Sheets",
-          "Slack"
-        ]
-      },
-      {
-        "title": "Landing page checks before launch",
-        "department": "Development",
+        "title": "Small landing page edits and tracking checks handled faster",
+        "department": "Web Development",
         "roles": [
           "Web Developer"
         ],
-        "description": "An agent runs a launch checklist on campaign pages, checking forms, tracking pixels, mobile layout, and speed. It sends a screenshot-based issue list to the developer so fixes are clear.",
+        "description": "An agent prepares routine landing page text and image swaps and checks forms, pixels, and links. The developer reviews and deploys changes.",
         "before": [
-          "Open each landing page manually.",
-          "Test forms and thank-you pages.",
-          "Check GA4 and Google Ads pixels.",
-          "Resize the browser for mobile.",
-          "Run a speed test and write notes."
+          "Get edit request from account team",
+          "Find page and make changes manually",
+          "Check form submissions and pixels",
+          "Test links on mobile",
+          "Reply with done status"
         ],
         "after": [
-          "Agent opens each page and runs the checklist.",
-          "Agent tests forms and tracking tags.",
-          "Agent captures mobile screenshots.",
-          "Agent writes an issue list with page links.",
-          "Human: fixes issues and approves launch."
+          "Agent reads request from Asana",
+          "Agent prepares text and image swaps in staging",
+          "Agent checks forms, pixels, and links",
+          "Human: reviews, tests, and deploys",
+          "Agent posts status update in Asana"
         ],
         "hours_saved_per_week": 3,
         "impact": 3,
-        "effort": 3,
+        "effort": 4,
         "tools": [
+          "Webflow",
+          "WordPress",
           "Google Analytics 4",
-          "Google Ads",
-          "Google Workspace"
-        ]
+          "Google Tag Manager",
+          "Asana"
+        ],
+        "phase1": false
       },
       {
-        "title": "Competitor post digest for content planning",
-        "department": "Copywriting and Content",
+        "title": "Contractor invoices and tool renewals tracked automatically",
+        "department": "Operations & Leadership",
         "roles": [
-          "Content Strategist",
-          "Copywriter"
+          "Operations Manager"
         ],
-        "description": "An agent collects public posts from chosen competitor accounts and groups them by theme, format, and hook. It sends a weekly digest to help your team plan, without copying claims or creative.",
+        "description": "An agent reads invoice emails and renewal notices, logs amounts and due dates, and sends reminders. It keeps contractor paperwork and tool access notes in one place.",
         "before": [
-          "Open each competitor account.",
-          "Scroll recent posts.",
-          "Take screenshots and notes.",
-          "Group ideas in a doc.",
-          "Share with the content team."
+          "Check shared inbox for invoices",
+          "Download PDFs and rename them",
+          "Enter amounts in spreadsheet",
+          "Track renewal dates manually",
+          "Chase missing paperwork by email"
         ],
         "after": [
-          "Agent collects public posts from a set list.",
-          "Agent groups posts by theme, format, and hook.",
-          "Agent sends a weekly digest to Slack.",
-          "Human: reviews the digest and picks ideas.",
-          "Agent saves the digest to the campaign folder."
+          "Agent reads invoice and renewal emails",
+          "Agent logs vendor, amount, and due date in Google Sheets",
+          "Agent sends Slack reminders before due dates",
+          "Human: approves payments and access changes",
+          "Agent files documents in shared drive"
         ],
-        "hours_saved_per_week": 3,
-        "impact": 2,
-        "effort": 2,
+        "hours_saved_per_week": 4,
+        "impact": 3,
+        "effort": 3,
         "tools": [
-          "Instagram",
-          "LinkedIn",
-          "TikTok",
-          "Slack"
-        ]
+          "Gmail",
+          "Google Sheets",
+          "Google Drive",
+          "Slack",
+          "Asana"
+        ],
+        "phase1": false
       }
     ],
     "roadmap": [
       {
         "phase": "Phase 1",
-        "timeframe": "Weeks 1 to 4",
-        "title": "Low-effort agents with human review",
+        "timeframe": "Weeks 1-4",
+        "title": "Prove three agents on daily client work",
         "items": [
-          "Build an approved FAQ bank for common comments and DMs.",
-          "Connect Slack, Google Workspace, and Meta Business Suite to the first agents.",
-          "Start the comments and DMs agent with human approval for all public replies.",
-          "Start the copy drafting agent for social captions and ad variants.",
-          "Start the monthly report data pull agent for one or two friendly clients."
+          "Set up social scheduling and comment triage with two client accounts",
+          "Connect Meta, Google Ads, and GA4 for monthly reporting draft",
+          "Run campaign setup QA and pacing alerts for new campaigns",
+          "Keep human approval on all client-facing messages and reports",
+          "Review time saved and errors weekly"
         ]
       },
       {
         "phase": "Phase 2",
-        "timeframe": "Months 2 to 3",
-        "title": "Client workflows and finance",
+        "timeframe": "Weeks 5-10",
+        "title": "Add creative and copy support",
         "items": [
-          "Add the client approval tracker and reminder agent.",
-          "Add weekly call recaps with human review before sending.",
-          "Add invoice reminders and subscription renewal flags.",
-          "Add landing page launch checks for the developer.",
-          "Train account managers and social managers on review steps and escalation rules."
+          "Pilot ad resize agent with three standard placements",
+          "Pilot copy variant agent with two copywriters",
+          "Connect revision tracking to Asana and Slack",
+          "Train team on review and approval steps"
         ]
       },
       {
         "phase": "Phase 3",
-        "timeframe": "Months 4 to 6",
-        "title": "Creative and planning support",
+        "timeframe": "Weeks 11-16",
+        "title": "Extend to web and operations, then scale",
         "items": [
-          "Add ad resize prep and export naming for the design team.",
-          "Add the competitor post digest for content planning.",
-          "Expand agents to more client accounts after privacy checks.",
-          "Review hours saved, error rates, and client feedback every month.",
-          "Refine FAQ banks, tone guides, and report templates from agent logs."
+          "Add landing page edit and tracking check agent",
+          "Add invoice and renewal tracking for operations",
+          "Document each agent owner and backup",
+          "Review KPIs and expand to all clients"
         ]
       }
     ],
     "risks": [
       {
-        "risk": "Client data privacy and platform rules are not followed.",
-        "mitigation": "Only connect approved client accounts, get written consent, limit agent access to what is needed, and review DMs before replies go out."
+        "risk": "Client-facing errors from automated drafts",
+        "mitigation": "Human approval before send and weekly sample checks"
       },
       {
-        "risk": "An AI reply or client email damages a brand or relationship.",
-        "mitigation": "Keep human approval for all public replies and client emails. Use an approved FAQ bank and escalate sensitive topics to an account manager."
+        "risk": "Platform API limits or access changes",
+        "mitigation": "Start with exports and scheduled checks where APIs are limited, and keep manual fallbacks"
       },
       {
-        "risk": "Integrations break or become hard to maintain.",
-        "mitigation": "Start with Google Workspace, Slack, and Meta. Add one tool at a time. Document each connection and assign one owner per agent."
+        "risk": "Team adoption stalls because process is unclear",
+        "mitigation": "Name one owner per agent and train in short sessions"
       },
       {
-        "risk": "The team does not adopt the agents or sees them as extra work.",
-        "mitigation": "Assign an owner per agent, hold a 30-minute weekly review, and show hours saved per role. Start with the tasks people dislike most."
+        "risk": "Data privacy or client confidentiality",
+        "mitigation": "Limit access to need-to-know accounts, use client-specific workspaces, and review permissions quarterly"
       },
       {
-        "risk": "Report numbers are wrong before they reach a client.",
-        "mitigation": "Have the agent pull raw data, then require a human check against platform dashboards before any client report is sent."
+        "risk": "Too many tools at once",
+        "mitigation": "Limit phase 1 to three agents and existing tools"
       }
     ],
     "kpis": [
-      "Hours saved per week from agents, target 40 to 50 after phase 2",
-      "Average first reply time to comments and DMs",
-      "Percentage of client approvals collected before the deadline",
-      "Monthly reports delivered on time and without corrections",
-      "Number of revision rounds per campaign",
-      "Invoice reminders sent before due date and overdue invoice count"
+      "Hours saved per week across phase 1 agents",
+      "Average first response time to client comments and messages",
+      "Monthly reports delivered by target date",
+      "Campaign setup errors caught before launch",
+      "Revision rounds completed within agreed turnaround",
+      "Team adoption rate for each agent"
     ]
   },
   "quote": {
     "phase1": {
       "items": [
         {
-          "n": 3,
-          "title": "First drafts for captions and ad variants",
-          "hours": 8,
-          "setup": 790,
-          "monthly": 520
-        },
-        {
           "n": 1,
-          "title": "Comments and DMs answered in minutes",
-          "hours": 8,
-          "setup": 1290,
-          "monthly": 520
+          "title": "Social posts scheduled and routine comments triaged",
+          "hours": 11,
+          "setup": 790,
+          "monthly": 710
         },
         {
           "n": 2,
-          "title": "Client approvals chased automatically",
+          "title": "Monthly client reports built from live metrics",
+          "hours": 9,
+          "setup": 1290,
+          "monthly": 580
+        },
+        {
+          "n": 3,
+          "title": "Ad campaigns checked before launch and pacing alerts sent daily",
           "hours": 6,
           "setup": 1290,
           "monthly": 390
         }
       ],
       "setup": 3370,
-      "monthly": 1430,
-      "hours": 22,
-      "value_monthly": 4763
+      "monthly": 1680,
+      "hours": 26,
+      "value_monthly": 5629
     },
     "full": {
       "items": [
         {
-          "n": 3,
-          "title": "First drafts for captions and ad variants",
-          "hours": 8,
-          "setup": 790,
-          "monthly": 520
-        },
-        {
           "n": 1,
-          "title": "Comments and DMs answered in minutes",
-          "hours": 8,
-          "setup": 1290,
-          "monthly": 520
+          "title": "Social posts scheduled and routine comments triaged",
+          "hours": 11,
+          "setup": 790,
+          "monthly": 710
         },
         {
           "n": 2,
-          "title": "Client approvals chased automatically",
-          "hours": 6,
+          "title": "Monthly client reports built from live metrics",
+          "hours": 9,
           "setup": 1290,
-          "monthly": 390
+          "monthly": 580
         },
         {
           "n": 4,
-          "title": "Monthly report data pull and first notes",
+          "title": "Ad creative resized and exported for every placement",
+          "hours": 8,
+          "setup": 1290,
+          "monthly": 520
+        },
+        {
+          "n": 6,
+          "title": "Revision rounds tracked and client feedback collected in one place",
+          "hours": 5,
+          "setup": 790,
+          "monthly": 320
+        },
+        {
+          "n": 5,
+          "title": "First-draft ad copy and captions ready for editing",
+          "hours": 7,
+          "setup": 1290,
+          "monthly": 450
+        },
+        {
+          "n": 3,
+          "title": "Ad campaigns checked before launch and pacing alerts sent daily",
           "hours": 6,
           "setup": 1290,
           "monthly": 390
         },
         {
-          "n": 6,
-          "title": "Weekly call recaps and action items",
-          "hours": 4,
-          "setup": 790,
-          "monthly": 290
-        },
-        {
-          "n": 5,
-          "title": "Ad resize prep and export names",
-          "hours": 5,
-          "setup": 1890,
-          "monthly": 320
-        },
-        {
-          "n": 7,
-          "title": "Invoice reminders and subscription renewals",
-          "hours": 3,
-          "setup": 790,
-          "monthly": 290
-        },
-        {
           "n": 8,
-          "title": "Landing page checks before launch",
-          "hours": 3,
+          "title": "Contractor invoices and tool renewals tracked automatically",
+          "hours": 4,
           "setup": 1290,
           "monthly": 290
         },
         {
-          "n": 9,
-          "title": "Competitor post digest for content planning",
+          "n": 7,
+          "title": "Small landing page edits and tracking checks handled faster",
           "hours": 3,
-          "setup": 790,
+          "setup": 1890,
           "monthly": 290
         }
       ],
-      "setup": 10210,
-      "monthly": 3300,
-      "hours": 46,
-      "value_monthly": 9959
+      "setup": 9920,
+      "monthly": 3550,
+      "hours": 53,
+      "value_monthly": 11475
     },
     "rate": 50,
     "free_setup_months": 4
   },
   "totals": {
-    "hours_week": 46,
-    "annual_hours": 2116,
-    "annual_value": 105800,
-    "fte": 1.2,
-    "opportunities": 9,
+    "hours_week": 53,
+    "annual_hours": 2438,
+    "annual_value": 121900,
+    "fte": 1.3,
+    "opportunities": 8,
     "employees": 18,
     "rate": 50
   },

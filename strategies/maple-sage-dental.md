@@ -5,61 +5,95 @@
 
 | Hours saved per week | Value per year | Roles freed up | Opportunities |
 |---:|---:|---:|---:|
-| **65h** | **$149,500** | **1.6 FTE** | **8** |
+| **91h** | **$209,300** | **2.3 FTE** | **9** |
 
-## Summary
-Maple & Sage Dental runs three Leeds clinics with about 40 staff and a mix of NHS and private patients. Your team already uses practice management software, SMS reminders and Xero or QuickBooks, but most patient admin, claims chasing and clinical paperwork is still manual. The best first steps are low-risk agents for appointment reminders, new patient enquiries and treatment plan follow-ups. Later steps can connect Dentally or SOE Ex to finance and management reporting, with human sign-off kept for all clinical and payment decisions. A realistic early target is around 65 hours saved per week across all sites, which is about 4 percent of your team's weekly hours.
+## Our recommendation
+**Start with the front desk appointment agent, the recall reminder agent, and the insurance claim agent, so your team cuts the most repetitive admin and proves value before expanding.**
 
-## Company snapshot
-- **Industry:** Dental care and healthcare services
-- **What they do:** Maple & Sage Dental is a group of three dental clinics in Leeds, UK. You provide general, hygiene and cosmetic dental care to local individuals and families, with a mix of NHS and private patients. Your team of about 40 handles appointments, reminders, insurance and treatment plans by phone and email.
-- **Customers:** Local individuals and families in Leeds. A mix of NHS patients, private patients and some insurance-funded cases.
-- **Team size:** 11-50 (estimate 40)
-- **Tools:** Dental practice management software such as Dentally, SOE Ex, Microsoft 365 and Outlook for email and documents, Xero or QuickBooks for finance, VoIP phone system, SMS and email appointment reminder tool, Card payment terminals and online booking forms
-- **AI maturity:** 2/5, Early. You have core practice software and reminder tools in place. Most cross-site admin is still manual, with data spread across Dentally or SOE Ex, Outlook, Xero or QuickBooks and spreadsheets. Simple agents can be added without replacing your main systems.
+Maple & Sage Dental runs three dental clinics in Leeds with about 40 staff, offering check-ups, hygiene, general treatments, emergency appointments, insurance support, and treatment plans. Appointment calls, reminders, insurance claims, and clinical admin still depend on manual work across three sites, which slows patient response, risks missed follow-ups, and takes your team away from chairside care.
 
-## Team and roles
-| Department | People | Roles |
-|---|---:|---|
-| Clinical Team | 24 | Dentist (8), Hygienist (5), Dental Nurse (11) |
-| Patient Reception | 8 | Receptionist (6), Treatment Coordinator (2) |
-| Practice Management | 3 | Practice Manager (1), Assistant Practice Manager (1), Operations Coordinator (1) |
-| Finance & Billing | 3 | Finance Manager (1), Billing Administrator (1), Accounts Assistant (1) |
-| Compliance & Facilities | 2 | Compliance Lead (1), Facilities and Decontamination Technician (1) |
+1. **Front desk, recall admin, and insurance claims absorb most of the repetitive work.** Receptionists handle calls, reschedules, reminders, payments, and insurance questions while also managing the desk. Admin assistants send recall letters and file documents, and finance assistants submit claims and chase balances. These tasks are frequent, rule-based, and spread across all three clinics, so delays show up in bookings, no-shows, and unpaid claims.
+2. **These three agents are quick to set up and target visible daily pain.** Appointment booking and recall reminders use existing phone, email, and reminder tools, so they need little integration. Insurance claim preparation follows a predictable form and falls between finance and front desk, where errors cost time. Together they cover patient contact, follow-up, and payment, the three areas your team feels first.
+3. **Roll out in stages, keep humans in control, and measure before expanding.** Start with one clinic or one workflow, train the small group who will use it, and review outputs daily for the first two weeks. Human staff approve bookings, claim submissions, and reminder wording until accuracy is proven. After that, extend the same agents to the other clinics and add clinical and rota support.
 
-## Opportunities
-| # | Opportunity | Department | Hours/week | Impact | Effort |
-|---:|---|---|---:|:-:|:-:|
-| 1 | Appointment reminders and rescheduling handled automatically | Patient Reception | 12 | 5/5 | 2/5 |
-| 2 | Insurance and NHS claims tracked and chased | Finance & Billing | 10 | 4/5 | 3/5 |
-| 3 | Clinical notes and referral letters drafted for review | Clinical Team | 9 | 4/5 | 3/5 |
-| 4 | Treatment plan follow-ups sent on time | Patient Reception | 8 | 4/5 | 2/5 |
-| 5 | New patient enquiries answered and booked faster | Patient Reception | 8 | 3/5 | 2/5 |
-| 6 | Rota gaps and daily performance summary prepared | Practice Management | 7 | 4/5 | 3/5 |
-| 7 | Compliance dates and equipment logs watched automatically | Compliance & Facilities | 6 | 3/5 | 2/5 |
-| 8 | Supplier invoices entered and matched | Finance & Billing | 5 | 3/5 | 2/5 |
+**Phase 1 at a glance:** Appointment requests answered and booked from calls and web forms · Recall letters and appointment reminders sent on schedule · Insurance claims prepared and submitted with fewer errors. About 44 hours a week back for $2,860/month (setup $2,870, free on a 4-month run).
 
-### 1. Appointment reminders and rescheduling handled automatically
-An agent checks tomorrow's schedule, sends SMS or email reminders, and handles simple confirm, cancel or reschedule replies. It updates the practice management system and only passes complex calls to your team.
+## 1. Front desk, recall admin, and insurance claims absorb most of the repetitive work.
+Receptionists handle calls, reschedules, reminders, payments, and insurance questions while also managing the desk. Admin assistants send recall letters and file documents, and finance assistants submit claims and chase balances. These tasks are frequent, rule-based, and spread across all three clinics, so delays show up in bookings, no-shows, and unpaid claims.
 
-**Saves ~12h per week** · Roles: Receptionist · Tools: Dentally, SOE Ex, SMS reminder tool, Outlook, VoIP phone system
+| Department | Hours saved / week | Share |
+|---|---:|---:|
+| Front Desk | 27 | 30% |
+| Admin and Operations | 21 | 23% |
+| Finance | 19 | 21% |
+| Clinical | 18 | 20% |
+| Practice Management | 6 | 7% |
+
+## 2. These three agents are quick to set up and target visible daily pain.
+Appointment booking and recall reminders use existing phone, email, and reminder tools, so they need little integration. Insurance claim preparation follows a predictable form and falls between finance and front desk, where errors cost time. Together they cover patient contact, follow-up, and payment, the three areas your team feels first.
+
+| # | Opportunity | Department | Hours/week | Impact | Effort | Phase |
+|---:|---|---|---:|:-:|:-:|:-:|
+| 1 | Appointment requests answered and booked from calls and web forms | Front Desk | 18 | 5/5 | 2/5 | 1 |
+| 2 | Recall letters and appointment reminders sent on schedule | Admin and Operations | 14 | 4/5 | 2/5 | 1 |
+| 3 | Insurance claims prepared and submitted with fewer errors | Finance | 12 | 4/5 | 3/5 | 1 |
+| 4 | Clinical notes drafted from templates after visits | Clinical | 10 | 4/5 | 3/5 | later |
+| 5 | Treatment plan drafts prepared for dentist review | Clinical | 8 | 4/5 | 3/5 | later |
+| 6 | No-show and late cancellation follow-up handled automatically | Front Desk | 9 | 4/5 | 2/5 | later |
+| 7 | Supplier invoice coding and payment reminders run on a schedule | Finance | 7 | 3/5 | 3/5 | later |
+| 8 | Staff rota and training records kept up to date | Practice Management | 6 | 3/5 | 3/5 | later |
+| 9 | Patient data entry and document filing done with checks | Admin and Operations | 7 | 3/5 | 2/5 | later |
+
+### 1. Appointment requests answered and booked from calls and web forms (phase 1)
+An agent answers routine booking, rescheduling, and cancellation requests from phone messages, email, and web forms, then proposes open slots. It checks the practice system for availability and sends confirmation, while staff handle complex or clinical questions.
+
+**Saves ~18h per week** · Roles: Receptionist, Reception supervisor · Tools: Phone system, Email, Appointment booking system, Practice management software
 
 ```mermaid
 flowchart LR
   subgraph Today
-    B0["Receptionist opens tomorrow's appointment list"]
-    B1["Calls or texts patients one by one"]
-    B2["Notes replies on paper or in the diary"]
-    B3["Updates Dentally or SOE Ex manually"]
-    B4["Chases no replies again later"]
+    B0["Patient calls or emails the clinic"]
+    B1["Receptionist listens to voicemail or reads email"]
+    B2["Staff checks the booking system for open slots"]
+    B3["Receptionist calls or emails the patient back"]
+    B4["Staff manually enters or changes the appointment"]
     B0 --> B1 --> B2 --> B3 --> B4
   end
   subgraph WithAI[With AI]
-    A0["Agent reviews the next day's schedule"]
-    A1["Agent sends reminders by SMS and email"]
-    A2["Agent handles confirm, cancel or simple reschedule replies"]
-    A3["Agent updates the practice management system"]
-    A4["You: Receptionist handles complex calls and same-day changes"]
+    A0["Patient calls, emails, or uses a web form"]
+    A1["Agent captures the request and checks the booking system"]
+    A2["Agent proposes two or three open slots and confirms the choi"]
+    A3["You: Receptionist reviews and handles complex or clinical qu"]
+    A4["Agent logs the booking and sends a confirmation"]
+    A0 --> A1 --> A2 --> A3 --> A4
+  end
+  classDef ai fill:#154899,color:#fff,stroke:#154899
+  classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
+  class A0,A1,A2,A4 ai
+  class A3 human
+```
+
+### 2. Recall letters and appointment reminders sent on schedule (phase 1)
+An agent builds the daily recall and reminder list from the practice system, drafts the message, and sends it by the patient's preferred channel. It tracks replies and books simple recall appointments or flags them for staff.
+
+**Saves ~14h per week** · Roles: Admin assistant, Hygienist · Tools: Practice management software, Patient reminder tools, Email
+
+```mermaid
+flowchart LR
+  subgraph Today
+    B0["Staff checks which patients are due for recall"]
+    B1["Admin assistant filters the patient list in the practice sys"]
+    B2["Staff writes or updates reminder letters and emails"]
+    B3["Admin assistant sends reminders one by one"]
+    B4["Staff logs replies and books follow-ups manually"]
+    B0 --> B1 --> B2 --> B3 --> B4
+  end
+  subgraph WithAI[With AI]
+    A0["Agent pulls the daily recall and reminder list from the prac"]
+    A1["Agent drafts and sends reminders by email or text"]
+    A2["Patient replies with a preferred time"]
+    A3["Agent offers slots and books simple recall appointments"]
+    A4["You: Admin assistant handles special cases and confirms with"]
     A0 --> A1 --> A2 --> A3 --> A4
   end
   classDef ai fill:#154899,color:#fff,stroke:#154899
@@ -68,252 +102,273 @@ flowchart LR
   class A4 human
 ```
 
-### 2. Insurance and NHS claims tracked and chased
-An agent prepares claim drafts from treatment codes, submits or queues them, and tracks rejections or unpaid claims. It sends polite chasers and gives the billing administrator a daily list of items needing a human decision.
+### 3. Insurance claims prepared and submitted with fewer errors (phase 1)
+An agent gathers treatment codes, patient details, and insurer rules, then prepares the claim form for review. It submits approved claims and logs the status so staff can chase only the exceptions.
 
-**Saves ~10h per week** · Roles: Billing Administrator, Finance Manager · Tools: Dentally, SOE Ex, Xero, QuickBooks, NHS claims portal, Insurance portals
-
-```mermaid
-flowchart LR
-  subgraph Today
-    B0["Billing Administrator exports treatment data"]
-    B1["Checks each claim against NHS or insurer rules"]
-    B2["Submits claims through portal or email"]
-    B3["Tracks rejections in a spreadsheet"]
-    B4["Chases unpaid claims by phone or email"]
-    B0 --> B1 --> B2 --> B3 --> B4
-  end
-  subgraph WithAI[With AI]
-    A0["Agent gathers treatment codes and patient details"]
-    A1["Agent drafts claims and flags missing information"]
-    A2["Agent submits routine claims or queues them for approval"]
-    A3["Agent tracks status and sends standard chasers"]
-    A4["You: Billing Administrator reviews rejections and handles di"]
-    A0 --> A1 --> A2 --> A3 --> A4
-  end
-  classDef ai fill:#154899,color:#fff,stroke:#154899
-  classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
-  class A0,A1,A2,A3 ai
-  class A4 human
-```
-
-### 3. Clinical notes and referral letters drafted for review
-An agent uses your templates and short voice or typed prompts to draft clinical notes, referral letters and home care instructions. The clinician reviews, edits and signs off before anything goes into the patient record or to a referrer.
-
-**Saves ~9h per week** · Roles: Dentist, Hygienist, Dental Nurse · Tools: Dentally, SOE Ex, Microsoft 365, Outlook, Dictation tool
+**Saves ~12h per week** · Roles: Finance assistant, Finance manager · Tools: Practice management software, Accounting software, Email, Insurer portals
 
 ```mermaid
 flowchart LR
   subgraph Today
-    B0["Clinician writes notes after each appointment"]
-    B1["Types referral letters from scratch"]
-    B2["Updates recall intervals and follow-up instructions"]
-    B3["Sends home care advice to patients"]
-    B4["Nurse records notes during exams"]
+    B0["Finance assistant collects treatment details from the practi"]
+    B1["Staff checks the insurer's claim rules and patient policy"]
+    B2["Finance assistant fills in the claim form"]
+    B3["Finance manager reviews and approves the claim"]
+    B4["Staff submits the claim and records the reference"]
     B0 --> B1 --> B2 --> B3 --> B4
   end
   subgraph WithAI[With AI]
-    A0["Clinician records a short voice or text summary"]
-    A1["Agent drafts the clinical note using your template"]
-    A2["Agent prepares referral letter or home care instructions"]
-    A3["Clinician reviews and edits the draft"]
-    A4["You: Clinician signs off and saves to the patient record"]
+    A0["Agent collects treatment and patient details from the practi"]
+    A1["Agent checks the insurer rules and flags missing information"]
+    A2["Agent prepares the claim form and reference"]
+    A3["You: Finance assistant reviews and approves the claim"]
+    A4["Agent submits the claim and tracks the status"]
     A0 --> A1 --> A2 --> A3 --> A4
   end
   classDef ai fill:#154899,color:#fff,stroke:#154899
   classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
-  class A0,A1,A2,A3 ai
-  class A4 human
+  class A0,A1,A2,A4 ai
+  class A3 human
 ```
 
-### 4. Treatment plan follow-ups sent on time
-An agent tracks unconfirmed treatment plans and sends follow-up messages with cost, consent and payment option details from approved templates. It books callbacks for the coordinator when a patient has questions.
+### 4. Clinical notes drafted from templates after visits
+An agent uses the dentist's short voice or text notes to draft a structured clinical note in the practice system. The dentist reviews, edits, and signs it, which reduces end-of-day typing.
 
-**Saves ~8h per week** · Roles: Treatment Coordinator · Tools: Dentally, Outlook, SMS reminder tool, Payment plan records
+**Saves ~10h per week** · Roles: Dentist, Dental nurse · Tools: Practice management software, Voice notes, Email
 
 ```mermaid
 flowchart LR
   subgraph Today
-    B0["Coordinator reviews list of open treatment plans"]
-    B1["Calls or emails each patient manually"]
-    B2["Explains costs and payment options from memory or notes"]
-    B3["Updates Dentally with outcome"]
-    B4["Sets reminders to chase again"]
+    B0["Dentist records brief notes on paper or in the system"]
+    B1["Dental nurse updates patient records during the appointment"]
+    B2["Dentist writes fuller clinical notes after the visit"]
+    B3["Staff checks notes for missing details"]
+    B4["Dentist signs off the record"]
     B0 --> B1 --> B2 --> B3 --> B4
   end
   subgraph WithAI[With AI]
-    A0["Agent finds plans with no decision after a set number of day"]
-    A1["Agent sends approved follow-up message with estimate and opt"]
-    A2["Agent answers common cost and consent questions"]
-    A3["Agent books a callback for complex cases"]
-    A4["You: Treatment Coordinator closes the plan and handles clini"]
+    A0["Dentist records short voice or text notes after the visit"]
+    A1["Agent turns the notes into a structured draft"]
+    A2["Agent checks the patient record for missing fields"]
+    A3["You: Dentist reviews, edits, and signs the note"]
+    A4["Agent files the signed note in the practice system"]
     A0 --> A1 --> A2 --> A3 --> A4
   end
   classDef ai fill:#154899,color:#fff,stroke:#154899
   classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
-  class A0,A1,A2,A3 ai
-  class A4 human
+  class A0,A1,A2,A4 ai
+  class A3 human
 ```
 
-### 5. New patient enquiries answered and booked faster
-An agent answers common questions from your website and inbox about opening hours, treatments, NHS or private prices and parking. It collects patient details, offers available slots and creates a booking request for reception to confirm.
+### 5. Treatment plan drafts prepared for dentist review
+An agent assembles the dentist's diagnosis, x-ray findings, and standard options into a treatment plan draft for the patient. The dentist reviews the clinical choices and approves the final plan.
 
-**Saves ~8h per week** · Roles: Receptionist · Tools: Website form, Outlook, Dentally, SMS reminder tool
+**Saves ~8h per week** · Roles: Dentist, Dental nurse · Tools: Practice management software, Email, Document templates
 
 ```mermaid
 flowchart LR
   subgraph Today
-    B0["Receptionist checks website inbox and phone messages"]
-    B1["Replies with hours, prices and directions"]
-    B2["Checks Dentally for available slots"]
-    B3["Books appointment and sends forms"]
-    B4["Handles follow-up questions"]
+    B0["Dentist reviews x-rays and writes treatment options"]
+    B1["Dental nurse gathers patient history and notes"]
+    B2["Staff types the treatment plan into a template"]
+    B3["Dentist checks costs and options"]
+    B4["Staff prints or emails the plan to the patient"]
     B0 --> B1 --> B2 --> B3 --> B4
   end
   subgraph WithAI[With AI]
-    A0["Agent answers common questions from approved information"]
-    A1["Agent collects name, contact details and reason for visit"]
-    A2["Agent offers available slots from the diary"]
-    A3["Agent creates a booking request and sends new patient forms"]
-    A4["You: Receptionist confirms unusual requests and same-day eme"]
+    A0["Agent pulls diagnosis, x-ray notes, and patient history"]
+    A1["Agent drafts options using approved templates"]
+    A2["You: Dentist reviews and confirms clinical choices"]
+    A3["Agent updates costs, dates, and consent wording"]
+    A4["Agent sends the plan to the patient for review"]
     A0 --> A1 --> A2 --> A3 --> A4
   end
   classDef ai fill:#154899,color:#fff,stroke:#154899
   classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
-  class A0,A1,A2,A3 ai
-  class A4 human
+  class A0,A1,A3,A4 ai
+  class A2 human
 ```
 
-### 6. Rota gaps and daily performance summary prepared
-An agent reviews appointment demand, staff leave and clinic cover rules to draft a weekly rota and flag gaps. It also compiles a short daily performance summary from your practice software and finance data.
+### 6. No-show and late cancellation follow-up handled automatically
+An agent spots no-shows and late cancellations, sends a polite follow-up, and offers another appointment slot. It updates the no-show log and alerts the supervisor when a patient misses repeatedly.
 
-**Saves ~7h per week** · Roles: Practice Manager, Assistant Practice Manager · Tools: Dentally, Xero, QuickBooks, Microsoft 365, Rota spreadsheet
+**Saves ~9h per week** · Roles: Reception supervisor, Receptionist · Tools: Appointment booking system, Phone system, Email
 
 ```mermaid
 flowchart LR
   subgraph Today
-    B0["Practice Manager opens rota spreadsheet"]
-    B1["Checks leave requests and appointment demand"]
-    B2["Calls or messages staff for cover"]
-    B3["Pulls reports from Dentally and Xero"]
-    B4["Combines numbers into an email or spreadsheet"]
+    B0["Receptionist notices a missed appointment"]
+    B1["Staff checks whether the patient called or emailed"]
+    B2["Reception supervisor decides whether to charge or waive a fe"]
+    B3["Receptionist calls or emails the patient"]
+    B4["Staff updates the no-show log manually"]
     B0 --> B1 --> B2 --> B3 --> B4
   end
   subgraph WithAI[With AI]
-    A0["Agent reviews demand, leave and cover rules"]
-    A1["Agent drafts a rota with suggested cover"]
-    A2["Agent flags gaps and staff nearing overtime"]
-    A3["Agent compiles daily performance summary"]
-    A4["You: Practice Manager approves rota and makes final staff ca"]
+    A0["Agent flags no-shows and late cancellations in the booking s"]
+    A1["Agent sends a follow-up message with open slots"]
+    A2["Patient picks a new time or explains the absence"]
+    A3["You: Reception supervisor reviews repeat no-shows and fee de"]
+    A4["Agent updates the no-show log and daily report"]
     A0 --> A1 --> A2 --> A3 --> A4
   end
   classDef ai fill:#154899,color:#fff,stroke:#154899
   classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
-  class A0,A1,A2,A3 ai
-  class A4 human
+  class A0,A1,A2,A4 ai
+  class A3 human
 ```
 
-### 7. Compliance dates and equipment logs watched automatically
-An agent tracks infection control audits, CPD renewals, equipment servicing and waste collection dates. It sends reminders, drafts simple audit summaries and keeps a single log for inspection.
+### 7. Supplier invoice coding and payment reminders run on a schedule
+An agent reads supplier invoices, matches them to purchase orders or clinic costs, and prepares them for approval. It also sends payment reminders and flags duplicate or missing invoices.
 
-**Saves ~6h per week** · Roles: Compliance Lead, Facilities and Decontamination Technician · Tools: Microsoft 365, SharePoint, Equipment logs, Outlook
+**Saves ~7h per week** · Roles: Finance assistant, Finance manager · Tools: Accounting software, Email, Spreadsheets
 
 ```mermaid
 flowchart LR
   subgraph Today
-    B0["Compliance Lead checks paper or spreadsheet logs"]
-    B1["Chases staff for CPD and registration dates"]
-    B2["Updates risk assessments and policies"]
-    B3["Facilities technician logs decontamination checks"]
-    B4["Arranges waste collection and repairs by phone or email"]
+    B0["Finance assistant receives invoices by email or post"]
+    B1["Staff enters invoice details into accounting software"]
+    B2["Finance assistant matches invoices to orders or clinic costs"]
+    B3["Finance manager approves payment runs"]
+    B4["Staff chases missing invoices and credits"]
     B0 --> B1 --> B2 --> B3 --> B4
   end
   subgraph WithAI[With AI]
-    A0["Agent monitors due dates for audits, CPD and servicing"]
-    A1["Agent sends reminders to named staff"]
-    A2["Agent drafts audit summary from your checklist"]
-    A3["Agent logs equipment test results and waste collections"]
-    A4["You: Compliance Lead performs audits and signs off policies"]
+    A0["Agent reads invoice emails and extracts key details"]
+    A1["Agent matches invoices to orders or clinic costs"]
+    A2["Agent flags duplicates, missing details, or price changes"]
+    A3["You: Finance manager approves the payment run"]
+    A4["Agent sends reminders and updates the supplier log"]
     A0 --> A1 --> A2 --> A3 --> A4
   end
   classDef ai fill:#154899,color:#fff,stroke:#154899
   classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
-  class A0,A1,A2,A3 ai
-  class A4 human
+  class A0,A1,A2,A4 ai
+  class A3 human
 ```
 
-### 8. Supplier invoices entered and matched
-An agent reads supplier invoices from email or a shared folder, codes them and matches them to purchase orders. It flags price or quantity mismatches and prepares a payment list for approval.
+### 8. Staff rota and training records kept up to date
+An agent drafts rotas across the three clinics from leave, clinic hours, and cover rules, then tracks training and compliance dates. The practice manager reviews and adjusts before publishing.
 
-**Saves ~5h per week** · Roles: Accounts Assistant, Finance Manager · Tools: Xero, QuickBooks, Outlook, Supplier portals
+**Saves ~6h per week** · Roles: Practice manager · Tools: Spreadsheets, Email, Practice management software
 
 ```mermaid
 flowchart LR
   subgraph Today
-    B0["Accounts Assistant opens supplier emails and PDFs"]
-    B1["Enters bills into Xero or QuickBooks"]
-    B2["Matches purchase orders to invoices"]
-    B3["Files payment records"]
-    B4["Chases missing invoices or credits"]
+    B0["Practice manager collects leave requests and clinic needs"]
+    B1["Staff builds the rota in a spreadsheet"]
+    B2["Practice manager checks training and CQC dates manually"]
+    B3["Staff emails the rota and updates changes"]
+    B4["Practice manager tracks expiring certificates in a folder"]
     B0 --> B1 --> B2 --> B3 --> B4
   end
   subgraph WithAI[With AI]
-    A0["Agent reads supplier invoices from email or folder"]
-    A1["Agent codes bills and matches to purchase orders"]
-    A2["Agent flags mismatches or missing details"]
-    A3["Agent prepares a payment list"]
-    A4["You: Finance Manager approves payments and handles supplier "]
+    A0["Agent pulls leave requests, clinic hours, and cover rules"]
+    A1["Agent drafts a rota with gaps and conflicts flagged"]
+    A2["You: Practice manager reviews and adjusts the rota"]
+    A3["Agent publishes the rota and updates staff calendars"]
+    A4["Agent tracks training dates and sends renewal reminders"]
     A0 --> A1 --> A2 --> A3 --> A4
   end
   classDef ai fill:#154899,color:#fff,stroke:#154899
   classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
-  class A0,A1,A2,A3 ai
-  class A4 human
+  class A0,A1,A3,A4 ai
+  class A2 human
 ```
 
-## Roadmap
-**Phase 1 (Weeks 1 to 4): Quick wins with reminders and patient enquiries**
-- Set up appointment reminder and rescheduling agent for all three clinics
-- Connect website and inbox enquiry agent to approved opening hours, price and treatment information
-- Use treatment plan follow-up templates for unconfirmed private and NHS plans
-- Train reception and treatment coordinators on review and escalation steps
+### 9. Patient data entry and document filing done with checks
+An agent reads forms, referrals, and insurance documents, then enters or files the standard details into the practice system. It flags anything unclear for an admin assistant to check.
 
-**Phase 2 (Weeks 5 to 12): Finance, claims and management reporting**
-- Connect claims tracking agent to Dentally or SOE Ex and finance system
-- Set up supplier invoice entry and purchase order matching in Xero or QuickBooks
-- Build weekly rota draft and daily performance summary agent
-- Add compliance date and equipment log reminders for all sites
+**Saves ~7h per week** · Roles: Admin assistant · Tools: Practice management software, Email, Document storage
 
-**Phase 3 (Months 4 to 6): Clinical notes and deeper reporting**
-- Pilot clinical note and referral letter drafting with two dentists and one hygienist
-- Add human sign-off workflow before notes save to patient records
-- Link management reporting to finance and appointment data for monthly reviews
-- Review time saved, error rates and patient feedback before wider rollout
+```mermaid
+flowchart LR
+  subgraph Today
+    B0["Admin assistant receives forms, referrals, and insurance doc"]
+    B1["Staff sorts documents by patient and clinic"]
+    B2["Admin assistant types details into the practice system"]
+    B3["Staff files paper or digital copies"]
+    B4["Admin assistant checks for missing fields"]
+    B0 --> B1 --> B2 --> B3 --> B4
+  end
+  subgraph WithAI[With AI]
+    A0["Agent reads forms and extracts standard details"]
+    A1["Agent enters details into the practice system or flags gaps"]
+    A2["Agent files documents in the correct patient record"]
+    A3["You: Admin assistant checks flagged items and exceptions"]
+    A4["Agent updates the filing log and daily count"]
+    A0 --> A1 --> A2 --> A3 --> A4
+  end
+  classDef ai fill:#154899,color:#fff,stroke:#154899
+  classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
+  class A0,A1,A2,A4 ai
+  class A3 human
+```
 
-## Risks
-- **Patient data privacy and NHS confidentiality rules**: Use UK data storage, limit access by role, keep patient identifiers out of prompts where possible, and sign a data processing agreement with the tool provider.
-- **Clinical notes or advice contain errors**: Keep clinicians as the only people who sign off notes, referrals and home care instructions. Use approved templates and require review before anything saves.
-- **Staff do not trust or use the new agents**: Start with reception and billing tasks that save clear time. Train one champion per site and review outputs weekly for the first month.
-- **Practice software or finance systems do not connect easily**: Check Dentally, SOE Ex, Xero or QuickBooks integration options before build. If no direct link exists, use email or export files as a fallback.
-- **Savings are smaller than expected**: Track hours saved per task each week. Stop or adjust any agent that does not save at least two hours per week per site after the first month.
+## 3. Roll out in stages, keep humans in control, and measure before expanding.
+Start with one clinic or one workflow, train the small group who will use it, and review outputs daily for the first two weeks. Human staff approve bookings, claim submissions, and reminder wording until accuracy is proven. After that, extend the same agents to the other clinics and add clinical and rota support.
 
-## KPIs
-- No-show rate across all three clinics
-- Average time to reply to a new patient enquiry
-- Percentage of unconfirmed treatment plans followed up within 48 hours
-- Value of unpaid insurance and NHS claims older than 30 days
-- Hours spent on rota, reporting and invoice entry per week
-- Percentage of clinical notes completed same day
+**Phase 1 (Weeks 1 to 6): Prove booking, recall, and insurance agents at one clinic**
+- Choose one clinic as the first test site
+- Set up the appointment booking agent with the phone system and booking system
+- Set up the recall reminder agent with the practice system and email
+- Set up the insurance claim agent with finance and insurer rules
+- Review daily outputs and fix errors before wider use
 
-## Quote: phase 1
+**Phase 2 (Weeks 7 to 16): Extend into clinical notes, no-shows, and patient filing**
+- Add clinical note drafting for dentists and dental nurses
+- Add no-show and late cancellation follow-up at the front desk
+- Add patient data entry and document filing for admin assistants
+- Train staff on review steps and exception handling
+- Track time saved and error rates each week
+
+**Phase 3 (Weeks 17 to 30): Connect finance, rota, and reporting across three clinics**
+- Add supplier invoice coding and payment reminders for finance
+- Add rota and training record support for the practice manager
+- Connect agents to reporting for clinic performance
+- Roll out proven agents to all three clinics
+- Set a quarterly review of accuracy, privacy, and staff feedback
+
+**Risks**
+- **Patient data privacy and UK GDPR rules are not followed.**: Use UK data storage, restrict access by role, complete a data protection review, and keep human approval for any patient-facing message or record change.
+- **Clinical notes or treatment plan drafts contain errors.**: Keep dentists responsible for all clinical decisions and require a dentist to review, edit, and sign every clinical note or plan.
+- **Staff do not trust the agents or stop using them.**: Start with one clinic, train the people who will review outputs, and share weekly examples of time saved and errors fixed.
+- **The practice management software does not connect easily.**: Begin with email, web forms, and CSV imports. Only add deeper integration after the agent has proven accurate for four to six weeks.
+- **Exceptions are missed because staff rely too much on automation.**: Run a daily exception report, keep named human owners for bookings, claims, and clinical notes, and review missed items in the weekly team meeting.
+
+**KPIs**
+- Calls and web booking requests answered within one working hour
+- Recall appointment booking rate
+- No-show and late cancellation rate
+- Insurance claims submitted within three days and first-pass acceptance rate
+- Admin hours saved per week by clinic
+- Staff satisfaction with agent support and review workload
+
+## Investment: phase 1 costs $2,860 a month and gives back $9,526 a month in time
 | Agent | Saves | Setup | Monthly |
 |---|---:|---:|---:|
-| Appointment reminders and rescheduling handled automatically | 12h/wk | $790 | $780 |
-| Treatment plan follow-ups sent on time | 8h/wk | $790 | $520 |
-| Insurance and NHS claims tracked and chased | 10h/wk | $1,290 | $650 |
-| **Total** | **30h/wk** | **$2,870** | **$1,950** |
+| Appointment requests answered and booked from calls and web forms | 18h/wk | $790 | $1,170 |
+| Recall letters and appointment reminders sent on schedule | 14h/wk | $790 | $910 |
+| Insurance claims prepared and submitted with fewer errors | 12h/wk | $1,290 | $780 |
+| **Total** | **44h/wk** | **$2,870** | **$2,860** |
 
-Setup is free when the agents run for 4 months. Full rollout of all 8 opportunities: $7,820 setup, $4,210/month.
+Setup is free when the agents run for 4 months. Full rollout of all 9 opportunities: $9,610 setup, $5,900/month.
+
+## Appendix: background
+- **Industry:** Dental care
+- **What they do:** Maple & Sage Dental runs three dental clinics in Leeds, UK. Your team of about 40 provides check-ups, hygiene, general treatments, appointment booking, insurance support, and treatment plans for local patients.
+- **Customers:** Local patients in Leeds, including families, adults, and children. Some treatment is paid privately or through insurance.
+- **Team size:** 11-50 (estimate 40)
+- **Tools:** Practice management software (not named in brief), Appointment booking system, Phone system, Email, Accounting software, Patient reminder tools
+- **AI maturity:** 2/5, Early. Tools are mostly manual with practice software and reminders in place. A few simple automations could be added without a big IT project.
+
+| Department | People | Roles |
+|---|---:|---|
+| Clinical | 24 | Dentist (6), Hygienist (4), Dental nurse (14) |
+| Front Desk | 8 | Receptionist (7), Reception supervisor (1) |
+| Practice Management | 1 | Practice manager (1) |
+| Finance | 3 | Finance manager (1), Finance assistant (2) |
+| Admin and Operations | 4 | Admin assistant (3), Operations coordinator (1) |
 
 ---
 Want this for your own company? **[Get your free AI strategy →](https://completeaistrategy.com)**

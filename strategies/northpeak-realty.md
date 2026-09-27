@@ -5,306 +5,370 @@
 
 | Hours saved per week | Value per year | Roles freed up | Opportunities |
 |---:|---:|---:|---:|
-| **45h** | **$103,500** | **1.1 FTE** | **8** |
+| **72h** | **$165,600** | **1.8 FTE** | **9** |
 
-## Summary
-Northpeak Realty has 22 people serving Denver buyers and sellers, with most work moving through your CRM, MLS, email, calendar, and DocuSign. Your team is early with AI today, so the best first step is to automate high volume tasks that already have clear steps. The plan below starts with buyer inquiry replies and listing descriptions, then moves into transaction deadlines and CRM follow up. It saves about 45 team hours a week, which is under 6 percent of your total weekly capacity. A consultant can set up and maintain each agent in your existing tools.
+## Our recommendation
+**Start with a lead response agent, a showing scheduler, and a transaction deadline chaser; they cut response delays, booking friction, and missed paperwork while your team stays in control.**
 
-## Company snapshot
-- **Industry:** Residential Real Estate Brokerage
-- **What they do:** Northpeak Realty is a residential real estate agency in Denver with 22 people. Your team writes property listings, answers buyer inquiries, books viewings, and handles offer paperwork for home buyers and sellers across the metro area.
-- **Customers:** Home buyers and sellers in the Denver metro area, including first-time buyers and move-up sellers
-- **Team size:** 11-50 (estimate 22)
-- **Tools:** Real estate CRM, Zillow listing feeds, DocuSign, MLS system, Email and calendar tools, Likely Google Workspace or Microsoft 365
-- **AI maturity:** 2/5, Early. Your systems are standard real estate tools, but most handoffs are manual. There is no named AI owner, and automations are limited to basic email or CRM rules.
+Northpeak Realty runs a 22 person residential agency in Denver with sales, transaction coordination, marketing, admin, and client services using CRM, Zillow feeds, DocuSign, and MLS. Leads, showings, and paperwork move through email, phone, and calendar work that the team manages manually. As lead volume and deal activity rise, response times and deadlines depend on people checking inboxes, calendars, and signature status by hand. That creates lost buyer opportunities, missed paperwork dates, and CRM records that fall behind.
 
-## Team and roles
-| Department | People | Roles |
-|---|---:|---|
-| Sales and Agent Team | 13 | Licensed Real Estate Agent (9), Associate or Buyer's Agent (4) |
-| Listings and Marketing | 4 | Listing Coordinator (1), Marketing Specialist (2), Content and Media Coordinator (1) |
-| Client Services and Office Administration | 3 | Office Administrator (1), Client Care Coordinator (2) |
-| Operations and Compliance | 2 | Transaction Coordinator (1), Managing Broker (1) |
+1. **Inbound leads, showings, and transaction paperwork carry most repetitive work** Sales agents and the buyer inquiry coordinator spend their days answering leads, booking showings, and updating the CRM. Transaction coordinators chase signatures, deadlines, and missing fields across DocuSign and email. Marketing and admin handle steady copy, scheduling, and filing work that repeats every week.
+2. **Lead response, showing scheduling, and deadline chasing are the best first agents** These three sit on high volume, rules based tasks that use systems you already have: CRM, Zillow feeds, calendar, and DocuSign. Each can be tested in weeks with clear quality checks. They reduce buyer wait times and missed dates without changing how agents sell.
+3. **Launch with human review, measure errors, then expand to other departments** Phase one keeps a person approving messages, bookings, and deadline notices while the agent drafts and tracks. You review response times, error rates, and hours saved weekly, then move proven agents to listing, marketing, and admin work. Scale remains controlled because the same review model applies to each new agent.
 
-## Opportunities
-| # | Opportunity | Department | Hours/week | Impact | Effort |
-|---:|---|---|---:|:-:|:-:|
-| 1 | Buyer inquiries answered in minutes | Sales and Agent Team | 8 | 5/5 | 3/5 |
-| 2 | MLS and social listing descriptions drafted for review | Listings and Marketing | 7 | 5/5 | 3/5 |
-| 3 | Contract deadlines tracked automatically | Operations and Compliance | 6 | 5/5 | 4/5 |
-| 4 | Showing requests booked with less back and forth | Sales and Agent Team | 6 | 4/5 | 2/5 |
-| 5 | Lead follow up runs on time | Sales and Agent Team | 5 | 4/5 | 3/5 |
-| 6 | Website and general inbox triaged | Client Services and Office Administration | 5 | 3/5 | 2/5 |
-| 7 | Listing marketing posts prepared on schedule | Listings and Marketing | 5 | 3/5 | 3/5 |
-| 8 | Compliance and license dates watched | Operations and Compliance | 3 | 4/5 | 3/5 |
+**Phase 1 at a glance:** Zillow and website leads answered in minutes · Showings booked and confirmed without phone tag · Transaction deadlines and signatures tracked automatically. About 30 hours a week back for $1,950/month (setup $2,870, free on a 4-month run).
 
-### 1. Buyer inquiries answered in minutes
-An agent watches website, Zillow, email, and text inquiries, pulls listing details, and drafts a reply that answers common questions and offers viewing times. It also logs the contact in your CRM and creates a calendar hold when the buyer picks a slot.
+## 1. Inbound leads, showings, and transaction paperwork carry most repetitive work
+Sales agents and the buyer inquiry coordinator spend their days answering leads, booking showings, and updating the CRM. Transaction coordinators chase signatures, deadlines, and missing fields across DocuSign and email. Marketing and admin handle steady copy, scheduling, and filing work that repeats every week.
 
-**Saves ~8h per week** · Roles: Licensed Real Estate Agent, Associate or Buyer's Agent · Tools: Real estate CRM, MLS system, Zillow listing feeds, Email, Calendar
+| Department | Hours saved / week | Share |
+|---|---:|---:|
+| Listings and Transaction Coordination | 23 | 32% |
+| Sales | 22 | 31% |
+| Client Services | 12 | 17% |
+| Marketing | 8 | 11% |
+| Admin and Office Operations | 7 | 10% |
+
+## 2. Lead response, showing scheduling, and deadline chasing are the best first agents
+These three sit on high volume, rules based tasks that use systems you already have: CRM, Zillow feeds, calendar, and DocuSign. Each can be tested in weeks with clear quality checks. They reduce buyer wait times and missed dates without changing how agents sell.
+
+| # | Opportunity | Department | Hours/week | Impact | Effort | Phase |
+|---:|---|---|---:|:-:|:-:|:-:|
+| 1 | Zillow and website leads answered in minutes | Client Services | 12 | 5/5 | 2/5 | 1 |
+| 2 | Showings booked and confirmed without phone tag | Sales | 10 | 4/5 | 2/5 | 1 |
+| 3 | Transaction deadlines and signatures tracked automatically | Listings and Transaction Coordination | 8 | 5/5 | 3/5 | 1 |
+| 4 | Listings published to MLS and Zillow faster | Listings and Transaction Coordination | 9 | 4/5 | 3/5 | later |
+| 5 | Listing copy and social posts drafted from property facts | Marketing | 8 | 4/5 | 2/5 | later |
+| 6 | Offer packets assembled and checked before sending | Listings and Transaction Coordination | 6 | 4/5 | 3/5 | later |
+| 7 | Main phone and viewing requests routed by an agent | Admin and Office Operations | 7 | 3/5 | 2/5 | later |
+| 8 | CRM notes and follow-ups updated from calls and emails | Sales | 7 | 3/5 | 2/5 | later |
+| 9 | Weekly seller updates drafted from CRM and showing data | Sales | 5 | 3/5 | 2/5 | later |
+
+### 1. Zillow and website leads answered in minutes (phase 1)
+The agent reads each new Zillow or website lead, asks qualifying questions, proposes showing times, and updates the CRM. It keeps the buyer inquiry coordinator focused on complex cases and agent handoffs.
+
+**Saves ~12h per week** · Roles: Buyer Inquiry Coordinator, Buyer's Agent, Real Estate Agent · Tools: CRM, Zillow feeds, Email and calendar
 
 ```mermaid
 flowchart LR
   subgraph Today
-    B0["Agent sees inquiry in email, text, or Zillow."]
-    B1["Agent opens MLS and CRM to check listing facts and buyer his"]
-    B2["Agent writes a reply and asks for preferred viewing times."]
-    B3["Agent books the showing and logs notes in the CRM after the "]
-    B0 --> B1 --> B2 --> B3
+    B0["Lead arrives in Zillow or website inbox"]
+    B1["Coordinator checks lead details manually"]
+    B2["Coordinator replies and asks qualifying questions"]
+    B3["Coordinator checks agent calendars for times"]
+    B4["Coordinator updates CRM lead status"]
+    B0 --> B1 --> B2 --> B3 --> B4
   end
   subgraph WithAI[With AI]
-    A0["Agent drafts a reply with listing facts and two or three vie"]
-    A1["You: Agent reviews the draft, edits if needed, and sends it."]
-    A2["Agent logs the inquiry and reply in the CRM."]
-    A3["You: Agent approves the calendar hold after the buyer confir"]
-    A4["Agent sends a reminder before the showing."]
+    A0["Agent reads new lead and pulls property context"]
+    A1["Agent replies with qualifying questions"]
+    A2["Agent proposes available showing times"]
+    A3["You: Coordinator reviews unusual leads and confirms handoff"]
+    A4["Agent updates CRM lead status"]
     A0 --> A1 --> A2 --> A3 --> A4
   end
   classDef ai fill:#154899,color:#fff,stroke:#154899
   classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
-  class A0,A2,A4 ai
-  class A1,A3 human
+  class A0,A1,A2,A4 ai
+  class A3 human
 ```
 
-### 2. MLS and social listing descriptions drafted for review
-An agent turns agent notes, property facts, and photo details into an MLS ready description and short social highlights. It checks required fields and flags missing details before the listing goes live.
+### 2. Showings booked and confirmed without phone tag (phase 1)
+The agent coordinates showing requests, checks agent calendars, sends confirmations, and reminds buyers before the visit. It reduces phone tag and last minute cancellations for your agents.
 
-**Saves ~7h per week** · Roles: Listing Coordinator, Content and Media Coordinator · Tools: MLS system, Google Workspace or Microsoft 365, Real estate CRM, Social media scheduler
+**Saves ~10h per week** · Roles: Real Estate Agent, Buyer's Agent, Front Desk Receptionist · Tools: CRM, Email and calendar, MLS
 
 ```mermaid
 flowchart LR
   subgraph Today
-    B0["Listing Coordinator collects agent notes, photos, and proper"]
-    B1["Coordinator writes the MLS description and short social capt"]
-    B2["Coordinator uploads photos and documents to the MLS."]
-    B3["Coordinator checks required fields and fixes errors."]
-    B0 --> B1 --> B2 --> B3
+    B0["Buyer or agent requests a showing"]
+    B1["Staff checks calendars by phone or email"]
+    B2["Staff books the time manually"]
+    B3["Staff sends confirmation and directions"]
+    B4["Staff reminds buyer before showing"]
+    B0 --> B1 --> B2 --> B3 --> B4
   end
   subgraph WithAI[With AI]
-    A0["Agent gathers agent notes, property facts, and photo files."]
-    A1["Agent drafts the MLS description, social captions, and requi"]
-    A2["You: Listing Coordinator reviews, edits, and approves the dr"]
-    A3["Agent uploads approved copy and photos to the MLS and social"]
-    A0 --> A1 --> A2 --> A3
+    A0["Agent receives showing request and checks calendars"]
+    A1["Agent proposes open time slots"]
+    A2["Agent books confirmed slot and sends directions"]
+    A3["You: Agent handles special access or negotiation"]
+    A4["Agent sends reminder and updates CRM"]
+    A0 --> A1 --> A2 --> A3 --> A4
   end
   classDef ai fill:#154899,color:#fff,stroke:#154899
   classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
-  class A0,A1,A3 ai
+  class A0,A1,A2,A4 ai
+  class A3 human
+```
+
+### 3. Transaction deadlines and signatures tracked automatically (phase 1)
+The agent builds closing checklists, sends DocuSign reminders, updates deal stages, and flags missing items before deadlines. It gives the transaction coordinator an exception list instead of a manual hunt through email.
+
+**Saves ~8h per week** · Roles: Transaction Coordinator, Offer and Paperwork Specialist, Managing Broker · Tools: DocuSign, CRM, Email and calendar
+
+```mermaid
+flowchart LR
+  subgraph Today
+    B0["Coordinator builds checklist from contract"]
+    B1["Coordinator requests signatures in DocuSign"]
+    B2["Coordinator tracks deadlines in spreadsheet"]
+    B3["Coordinator emails agents about missing items"]
+    B4["Coordinator updates CRM deal stage"]
+    B0 --> B1 --> B2 --> B3 --> B4
+  end
+  subgraph WithAI[With AI]
+    A0["Agent builds checklist from approved template"]
+    A1["Agent sends DocuSign reminders on schedule"]
+    A2["Agent updates CRM deal stage"]
+    A3["Agent flags missing items to coordinator"]
+    A4["You: Coordinator reviews exceptions and contacts parties"]
+    A0 --> A1 --> A2 --> A3 --> A4
+  end
+  classDef ai fill:#154899,color:#fff,stroke:#154899
+  classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
+  class A0,A1,A2,A3 ai
+  class A4 human
+```
+
+### 4. Listings published to MLS and Zillow faster
+The agent gathers listing details and photos, drafts MLS and Zillow fields, and checks required information before submission. It removes duplicate typing while keeping the coordinator in control of the final publish.
+
+**Saves ~9h per week** · Roles: Listing Coordinator, Real Estate Agent · Tools: MLS, Zillow feeds, CRM
+
+```mermaid
+flowchart LR
+  subgraph Today
+    B0["Agent sends listing details and photos"]
+    B1["Coordinator enters data into MLS"]
+    B2["Coordinator re-enters data into Zillow"]
+    B3["Coordinator checks required fields and errors"]
+    B4["Coordinator publishes listing"]
+    B0 --> B1 --> B2 --> B3 --> B4
+  end
+  subgraph WithAI[With AI]
+    A0["Agent reads intake form and photos"]
+    A1["Agent drafts MLS and Zillow fields"]
+    A2["Agent checks required fields and flags gaps"]
+    A3["You: Coordinator reviews, corrects, and submits"]
+    A4["Agent logs publish status in CRM"]
+    A0 --> A1 --> A2 --> A3 --> A4
+  end
+  classDef ai fill:#154899,color:#fff,stroke:#154899
+  classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
+  class A0,A1,A2,A4 ai
+  class A3 human
+```
+
+### 5. Listing copy and social posts drafted from property facts
+The agent writes listing descriptions and social posts from approved property facts and brand rules. The marketing team edits and schedules, so they spend less time starting from a blank page.
+
+**Saves ~8h per week** · Roles: Content and Social Specialist, Marketing Manager, Real Estate Agent · Tools: CRM, MLS, Email and calendar
+
+```mermaid
+flowchart LR
+  subgraph Today
+    B0["Agent sends property notes and photos"]
+    B1["Specialist writes listing description"]
+    B2["Manager reviews copy"]
+    B3["Specialist creates social posts"]
+    B4["Specialist schedules posts"]
+    B0 --> B1 --> B2 --> B3 --> B4
+  end
+  subgraph WithAI[With AI]
+    A0["Agent pulls property facts and photos"]
+    A1["Agent drafts listing description and social posts"]
+    A2["You: Specialist edits for tone and accuracy"]
+    A3["You: Manager approves final copy"]
+    A4["Agent schedules approved posts"]
+    A0 --> A1 --> A2 --> A3 --> A4
+  end
+  classDef ai fill:#154899,color:#fff,stroke:#154899
+  classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
+  class A0,A1,A4 ai
+  class A2,A3 human
+```
+
+### 6. Offer packets assembled and checked before sending
+The agent assembles offer packets from templates, checks required contract fields, and flags missing items for the specialist. It reduces back and forth before offers go out.
+
+**Saves ~6h per week** · Roles: Offer and Paperwork Specialist, Managing Broker · Tools: DocuSign, CRM, Email and calendar
+
+```mermaid
+flowchart LR
+  subgraph Today
+    B0["Specialist collects required documents"]
+    B1["Specialist copies latest templates"]
+    B2["Specialist checks contract fields manually"]
+    B3["Specialist emails agent about missing items"]
+    B4["Specialist files signed documents"]
+    B0 --> B1 --> B2 --> B3 --> B4
+  end
+  subgraph WithAI[With AI]
+    A0["Agent builds packet from approved templates"]
+    A1["Agent checks required fields and flags gaps"]
+    A2["You: Specialist reviews exceptions and legal terms"]
+    A3["You: Managing Broker signs off where required"]
+    A4["Agent files signed documents in CRM"]
+    A0 --> A1 --> A2 --> A3 --> A4
+  end
+  classDef ai fill:#154899,color:#fff,stroke:#154899
+  classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
+  class A0,A1,A4 ai
+  class A2,A3 human
+```
+
+### 7. Main phone and viewing requests routed by an agent
+The agent answers common calls, routes urgent matters, books viewing appointments, and updates the office calendar. The front desk keeps greeting visitors and handling exceptions.
+
+**Saves ~7h per week** · Roles: Office Administrator, Front Desk Receptionist · Tools: Email and calendar, CRM
+
+```mermaid
+flowchart LR
+  subgraph Today
+    B0["Call comes to main line"]
+    B1["Receptionist answers and takes message"]
+    B2["Receptionist routes call or books appointment"]
+    B3["Receptionist updates office calendar"]
+    B4["Receptionist follows up on missed calls"]
+    B0 --> B1 --> B2 --> B3 --> B4
+  end
+  subgraph WithAI[With AI]
+    A0["Agent answers common questions and captures details"]
+    A1["Agent routes urgent calls to the right person"]
+    A2["Agent books viewing requests on calendar"]
+    A3["You: Receptionist greets visitors and handles exceptions"]
+    A4["Agent updates contact record in CRM"]
+    A0 --> A1 --> A2 --> A3 --> A4
+  end
+  classDef ai fill:#154899,color:#fff,stroke:#154899
+  classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
+  class A0,A1,A2,A4 ai
+  class A3 human
+```
+
+### 8. CRM notes and follow-ups updated from calls and emails
+The agent turns call notes, emails, and showing feedback into CRM updates and next step tasks. Your agents approve the record instead of typing it after every conversation.
+
+**Saves ~7h per week** · Roles: Real Estate Agent, Buyer's Agent · Tools: CRM, Email and calendar
+
+```mermaid
+flowchart LR
+  subgraph Today
+    B0["Agent finishes call or showing"]
+    B1["Agent writes notes for CRM"]
+    B2["Agent updates lead status"]
+    B3["Agent sets next step reminder"]
+    B4["Agent sends follow up email"]
+    B0 --> B1 --> B2 --> B3 --> B4
+  end
+  subgraph WithAI[With AI]
+    A0["Agent captures call notes or email thread"]
+    A1["Agent drafts CRM update and next step"]
+    A2["You: Agent reviews and approves changes"]
+    A3["Agent sends routine follow up email"]
+    A4["Agent sets reminder in calendar"]
+    A0 --> A1 --> A2 --> A3 --> A4
+  end
+  classDef ai fill:#154899,color:#fff,stroke:#154899
+  classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
+  class A0,A1,A3,A4 ai
   class A2 human
 ```
 
-### 3. Contract deadlines tracked automatically
-An agent reads signed contracts and tracks every deadline, then sends reminders to your team, lenders, and title companies. It flags missing signatures or documents before they become a problem.
+### 9. Weekly seller updates drafted from CRM and showing data
+The agent compiles showing activity, buyer feedback, and deadline status into a weekly seller update. The listing agent reviews and sends it, keeping sellers informed without manual reporting.
 
-**Saves ~6h per week** · Roles: Transaction Coordinator, Managing Broker · Tools: DocuSign, Real estate CRM, Email, Calendar, Lender and title email
+**Saves ~5h per week** · Roles: Managing Broker, Real Estate Agent · Tools: CRM, Email and calendar, MLS
 
 ```mermaid
 flowchart LR
   subgraph Today
-    B0["Transaction Coordinator enters dates into a spreadsheet."]
-    B1["Coordinator checks DocuSign and email for signatures and doc"]
-    B2["Coordinator sends reminder emails to agents, lenders, and ti"]
-    B3["Coordinator updates deal stages in the CRM by hand."]
-    B0 --> B1 --> B2 --> B3
+    B0["Agent pulls showing data from CRM"]
+    B1["Agent checks feedback emails"]
+    B2["Agent checks transaction deadlines"]
+    B3["Agent writes seller update"]
+    B4["Agent sends update and logs it"]
+    B0 --> B1 --> B2 --> B3 --> B4
   end
   subgraph WithAI[With AI]
-    A0["Agent reads contract dates and creates a deadline calendar."]
-    A1["Agent sends reminders to your team, lenders, and title."]
-    A2["You: Transaction Coordinator handles exceptions and lender r"]
-    A3["Agent flags missing signatures or documents."]
-    A4["You: Coordinator updates the CRM when a deadline is met."]
+    A0["Agent pulls showing, feedback, and deadline data"]
+    A1["Agent drafts weekly seller update"]
+    A2["You: Agent reviews and adds personal notes"]
+    A3["You: Agent sends update"]
+    A4["Agent logs sent update in CRM"]
     A0 --> A1 --> A2 --> A3 --> A4
   end
   classDef ai fill:#154899,color:#fff,stroke:#154899
   classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
-  class A0,A1,A3 ai
-  class A2,A4 human
+  class A0,A1,A4 ai
+  class A2,A3 human
 ```
 
-### 4. Showing requests booked with less back and forth
-An agent reads showing requests from email, text, and website forms, checks agent calendars, and proposes available times. It confirms the booking and sends reminders to the buyer and agent.
+## 3. Launch with human review, measure errors, then expand to other departments
+Phase one keeps a person approving messages, bookings, and deadline notices while the agent drafts and tracks. You review response times, error rates, and hours saved weekly, then move proven agents to listing, marketing, and admin work. Scale remains controlled because the same review model applies to each new agent.
 
-**Saves ~6h per week** · Roles: Licensed Real Estate Agent, Associate or Buyer's Agent · Tools: Calendar, Real estate CRM, Email, Text messaging
+**Phase 1 (Weeks 1-4): Prove value with lead response, showing scheduling, and deadline chasing**
+- Set up lead response agent with approved questions and CRM fields
+- Connect showing scheduler to agent calendars and CRM
+- Build transaction checklist templates and DocuSign reminder rules
+- Run daily human review for messages, bookings, and deadline notices
+- Track first response time, showing confirmations, and missed deadlines
 
-```mermaid
-flowchart LR
-  subgraph Today
-    B0["Agent reads showing request."]
-    B1["Agent checks calendars and listing access rules."]
-    B2["Agent emails or texts available times."]
-    B3["Agent confirms the time and sends a reminder."]
-    B0 --> B1 --> B2 --> B3
-  end
-  subgraph WithAI[With AI]
-    A0["Agent reads the request and proposes two or three available "]
-    A1["You: Agent approves the proposed times if they are outside n"]
-    A2["Agent confirms the booking and creates calendar invites."]
-    A3["Agent sends reminders to the buyer and agent."]
-    A0 --> A1 --> A2 --> A3
-  end
-  classDef ai fill:#154899,color:#fff,stroke:#154899
-  classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
-  class A0,A2,A3 ai
-  class A1 human
-```
+**Phase 2 (Weeks 5-10): Extend proven agents to listing publishing, copy, and offer packets**
+- Connect listing intake to MLS and Zillow field drafts
+- Add marketing copy agent with brand and fair housing review
+- Add offer packet assembly agent with field checks
+- Train listing and marketing staff on review and approval steps
+- Compare error rates and hours saved against phase one
 
-### 5. Lead follow up runs on time
-An agent reviews your CRM each morning, finds leads that need follow up, and drafts personal emails or texts based on the last conversation. It logs replies and updates lead stages so your pipeline stays clean.
+**Phase 3 (Weeks 11-16): Add admin routing, CRM updates, and seller reporting**
+- Deploy phone and viewing request agent at front desk
+- Add CRM note and follow up agent for sales team
+- Add weekly seller update agent for listing agents
+- Set escalation rules for legal, pricing, and contract questions
+- Review all agents monthly and retire any that do not meet targets
 
-**Saves ~5h per week** · Roles: Licensed Real Estate Agent, Associate or Buyer's Agent · Tools: Real estate CRM, Email, Text messaging, Calendar
+**Risks**
+- **Automated replies may give wrong property or pricing information**: Use approved answer libraries, keep humans approving first responses for two weeks, and route pricing or legal questions to an agent.
+- **Agents may not trust or use the new workflows**: Start with volunteers, show time saved in weekly reports, and keep agents in control of all client negotiations.
+- **MLS, Zillow, and DocuSign rules may restrict automated actions**: Follow each system's terms, limit access to approved accounts, and keep final submission or signature requests under human review.
+- **CRM data may be incomplete or inconsistent**: Define required fields, run weekly exception reports, and have the transaction coordinator fix gaps.
+- **Client communication may feel impersonal**: Use plain templates with agent names, allow quick edits, and keep personal notes for offers, negotiations, and sensitive updates.
 
-```mermaid
-flowchart LR
-  subgraph Today
-    B0["Agent opens the CRM and reviews the pipeline."]
-    B1["Agent writes follow up emails or texts one by one."]
-    B2["Agent logs calls and replies after sending."]
-    B3["Agent updates lead stages when something changes."]
-    B0 --> B1 --> B2 --> B3
-  end
-  subgraph WithAI[With AI]
-    A0["Agent creates a daily follow up list from the CRM."]
-    A1["Agent drafts emails or texts with the last conversation deta"]
-    A2["You: Agent reviews, edits, and sends the messages."]
-    A3["Agent logs replies and updates lead stages."]
-    A4["You: Agent handles complex or unhappy leads."]
-    A0 --> A1 --> A2 --> A3 --> A4
-  end
-  classDef ai fill:#154899,color:#fff,stroke:#154899
-  classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
-  class A0,A1,A3 ai
-  class A2,A4 human
-```
+**KPIs**
+- Median first response time to Zillow and website leads
+- Share of showings confirmed without manual phone tag
+- Transaction deadlines missed per month
+- Listing publish time from intake to MLS and Zillow
+- Validated hours saved per week by team
+- CRM lead status accuracy on weekly audit
 
-### 6. Website and general inbox triaged
-An agent reads general website and office email, answers common questions, and routes messages to the right agent. It updates contact records and sends standard DocuSign envelopes when a form is ready.
-
-**Saves ~5h per week** · Roles: Client Care Coordinator, Office Administrator · Tools: Email, Website forms, Real estate CRM, DocuSign
-
-```mermaid
-flowchart LR
-  subgraph Today
-    B0["Client Care Coordinator reads every inbox message."]
-    B1["Coordinator decides if it is a new lead, vendor, or client r"]
-    B2["Coordinator writes a reply or forwards to an agent."]
-    B3["Coordinator updates the CRM contact record."]
-    B0 --> B1 --> B2 --> B3
-  end
-  subgraph WithAI[With AI]
-    A0["Agent sorts inbox messages by type and urgency."]
-    A1["Agent drafts replies to common questions and routes the rest"]
-    A2["You: Client Care Coordinator reviews and sends sensitive rep"]
-    A3["Agent updates contact records in the CRM."]
-    A4["You: Coordinator sends DocuSign envelopes for routine docume"]
-    A0 --> A1 --> A2 --> A3 --> A4
-  end
-  classDef ai fill:#154899,color:#fff,stroke:#154899
-  classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
-  class A0,A1,A3 ai
-  class A2,A4 human
-```
-
-### 7. Listing marketing posts prepared on schedule
-An agent formats property photos, writes captions, and drafts email blasts and open house flyers from your templates. It schedules approved posts and sends the email blast to your client list.
-
-**Saves ~5h per week** · Roles: Marketing Specialist, Content and Media Coordinator · Tools: Social media scheduler, Email marketing, Google Workspace or Microsoft 365, Photo library
-
-```mermaid
-flowchart LR
-  subgraph Today
-    B0["Marketing Specialist resizes and formats property photos."]
-    B1["Specialist writes social captions and schedules posts."]
-    B2["Specialist drafts an email blast to the client list."]
-    B3["Specialist builds an open house flyer and sign request."]
-    B0 --> B1 --> B2 --> B3
-  end
-  subgraph WithAI[With AI]
-    A0["Agent formats photos, writes captions, and drafts the email "]
-    A1["Agent builds the flyer from your template."]
-    A2["You: Marketing Specialist reviews and approves the materials"]
-    A3["Agent schedules social posts and sends the email blast."]
-    A0 --> A1 --> A2 --> A3
-  end
-  classDef ai fill:#154899,color:#fff,stroke:#154899
-  classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
-  class A0,A1,A3 ai
-  class A2 human
-```
-
-### 8. Compliance and license dates watched
-An agent checks new listings and marketing materials against your compliance checklist and tracks agent license and continuing education dates. It sends reminders before a date is missed and flags items for your review.
-
-**Saves ~3h per week** · Roles: Managing Broker · Tools: Compliance checklists, Real estate CRM, License and CE records, Email
-
-```mermaid
-flowchart LR
-  subgraph Today
-    B0["Managing Broker reviews listings and marketing by hand."]
-    B1["Broker checks a spreadsheet for license and CE dates."]
-    B2["Broker emails agents about missing items or renewals."]
-    B3["Broker files compliance notes."]
-    B0 --> B1 --> B2 --> B3
-  end
-  subgraph WithAI[With AI]
-    A0["Agent checks listings and marketing against your checklist."]
-    A1["Agent flags possible issues for the Managing Broker."]
-    A2["You: Managing Broker makes the final compliance call."]
-    A3["Agent tracks license and CE dates and sends reminders."]
-    A4["You: Broker handles escalated or disputed items."]
-    A0 --> A1 --> A2 --> A3 --> A4
-  end
-  classDef ai fill:#154899,color:#fff,stroke:#154899
-  classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
-  class A0,A1,A3 ai
-  class A2,A4 human
-```
-
-## Roadmap
-**Phase 1 (Weeks 1-4): Set up the foundation and quick wins**
-- Choose one owner for each agent and one backup in your office.
-- Connect email, calendar, CRM, and MLS accounts for the first two agents.
-- Launch buyer inquiry replies and showing scheduling in Sales and Agent Team.
-- Train agents on reviewing drafts and approving sends.
-- Track hours saved and reply times weekly.
-
-**Phase 2 (Weeks 5-10): Add listing and transaction work**
-- Launch MLS and social listing description agent with Listings and Marketing.
-- Launch contract deadline tracker with Operations and Compliance.
-- Connect DocuSign and title or lender email to the deadline tracker.
-- Set review rules for compliance and client sensitive messages.
-- Review errors and adjust prompts and templates weekly.
-
-**Phase 3 (Weeks 11-16): Expand follow up and reporting**
-- Launch lead follow up and website inbox triage.
-- Launch listing marketing scheduling and compliance date tracking.
-- Add a simple dashboard for hours saved, response times, and pipeline health.
-- Document who maintains each agent and when it is reviewed.
-- Plan next quarter based on measured results.
-
-## Risks
-- **Agents send drafts without review and a wrong detail reaches a client.**: Keep human approval on all outbound client messages for the first 90 days. Audit a sample every week.
-- **CRM or MLS data is messy, so agents give bad answers.**: Clean contact and listing fields before each launch. Start with one data source at a time.
-- **Compliance rules change and the agent uses old language.**: Managing Broker owns the compliance checklist. Review it monthly and update the agent.
-- **Team does not trust or use the agents.**: Start with two volunteers. Show time saved and reply speed. Train in short sessions.
-- **Vendor lock in or cost creep.**: Track monthly cost per agent. Keep setup in tools you already pay for where possible.
-
-## KPIs
-- Average first response time to buyer inquiries, target under 10 minutes during business hours.
-- Showing requests booked without manual back and forth, target 60 percent.
-- Listing description draft time, target under 30 minutes from agent notes.
-- Contract deadlines missed, target zero.
-- CRM leads with follow up in the last 7 days, target 95 percent.
-- Team hours saved per week, target 45 to 50 by week 16.
-
-## Quote: phase 1
+## Investment: phase 1 costs $1,950 a month and gives back $6,495 a month in time
 | Agent | Saves | Setup | Monthly |
 |---|---:|---:|---:|
-| Buyer inquiries answered in minutes | 8h/wk | $1,290 | $520 |
-| Showing requests booked with less back and forth | 6h/wk | $790 | $390 |
-| MLS and social listing descriptions drafted for review | 7h/wk | $1,290 | $450 |
-| **Total** | **21h/wk** | **$3,370** | **$1,360** |
+| Zillow and website leads answered in minutes | 12h/wk | $790 | $780 |
+| Showings booked and confirmed without phone tag | 10h/wk | $790 | $650 |
+| Transaction deadlines and signatures tracked automatically | 8h/wk | $1,290 | $520 |
+| **Total** | **30h/wk** | **$2,870** | **$1,950** |
 
-Setup is free when the agents run for 4 months. Full rollout of all 8 opportunities: $9,920 setup, $3,000/month.
+Setup is free when the agents run for 4 months. Full rollout of all 9 opportunities: $8,610 setup, $4,660/month.
+
+## Appendix: background
+- **Industry:** Residential real estate
+- **What they do:** Northpeak Realty is a residential real estate agency in Denver with 22 people. You help buyers and sellers with property listings, buyer inquiries, viewings, and offer paperwork. Your team uses a CRM, Zillow feeds, and DocuSign to run day to day work.
+- **Customers:** Home buyers and sellers in Denver and nearby suburbs
+- **Team size:** 11-50 (estimate 22)
+- **Tools:** CRM, Zillow feeds, DocuSign, MLS, Email and calendar
+- **AI maturity:** 2/5, Early automation. Northpeak Realty uses core real estate systems but relies on manual email, calendar, and CRM updates. There are no AI agents or automations in place today.
+
+| Department | People | Roles |
+|---|---:|---|
+| Sales | 12 | Managing Broker (1), Real Estate Agent (9), Buyer's Agent (2) |
+| Listings and Transaction Coordination | 3 | Listing Coordinator (1), Transaction Coordinator (1), Offer and Paperwork Specialist (1) |
+| Marketing | 3 | Marketing Manager (1), Content and Social Specialist (1), Graphic Designer (1) |
+| Admin and Office Operations | 3 | Office Administrator (1), Front Desk Receptionist (1), Operations Assistant (1) |
+| Client Services | 1 | Buyer Inquiry Coordinator (1) |
 
 ---
 Want this for your own company? **[Get your free AI strategy →](https://completeaistrategy.com)**

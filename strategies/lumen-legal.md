@@ -5,63 +5,154 @@
 
 | Hours saved per week | Value per year | Roles freed up | Opportunities |
 |---:|---:|---:|---:|
-| **62h** | **$142,600** | **1.6 FTE** | **9** |
+| **119h** | **$273,700** | **3 FTE** | **9** |
 
-## Summary
-Lumen Legal is a 45 person firm where most of the work is done by hand: deadlines written into calendars one by one, contracts read end to end, time entries checked line by line, and clients answered from a shared inbox. You already have Microsoft 365, a practice management system, a document management system and time and billing software, which is the foundation these agents need. The realistic first year gain is around 60 hours a week across the firm, close to 3 to 4 percent of your capacity, focused on the tasks your lawyers and paralegals like least. Nothing an agent produces should leave the firm without a named person approving it, and every draft should point back to the source document. Start with deadlines, contract first-pass review and billing preparation, because those are the easiest to measure and the least risky.
+## Our recommendation
+**Start with three phase 1 agents for employment contract drafting, client intake and conflict checks, and deadline and renewal tracking to reduce repetitive admin and protect billable time.**
 
-## Company snapshot
-- **Industry:** Legal services
-- **What they do:** Lumen Legal is a 45 person law firm in Antwerp, Belgium. You and your team advise employers and companies on employment and commercial law, draft and review contracts, track deadlines, and handle time registration and billing. Your clients are businesses that need practical legal support in Belgium.
-- **Customers:** Businesses, employers, and companies in Belgium, from small firms to larger enterprises needing employment and commercial law support.
-- **Team size:** 11-50 (estimate 45)
-- **Tools:** Microsoft 365, Legal practice management software, Time and billing software, Document management system, E-signature tools, Client intake forms
-- **AI maturity:** 2/5, Early. You have the systems in place (Microsoft 365, practice management, document management, time and billing) but almost no AI in daily work. Deadline tracking, contract review and time entry checks are still manual, so there is a clear starting point with low risk.
+Lumen Legal is a 45 person law firm in Antwerp advising Belgian businesses on employment and commercial law. Your team relies on Microsoft 365, practice management, time and billing, and a document management system for daily work. Lawyers, paralegals, and secretaries spend hours on repetitive drafting, intake, deadline tracking, and billing, which limits advisory capacity and raises the risk of missed dates or conflicts.
 
-## Team and roles
-| Department | People | Roles |
-|---|---:|---|
-| Employment Law | 12 | Employment Partner (1), Senior Employment Lawyer (3), Employment Associate (5), Employment Paralegal (3) |
-| Commercial Law | 12 | Commercial Partner (1), Senior Commercial Lawyer (3), Commercial Associate (5), Commercial Paralegal (3) |
-| Paralegal and Document Services | 8 | Senior Paralegal (3), Legal Assistant (5) |
-| Secretarial and Administration | 6 | Legal Secretary (4), Office Manager (1), Receptionist (1) |
-| Finance and Billing | 5 | Finance Manager (1), Billing Specialist (2), Bookkeeper (2) |
-| Management and Operations | 2 | Managing Partner (1), Operations Manager (1) |
+1. **Repetitive drafting, intake, and deadline work consume lawyer and support capacity** Employment and commercial lawyers, paralegals, secretaries, and billing staff all handle repeated document, date, and client data work. These tasks are necessary but pull time from advice, negotiation, and client contact.
+2. **These three agents target frequent, rule-based work with clear data and fast review** Employment drafting, client intake, and deadline tracking recur daily, use structured information, and already have clear review steps. They can show value in weeks with limited integration and low risk because a person approves every output.
+3. **Roll out in controlled waves, keep human review, and measure saved time weekly** Run phase 1 with a small group of willing lawyers and secretaries, keep human sign-off on all advice and dates, and review output quality each week. After the first results are proven, expand the same agents to more teams and add phase 2 use cases.
 
-## Opportunities
-| # | Opportunity | Department | Hours/week | Impact | Effort |
-|---:|---|---|---:|:-:|:-:|
-| 1 | Contract first-pass review against your playbook | Commercial Law | 10 | 5/5 | 3/5 |
-| 2 | Deadline and tribunal calendar agent | Employment Law | 8 | 5/5 | 3/5 |
-| 3 | Time entry review and draft invoices | Finance and Billing | 8 | 4/5 | 3/5 |
-| 4 | Document review and bundle preparation | Paralegal and Document Services | 9 | 4/5 | 4/5 |
-| 5 | Client question triage and draft replies | Employment Law | 7 | 4/5 | 3/5 |
-| 6 | New client intake and conflict check pack | Secretarial and Administration | 6 | 3/5 | 3/5 |
-| 7 | Data room and signature coordination | Commercial Law | 5 | 3/5 | 3/5 |
-| 8 | Client appointment scheduling and reminders | Secretarial and Administration | 5 | 3/5 | 2/5 |
-| 9 | Weekly matter and performance reporting | Management and Operations | 4 | 3/5 | 2/5 |
+**Phase 1 at a glance:** Employment contracts drafted from approved templates · Client intake and conflict checks run before matter opening · Deadlines and contract renewals tracked in one alert list. About 38 hours a week back for $2,470/month (setup $2,370, free on a 4-month run).
 
-### 1. Contract first-pass review against your playbook
-An agent reads each incoming contract and compares the clauses against your firm's standard positions and fallback wording. It returns a short list of deviations with the clause text and a link to the source, and a lawyer still makes every call.
+## 1. Repetitive drafting, intake, and deadline work consume lawyer and support capacity
+Employment and commercial lawyers, paralegals, secretaries, and billing staff all handle repeated document, date, and client data work. These tasks are necessary but pull time from advice, negotiation, and client contact.
 
-**Saves ~10h per week** · Roles: Senior Commercial Lawyer, Commercial Associate, Commercial Paralegal · Tools: Microsoft 365, Document management system, Practice management system
+| Department | Hours saved / week | Share |
+|---|---:|---:|
+| Commercial Law | 30 | 25% |
+| Finance and Billing | 25 | 21% |
+| Paralegal and Document Support | 22 | 18% |
+| Client Intake and CRM | 17 | 14% |
+| Employment Law | 16 | 13% |
+| Legal Secretaries and Administration | 9 | 8% |
+
+## 2. These three agents target frequent, rule-based work with clear data and fast review
+Employment drafting, client intake, and deadline tracking recur daily, use structured information, and already have clear review steps. They can show value in weeks with limited integration and low risk because a person approves every output.
+
+| # | Opportunity | Department | Hours/week | Impact | Effort | Phase |
+|---:|---|---|---:|:-:|:-:|:-:|
+| 1 | Employment contracts drafted from approved templates | Employment Law | 16 | 5/5 | 2/5 | 1 |
+| 2 | Client intake and conflict checks run before matter opening | Client Intake and CRM | 12 | 4/5 | 2/5 | 1 |
+| 3 | Deadlines and contract renewals tracked in one alert list | Commercial Law | 10 | 5/5 | 2/5 | 1 |
+| 4 | Contract clauses reviewed and summarized for lawyer sign-off | Paralegal and Document Support | 22 | 4/5 | 3/5 | later |
+| 5 | Time entries cleaned and invoices drafted before review | Finance and Billing | 18 | 4/5 | 3/5 | later |
+| 6 | Due diligence documents compiled and tagged for review | Commercial Law | 20 | 4/5 | 4/5 | later |
+| 7 | Client meetings scheduled with fewer back-and-forth emails | Legal Secretaries and Administration | 9 | 3/5 | 1/5 | later |
+| 8 | Supplier invoices entered and payments reconciled weekly | Finance and Billing | 7 | 3/5 | 2/5 | later |
+| 9 | Client records and referral sources cleaned every week | Client Intake and CRM | 5 | 3/5 | 2/5 | later |
+
+### 1. Employment contracts drafted from approved templates (phase 1)
+The agent gathers employee details, selects approved clauses, and produces a first draft employment contract or advice note. Your lawyer reviews, edits, and approves before anything goes to the client.
+
+**Saves ~16h per week** · Roles: Employment Lawyer, Paralegal · Tools: Microsoft Word, Outlook, Practice management software, Document management system, E-signature software
 
 ```mermaid
 flowchart LR
   subgraph Today
-    B0["Open the contract and read it end to end"]
-    B1["Search past matters for a similar agreement"]
-    B2["Check each clause against your standard positions by hand"]
-    B3["Write a note listing the deviations"]
-    B4["Send it to the responsible lawyer for review"]
+    B0["Lawyer requests employee details from client"]
+    B1["Paralegal finds latest template and clauses"]
+    B2["Lawyer edits clauses for seniority, leave, notice"]
+    B3["Paralegal formats pack and saves to DMS"]
+    B4["Lawyer sends final document"]
     B0 --> B1 --> B2 --> B3 --> B4
   end
   subgraph WithAI[With AI]
-    A0["Agent collects the contract from the shared mailbox or docum"]
-    A1["Agent extracts the clauses and flags deviations from your pl"]
-    A2["Agent drafts a summary note with clause references and sourc"]
-    A3["You: senior lawyer reviews the flagged list and decides what"]
-    A4["You: lawyer edits the note and sends the advice"]
+    A0["Agent reads intake form and prior email thread"]
+    A1["Agent drafts contract or advice note from approved clauses"]
+    A2["You: Lawyer reviews, edits, and approves"]
+    A3["Agent saves final version and updates matter log"]
+    A4["You: Paralegal sends to client with e-sign link"]
+    A0 --> A1 --> A2 --> A3 --> A4
+  end
+  classDef ai fill:#154899,color:#fff,stroke:#154899
+  classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
+  class A0,A1,A3 ai
+  class A2,A4 human
+```
+
+### 2. Client intake and conflict checks run before matter opening (phase 1)
+The agent collects client and counterparty details, runs standard conflict searches, and prepares the matter opening record. Your intake team reviews exceptions and approves opening.
+
+**Saves ~12h per week** · Roles: Intake Coordinator, CRM Administrator · Tools: Outlook, Practice management software, CRM, VOIP phone system, E-signature software
+
+```mermaid
+flowchart LR
+  subgraph Today
+    B0["Intake coordinator receives email or call"]
+    B1["Manual client detail form is completed"]
+    B2["Conflict check names are searched one by one"]
+    B3["Matter record is created in practice system"]
+    B4["CRM is updated by hand"]
+    B0 --> B1 --> B2 --> B3 --> B4
+  end
+  subgraph WithAI[With AI]
+    A0["Agent reads email or call notes and extracts party details"]
+    A1["Agent runs conflict search across practice system and CRM"]
+    A2["You: Intake coordinator reviews hits and approves"]
+    A3["Agent creates draft matter record with standard fields"]
+    A4["You: CRM administrator confirms client record"]
+    A0 --> A1 --> A2 --> A3 --> A4
+  end
+  classDef ai fill:#154899,color:#fff,stroke:#154899
+  classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
+  class A0,A1,A3 ai
+  class A2,A4 human
+```
+
+### 3. Deadlines and contract renewals tracked in one alert list (phase 1)
+The agent extracts dates from contracts, matters, and court documents, then maintains a weekly alert list for renewals, termination notices, and filing deadlines. Your team confirms each date and owns the follow-up.
+
+**Saves ~10h per week** · Roles: Commercial Lawyer, Paralegal · Tools: Practice management software, Outlook, Excel, Document management system
+
+```mermaid
+flowchart LR
+  subgraph Today
+    B0["Dates are entered manually in Excel"]
+    B1["Paralegal checks matter files each week"]
+    B2["Lawyer asks secretary for upcoming dates"]
+    B3["Reminders are sent by email or calendar"]
+    B4["Missed dates are found late"]
+    B0 --> B1 --> B2 --> B3 --> B4
+  end
+  subgraph WithAI[With AI]
+    A0["Agent scans contracts, emails, and matter notes for dates"]
+    A1["Agent builds weekly deadline and renewal alert list"]
+    A2["You: Paralegal verifies dates and owners"]
+    A3["Agent sends reminders to assigned lawyer"]
+    A4["You: Lawyer confirms action and closes alert"]
+    A0 --> A1 --> A2 --> A3 --> A4
+  end
+  classDef ai fill:#154899,color:#fff,stroke:#154899
+  classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
+  class A0,A1,A3 ai
+  class A2,A4 human
+```
+
+### 4. Contract clauses reviewed and summarized for lawyer sign-off
+The agent reads incoming contracts, tags standard and unusual clauses, and prepares a short summary with clause references. Your paralegals and lawyers review the flagged issues before advice goes out.
+
+**Saves ~22h per week** · Roles: Paralegal, Document Reviewer, Commercial Lawyer · Tools: Document management system, Microsoft Word, Adobe Acrobat, Excel
+
+```mermaid
+flowchart LR
+  subgraph Today
+    B0["Contract received and saved to DMS"]
+    B1["Paralegal reads full agreement"]
+    B2["Key clauses are copied into summary"]
+    B3["Unusual terms are flagged manually"]
+    B4["Lawyer reviews summary and contract"]
+    B0 --> B1 --> B2 --> B3 --> B4
+  end
+  subgraph WithAI[With AI]
+    A0["Agent reads contract and tags clause types"]
+    A1["Agent drafts summary with clause references"]
+    A2["Agent flags unusual or missing terms"]
+    A3["You: Paralegal checks flagged clauses"]
+    A4["You: Lawyer reviews summary and approves advice"]
     A0 --> A1 --> A2 --> A3 --> A4
   end
   classDef ai fill:#154899,color:#fff,stroke:#154899
@@ -70,270 +161,216 @@ flowchart LR
   class A3,A4 human
 ```
 
-### 2. Deadline and tribunal calendar agent
-An agent watches incoming court and tribunal correspondence, pulls out each deadline and adds it to the matter calendar with reminders at 14, 7 and 2 days. Your paralegals keep the final check every morning.
+### 5. Time entries cleaned and invoices drafted before review
+The agent checks time records against matter rules, groups entries by client and matter, and prepares invoice drafts with backup notes. Your billing team reviews, adjusts, and approves invoices.
 
-**Saves ~8h per week** · Roles: Employment Paralegal, Senior Employment Lawyer, Employment Associate · Tools: Microsoft 365, Practice management system, Deadline calendar
-
-```mermaid
-flowchart LR
-  subgraph Today
-    B0["Read court letters and emails as they arrive"]
-    B1["Write deadlines into the matter calendar by hand"]
-    B2["Set reminders manually for each one"]
-    B3["Check the calendar each week to see what is coming"]
-    B0 --> B1 --> B2 --> B3
-  end
-  subgraph WithAI[With AI]
-    A0["Agent reads inbound court mail and email"]
-    A1["Agent adds each deadline to the matter calendar with a link "]
-    A2["Agent sends reminders at 14, 7 and 2 days"]
-    A3["You: paralegal checks new entries each morning and corrects "]
-    A0 --> A1 --> A2 --> A3
-  end
-  classDef ai fill:#154899,color:#fff,stroke:#154899
-  classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
-  class A0,A1,A2 ai
-  class A3 human
-```
-
-### 3. Time entry review and draft invoices
-An agent reviews the week's time entries against matter budgets and billing rules, flags entries with missing detail or the wrong matter, and prepares draft invoices. Nothing is sent until your billing team approves it.
-
-**Saves ~8h per week** · Roles: Billing Specialist, Finance Manager · Tools: Time and billing software, Microsoft 365, Practice management system
+**Saves ~18h per week** · Roles: Billing Specialist, Finance Manager, Bookkeeper · Tools: Time and billing software, Excel, Outlook, Practice management software
 
 ```mermaid
 flowchart LR
   subgraph Today
-    B0["Export time entries to a spreadsheet"]
-    B1["Read each line for a missing narrative or wrong matter"]
-    B2["Email fee earners about gaps and wait for replies"]
-    B3["Build each invoice by hand in the billing system"]
-    B0 --> B1 --> B2 --> B3
-  end
-  subgraph WithAI[With AI]
-    A0["Agent exports time entries and checks them against matter ru"]
-    A1["Agent emails fee earners a short list of entries that need m"]
-    A2["Agent drafts the invoices in the billing system"]
-    A3["You: billing specialist reviews the drafts and sends them"]
-    A0 --> A1 --> A2 --> A3
-  end
-  classDef ai fill:#154899,color:#fff,stroke:#154899
-  classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
-  class A0,A1,A2 ai
-  class A3 human
-```
-
-### 4. Document review and bundle preparation
-An agent reads a set of documents, groups them by type, date and issue, and builds a first pass index and bundle. It lists the citations it finds so a paralegal can check them against the source.
-
-**Saves ~9h per week** · Roles: Senior Paralegal, Legal Assistant · Tools: Document management system, Microsoft 365, Legal research database
-
-```mermaid
-flowchart LR
-  subgraph Today
-    B0["Open each document one by one"]
-    B1["Tag by type and date by hand"]
-    B2["Build an index in Excel"]
-    B3["Check citations in a legal database"]
-    B4["Assemble the bundle and export it"]
+    B0["Lawyers submit time entries in billing system"]
+    B1["Billing specialist checks missing descriptions"]
+    B2["Matter rates and disbursements are checked manually"]
+    B3["Invoice draft is prepared in Word or billing tool"]
+    B4["Finance manager approves and sends"]
     B0 --> B1 --> B2 --> B3 --> B4
   end
   subgraph WithAI[With AI]
-    A0["Agent reads the document set and groups it by type, date and"]
-    A1["Agent builds a draft index with page references"]
-    A2["Agent lists the citations that need checking"]
-    A3["You: senior paralegal checks the index, corrects it and fina"]
-    A0 --> A1 --> A2 --> A3
+    A0["Agent reads time entries and flags missing details"]
+    A1["Agent checks rates, disbursements, and matter rules"]
+    A2["Agent prepares invoice draft with backup notes"]
+    A3["You: Billing specialist reviews and adjusts"]
+    A4["You: Finance manager approves and sends"]
+    A0 --> A1 --> A2 --> A3 --> A4
   end
   classDef ai fill:#154899,color:#fff,stroke:#154899
   classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
   class A0,A1,A2 ai
-  class A3 human
+  class A3,A4 human
 ```
 
-### 5. Client question triage and draft replies
-An agent reads the shared client inbox, sorts questions by topic, client and urgency, and drafts replies to routine questions using your firm's standard answers. A lawyer reviews and sends every reply.
+### 6. Due diligence documents compiled and tagged for review
+The agent collects documents from a virtual data room or shared folder, tags them by category, and builds a due diligence review log. Your team checks completeness and focuses on flagged risks.
 
-**Saves ~7h per week** · Roles: Senior Employment Lawyer, Employment Associate, Employment Paralegal · Tools: Microsoft 365, Practice management system
+**Saves ~20h per week** · Roles: Commercial Lawyer, Paralegal, Document Reviewer · Tools: Document management system, Excel, Adobe Acrobat, SharePoint
 
 ```mermaid
 flowchart LR
   subgraph Today
-    B0["Check the shared inbox several times a day"]
-    B1["Forward each email to the right lawyer"]
-    B2["Lawyer reads the thread history"]
-    B3["Lawyer writes the reply from scratch"]
-    B0 --> B1 --> B2 --> B3
-  end
-  subgraph WithAI[With AI]
-    A0["Agent sorts the inbox by topic, client and urgency"]
-    A1["Agent drafts replies to routine questions using your standar"]
-    A2["Agent routes anything unusual to the right lawyer with a sho"]
-    A3["You: lawyer reviews the draft, edits it and sends it"]
-    A0 --> A1 --> A2 --> A3
-  end
-  classDef ai fill:#154899,color:#fff,stroke:#154899
-  classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
-  class A0,A1,A2 ai
-  class A3 human
-```
-
-### 6. New client intake and conflict check pack
-An agent takes inbound intake forms and emails, pulls out the key facts, creates the client record, and prepares a conflict check summary and a draft engagement letter for a person to approve.
-
-**Saves ~6h per week** · Roles: Legal Secretary, Receptionist, Office Manager · Tools: Client intake forms, Practice management system, Microsoft 365
-
-```mermaid
-flowchart LR
-  subgraph Today
-    B0["Reception forwards the enquiry to a secretary"]
-    B1["Secretary retypes the client details into the practice syste"]
-    B2["Secretary emails the client for anything missing"]
-    B3["Someone runs a name search for conflicts"]
-    B4["Secretary drafts the engagement letter from a template"]
+    B0["Data room access is requested"]
+    B1["Paralegal downloads and lists documents"]
+    B2["Documents are renamed and filed by category"]
+    B3["Reviewer tags key clauses and risks"]
+    B4["Lawyer prepares issues list"]
     B0 --> B1 --> B2 --> B3 --> B4
   end
   subgraph WithAI[With AI]
-    A0["Agent reads the intake form and replies to the client for an"]
-    A1["Agent creates the client record in the practice system"]
-    A2["Agent runs the conflict name check and drafts a short summar"]
-    A3["You: secretary confirms conflicts and sends the engagement l"]
-    A0 --> A1 --> A2 --> A3
+    A0["Agent reads data room index and pulls documents"]
+    A1["Agent renames, categorizes, and tags documents"]
+    A2["Agent builds review log with missing item flags"]
+    A3["You: Paralegal checks completeness and tags"]
+    A4["You: Lawyer reviews issues list"]
+    A0 --> A1 --> A2 --> A3 --> A4
   end
   classDef ai fill:#154899,color:#fff,stroke:#154899
   classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
   class A0,A1,A2 ai
-  class A3 human
+  class A3,A4 human
 ```
 
-### 7. Data room and signature coordination
-An agent keeps the deal data room up to date, chases outstanding documents on a fixed schedule, and runs the e-signature sequence for closing documents. It sends a status note once a day.
+### 7. Client meetings scheduled with fewer back-and-forth emails
+The agent reads meeting requests, checks lawyer calendars, proposes times, and sends confirmations or reminders. Your secretaries handle exceptions and sensitive client calls.
 
-**Saves ~5h per week** · Roles: Commercial Paralegal, Commercial Associate · Tools: E-signature tools, Document management system, Microsoft 365
+**Saves ~9h per week** · Roles: Legal Secretary, Office Administrator · Tools: Outlook, VOIP phone system, Practice management software
 
 ```mermaid
 flowchart LR
   subgraph Today
-    B0["Paralegal uploads and names files by hand"]
-    B1["Email each party for missing documents"]
-    B2["Track signature status in a spreadsheet"]
-    B3["Send reminders one at a time"]
-    B0 --> B1 --> B2 --> B3
-  end
-  subgraph WithAI[With AI]
-    A0["Agent files and names incoming documents automatically"]
-    A1["Agent chases missing items on a set schedule"]
-    A2["Agent runs the e-signature sequence and tracks status"]
-    A3["You: paralegal checks the daily status note and steps in whe"]
-    A0 --> A1 --> A2 --> A3
-  end
-  classDef ai fill:#154899,color:#fff,stroke:#154899
-  classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
-  class A0,A1,A2 ai
-  class A3 human
-```
-
-### 8. Client appointment scheduling and reminders
-An agent handles meeting requests by email, proposes times based on the lawyer's calendar, books the room or Teams link, and sends confirmation and a reminder the day before. Anything unusual goes to a secretary.
-
-**Saves ~5h per week** · Roles: Legal Secretary, Receptionist · Tools: Microsoft 365, Practice management system
-
-```mermaid
-flowchart LR
-  subgraph Today
-    B0["Client emails or calls for an appointment"]
+    B0["Client emails or calls with meeting request"]
     B1["Secretary checks several calendars"]
-    B2["Secretary emails back and forth to agree a time"]
-    B3["Secretary books the room and sends a confirmation"]
-    B4["Reminder sent by hand the day before"]
+    B2["Times are proposed by email"]
+    B3["Meeting is booked and invites sent"]
+    B4["Reminders and changes handled manually"]
     B0 --> B1 --> B2 --> B3 --> B4
   end
   subgraph WithAI[With AI]
-    A0["Agent reads the request and proposes times from calendar ava"]
-    A1["Agent books the room or Teams link and confirms by email"]
-    A2["Agent sends a reminder the day before with the agenda"]
-    A3["You: secretary handles reschedules and anything unusual"]
-    A0 --> A1 --> A2 --> A3
+    A0["Agent reads request and checks calendar availability"]
+    A1["Agent proposes times and books accepted slot"]
+    A2["Agent sends invite, agenda request, and reminder"]
+    A3["You: Secretary handles exceptions and priority clients"]
+    A4["Agent updates matter note with meeting details"]
+    A0 --> A1 --> A2 --> A3 --> A4
   end
   classDef ai fill:#154899,color:#fff,stroke:#154899
   classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
-  class A0,A1,A2 ai
+  class A0,A1,A2,A4 ai
   class A3 human
 ```
 
-### 9. Weekly matter and performance reporting
-An agent pulls matter status, deadlines and billing figures into a one page weekly report with the exceptions highlighted. It flags matters that are off budget or behind schedule.
+### 8. Supplier invoices entered and payments reconciled weekly
+The agent reads supplier invoices and bank statements, enters standard data, and matches payments to invoices. Your bookkeeper reviews exceptions and the finance manager approves payment runs.
 
-**Saves ~4h per week** · Roles: Managing Partner, Operations Manager · Tools: Practice management system, Time and billing software, Microsoft 365
+**Saves ~7h per week** · Roles: Bookkeeper, Finance Manager · Tools: Accounting software, Excel, Outlook, Adobe Acrobat
 
 ```mermaid
 flowchart LR
   subgraph Today
-    B0["Partner asks each team lead for a status update"]
-    B1["Operations manager copies figures from the billing system"]
-    B2["Spreadsheet updated by hand"]
-    B3["Report written and circulated"]
-    B0 --> B1 --> B2 --> B3
+    B0["Supplier invoices arrive by email or post"]
+    B1["Bookkeeper enters invoice data manually"]
+    B2["Bank statement lines are matched to invoices"]
+    B3["Exceptions are investigated by email"]
+    B4["Finance manager approves payments"]
+    B0 --> B1 --> B2 --> B3 --> B4
   end
   subgraph WithAI[With AI]
-    A0["Agent pulls matter, deadline and billing data on a set sched"]
-    A1["Agent drafts the weekly report with exceptions highlighted"]
-    A2["You: operations manager checks the figures and sends the rep"]
-    A0 --> A1 --> A2
+    A0["Agent reads invoices and extracts supplier, amount, VAT"]
+    A1["Agent enters draft ledger lines and matches bank items"]
+    A2["Agent flags mismatches and missing invoices"]
+    A3["You: Bookkeeper checks exceptions"]
+    A4["You: Finance manager approves payment run"]
+    A0 --> A1 --> A2 --> A3 --> A4
   end
   classDef ai fill:#154899,color:#fff,stroke:#154899
   classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
-  class A0,A1 ai
-  class A2 human
+  class A0,A1,A2 ai
+  class A3,A4 human
 ```
 
-## Roadmap
-**Phase 1 (Weeks 1 to 6): Get the basics connected**
-- Connect Microsoft 365, your practice management system and your document management system to the agent platform
-- Write down one firm rule: nothing leaves the firm without a named person approving it
-- Set up the deadline and tribunal calendar agent for the Employment Law team
-- Set up appointment scheduling and reminders for reception
-- Name one owner per team who checks agent output and reports problems
+### 9. Client records and referral sources cleaned every week
+The agent checks client records for missing fields, duplicate contacts, and outdated matter links, then updates referral source tags. Your CRM administrator reviews changes and keeps relationship notes current.
 
-**Phase 2 (Weeks 7 to 16): Move into the legal work**
-- Roll out contract first-pass review to Commercial Law, starting with supplier contracts
-- Roll out client question triage and draft replies to the Employment Law shared inbox
-- Roll out time entry review and draft invoices to Finance and Billing
-- Pilot document review and bundle preparation with two paralegals on one live case
-- Review hours saved and error rates at the end of week 12 before deciding on phase 3
+**Saves ~5h per week** · Roles: CRM Administrator, Intake Coordinator · Tools: CRM, Excel, Outlook
 
-**Phase 3 (Weeks 17 to 30): Cover the rest of the firm**
-- Add new client intake and conflict check packs
-- Add data room and signature coordination for Commercial Law transactions
-- Add weekly matter and performance reporting for the managing partner
-- Extend document review and bundle preparation to all paralegals
-- Review the full year of results with your compliance advisor and set targets for year two
+```mermaid
+flowchart LR
+  subgraph Today
+    B0["New client details entered by hand"]
+    B1["Duplicate contacts found during mailings"]
+    B2["Referral source captured inconsistently"]
+    B3["Matter links checked manually"]
+    B4["Reports built in Excel"]
+    B0 --> B1 --> B2 --> B3 --> B4
+  end
+  subgraph WithAI[With AI]
+    A0["Agent scans CRM for missing or duplicate data"]
+    A1["Agent suggests merges and field updates"]
+    A2["Agent tags referral source from email or intake notes"]
+    A3["You: CRM administrator approves changes"]
+    A4["Agent builds weekly data quality report"]
+    A0 --> A1 --> A2 --> A3 --> A4
+  end
+  classDef ai fill:#154899,color:#fff,stroke:#154899
+  classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
+  class A0,A1,A2,A4 ai
+  class A3 human
+```
 
-## Risks
-- **Client and matter data going into tools that are not approved for it**: Keep every agent inside your Microsoft 365 tenant and your existing systems, sign a data processing agreement with each supplier, leave client names out of prompts where they are not needed, and apply the same confidentiality rules you use today.
-- **A wrong draft from an agent being treated as final and sent to a client or a court**: No agent output leaves the firm without a named lawyer or paralegal approving it, and every draft shows the source document and clause it came from. Reviewers check the source, not just the summary.
-- **Lawyers who bill by the hour do not use the tools**: Start with the tasks nobody wants to do (deadlines, time entries, bundling), show the time saved on the first two live matters, and track use per team each month so you can see who has adopted it and who has not.
-- **Cost and setup time running past what you planned**: Fix the scope of each phase, give each phase one owner, and stop and review before spending on the next phase. Do not start more than two new agents at once.
-- **GDPR and Belgian bar rules not being met for personal data in the tools**: Keep a short data processing register, set retention limits on anything the agents store, and check the setup with your compliance advisor before phase 2 begins.
+## 3. Roll out in controlled waves, keep human review, and measure saved time weekly
+Run phase 1 with a small group of willing lawyers and secretaries, keep human sign-off on all advice and dates, and review output quality each week. After the first results are proven, expand the same agents to more teams and add phase 2 use cases.
 
-## KPIs
-- Hours saved per week across the firm (target: around 60 by the end of phase 3)
-- Deadlines missed or entered late (target: zero)
-- Average working days from client question to reply
-- Share of draft invoices sent within 5 working days of month end
-- Average contract review turnaround in days
-- Share of agent drafts changed or rejected by a human reviewer (quality check)
+**Phase 1 (Weeks 1-6): Prove value with three agents in employment, intake, and deadlines**
+- Map approved employment clauses and intake fields
+- Build and test employment contract agent in Word and DMS
+- Connect intake agent to Outlook, practice system, and CRM
+- Set deadline tracker to read contracts and matter notes
+- Train pilot users and review outputs weekly
 
-## Quote: phase 1
+**Phase 2 (Weeks 7-14): Add document review, billing, and due diligence support**
+- Extend contract clause review to commercial matters
+- Connect billing agent to time and billing software
+- Build due diligence compilation and tagging agent
+- Set quality checks for flagged clauses and invoices
+- Expand phase 1 agents to more lawyers and secretaries
+
+**Phase 3 (Weeks 15-24): Extend to administration, finance, and CRM data quality**
+- Add meeting scheduling agent for secretaries
+- Connect supplier invoice agent to accounting software
+- Launch CRM data clean and referral tracking agent
+- Build monthly management report on saved time and quality
+- Review new use cases before adding more agents
+
+**Risks**
+- **Confidentiality and legal privilege could be exposed if client data is used in the wrong tool.**: Use firm-approved systems, restrict access by role, keep client data inside existing practice and document systems, and require human review before any output leaves the firm.
+- **Incorrect agent output could lead to wrong advice or a missed deadline.**: Keep human sign-off for all legal advice, dates, and client communications. Sample review agent outputs weekly and correct errors before wider use.
+- **Lawyers and secretaries may not trust or use the new agents.**: Involve willing lawyers and secretaries in design, start with low-risk tasks, show weekly time savings, and let users request changes.
+- **Poor data quality or missing integrations could slow the rollout.**: Start with export and import where direct connections are not ready, clean reference data before go-live, and keep each agent limited to one clear task.
+- **Scope creep could spread attention and delay results.**: Fix the phase 1 use cases, review progress monthly, and only add new agents after the first three show reliable output and time savings.
+
+**KPIs**
+- Hours saved per week by agent, verified by team leads
+- Percentage of first drafts accepted with minor edits
+- Average intake to matter opening time
+- Number of missed deadlines or renewal notices
+- Invoice draft cycle time from time entry close
+- Weekly active use of phase 1 agents by lawyers and support staff
+
+## Investment: phase 1 costs $2,470 a month and gives back $8,227 a month in time
 | Agent | Saves | Setup | Monthly |
 |---|---:|---:|---:|
-| Contract first-pass review against your playbook | 10h/wk | $1,290 | $650 |
-| Deadline and tribunal calendar agent | 8h/wk | $1,290 | $520 |
-| Time entry review and draft invoices | 8h/wk | $1,290 | $520 |
-| **Total** | **26h/wk** | **$3,870** | **$1,690** |
+| Employment contracts drafted from approved templates | 16h/wk | $790 | $1,040 |
+| Client intake and conflict checks run before matter opening | 12h/wk | $790 | $780 |
+| Deadlines and contract renewals tracked in one alert list | 10h/wk | $790 | $650 |
+| **Total** | **38h/wk** | **$2,370** | **$2,470** |
 
-Setup is free when the agents run for 4 months. Full rollout of all 9 opportunities: $11,210 setup, $4,040/month.
+Setup is free when the agents run for 4 months. Full rollout of all 9 opportunities: $8,910 setup, $7,720/month.
+
+## Appendix: background
+- **Industry:** Legal services
+- **What they do:** Lumen Legal is a 45 person law firm in Antwerp, Belgium. You advise businesses on employment and commercial law, draft and review contracts, track deadlines, and handle client intake, time recording, and billing. Your clients are mainly companies and employers that need regular legal support in Belgium.
+- **Customers:** Businesses and employers in Belgium, including SMEs, HR teams, and commercial companies that need employment and commercial legal support.
+- **Team size:** 11-50 (estimate 45)
+- **Tools:** Microsoft 365 (Outlook, Word, Excel), Legal practice management software, Time and billing software, Document management system, Adobe Acrobat or PDF editing tools, E-signature software, VOIP phone system
+- **AI maturity:** 2/5, Early. You have strong Microsoft 365 and practice management systems, but no visible AI agents in daily legal or admin work. Start with supervised agents on structured tasks.
+
+| Department | People | Roles |
+|---|---:|---|
+| Employment Law | 12 | Employment Lawyer (8), Paralegal (3), Legal Secretary (1) |
+| Commercial Law | 12 | Commercial Lawyer (8), Paralegal (3), Legal Secretary (1) |
+| Paralegal and Document Support | 8 | Paralegal (5), Document Reviewer (3) |
+| Legal Secretaries and Administration | 6 | Legal Secretary (4), Office Administrator (2) |
+| Finance and Billing | 4 | Finance Manager (1), Billing Specialist (2), Bookkeeper (1) |
+| Client Intake and CRM | 3 | Intake Coordinator (2), CRM Administrator (1) |
 
 ---
 Want this for your own company? **[Get your free AI strategy →](https://completeaistrategy.com)**

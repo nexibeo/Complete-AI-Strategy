@@ -5,149 +5,67 @@
 
 | Hours saved per week | Value per year | Roles freed up | Opportunities |
 |---:|---:|---:|---:|
-| **86h** | **$197,800** | **2.2 FTE** | **8** |
+| **179h** | **$411,700** | **4.5 FTE** | **9** |
 
-## Summary
-Harborline Freight runs on a TMS, Exact Online, Outlook, and many Excel sheets. Your 85-person team handles planning, customs, service, finance, sales, and warehouse work, and most repetitive admin still sits with people. Start with customs declarations, shipment status replies, invoice matching, and quote prep. These are high-volume, document-heavy tasks where an agent can draft, check, and follow up while your team approves exceptions. Keep warehouse automation out of phase one because the work is mostly physical.
+## Our recommendation
+**Start with a shipment status agent, a customs declaration assistant, and an invoice matching agent to cut repetitive admin, speed customer answers, and free your team for exceptions.**
 
-## Company snapshot
-- **Industry:** Freight forwarding and logistics
-- **What they do:** Harborline Freight is a road and sea freight forwarder based in Rotterdam, Netherlands. You book container and truck transport for importers, handle customs paperwork, track shipments, and invoice clients. Your team of about 85 people runs planning, customs, customer service, finance, sales, and warehouse operations.
-- **Customers:** Importers and exporters that need road and sea transport, customs clearance, and shipment visibility. Likely small to mid-sized trading companies and manufacturers shipping into and out of Europe.
-- **Team size:** 51-200 (estimate 85)
-- **Tools:** Microsoft Excel, Microsoft Outlook, Transportation Management System (TMS), Exact Online
-- **AI maturity:** 2/5, Early. You have core systems in place, but AI use is limited to occasional manual experiments. Data lives in TMS, Exact Online, Outlook, and Excel, so agents need careful mapping before they can act.
+Harborline Freight runs road and sea freight forwarding from Rotterdam with about 85 staff across planning, customs, customer service, finance, sales, and warehouse. Most daily work runs through Outlook, Excel, a TMS, and Exact Online. Bookings, customs paperwork, shipment tracking, and billing still depend on people copying data between email, spreadsheets, and the TMS. As volumes rise, delays and errors show up in customer updates, declarations, and invoices.
 
-## Team and roles
-| Department | People | Roles |
-|---|---:|---|
-| Planning | 15 | Freight Planner (7), Route Optimizer (4), Capacity Coordinator (4) |
-| Customs | 12 | Customs Declarant (8), Compliance Specialist (4) |
-| Customer Service | 15 | Account Coordinator (8), Tracking Specialist (7) |
-| Finance | 10 | Accounts Receivable Clerk (4), Accounts Payable Clerk (3), Billing Clerk (3) |
-| Sales | 10 | Account Manager (6), Business Development Representative (4) |
-| Warehouse | 23 | Warehouse Operator (12), Forklift Driver (6), Inventory Clerk (5) |
+1. **Planning, customs, customer service, and finance carry most of the repetitive admin** Shipment status questions, declaration preparation, and invoice matching repeat every day across four departments. These tasks follow clear rules and pull from systems you already use. They are also where small delays create customer complaints and billing disputes.
+2. **Shipment status, customs drafts, and invoice matching give fast proof with low effort** Each of these three agents connects to Outlook and the TMS without replacing your core systems. Customs and invoice work keep a human approval step, so risk stays controlled. Customer service sees faster answers within weeks, which builds support for wider use.
+3. **Start with human review, then expand to planning, sales, warehouse, and compliance** Run the first three agents with a named owner in each department and a daily review of outputs. Fix data gaps in the TMS before adding more connections. Once error rates and time savings hold, add planning, sales, carrier invoice, warehouse, and compliance agents in the same way.
 
-## Opportunities
-| # | Opportunity | Department | Hours/week | Impact | Effort |
-|---:|---|---|---:|:-:|:-:|
-| 1 | Customs declarations drafted and checked before submission | Customs | 16 | 5/5 | 4/5 |
-| 2 | Shipment status replies sent without manual portal checks | Customer Service | 18 | 5/5 | 3/5 |
-| 3 | Invoice matching and overdue reminders handled daily | Finance | 12 | 4/5 | 3/5 |
-| 4 | Capacity updates and booking confirmations prepared for planners | Planning | 10 | 4/5 | 3/5 |
-| 5 | Rate quotes prepared from your own rate sheets | Sales | 9 | 4/5 | 2/5 |
-| 6 | Goods checked against paperwork on arrival | Warehouse | 8 | 3/5 | 3/5 |
-| 7 | Supplier bills entered and checked before payment runs | Finance | 8 | 3/5 | 3/5 |
-| 8 | Customs rule changes summarized for your team | Customs | 5 | 3/5 | 2/5 |
+**Phase 1 at a glance:** Shipment status questions answered automatically · Customs declarations prepared before review · Client invoices matched and prepared automatically. About 86 hours a week back for $5,590/month (setup $3,370, free on a 4-month run).
 
-### 1. Customs declarations drafted and checked before submission
-An agent reads commercial invoices, packing lists, and transport documents, then suggests HS codes and fills the customs declaration. It flags gaps or mismatches for a declarant to review before submission.
+## 1. Planning, customs, customer service, and finance carry most of the repetitive admin
+Shipment status questions, declaration preparation, and invoice matching repeat every day across four departments. These tasks follow clear rules and pull from systems you already use. They are also where small delays create customer complaints and billing disputes.
 
-**Saves ~16h per week** · Roles: Customs Declarant, Compliance Specialist · Tools: TMS, Outlook, Customs portal, Excel
+| Department | Hours saved / week | Share |
+|---|---:|---:|
+| Finance | 44 | 25% |
+| Customs | 40 | 22% |
+| Planning | 34 | 19% |
+| Customer Service | 32 | 18% |
+| Sales | 15 | 8% |
+| Warehouse | 14 | 8% |
 
-```mermaid
-flowchart LR
-  subgraph Today
-    B0["Collect invoice, packing list, and transport documents"]
-    B1["Look up HS codes manually"]
-    B2["Type the declaration into the customs portal"]
-    B3["Check details against the paperwork"]
-    B4["Submit and save confirmation"]
-    B0 --> B1 --> B2 --> B3 --> B4
-  end
-  subgraph WithAI[With AI]
-    A0["Agent reads new documents from Outlook and TMS"]
-    A1["Agent suggests HS codes and fills the declaration"]
-    A2["You: Reviews exceptions and approves the declaration"]
-    A3["Agent submits to the customs portal and logs the result"]
-    A4["You: Handles customs queries and audits"]
-    A0 --> A1 --> A2 --> A3 --> A4
-  end
-  classDef ai fill:#154899,color:#fff,stroke:#154899
-  classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
-  class A0,A1,A3 ai
-  class A2,A4 human
-```
+## 2. Shipment status, customs drafts, and invoice matching give fast proof with low effort
+Each of these three agents connects to Outlook and the TMS without replacing your core systems. Customs and invoice work keep a human approval step, so risk stays controlled. Customer service sees faster answers within weeks, which builds support for wider use.
 
-### 2. Shipment status replies sent without manual portal checks
-An agent checks carrier tracking portals and the TMS for each active shipment, then drafts status replies and delay notices. Your team reviews unusual cases and sends the final message.
+| # | Opportunity | Department | Hours/week | Impact | Effort | Phase |
+|---:|---|---|---:|:-:|:-:|:-:|
+| 1 | Shipment status questions answered automatically | Customer Service | 32 | 5/5 | 2/5 | 1 |
+| 2 | Customs declarations prepared before review | Customs | 30 | 5/5 | 3/5 | 1 |
+| 3 | Client invoices matched and prepared automatically | Finance | 24 | 4/5 | 3/5 | 1 |
+| 4 | Capacity requests and rate comparisons handled faster | Planning | 18 | 4/5 | 3/5 | later |
+| 5 | Route change messages sent to drivers and customers | Planning | 16 | 3/5 | 2/5 | later |
+| 6 | Carrier invoices checked against bookings | Finance | 20 | 4/5 | 3/5 | later |
+| 7 | Rate quotes for importers drafted in minutes | Sales | 15 | 4/5 | 2/5 | later |
+| 8 | Warehouse inventory counts updated without paper | Warehouse | 14 | 3/5 | 4/5 | later |
+| 9 | Customs rule changes summarized for compliance | Customs | 10 | 3/5 | 2/5 | later |
 
-**Saves ~18h per week** · Roles: Account Coordinator, Tracking Specialist · Tools: TMS, Carrier portals, Outlook, Excel
+### 1. Shipment status questions answered automatically (phase 1)
+The agent reads shipment status emails, checks the TMS and carrier tracking pages, and drafts a reply with the latest milestone. It also sends daily arrival notices and flags shipments with no update for more than 24 hours.
+
+**Saves ~32h per week** · Roles: Customer Service Rep, Shipment Tracker · Tools: Outlook, TMS, Carrier tracking portals
 
 ```mermaid
 flowchart LR
   subgraph Today
-    B0["Open carrier portals one by one"]
-    B1["Copy reference numbers"]
-    B2["Update Excel tracking sheets"]
-    B3["Write status emails"]
-    B4["Send delay notices"]
+    B0["Customer emails ask where the container is"]
+    B1["Rep opens TMS and carrier site"]
+    B2["Rep copies milestone into email"]
+    B3["Rep logs request in TMS"]
+    B4["Tracker compiles daily report manually"]
     B0 --> B1 --> B2 --> B3 --> B4
   end
   subgraph WithAI[With AI]
-    A0["Agent checks carrier portals and TMS on a schedule"]
-    A1["Agent updates tracking sheet and drafts replies"]
-    A2["You: Reviews flagged delays and edits wording"]
-    A3["Agent sends routine status updates"]
-    A4["You: Handles complaints and urgent reroutes"]
-    A0 --> A1 --> A2 --> A3 --> A4
-  end
-  classDef ai fill:#154899,color:#fff,stroke:#154899
-  classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
-  class A0,A1,A3 ai
-  class A2,A4 human
-```
-
-### 3. Invoice matching and overdue reminders handled daily
-An agent pulls invoices from Exact Online, matches incoming payments, and drafts polite overdue reminders. It lists partial payments and disputes for a clerk to resolve.
-
-**Saves ~12h per week** · Roles: Accounts Receivable Clerk, Billing Clerk · Tools: Exact Online, Outlook, Excel
-
-```mermaid
-flowchart LR
-  subgraph Today
-    B0["Generate invoices in Exact Online"]
-    B1["Download bank payment files"]
-    B2["Match payments to invoices in Excel"]
-    B3["Check overdue list"]
-    B4["Write reminder emails one by one"]
-    B0 --> B1 --> B2 --> B3 --> B4
-  end
-  subgraph WithAI[With AI]
-    A0["Agent pulls invoices and payments from Exact Online"]
-    A1["Agent matches payments and flags differences"]
-    A2["You: Reviews disputes and partial payments"]
-    A3["Agent drafts and sends reminder emails"]
-    A4["You: Approves write-offs or payment plans"]
-    A0 --> A1 --> A2 --> A3 --> A4
-  end
-  classDef ai fill:#154899,color:#fff,stroke:#154899
-  classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
-  class A0,A1,A3 ai
-  class A2,A4 human
-```
-
-### 4. Capacity updates and booking confirmations prepared for planners
-An agent tracks available truck and container space from carrier updates and the TMS, then prepares booking confirmations and updates the capacity sheet. Planners step in when capacity is tight or a booking needs a decision.
-
-**Saves ~10h per week** · Roles: Capacity Coordinator, Freight Planner · Tools: TMS, Outlook, Excel, Carrier portals
-
-```mermaid
-flowchart LR
-  subgraph Today
-    B0["Check carrier emails and schedule pages"]
-    B1["Update capacity Excel sheet"]
-    B2["Draft booking confirmations"]
-    B3["Send confirmations to carriers"]
-    B4["Adjust plans in TMS"]
-    B0 --> B1 --> B2 --> B3 --> B4
-  end
-  subgraph WithAI[With AI]
-    A0["Agent reads carrier updates and TMS capacity data"]
-    A1["Agent updates the capacity sheet"]
-    A2["Agent drafts booking confirmations"]
-    A3["You: Reviews tight capacity and approves bookings"]
-    A4["Agent sends confirmations and logs them in TMS"]
+    A0["Agent reads email and matches shipment ID"]
+    A1["Agent pulls latest status from TMS and carrier pages"]
+    A2["Agent drafts reply with milestone and expected date"]
+    A3["You: Rep reviews and sends replies for exceptions"]
+    A4["Agent sends arrival notices and flags missing updates"]
     A0 --> A1 --> A2 --> A3 --> A4
   end
   classDef ai fill:#154899,color:#fff,stroke:#154899
@@ -156,27 +74,27 @@ flowchart LR
   class A3 human
 ```
 
-### 5. Rate quotes prepared from your own rate sheets
-An agent reads a quote request, finds the right rates in your Excel rate sheets and TMS, and drafts a quote in Outlook. Account managers set final prices and approve discounts.
+### 2. Customs declarations prepared before review (phase 1)
+The agent collects invoices and packing lists from email, pulls shipment details from the TMS, and prepares a draft import declaration with suggested tariff codes. It checks the draft against past entries and submits only after a declarant approves.
 
-**Saves ~9h per week** · Roles: Account Manager, Business Development Representative · Tools: Outlook, Excel, TMS
+**Saves ~30h per week** · Roles: Customs Declarant, Customs Assistant · Tools: Outlook, TMS, Customs portal, Excel
 
 ```mermaid
 flowchart LR
   subgraph Today
-    B0["Read quote request email"]
-    B1["Open rate sheets and TMS"]
-    B2["Calculate route and surcharges"]
-    B3["Type quote in Outlook"]
-    B4["Follow up manually"]
+    B0["Assistant collects invoices and packing lists"]
+    B1["Declarant opens TMS and customs portal"]
+    B2["Declarant classifies goods and types declaration"]
+    B3["Declarant submits entry"]
+    B4["Rejected entries are fixed manually"]
     B0 --> B1 --> B2 --> B3 --> B4
   end
   subgraph WithAI[With AI]
-    A0["Agent reads the request and pulls matching rates"]
-    A1["Agent drafts the quote with options"]
-    A2["You: Checks margin and approves final price"]
-    A3["Agent sends the quote and logs it"]
-    A4["Agent follows up after three days"]
+    A0["Agent collects documents from email and TMS"]
+    A1["Agent drafts declaration and suggests tariff codes"]
+    A2["You: Declarant reviews and corrects codes"]
+    A3["Agent submits approved entry to customs portal"]
+    A4["Agent logs clearance status in TMS"]
     A0 --> A1 --> A2 --> A3 --> A4
   end
   classDef ai fill:#154899,color:#fff,stroke:#154899
@@ -185,56 +103,27 @@ flowchart LR
   class A2 human
 ```
 
-### 6. Goods checked against paperwork on arrival
-An agent compares scanned packing lists and labels against expected cargo data, then updates inventory records and flags short or damaged shipments. Warehouse staff still handle physical checks and put-away.
+### 3. Client invoices matched and prepared automatically (phase 1)
+The agent builds draft client invoices from TMS shipment data and rate agreements, then matches each invoice to the job file. It checks for missing charges and routes only unclear cases to billing staff.
 
-**Saves ~8h per week** · Roles: Inventory Clerk, Warehouse Operator · Tools: Excel, TMS, Outlook, Scanner exports
-
-```mermaid
-flowchart LR
-  subgraph Today
-    B0["Print paperwork for incoming load"]
-    B1["Check labels against packing list"]
-    B2["Note shortages or damage"]
-    B3["Update inventory Excel sheet"]
-    B4["File paperwork"]
-    B0 --> B1 --> B2 --> B3 --> B4
-  end
-  subgraph WithAI[With AI]
-    A0["Agent reads scanned paperwork and TMS cargo data"]
-    A1["Agent compares expected vs received details"]
-    A2["You: Checks physical cargo and confirms mismatches"]
-    A3["Agent updates inventory records and flags issues"]
-    A4["You: Resolves damage claims or shortages"]
-    A0 --> A1 --> A2 --> A3 --> A4
-  end
-  classDef ai fill:#154899,color:#fff,stroke:#154899
-  classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
-  class A0,A1,A3 ai
-  class A2,A4 human
-```
-
-### 7. Supplier bills entered and checked before payment runs
-An agent reads supplier bills from Outlook, enters them in Exact Online, and checks amounts against contracts or rate agreements. A clerk approves the payment run and handles price disputes.
-
-**Saves ~8h per week** · Roles: Accounts Payable Clerk · Tools: Exact Online, Outlook, Excel
+**Saves ~24h per week** · Roles: Accounts Receivable Clerk, Billing Specialist · Tools: TMS, Exact Online, Excel, Outlook
 
 ```mermaid
 flowchart LR
   subgraph Today
-    B0["Open supplier bill emails"]
-    B1["Type bills into Exact Online"]
-    B2["Check against contract or rate sheet"]
-    B3["Flag differences manually"]
-    B4["Prepare payment run list"]
+    B0["AR clerk exports shipment data from TMS"]
+    B1["Clerk checks rate agreement in Excel"]
+    B2["Clerk creates invoice in Exact Online"]
+    B3["Clerk matches invoice to job file"]
+    B4["Billing specialist fixes errors"]
     B0 --> B1 --> B2 --> B3 --> B4
   end
   subgraph WithAI[With AI]
-    A0["Agent reads supplier bills from a shared mailbox"]
-    A1["Agent enters bills in Exact Online"]
-    A2["Agent checks amounts against contracts"]
-    A3["You: Reviews flagged differences and approves"]
-    A4["Agent prepares the payment run list"]
+    A0["Agent pulls shipment data and rate agreement"]
+    A1["Agent creates draft invoice in Exact Online"]
+    A2["Agent matches invoice to job file and flags missing charges"]
+    A3["You: Billing specialist reviews flagged invoices"]
+    A4["Agent posts approved invoices and updates tracker"]
     A0 --> A1 --> A2 --> A3 --> A4
   end
   classDef ai fill:#154899,color:#fff,stroke:#154899
@@ -243,27 +132,27 @@ flowchart LR
   class A3 human
 ```
 
-### 8. Customs rule changes summarized for your team
-An agent watches official customs sites and newsletters, summarizes changes that affect your routes and products, and flags declarations that may need a second look. Compliance staff decide what to change.
+### 4. Capacity requests and rate comparisons handled faster
+The agent sends rate requests to regular carriers, collects replies, and puts truck and container prices into a comparison sheet. Planners see the best options first and approve bookings.
 
-**Saves ~5h per week** · Roles: Compliance Specialist, Customs Declarant · Tools: Outlook, Customs websites, Excel
+**Saves ~18h per week** · Roles: Capacity Buyer, Freight Planner · Tools: Outlook, Excel, TMS
 
 ```mermaid
 flowchart LR
   subgraph Today
-    B0["Visit customs websites"]
-    B1["Skim newsletters"]
-    B2["Copy relevant updates into emails"]
-    B3["Check past declarations manually"]
-    B4["Brief team in meetings"]
+    B0["Buyer emails carriers for rates"]
+    B1["Replies arrive in different formats"]
+    B2["Buyer copies rates into Excel"]
+    B3["Buyer compares prices manually"]
+    B4["Planner books capacity"]
     B0 --> B1 --> B2 --> B3 --> B4
   end
   subgraph WithAI[With AI]
-    A0["Agent monitors customs sources and newsletters"]
-    A1["Agent writes a short summary for your routes"]
-    A2["Agent flags affected declarations"]
-    A3["You: Decides rule impact and training needs"]
-    A4["Agent logs decisions for audit"]
+    A0["Agent sends rate requests from approved carrier list"]
+    A1["Agent reads replies and normalizes prices"]
+    A2["Agent ranks options by price and transit time"]
+    A3["You: Buyer checks unusual rates and approves"]
+    A4["Agent books approved capacity in TMS"]
     A0 --> A1 --> A2 --> A3 --> A4
   end
   classDef ai fill:#154899,color:#fff,stroke:#154899
@@ -272,52 +161,216 @@ flowchart LR
   class A3 human
 ```
 
-## Roadmap
-**Phase 1 (Weeks 1 to 4): Pick two safe wins and set the rules**
-- Connect agents to Outlook and Excel only, no automatic sends.
-- Start with shipment status drafts and customs document pre-fill.
-- Write clear rules for when a human must approve.
-- Train one owner per department.
-- Review output daily for two weeks.
+### 5. Route change messages sent to drivers and customers
+The agent watches the TMS for route changes and delay flags, then drafts driver instructions and customer delay notices. Coordinators approve messages before they go out.
 
-**Phase 2 (Weeks 5 to 12): Add finance and planning agents**
-- Connect Exact Online for invoice matching and supplier bills.
-- Connect TMS read access for planning capacity updates.
-- Run quote prep for two account managers.
-- Set exception queues for disputes, delays, and customs checks.
-- Measure hours saved and error rates weekly.
+**Saves ~16h per week** · Roles: Route Coordinator, Freight Planner · Tools: TMS, Outlook, Excel
 
-**Phase 3 (Weeks 13 to 24): Scale what works and stop what does not**
-- Expand customs and service agents to all teams.
-- Add warehouse paperwork check for one inbound dock.
-- Review every agent monthly against KPIs.
-- Remove agents that create more checks than they save.
-- Train new staff on human review steps.
+```mermaid
+flowchart LR
+  subgraph Today
+    B0["Planner updates route in TMS"]
+    B1["Coordinator calls or emails driver"]
+    B2["Coordinator emails customer service"]
+    B3["Customer service informs customer"]
+    B4["Changes are logged later"]
+    B0 --> B1 --> B2 --> B3 --> B4
+  end
+  subgraph WithAI[With AI]
+    A0["Agent detects route change in TMS"]
+    A1["Agent drafts driver message and customer notice"]
+    A2["You: Coordinator reviews and approves"]
+    A3["Agent sends messages and logs them in TMS"]
+    A4["Agent updates on-time performance sheet"]
+    A0 --> A1 --> A2 --> A3 --> A4
+  end
+  classDef ai fill:#154899,color:#fff,stroke:#154899
+  classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
+  class A0,A1,A3,A4 ai
+  class A2 human
+```
 
-## Risks
-- **Bad customs or HS code suggestions could cause delays or fines.**: Keep a declarant approval on every declaration and sample audit 10 percent of agent drafts each week.
-- **Clients may notice automated replies and lose trust.**: Use your own tone, sign with a named coordinator, and review delay messages before sending for the first month.
-- **Excel and TMS data may be messy, so agents give wrong answers.**: Clean the rate sheets and key TMS fields before each rollout, and give agents read-only access at first.
-- **Staff may avoid the agents or use them in the wrong way.**: Name a department owner, run short training, and track usage and exception rates in weekly meetings.
-- **Over-automation could hide problems until they get large.**: Set approval limits and exception queues, and review agent logs every week for missed items.
+### 6. Carrier invoices checked against bookings
+The agent enters carrier invoices from email or PDF into Exact Online and matches them to the original booking. It flags rate differences for the AP clerk to review before payment.
 
-## KPIs
-- Average time to answer a shipment status email
-- Customs declarations submitted with no correction
-- Overdue invoices older than 30 days as a share of total
-- Quote turnaround time from request to sent quote
-- Agent drafts approved without change
-- Hours saved per week across live agents
+**Saves ~20h per week** · Roles: Accounts Payable Clerk · Tools: Outlook, TMS, Exact Online
 
-## Quote: phase 1
+```mermaid
+flowchart LR
+  subgraph Today
+    B0["Carrier invoice arrives by email"]
+    B1["AP clerk opens invoice PDF"]
+    B2["Clerk finds booking in TMS"]
+    B3["Clerk enters invoice in Exact Online"]
+    B4["Clerk queries rate differences by email"]
+    B0 --> B1 --> B2 --> B3 --> B4
+  end
+  subgraph WithAI[With AI]
+    A0["Agent reads carrier invoice from email"]
+    A1["Agent matches invoice to booking in TMS"]
+    A2["Agent enters invoice in Exact Online"]
+    A3["Agent flags rate differences"]
+    A4["You: AP clerk reviews flags and approves payment run"]
+    A0 --> A1 --> A2 --> A3 --> A4
+  end
+  classDef ai fill:#154899,color:#fff,stroke:#154899
+  classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
+  class A0,A1,A2,A3 ai
+  class A4 human
+```
+
+### 7. Rate quotes for importers drafted in minutes
+The agent gathers current road and sea rates from approved carrier lists and past quotes, then drafts a quote for the account manager to review. It also prepares follow-up emails for open quotes.
+
+**Saves ~15h per week** · Roles: Account Manager, Sales Rep · Tools: Outlook, Excel, TMS
+
+```mermaid
+flowchart LR
+  subgraph Today
+    B0["Importer asks for a rate"]
+    B1["Account manager checks carrier rate sheets"]
+    B2["Manager builds quote in Excel"]
+    B3["Manager emails quote"]
+    B4["Manager follows up manually"]
+    B0 --> B1 --> B2 --> B3 --> B4
+  end
+  subgraph WithAI[With AI]
+    A0["Agent reads quote request from email"]
+    A1["Agent pulls current rates and past similar quotes"]
+    A2["Agent drafts quote and follow-up email"]
+    A3["You: Account manager reviews and sends quote"]
+    A4["Agent tracks quote status and reminds owner"]
+    A0 --> A1 --> A2 --> A3 --> A4
+  end
+  classDef ai fill:#154899,color:#fff,stroke:#154899
+  classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
+  class A0,A1,A2,A4 ai
+  class A3 human
+```
+
+### 8. Warehouse inventory counts updated without paper
+The agent takes scanned goods data and updates inventory sheets, then flags count differences for the inventory clerk. Supervisors get a daily exception list instead of full manual counts.
+
+**Saves ~14h per week** · Roles: Inventory Clerk, Warehouse Supervisor · Tools: Warehouse scanner system, Excel, Outlook
+
+```mermaid
+flowchart LR
+  subgraph Today
+    B0["Operatives scan goods into storage"]
+    B1["Inventory clerk prints count sheets"]
+    B2["Clerk counts stock by hand"]
+    B3["Clerk updates Excel inventory sheet"]
+    B4["Supervisor investigates differences"]
+    B0 --> B1 --> B2 --> B3 --> B4
+  end
+  subgraph WithAI[With AI]
+    A0["Agent pulls scan data from warehouse system"]
+    A1["Agent updates inventory sheet"]
+    A2["Agent flags differences above threshold"]
+    A3["You: Inventory clerk counts only flagged items"]
+    A4["Agent sends daily exception report to supervisor"]
+    A0 --> A1 --> A2 --> A3 --> A4
+  end
+  classDef ai fill:#154899,color:#fff,stroke:#154899
+  classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
+  class A0,A1,A2,A4 ai
+  class A3 human
+```
+
+### 9. Customs rule changes summarized for compliance
+The agent monitors official customs and permit sources for changes that affect Harborline's lanes and goods. It drafts a short weekly summary and flags licenses that need review.
+
+**Saves ~10h per week** · Roles: Compliance Clerk · Tools: Web sources, Outlook, Excel
+
+```mermaid
+flowchart LR
+  subgraph Today
+    B0["Clerk checks customs websites"]
+    B1["Clerk reads long updates"]
+    B2["Clerk notes possible impacts in a file"]
+    B3["Clerk emails affected teams"]
+    B4["License checks are done separately"]
+    B0 --> B1 --> B2 --> B3 --> B4
+  end
+  subgraph WithAI[With AI]
+    A0["Agent monitors official sources and trade news"]
+    A1["Agent summarizes changes for your lanes"]
+    A2["Agent flags licenses and permits to review"]
+    A3["You: Compliance clerk confirms impact and actions"]
+    A4["Agent stores summary in compliance records"]
+    A0 --> A1 --> A2 --> A3 --> A4
+  end
+  classDef ai fill:#154899,color:#fff,stroke:#154899
+  classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
+  class A0,A1,A2,A4 ai
+  class A3 human
+```
+
+## 3. Start with human review, then expand to planning, sales, warehouse, and compliance
+Run the first three agents with a named owner in each department and a daily review of outputs. Fix data gaps in the TMS before adding more connections. Once error rates and time savings hold, add planning, sales, carrier invoice, warehouse, and compliance agents in the same way.
+
+**Phase 1 (Weeks 1-6): Prove three agents on everyday admin**
+- Map shipment status emails, customs documents, and invoice data to TMS fields
+- Build the shipment status agent with a customer service review step
+- Build the customs declaration draft agent with declarant approval
+- Build the invoice matching agent with billing specialist review
+- Track time saved, reply speed, and error rates each week
+
+**Phase 2 (Weeks 7-14): Connect planning, sales, and carrier invoice work**
+- Add capacity request and rate comparison agent for planning
+- Add route change message agent for drivers and customers
+- Add carrier invoice matching agent for accounts payable
+- Add rate quote drafting agent for sales
+- Review results with department owners before moving on
+
+**Phase 3 (Weeks 15-24): Extend to warehouse and compliance, then scale what works**
+- Add inventory update agent for warehouse scan data
+- Add customs rule summary agent for compliance
+- Tune first three agents based on six months of use
+- Set a monthly review of accuracy, time saved, and staff feedback
+- Decide which agents to expand to more teams or lanes
+
+**Risks**
+- **Bad TMS data leads to wrong customer replies or invoices**: Start with human review, add confidence flags, and clean key fields before each agent goes live.
+- **Customs mistakes create fines or delayed clearance**: Keep declarant approval before submission, limit tariff suggestions, and store an audit log of every draft.
+- **Staff worry that agents will replace their jobs**: Explain that agents handle repetitive steps, train people for exception handling, and share time saved with the team.
+- **Carrier portals change or block automated access**: Use email and TMS data first, add portal access only where allowed, and keep manual fallback steps documented.
+- **Invoice errors hurt cash flow or client trust**: Run sample checks for the first month, set approval thresholds, and review a weekly reconciliation report.
+
+**KPIs**
+- Share of shipment status emails answered within 2 hours
+- Customs declarations submitted without rejection
+- Invoice matching accuracy and days from shipment to invoice
+- Hours saved per week by team
+- Quote response time for importer requests
+- On-time customer update rate for delayed shipments
+
+## Investment: phase 1 costs $5,590 a month and gives back $18,619 a month in time
 | Agent | Saves | Setup | Monthly |
 |---|---:|---:|---:|
-| Shipment status replies sent without manual portal checks | 18h/wk | $1,290 | $1,170 |
-| Customs declarations drafted and checked before submission | 16h/wk | $1,890 | $1,040 |
-| Rate quotes prepared from your own rate sheets | 9h/wk | $790 | $580 |
-| **Total** | **43h/wk** | **$3,970** | **$2,790** |
+| Shipment status questions answered automatically | 32h/wk | $790 | $2,080 |
+| Customs declarations prepared before review | 30h/wk | $1,290 | $1,950 |
+| Client invoices matched and prepared automatically | 24h/wk | $1,290 | $1,560 |
+| **Total** | **86h/wk** | **$3,370** | **$5,590** |
 
-Setup is free when the agents run for 4 months. Full rollout of all 8 opportunities: $9,920 setup, $5,580/month.
+Setup is free when the agents run for 4 months. Full rollout of all 9 opportunities: $10,210 setup, $11,630/month.
+
+## Appendix: background
+- **Industry:** Freight forwarding and logistics
+- **What they do:** Harborline Freight is a road and sea freight forwarder based in Rotterdam, Netherlands. You and your team book container and truck transport for importers, handle customs paperwork, track shipments, and invoice clients. The company has about 85 employees across planning, customs, customer service, finance, sales, and warehouse.
+- **Customers:** Importers that need container and truck transport into and through the Netherlands and Europe.
+- **Team size:** 51-200 (estimate 85)
+- **Tools:** Microsoft Excel, Microsoft Outlook, Transportation Management System (TMS), Exact Online
+- **AI maturity:** 2/5, Early piloting. You have core systems and practical Excel skills, but most repetitive work is still manual. A focused first wave of three agents can prove value before a wider rollout.
+
+| Department | People | Roles |
+|---|---:|---|
+| Planning | 18 | Freight Planner (8), Route Coordinator (6), Capacity Buyer (4) |
+| Customs | 12 | Customs Declarant (7), Customs Assistant (3), Compliance Clerk (2) |
+| Customer Service | 15 | Customer Service Rep (10), Shipment Tracker (3), Claims Handler (2) |
+| Finance | 10 | Accounts Receivable Clerk (4), Accounts Payable Clerk (3), Billing Specialist (2), Finance Manager (1) |
+| Sales | 8 | Account Manager (4), Sales Rep (3), Bid Coordinator (1) |
+| Warehouse | 22 | Warehouse Operative (12), Forklift Driver (6), Warehouse Supervisor (2), Inventory Clerk (2) |
 
 ---
 Want this for your own company? **[Get your free AI strategy →](https://completeaistrategy.com)**

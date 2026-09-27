@@ -5,349 +5,333 @@
 
 | Hours saved per week | Value per year | Roles freed up | Opportunities |
 |---:|---:|---:|---:|
-| **92h** | **$211,600** | **2.3 FTE** | **9** |
+| **109h** | **$250,700** | **2.7 FTE** | **8** |
 
-## Summary
-Saffron Table Group runs five full-service restaurants in Amsterdam with about 120 staff and a six-person office team covering HR, finance, and marketing. Your teams already use digital tools for reservations, point of sale, rota planning, supplier ordering, accounting, and reviews, but most follow-up, reporting, and admin work is still manual. The best first wins are in reservations, event quotes, supplier invoices, and rota admin, where small agents can save your team time without changing how the restaurants run. We suggest starting with a few focused agents and keeping humans in control of guest-facing and money decisions. Total realistic savings from the plan below are about 92 staff hours per week across 120 employees.
+## Our recommendation
+**Start with event quote drafting, routine HR roster answers, and daily sales and labor summaries to cut administrative drag, speed guest response, and prove value across your five restaurants.**
 
-## Company snapshot
-- **Industry:** Restaurant and hospitality
-- **What they do:** Saffron Table Group runs five restaurants in Amsterdam. You serve diners, private event hosts, and catering clients with about 120 staff including part-timers. Your office team of six covers HR, finance, and marketing.
-- **Customers:** Local diners, tourists, private event hosts, and corporate catering clients in Amsterdam
-- **Team size:** 51-200 (estimate 120)
-- **Tools:** Reservation system (for example OpenTable or SevenRooms), Point-of-sale system (for example Lightspeed or Toast), Staff rota and scheduling software (for example Planday or D, Supplier ordering and stock tools (for example MarketMan), Accounting software (for example Xero or QuickBooks), Review platforms such as Google Business Profile and TripAdv, Payroll and HR records tools
-- **AI maturity:** 2/5, Early stage. You have core systems in place but no AI agents in daily use. Most guest replies, quotes, roster changes, invoice entry, and reporting are handled by hand, so gains depend on clean data and simple approvals.
+Saffron Table Group runs five Amsterdam restaurants with about 120 staff and a six person office. Daily work depends on reservations, rosters, supplier orders, allergen checks, event quotes and guest feedback across separate systems. Managers and office staff spend too much time retyping information, answering routine questions and chasing approvals. As sites get busier, these manual steps slow guest response, risk errors and hide where the real bottlenecks sit.
 
-## Team and roles
-| Department | People | Roles |
-|---|---:|---|
-| Front of House and Restaurant Operations | 60 | Restaurant Manager (5), Assistant Manager (5), Waiter or Waitstaff (35), Host or Reservations Coordinator (15) |
-| Kitchen and Back of House | 46 | Head Chef (5), Sous Chef (5), Line Cook (25), Kitchen Porter (11) |
-| Events and Catering | 8 | Events Coordinator (3), Catering Chef (3), Event Server (2) |
-| HR and People | 2 | HR Manager (1), HR and Admin Assistant (1) |
-| Finance and Admin | 2 | Finance Manager (1), Accounts Assistant (1) |
-| Marketing and Reviews | 2 | Marketing Manager (1), Marketing and Reviews Coordinator (1) |
+1. **Event, kitchen, and finance admin consume the most repeatable management time** Your five sites create daily reports, rosters, supplier orders, allergen checks and event quotes. Office and management roles touch these most, while front line staff handle guest facing steps. The repeatable work sits in email, spreadsheets and system checks rather than in cooking or serving.
+2. **Event quotes, HR roster answers, and daily trading summaries offer the fastest proof** These three areas use information you already have: event menus and prices, approved HR policies, and POS plus roster data. Each agent can start with email and spreadsheet inputs before deeper system work. They affect coordinators, HR and general managers, so success is visible quickly.
+3. **Run a four week pilot, measure weekly, then scale to all five sites** Set up each agent with a named owner, approved source documents and a human approval step. Review weekly hours saved, response times and error flags. After the pilot, extend the same pattern to supplier orders, allergen checks, finance and marketing, then scale across all five restaurants.
 
-## Opportunities
-| # | Opportunity | Department | Hours/week | Impact | Effort |
-|---:|---|---|---:|:-:|:-:|
-| 1 | Reservation emails and phone requests handled faster | Front of House and Restaurant Operations | 18 | 5/5 | 3/5 |
-| 2 | Event quotes prepared in under an hour | Events and Catering | 10 | 5/5 | 3/5 |
-| 3 | Supplier invoices entered and matched | Finance and Admin | 12 | 4/5 | 3/5 |
-| 4 | Rota gaps filled and holiday requests processed | HR and People | 14 | 4/5 | 3/5 |
-| 5 | Guest reviews answered within one day | Marketing and Reviews | 8 | 4/5 | 2/5 |
-| 6 | Prep lists and supplier orders drafted overnight | Kitchen and Back of House | 10 | 4/5 | 3/5 |
-| 7 | Allergen answers ready for waitstaff | Kitchen and Back of House | 8 | 4/5 | 3/5 |
-| 8 | Daily sales and covers report ready by 9am | Front of House and Restaurant Operations | 6 | 3/5 | 2/5 |
-| 9 | New hire onboarding paperwork chased automatically | HR and People | 6 | 3/5 | 2/5 |
+**Phase 1 at a glance:** Event inquiries answered with draft quotes · Routine HR questions answered from policies and rosters · Daily sales and labor summary ready before opening. About 37 hours a week back for $2,400/month (setup $2,870, free on a 4-month run).
 
-### 1. Reservation emails and phone requests handled faster
-An agent reads booking emails and web forms, checks table availability in your reservation system, and drafts replies with options or waitlist offers. It sends routine confirmations and flags special requests, large parties, and allergy notes to the right manager.
+## 1. Event, kitchen, and finance admin consume the most repeatable management time
+Your five sites create daily reports, rosters, supplier orders, allergen checks and event quotes. Office and management roles touch these most, while front line staff handle guest facing steps. The repeatable work sits in email, spreadsheets and system checks rather than in cooking or serving.
 
-**Saves ~18h per week** · Roles: Host or Reservations Coordinator, Restaurant Manager · Tools: OpenTable or SevenRooms, Email inbox, Web booking forms
+| Department | Hours saved / week | Share |
+|---|---:|---:|
+| HR | 20 | 18% |
+| Front of House | 20 | 18% |
+| Kitchen and Back of House | 18 | 17% |
+| Finance | 16 | 15% |
+| Restaurant Operations | 15 | 14% |
+| Events and Catering | 12 | 11% |
+| Marketing | 8 | 7% |
+
+## 2. Event quotes, HR roster answers, and daily trading summaries offer the fastest proof
+These three areas use information you already have: event menus and prices, approved HR policies, and POS plus roster data. Each agent can start with email and spreadsheet inputs before deeper system work. They affect coordinators, HR and general managers, so success is visible quickly.
+
+| # | Opportunity | Department | Hours/week | Impact | Effort | Phase |
+|---:|---|---|---:|:-:|:-:|:-:|
+| 1 | Event inquiries answered with draft quotes | Events and Catering | 12 | 4/5 | 2/5 | 1 |
+| 2 | Routine HR questions answered from policies and rosters | HR | 10 | 3/5 | 2/5 | 1 |
+| 3 | Daily sales and labor summary ready before opening | Restaurant Operations | 15 | 4/5 | 3/5 | 1 |
+| 4 | Supplier orders drafted from stock and par levels | Kitchen and Back of House | 18 | 4/5 | 3/5 | later |
+| 5 | Allergen questions checked against menu records | Front of House | 20 | 5/5 | 4/5 | later |
+| 6 | Guest review replies drafted for approval | Marketing | 8 | 3/5 | 2/5 | later |
+| 7 | Supplier invoices entered and matched | Finance | 16 | 4/5 | 3/5 | later |
+| 8 | Interviews scheduled and onboarding paperwork chased | HR | 10 | 3/5 | 2/5 | later |
+
+### 1. Event inquiries answered with draft quotes (phase 1)
+The agent reads event inquiries, checks availability and drafts a reply with menu options and quote details. It logs the inquiry and sets a follow up reminder so coordinators focus on closing and logistics.
+
+**Saves ~12h per week** · Roles: Events Coordinator · Tools: Email, Event booking spreadsheet, Menu and price list, Reservation and table management software
 
 ```mermaid
 flowchart LR
   subgraph Today
-    B0["Guest emails or calls the restaurant."]
-    B1["Host checks the reservation system table by table."]
-    B2["Host replies with available times or adds to waitlist."]
-    B3["Manager handles special requests if time allows."]
-    B4["No-shows and waitlist are updated later."]
+    B0["Inquiry arrives by email or phone"]
+    B1["Coordinator checks the event booking sheet"]
+    B2["Coordinator looks up menu and pricing details"]
+    B3["Coordinator writes the quote and sends it"]
+    B4["Coordinator tracks follow up manually"]
     B0 --> B1 --> B2 --> B3 --> B4
   end
   subgraph WithAI[With AI]
-    A0["Agent reads the booking request and checks availability."]
-    A1["Agent drafts a reply with two or three suitable times."]
-    A2["You: Host approves and sends, or edits if needed."]
-    A3["Agent updates the reservation system and waitlist."]
-    A4["Agent flags large parties and allergy notes to the manager."]
-    A0 --> A1 --> A2 --> A3 --> A4
+    A0["Agent reads inquiry and checks the event booking sheet"]
+    A1["Agent drafts reply with menu options and quote"]
+    A2["You: reviews price and availability, then sends"]
+    A3["Agent logs the quote and sets a follow up reminder"]
+    A0 --> A1 --> A2 --> A3
   end
   classDef ai fill:#154899,color:#fff,stroke:#154899
   classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
-  class A0,A1,A3,A4 ai
+  class A0,A1,A3 ai
   class A2 human
 ```
 
-### 2. Event quotes prepared in under an hour
-An agent turns event inquiry emails into a first draft quote using your menu, minimum spend, and staffing rules. It checks kitchen availability, adds allergen notes, and follows up on quotes that have not been answered.
+### 2. Routine HR questions answered from policies and rosters (phase 1)
+The agent answers common staff questions about shifts, pay dates, leave and uniforms using approved HR documents and roster data. It flags sensitive cases for a human and records repeated questions for FAQ updates.
 
-**Saves ~10h per week** · Roles: Events Coordinator, Catering Chef, Event Server · Tools: Email, Reservation or event calendar, Menu and price documents, Accounting software
-
-```mermaid
-flowchart LR
-  subgraph Today
-    B0["Inquiry arrives by email or phone."]
-    B1["Coordinator asks kitchen for date availability."]
-    B2["Coordinator builds quote from old documents."]
-    B3["Client waits for a reply."]
-    B4["Follow-up happens only if someone remembers."]
-    B0 --> B1 --> B2 --> B3 --> B4
-  end
-  subgraph WithAI[With AI]
-    A0["Agent reads the inquiry and extracts date, headcount, and bu"]
-    A1["Agent checks event calendar and kitchen capacity."]
-    A2["Agent drafts quote with menu options and allergen notes."]
-    A3["You: Events Coordinator reviews and sends."]
-    A4["Agent schedules follow-up reminders and logs the reply."]
-    A0 --> A1 --> A2 --> A3 --> A4
-  end
-  classDef ai fill:#154899,color:#fff,stroke:#154899
-  classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
-  class A0,A1,A2,A4 ai
-  class A3 human
-```
-
-### 3. Supplier invoices entered and matched
-An agent reads supplier invoices from email or PDF, codes them to the right restaurant and supplier, and checks them against orders in your stock or accounting system. It prepares the payment run list and flags price changes or missing delivery notes.
-
-**Saves ~12h per week** · Roles: Accounts Assistant, Finance Manager · Tools: Xero or QuickBooks, MarketMan or supplier ordering tool, Email, Shared drive
+**Saves ~10h per week** · Roles: HR Manager, HR or Payroll Assistant · Tools: Email, Staff rostering and time tracking tools, HR policy documents, Payroll calendar
 
 ```mermaid
 flowchart LR
   subgraph Today
-    B0["Invoices arrive by email and post."]
-    B1["Assistant opens each invoice and types details into accounti"]
-    B2["Assistant matches invoice to supplier order manually."]
-    B3["Finance Manager checks exceptions."]
-    B4["Payment run is prepared from a spreadsheet."]
+    B0["Staff email or call HR with routine questions"]
+    B1["HR checks rostering, payroll calendar and policy files"]
+    B2["HR writes a reply for each question"]
+    B3["HR repeats the same answers across sites"]
+    B4["HR manually tracks common themes"]
     B0 --> B1 --> B2 --> B3 --> B4
   end
   subgraph WithAI[With AI]
-    A0["Agent collects invoices from email and shared folder."]
-    A1["Agent extracts supplier, amount, VAT, and invoice number."]
-    A2["Agent matches to purchase orders and flags differences."]
-    A3["You: Accounts Assistant checks flagged items and approves."]
-    A4["Agent prepares payment run list for Finance Manager."]
-    A0 --> A1 --> A2 --> A3 --> A4
+    A0["Agent reads the question and searches approved policy and ro"]
+    A1["Agent drafts an answer and flags exceptions"]
+    A2["You: confirms sensitive or disciplinary cases"]
+    A3["Agent logs common questions for FAQ updates"]
+    A0 --> A1 --> A2 --> A3
   end
   classDef ai fill:#154899,color:#fff,stroke:#154899
   classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
-  class A0,A1,A2,A4 ai
-  class A3 human
-```
-
-### 4. Rota gaps filled and holiday requests processed
-An agent tracks holiday requests, checks rota rules, and drafts approval replies. When a shift gap appears, it messages available staff by role and updates the rota once a manager approves.
-
-**Saves ~14h per week** · Roles: HR and Admin Assistant, Restaurant Manager, Assistant Manager · Tools: Planday or similar rota tool, Email, Staff messaging app, HR records
-
-```mermaid
-flowchart LR
-  subgraph Today
-    B0["Staff send holiday requests by email or app."]
-    B1["HR Assistant checks rota and contract rules."]
-    B2["Manager approves or rejects by email."]
-    B3["Shift gaps are posted in staff group chats."]
-    B4["Rota is updated manually."]
-    B0 --> B1 --> B2 --> B3 --> B4
-  end
-  subgraph WithAI[With AI]
-    A0["Agent reads holiday requests and checks rota rules."]
-    A1["Agent drafts approval or rejection for HR."]
-    A2["You: HR or Manager approves."]
-    A3["Agent messages available staff when a gap appears."]
-    A4["Agent updates rota after manager confirms."]
-    A0 --> A1 --> A2 --> A3 --> A4
-  end
-  classDef ai fill:#154899,color:#fff,stroke:#154899
-  classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
-  class A0,A1,A3,A4 ai
+  class A0,A1,A3 ai
   class A2 human
 ```
 
-### 5. Guest reviews answered within one day
-An agent drafts replies to Google and TripAdvisor reviews in your brand voice and routes serious complaints to the right restaurant manager. It tracks common themes such as waiting times, noise, or menu requests and sends a weekly summary.
+### 3. Daily sales and labor summary ready before opening (phase 1)
+The agent pulls prior day sales, labor hours and covers for each site and drafts a short morning summary. Managers see variances and open questions before the shift rather than building the report themselves.
 
-**Saves ~8h per week** · Roles: Marketing and Reviews Coordinator, Restaurant Manager · Tools: Google Business Profile, TripAdvisor, Email, Spreadsheets
+**Saves ~15h per week** · Roles: General Manager, Assistant Manager · Tools: Point-of-sale (POS) systems, Staff rostering and time tracking tools, Accounting and payroll software, Email
 
 ```mermaid
 flowchart LR
   subgraph Today
-    B0["Reviews sit unanswered for days."]
-    B1["Coordinator reads each review and writes a reply."]
-    B2["Serious complaints are forwarded by email."]
-    B3["Themes are noticed only anecdotally."]
-    B4["Weekly report is made by hand."]
+    B0["General manager opens POS reports for each site"]
+    B1["Manager checks roster hours and overtime"]
+    B2["Manager compares numbers to budget"]
+    B3["Manager notes issues for the team"]
+    B4["Manager writes or forwards a summary"]
     B0 --> B1 --> B2 --> B3 --> B4
   end
   subgraph WithAI[With AI]
-    A0["Agent collects new reviews each morning."]
-    A1["Agent drafts a reply and a suggested action."]
-    A2["You: Coordinator or Manager approves and posts."]
-    A3["Agent routes serious complaints to the right manager."]
-    A4["Agent sends a weekly themes summary."]
-    A0 --> A1 --> A2 --> A3 --> A4
+    A0["Agent pulls prior day sales, labor and covers by site"]
+    A1["Agent drafts a morning summary with variances and questions"]
+    A2["You: reviews and adds local actions"]
+    A3["Agent sends the summary to managers"]
+    A0 --> A1 --> A2 --> A3
   end
   classDef ai fill:#154899,color:#fff,stroke:#154899
   classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
-  class A0,A1,A3,A4 ai
+  class A0,A1,A3 ai
   class A2 human
 ```
 
-### 6. Prep lists and supplier orders drafted overnight
-An agent reviews upcoming bookings, current stock, and menu plans to draft prep lists and supplier orders. It flags low stock and waste risks, then sends the draft to the Head Chef for approval.
+### 4. Supplier orders drafted from stock and par levels
+The agent reads inventory, par levels and recent deliveries to draft supplier orders by category. Chefs still check fresh quality and confirm quantities before anything is sent.
 
-**Saves ~10h per week** · Roles: Head Chef, Sous Chef, Line Cook · Tools: MarketMan or stock tool, Reservation system, Supplier portal, Spreadsheets
-
-```mermaid
-flowchart LR
-  subgraph Today
-    B0["Head Chef checks bookings and stock."]
-    B1["Sous Chef writes prep lists by hand."]
-    B2["Orders are placed by phone or supplier portal."]
-    B3["Stock gaps are found during service."]
-    B4["Waste is reviewed after the week."]
-    B0 --> B1 --> B2 --> B3 --> B4
-  end
-  subgraph WithAI[With AI]
-    A0["Agent reads bookings, stock, and menu plan."]
-    A1["Agent drafts prep list by section and shift."]
-    A2["Agent drafts supplier order with quantities."]
-    A3["You: Head Chef reviews and approves."]
-    A4["Agent sends order and saves prep list for kitchen."]
-    A0 --> A1 --> A2 --> A3 --> A4
-  end
-  classDef ai fill:#154899,color:#fff,stroke:#154899
-  classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
-  class A0,A1,A2,A4 ai
-  class A3 human
-```
-
-### 7. Allergen answers ready for waitstaff
-An agent keeps a searchable allergen and menu guide updated from kitchen sheets and supplier labels. Waitstaff can ask it plain questions and get an answer with the source and date.
-
-**Saves ~8h per week** · Roles: Head Chef, Sous Chef, Waiter or Waitstaff · Tools: Allergen sheets, Supplier labels, Menu documents, Staff messaging app
+**Saves ~18h per week** · Roles: Head Chef, Sous Chef · Tools: Supplier ordering or inventory tools, Email, Supplier price lists, Spreadsheets
 
 ```mermaid
 flowchart LR
   subgraph Today
-    B0["Waitstaff ask kitchen about allergens during service."]
-    B1["Kitchen checks paper sheets or packets."]
-    B2["Head Chef updates allergen records by hand."]
-    B3["Answers vary between shifts."]
-    B4["New menu items are added slowly."]
+    B0["Chefs check fridges, freezers and dry store"]
+    B1["Chefs note low or missing items"]
+    B2["Chefs review supplier lists and old emails"]
+    B3["Chefs build an order per supplier"]
+    B4["Chefs send orders and track confirmations"]
     B0 --> B1 --> B2 --> B3 --> B4
   end
   subgraph WithAI[With AI]
-    A0["Agent reads kitchen allergen sheets and supplier labels."]
-    A1["Agent builds a searchable guide by dish."]
-    A2["You: Head Chef checks and approves new entries."]
-    A3["Waitstaff ask the agent plain questions during prep."]
-    A4["Agent shows the source and last update date."]
-    A0 --> A1 --> A2 --> A3 --> A4
+    A0["Agent reads inventory, par levels and recent deliveries"]
+    A1["Agent drafts order by supplier with suggested quantities"]
+    A2["You: checks fresh quality and confirms quantities"]
+    A3["Agent sends orders and logs confirmations"]
+    A0 --> A1 --> A2 --> A3
   end
   classDef ai fill:#154899,color:#fff,stroke:#154899
   classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
-  class A0,A1,A3,A4 ai
+  class A0,A1,A3 ai
   class A2 human
 ```
 
-### 8. Daily sales and covers report ready by 9am
-An agent pulls sales, covers, and average spend from the POS and sends a short morning digest for each restaurant. It highlights unusual drops, busy periods, and staff cost against sales.
+### 5. Allergen questions checked against menu records
+The agent searches approved allergen and menu records to suggest safe options and flag uncertainty. Servers still confirm complex cases with the kitchen before advising guests.
 
-**Saves ~6h per week** · Roles: Restaurant Manager, Finance Manager · Tools: Lightspeed or Toast, Spreadsheets, Email
-
-```mermaid
-flowchart LR
-  subgraph Today
-    B0["Managers log into POS for each site."]
-    B1["They export sales and covers to spreadsheets."]
-    B2["Finance checks numbers later in the week."]
-    B3["Issues are spotted late."]
-    B4["Reports are shared in separate emails."]
-    B0 --> B1 --> B2 --> B3 --> B4
-  end
-  subgraph WithAI[With AI]
-    A0["Agent pulls previous day sales and covers from POS."]
-    A1["Agent compares to last week and target."]
-    A2["Agent writes a short digest per restaurant."]
-    A3["You: Restaurant Manager reviews and acts."]
-    A4["Agent sends weekly summary to Finance."]
-    A0 --> A1 --> A2 --> A3 --> A4
-  end
-  classDef ai fill:#154899,color:#fff,stroke:#154899
-  classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
-  class A0,A1,A2,A4 ai
-  class A3 human
-```
-
-### 9. New hire onboarding paperwork chased automatically
-An agent sends new hires the right forms, tracks what is missing, and reminds managers about expiring documents. It keeps a simple dashboard of who is ready to work and what is still outstanding.
-
-**Saves ~6h per week** · Roles: HR Manager, HR and Admin Assistant · Tools: HR records, Email, E-sign or forms tool, Spreadsheets
+**Saves ~20h per week** · Roles: Server, Host or Reservationist · Tools: Allergen and menu management records, Point-of-sale (POS) systems, Kitchen display or email, Menu database
 
 ```mermaid
 flowchart LR
   subgraph Today
-    B0["HR sends forms manually."]
-    B1["New hire returns some documents by email."]
-    B2["HR chases missing items one by one."]
-    B3["Managers are told late about missing papers."]
-    B4["Compliance dates are tracked in a spreadsheet."]
+    B0["Guest asks about allergens"]
+    B1["Server checks notes or asks the kitchen"]
+    B2["Kitchen checks recipe records or binders"]
+    B3["Server relays the answer to the guest"]
+    B4["Request is often not logged"]
     B0 --> B1 --> B2 --> B3 --> B4
   end
   subgraph WithAI[With AI]
-    A0["Agent sends welcome pack and forms from templates."]
-    A1["Agent tracks returned documents and missing items."]
-    A2["Agent sends reminders to new hire and manager."]
-    A3["You: HR checks exceptions and approves."]
-    A4["Agent updates compliance dashboard and expiry alerts."]
-    A0 --> A1 --> A2 --> A3 --> A4
+    A0["Agent searches approved allergen and menu records"]
+    A1["Agent suggests safe options and flags uncertainty"]
+    A2["You: server confirms complex cases with the kitchen"]
+    A3["Agent logs the request for menu review"]
+    A0 --> A1 --> A2 --> A3
   end
   classDef ai fill:#154899,color:#fff,stroke:#154899
   classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
-  class A0,A1,A2,A4 ai
-  class A3 human
+  class A0,A1,A3 ai
+  class A2 human
 ```
 
-## Roadmap
-**Phase 1 (Days 1 to 30): Start with reservation and review agents**
-- Pick one restaurant as the pilot site.
-- Connect the reservation system, shared inbox, and review accounts.
-- Set rules for when a human must approve guest replies.
-- Train hosts and managers on the approval step.
-- Measure time saved and reply speed each week.
+### 6. Guest review replies drafted for approval
+The agent collects new reviews, drafts on brand replies and tags common themes by site. Marketing edits and posts replies, then receives a weekly theme report.
 
-**Phase 2 (Days 31 to 90): Add finance and events agents**
-- Launch supplier invoice entry and matching for one accounting system.
-- Launch event quote drafts with the Events Coordinator.
-- Add holiday request and rota gap support for HR and managers.
-- Send weekly review themes to Marketing and Restaurant Managers.
-- Review accuracy and adjust approval rules.
+**Saves ~8h per week** · Roles: Marketing Manager, Marketing Assistant · Tools: Review and feedback platforms, Email, Social media tools, Spreadsheets
 
-**Phase 3 (Days 91 to 180): Expand to kitchen and HR, then improve**
-- Add prep list and supplier order drafts for the kitchen.
-- Add the allergen and menu guide for waitstaff.
-- Add onboarding and compliance chase for HR.
-- Run a monthly check on hours saved, errors, and staff feedback.
-- Decide which agents to keep, change, or stop.
+```mermaid
+flowchart LR
+  subgraph Today
+    B0["Reviews arrive across platforms"]
+    B1["Marketing manager reads each review"]
+    B2["Manager decides the response tone"]
+    B3["Manager writes and posts replies"]
+    B4["Themes are tracked manually"]
+    B0 --> B1 --> B2 --> B3 --> B4
+  end
+  subgraph WithAI[With AI]
+    A0["Agent pulls new reviews each morning"]
+    A1["Agent drafts on brand replies and tags themes"]
+    A2["You: edits and posts replies"]
+    A3["Agent sends a weekly theme report"]
+    A0 --> A1 --> A2 --> A3
+  end
+  classDef ai fill:#154899,color:#fff,stroke:#154899
+  classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
+  class A0,A1,A3 ai
+  class A2 human
+```
 
-## Risks
-- **The agent sends an incorrect reply to a guest.**: Keep human approval for all guest-facing messages and set clear escalation rules for complaints and allergies.
-- **Staff do not use the agents because they add extra steps.**: Start with one team, keep the approval step simple, and ask managers to name a champion for each agent.
-- **Data privacy or GDPR issues with guest, staff, or supplier data.**: Keep data inside approved systems, limit access by role, and review supplier terms before connecting any tool.
-- **Integration problems with POS, reservation, rota, or accounting systems.**: Connect one system at a time, keep a manual fallback, and test with real data before going live.
-- **The team relies on the agent and misses exceptions.**: Set review thresholds, run weekly accuracy checks, and keep a named person responsible for each agent.
+### 7. Supplier invoices entered and matched
+The agent reads supplier invoices and matches them to purchase orders or delivery notes. It flags price and quantity gaps so finance only reviews exceptions before payment.
 
-## KPIs
-- Staff hours saved per week by agent, target 90 by month 6.
-- Average reply time to booking emails, target under 2 hours.
-- Event quote turnaround, target under 24 hours.
-- Supplier invoices processed per hour, target 2 times current rate.
-- Guest review response rate, target 90 percent within 24 hours.
-- Rota gaps filled without manager overtime, target 80 percent within 4 hours.
+**Saves ~16h per week** · Roles: Finance Manager, Accounts Assistant · Tools: Accounting and payroll software, Supplier ordering or inventory tools, Email, Invoice folder
 
-## Quote: phase 1
+```mermaid
+flowchart LR
+  subgraph Today
+    B0["Invoices arrive by email or post"]
+    B1["Assistant enters invoice details"]
+    B2["Assistant matches invoices to orders or deliveries"]
+    B3["Assistant chases missing receipts"]
+    B4["Assistant files financial records"]
+    B0 --> B1 --> B2 --> B3 --> B4
+  end
+  subgraph WithAI[With AI]
+    A0["Agent reads invoice and matches to order or delivery"]
+    A1["Agent flags price or quantity gaps"]
+    A2["You: approves exceptions and payment"]
+    A3["Agent posts approved invoices to accounting"]
+    A0 --> A1 --> A2 --> A3
+  end
+  classDef ai fill:#154899,color:#fff,stroke:#154899
+  classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
+  class A0,A1,A3 ai
+  class A2 human
+```
+
+### 8. Interviews scheduled and onboarding paperwork chased
+The agent screens applications against agreed criteria and sends interview slots and reminders. It chases contracts and right-to-work documents, updating a simple tracker.
+
+**Saves ~10h per week** · Roles: HR Manager, HR or Payroll Assistant · Tools: Email, Calendar, HR files, Applicant tracking or spreadsheet
+
+```mermaid
+flowchart LR
+  subgraph Today
+    B0["Hiring manager approves a role"]
+    B1["HR posts the ad"]
+    B2["HR reviews CVs manually"]
+    B3["HR emails candidates and schedules interviews"]
+    B4["HR collects contracts and right-to-work records"]
+    B0 --> B1 --> B2 --> B3 --> B4
+  end
+  subgraph WithAI[With AI]
+    A0["Agent screens applications against agreed criteria"]
+    A1["Agent sends interview slots and reminders"]
+    A2["You: interviews and makes the decision"]
+    A3["Agent chases onboarding documents and updates tracker"]
+    A0 --> A1 --> A2 --> A3
+  end
+  classDef ai fill:#154899,color:#fff,stroke:#154899
+  classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
+  class A0,A1,A3 ai
+  class A2 human
+```
+
+## 3. Run a four week pilot, measure weekly, then scale to all five sites
+Set up each agent with a named owner, approved source documents and a human approval step. Review weekly hours saved, response times and error flags. After the pilot, extend the same pattern to supplier orders, allergen checks, finance and marketing, then scale across all five restaurants.
+
+**Phase 1 (Weeks 1 to 4): Prove three agents in daily work**
+- Set up event quote drafting with one shared inbox
+- Connect HR policy answers to approved documents and roster data
+- Build daily sales and labor summary from POS and rosters
+- Review results weekly with named owners
+
+**Phase 2 (Months 2 to 3): Extend to kitchen, allergen and finance admin**
+- Draft supplier orders from inventory and par levels
+- Check allergen questions against approved menu records
+- Match supplier invoices to orders and deliveries
+- Train site teams on approval steps and exceptions
+
+**Phase 3 (Months 4 to 6): Scale and improve across five sites**
+- Draft guest review replies for marketing approval
+- Schedule interviews and chase onboarding paperwork
+- Review weekly KPIs by site and department
+- Refine agents and expand to catering logistics
+
+**Risks**
+- **An agent gives wrong allergen, price or policy information**: Use approved source documents, keep human approval for guest facing answers, and log every exception for weekly review.
+- **Staff do not use the new agents or revert to old habits**: Start with simple email and spreadsheet inputs, name an owner per agent, and show time saved in weekly manager meetings.
+- **Data quality is inconsistent across POS, rosters and menus**: Begin with one trusted data source per agent and clean key records before connecting more systems.
+- **Guest or staff data is mishandled**: Limit access by role, keep sensitive HR cases with humans, and set clear retention rules for logs and drafts.
+- **Too many changes at once across five restaurants**: Follow the three phase rollout, review weekly, and only scale an agent after it meets agreed response time and accuracy checks.
+
+**KPIs**
+- Hours saved per week in event, HR and operations admin
+- Event inquiry response time
+- Roster question reply time
+- Daily sales and labor summaries sent before opening
+- Allergen questions resolved without a kitchen visit
+- Supplier invoice matching accuracy
+
+## Investment: phase 1 costs $2,400 a month and gives back $8,011 a month in time
 | Agent | Saves | Setup | Monthly |
 |---|---:|---:|---:|
-| Reservation emails and phone requests handled faster | 18h/wk | $1,290 | $1,170 |
-| Rota gaps filled and holiday requests processed | 14h/wk | $1,290 | $910 |
-| Event quotes prepared in under an hour | 10h/wk | $1,290 | $650 |
-| **Total** | **42h/wk** | **$3,870** | **$2,730** |
+| Event inquiries answered with draft quotes | 12h/wk | $790 | $780 |
+| Routine HR questions answered from policies and rosters | 10h/wk | $790 | $650 |
+| Daily sales and labor summary ready before opening | 15h/wk | $1,290 | $970 |
+| **Total** | **37h/wk** | **$2,870** | **$2,400** |
 
-Setup is free when the agents run for 4 months. Full rollout of all 9 opportunities: $10,110 setup, $5,980/month.
+Setup is free when the agents run for 4 months. Full rollout of all 8 opportunities: $8,920 setup, $7,080/month.
+
+## Appendix: background
+- **Industry:** Restaurants and hospitality
+- **What they do:** You run five restaurants in Amsterdam and serve daily diners plus small events and catering clients. Your team of about 120 includes part-time staff, with a 6-person office covering HR, finance and marketing. The business depends on reservations, rosters, supplier orders, allergen information and review management.
+- **Customers:** Local diners, tourists, private event hosts, and nearby businesses booking catering or group events.
+- **Team size:** 51-200 (estimate 120)
+- **Tools:** Point-of-sale (POS) systems, Reservation and table management software, Staff rostering and time tracking tools, Accounting and payroll software, Supplier ordering or inventory tools, Review and feedback platforms, Allergen and menu management records
+- **AI maturity:** 2/5, Early. You have core restaurant systems such as POS, reservations and rostering, but most follow up, reporting and admin work is still manual. AI use is limited and not yet part of daily routines.
+
+| Department | People | Roles |
+|---|---:|---|
+| Restaurant Operations | 18 | General Manager (5), Assistant Manager (5), Shift Supervisor (8) |
+| Front of House | 52 | Server (28), Host or Reservationist (8), Bartender (8), Runner or Busser (8) |
+| Kitchen and Back of House | 36 | Head Chef (5), Sous Chef (5), Line Cook (18), Kitchen Porter (8) |
+| Events and Catering | 8 | Events Coordinator (3), Catering Chef (2), Event Server (3) |
+| HR | 2 | HR Manager (1), HR or Payroll Assistant (1) |
+| Finance | 2 | Finance Manager (1), Accounts Assistant (1) |
+| Marketing | 2 | Marketing Manager (1), Marketing Assistant (1) |
 
 ---
 Want this for your own company? **[Get your free AI strategy →](https://completeaistrategy.com)**

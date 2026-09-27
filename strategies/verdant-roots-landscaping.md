@@ -5,331 +5,341 @@
 
 | Hours saved per week | Value per year | Roles freed up | Opportunities |
 |---:|---:|---:|---:|
-| **29h** | **$66,700** | **0.7 FTE** | **9** |
+| **36h** | **$82,800** | **0.9 FTE** | **8** |
 
-## Summary
-Most of your 30 staff are on tools, so the real AI wins sit with your five office staff and four crew leaders, who currently move every enquiry, quote, and schedule change by hand. Agents can triage enquiries, draft quotes from your price list, chase sent quotes, handle wet-weather rescheduling, and send invoice reminders, all inside ServiceM8, Xero, and the email you already use. Start with quote handling and reminders, which are low risk and should save about 11 hours a week in the first month. Across all three phases, expect roughly 25 to 30 hours back per week, worth around $30,000 a year in loaded wages, without changing how your crews work on site.
+## Our recommendation
+**Start with agents for job booking and reminders, quote follow up, and before and after photo updates, so your office team stops retyping and chasing and can handle more jobs.**
 
-## Company snapshot
-- **Industry:** Gardening and grounds maintenance
-- **What they do:** Verdant Roots Landscaping is a gardening and grounds maintenance company near Brisbane, Australia. You quote new garden projects, schedule field crews, run recurring maintenance contracts, invoice customers, and collect job photos. Your team is mostly field crews with a small office group handling sales, scheduling, and accounts.
-- **Customers:** Homeowners, property managers, body corporates, schools, and small commercial sites around Brisbane and nearby suburbs.
-- **Team size:** 11-50 (estimate 30)
-- **Tools:** No public website or software list found, Job scheduling and crew dispatch software such as ServiceM8 , Quoting and invoicing tools such as Xero or QuickBooks, Mobile phones and tablets for job notes, checklists, and cus, Cloud photo storage such as Google Drive or Dropbox, Microsoft 365 or Google Workspace for office documents and e
-- **AI maturity:** 2/5, Digitised but manual. You already run ServiceM8, Xero, and mobile job apps, but the connections between them are people re-typing and forwarding. That makes your first automations cheap to set up, because the data is already in the cloud, it just never moves by itself.
+Verdant Roots Landscaping runs 30 people across field maintenance, project installation, and a small office team near Brisbane. You already use a job app, accounting software, and shared files, but much of the daily coordination still runs on phone calls, email, and spreadsheets. Job details, quotes, photos, and invoices still move by hand, so admin work grows with every new contract and quote follow up gets missed. As your recurring maintenance base grows, the same small office team cannot keep up without adding costly admin hours.
 
-## Team and roles
-| Department | People | Roles |
-|---|---:|---|
-| Field Maintenance | 16 | Maintenance Crew Leader (4), Gardener / Grounds Worker (8), Lawn Care Technician (4) |
-| Garden Projects | 8 | Project Supervisor (2), Garden Installer (5), Irrigation Technician (1) |
-| Sales and Estimating | 2 | Estimator / Salesperson (2) |
-| Scheduling and Customer Service | 2 | Scheduler / Admin (1), Customer Service Admin (1) |
-| Finance and Admin | 1 | Bookkeeper / Admin (1) |
-| Management | 1 | Owner / Manager (1) |
+1. **Repetitive work sits in scheduling, quoting, invoicing, and photo updates** Your field teams generate job notes, photos, and variation requests every day. Those details then land on two administrators, one estimator, one accounts administrator, and one customer service coordinator who retype and chase them. The work is necessary, but most of it follows the same steps each time.
+2. **The first three agents target scheduling, quote follow up, and photo updates for fast proof** These areas are high volume, low effort to connect, and easy for one person to check before anything reaches a customer. They touch the job app, email, and shared files you already use, so you do not need a deep system rebuild. They also remove the daily friction your office team feels most.
+3. **A staged rollout with human checks proves returns before you add more agents** Start with one agent and one office owner for each area, run it for two weeks, and check every customer-facing message before it sends. Once the numbers hold, add finance and field reporting agents. The rollout stays safe because your team approves exceptions, not every routine step.
 
-## Opportunities
-| # | Opportunity | Department | Hours/week | Impact | Effort |
-|---:|---|---|---:|:-:|:-:|
-| 1 | Quote enquiries answered in minutes | Sales and Estimating | 5 | 5/5 | 2/5 |
-| 2 | Wet-weather rescheduling without phone tag | Scheduling and Customer Service | 4 | 4/5 | 3/5 |
-| 3 | Routine customer questions handled without the phone | Scheduling and Customer Service | 4 | 4/5 | 3/5 |
-| 4 | No quote goes cold | Sales and Estimating | 3 | 4/5 | 2/5 |
-| 5 | Invoice reminders sent and queries answered | Finance and Admin | 3 | 3/5 | 2/5 |
-| 6 | Job photos filed and attached automatically | Field Maintenance | 3 | 3/5 | 3/5 |
-| 7 | Voice notes become job notes and timesheet checks | Field Maintenance | 3 | 3/5 | 3/5 |
-| 8 | Plant and material orders drafted for you | Garden Projects | 2 | 3/5 | 3/5 |
-| 9 | Monday morning job profitability report | Management | 2 | 3/5 | 3/5 |
+**Phase 1 at a glance:** Job bookings and reminders handled by an agent · Quote requests answered in minutes · Before and after photos sent without chasing. About 14 hours a week back for $1,030/month (setup $2,370, free on a 4-month run).
 
-### 1. Quote enquiries answered in minutes
-An agent reads each new email or web enquiry, pulls out the address, job type, and photos, and creates a draft job in ServiceM8. It replies within minutes with your standard questions and an indicative price range, so your estimators spend time only on serious leads.
+## 1. Repetitive work sits in scheduling, quoting, invoicing, and photo updates
+Your field teams generate job notes, photos, and variation requests every day. Those details then land on two administrators, one estimator, one accounts administrator, and one customer service coordinator who retype and chase them. The work is necessary, but most of it follows the same steps each time.
 
-**Saves ~5h per week** · Roles: Estimator / Salesperson, Customer Service Admin · Tools: Email (Microsoft 365 or Google Workspace), ServiceM8, Price list spreadsheet, Xero
+| Department | Hours saved / week | Share |
+|---|---:|---:|
+| Scheduling and Administration | 7 | 19% |
+| Management | 7 | 19% |
+| Field Maintenance | 6 | 17% |
+| Finance and Invoicing | 5 | 14% |
+| Sales and Quoting | 4 | 11% |
+| Project Installation | 4 | 11% |
+| Customer Care and Photos | 3 | 8% |
+
+## 2. The first three agents target scheduling, quote follow up, and photo updates for fast proof
+These areas are high volume, low effort to connect, and easy for one person to check before anything reaches a customer. They touch the job app, email, and shared files you already use, so you do not need a deep system rebuild. They also remove the daily friction your office team feels most.
+
+| # | Opportunity | Department | Hours/week | Impact | Effort | Phase |
+|---:|---|---|---:|:-:|:-:|:-:|
+| 1 | Job bookings and reminders handled by an agent | Scheduling and Administration | 7 | 5/5 | 2/5 | 1 |
+| 2 | Quote requests answered in minutes | Sales and Quoting | 4 | 5/5 | 2/5 | 1 |
+| 3 | Before and after photos sent without chasing | Customer Care and Photos | 3 | 4/5 | 2/5 | 1 |
+| 4 | Recurring invoices and payment reminders run on time | Finance and Invoicing | 5 | 4/5 | 3/5 | later |
+| 5 | Crew notes and variations captured from the field | Field Maintenance | 6 | 4/5 | 3/5 | later |
+| 6 | Project progress and material updates shared daily | Project Installation | 4 | 3/5 | 3/5 | later |
+| 7 | Weekly cash, quote, and job report for the owner | Management | 3 | 3/5 | 3/5 | later |
+| 8 | Smarter crew routes and job reminders | Management | 4 | 3/5 | 4/5 | later |
+
+### 1. Job bookings and reminders handled by an agent (phase 1)
+The agent reads booking emails and forms, creates jobs in your job app, and sends appointment reminders. It flags clashes and access notes for the office administrator to confirm.
+
+**Saves ~7h per week** · Roles: Office Administrator · Tools: Email, Job management app, Google Calendar or Microsoft 365, Mobile phone SMS
 
 ```mermaid
 flowchart LR
   subgraph Today
-    B0["Check email through the day and note new enquiries"]
-    B1["Call or email back for address, access, and details"]
-    B2["Visit site to measure and photograph"]
-    B3["Type up the quote from your price list"]
-    B4["Send it and chase when you remember"]
+    B0["Customer calls or emails a job request"]
+    B1["Administrator writes details on a quote or spreadsheet"]
+    B2["Administrator opens job app and creates booking"]
+    B3["Reminder sent manually the day before"]
+    B4["Schedule changes handled by phone and notes"]
     B0 --> B1 --> B2 --> B3 --> B4
   end
   subgraph WithAI[With AI]
-    A0["Agent: logs the enquiry and drafts a reply with clarifying q"]
-    A1["You: reviews and sends the reply"]
-    A2["You: visits site only for qualified jobs"]
-    A3["Agent: assembles a quote draft from your price list"]
-    A4["You: checks the numbers and sends"]
+    A0["Agent reads email or form and drafts job details"]
+    A1["Agent checks crew calendar and flags clashes"]
+    A2["You: Administrator approves booking and access notes"]
+    A3["Agent sends customer reminder and crew notification"]
+    A4["Agent logs changes and updates the schedule"]
     A0 --> A1 --> A2 --> A3 --> A4
   end
   classDef ai fill:#154899,color:#fff,stroke:#154899
   classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
-  class A0,A3 ai
-  class A1,A2,A4 human
-```
-
-### 2. Wet-weather rescheduling without phone tag
-When rain stops work or a job runs long, the agent drafts a revised crew schedule, writes customer texts with new arrival windows, and updates job statuses in ServiceM8 for one-tap approval. A wet Brisbane week stops being a full day of phone calls.
-
-**Saves ~4h per week** · Roles: Scheduler / Admin, Customer Service Admin, Maintenance Crew Leader · Tools: ServiceM8, SMS, Email, Weather feed
-
-```mermaid
-flowchart LR
-  subgraph Today
-    B0["Rain forces last-minute changes to the day's jobs"]
-    B1["Call each crew leader with new instructions"]
-    B2["Ring or text each affected customer one by one"]
-    B3["Update job statuses in ServiceM8 by hand"]
-    B4["Spend the afternoon sorting out confused callbacks"]
-    B0 --> B1 --> B2 --> B3 --> B4
-  end
-  subgraph WithAI[With AI]
-    A0["You: marks the affected jobs in the app"]
-    A1["Agent: proposes a revised schedule and drafts customer texts"]
-    A2["You: approves or edits with one tap"]
-    A3["Agent: sends messages, updates statuses, and logs the change"]
-    A0 --> A1 --> A2 --> A3
-  end
-  classDef ai fill:#154899,color:#fff,stroke:#154899
-  classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
-  class A1,A3 ai
-  class A0,A2 human
-```
-
-### 3. Routine customer questions handled without the phone
-An agent answers routine email and SMS questions like next visit date, rain delays, and invoice copies using live job data from ServiceM8. It also turns maintenance request emails, including customer photos, into draft jobs so nothing sits in the inbox overnight.
-
-**Saves ~4h per week** · Roles: Customer Service Admin, Scheduler / Admin · Tools: Email, SMS, ServiceM8, Google Drive
-
-```mermaid
-flowchart LR
-  subgraph Today
-    B0["Answer the same questions by phone and email all day"]
-    B1["Write down maintenance requests and retype them later"]
-    B2["Upload customer photos to job records by hand"]
-    B3["Requests that arrive after hours sit until someone checks th"]
-    B0 --> B1 --> B2 --> B3
-  end
-  subgraph WithAI[With AI]
-    A0["Agent: answers routine questions from live job data"]
-    A1["Agent: converts request emails into draft jobs with photos a"]
-    A2["You: handles calls and anything the agent is unsure about"]
-    A3["You: approves new jobs in ServiceM8"]
-    A0 --> A1 --> A2 --> A3
-  end
-  classDef ai fill:#154899,color:#fff,stroke:#154899
-  classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
-  class A0,A1 ai
-  class A2,A3 human
-```
-
-### 4. No quote goes cold
-The agent tracks every quote you send, sends polite follow-ups on day 3 and day 7 using your templates, and flags anything silent after two weeks for a phone call. Your estimator gets a short weekly list of who to call instead of guessing.
-
-**Saves ~3h per week** · Roles: Estimator / Salesperson · Tools: ServiceM8, Xero, Email
-
-```mermaid
-flowchart LR
-  subgraph Today
-    B0["Remember which quotes are still outstanding"]
-    B1["Send follow-ups when there is spare time"]
-    B2["Some quotes never get a second contact"]
-    B3["Rebuild scope and pricing from scratch when customers finall"]
-    B0 --> B1 --> B2 --> B3
-  end
-  subgraph WithAI[With AI]
-    A0["Agent: sends day 3 and day 7 follow-ups from your templates"]
-    A1["Agent: records replies and updates quote status"]
-    A2["You: calls only the quotes the agent flags as cold"]
-    A3["You: revises scope with the customer when they re-engage"]
-    A0 --> A1 --> A2 --> A3
-  end
-  classDef ai fill:#154899,color:#fff,stroke:#154899
-  classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
-  class A0,A1 ai
-  class A2,A3 human
-```
-
-### 5. Invoice reminders sent and queries answered
-The agent sends scheduled payment reminders from Xero and answers routine questions like invoice copies and bank details from your templates. Genuine disputes get flagged to you with a short summary so your bookkeeper only touches accounts that need a person.
-
-**Saves ~3h per week** · Roles: Bookkeeper / Admin, Customer Service Admin · Tools: Xero, Email, ServiceM8
-
-```mermaid
-flowchart LR
-  subgraph Today
-    B0["Notice overdue invoices in Xero"]
-    B1["Send reminders when the day allows"]
-    B2["Answer repeated questions about copies and payment details"]
-    B3["Chase disputed amounts by phone with no notes ready"]
-    B0 --> B1 --> B2 --> B3
-  end
-  subgraph WithAI[With AI]
-    A0["Agent: sends reminders on your schedule and in your tone"]
-    A1["Agent: answers routine invoice questions from templates"]
-    A2["Agent: flags disputes with a one-paragraph summary"]
-    A3["You: calls the flagged accounts and settles disputes"]
-    A0 --> A1 --> A2 --> A3
-  end
-  classDef ai fill:#154899,color:#fff,stroke:#154899
-  classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
-  class A0,A1,A2 ai
-  class A3 human
-```
-
-### 6. Job photos filed and attached automatically
-Crews keep taking photos on their phones as they do now, but an agent sorts them into the right job folder and attaches them to the ServiceM8 record, named by site and date. It checks each closed job and alerts the crew leader on the spot if before or after photos are missing.
-
-**Saves ~3h per week** · Roles: Maintenance Crew Leader, Gardener / Grounds Worker, Lawn Care Technician · Tools: ServiceM8, Google Drive or Dropbox, Mobile phone cameras
-
-```mermaid
-flowchart LR
-  subgraph Today
-    B0["Photos sit across a dozen phones"]
-    B1["Crews upload or forward them at the depot"]
-    B2["Office staff sort, rename, and attach them to jobs"]
-    B3["Some jobs end up with no photo record at all"]
-    B0 --> B1 --> B2 --> B3
-  end
-  subgraph WithAI[With AI]
-    A0["You: takes photos as usual on the job"]
-    A1["Agent: sorts, renames, and attaches photos to the right job"]
-    A2["Agent: alerts the crew leader if a closed job has no photos"]
-    A3["You: reviews a weekly list of photo gaps"]
-    A0 --> A1 --> A2 --> A3
-  end
-  classDef ai fill:#154899,color:#fff,stroke:#154899
-  classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
-  class A1,A2 ai
-  class A0,A3 human
-```
-
-### 7. Voice notes become job notes and timesheet checks
-Crew leaders send a 30-second voice note at the end of each job and the agent turns it into structured job notes, product use records, and flags such as a broken sprinkler or a customer complaint. Timesheet oddities get flagged to the scheduler before payroll, not after.
-
-**Saves ~3h per week** · Roles: Maintenance Crew Leader, Lawn Care Technician, Gardener / Grounds Worker · Tools: ServiceM8, Voice notes on mobile, Xero payroll
-
-```mermaid
-flowchart LR
-  subgraph Today
-    B0["Fill in paper or app notes at the end of the day"]
-    B1["Remember product quantities later or guess"]
-    B2["Office re-keys details into records"]
-    B3["Errors surface at payroll or on the invoice"]
-    B0 --> B1 --> B2 --> B3
-  end
-  subgraph WithAI[With AI]
-    A0["You: records a 30-second voice note at each job"]
-    A1["Agent: writes structured notes and product records into Serv"]
-    A2["Agent: flags oddities like missing hours or unusual material"]
-    A3["You: reviews flagged items only"]
-    A0 --> A1 --> A2 --> A3
-  end
-  classDef ai fill:#154899,color:#fff,stroke:#154899
-  classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
-  class A1,A2 ai
-  class A0,A3 human
-```
-
-### 8. Plant and material orders drafted for you
-From each approved project the agent drafts a plant and material order against your supplier price lists, checks it for common misses like soil and mulch, and emails a draft to the nursery for your approval. Stage reminders to subcontractors for paving and irrigation go out automatically.
-
-**Saves ~2h per week** · Roles: Project Supervisor · Tools: ServiceM8, Supplier price lists, Email, Xero
-
-```mermaid
-flowchart LR
-  subgraph Today
-    B0["Build an order list from the approved plan"]
-    B1["Look up prices across supplier lists"]
-    B2["Email or phone each order in"]
-    B3["Discover missing items mid-job and pay for return trips"]
-    B0 --> B1 --> B2 --> B3
-  end
-  subgraph WithAI[With AI]
-    A0["Agent: drafts the order list from the job scope and price li"]
-    A1["Agent: emails draft orders to your suppliers"]
-    A2["You: checks quantities and approves"]
-    A3["Agent: sends stage reminders to subcontractors"]
-    A0 --> A1 --> A2 --> A3
-  end
-  classDef ai fill:#154899,color:#fff,stroke:#154899
-  classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
-  class A0,A1,A3 ai
+  class A0,A1,A3,A4 ai
   class A2 human
 ```
 
-### 9. Monday morning job profitability report
-The agent pulls invoiced amounts, labour hours, and material costs from Xero and ServiceM8 and writes a one-page Monday report ranking jobs by margin and flagging any that ran over estimate. You spend your review time on decisions instead of pulling numbers.
+### 2. Quote requests answered in minutes (phase 1)
+The agent collects quote request details, checks your service area and standard rates, and drafts a quote for the estimator. It follows up open quotes by email or SMS and records the outcome.
 
-**Saves ~2h per week** · Roles: Owner / Manager, Bookkeeper / Admin · Tools: Xero, ServiceM8, Google Sheets or Excel
+**Saves ~4h per week** · Roles: Estimator and Salesperson · Tools: Email, Spreadsheets, Job management app, Xero or QuickBooks, Mobile phone SMS
 
 ```mermaid
 flowchart LR
   subgraph Today
-    B0["Export hours, invoices, and costs into a spreadsheet"]
-    B1["Rebuild the weekly numbers by hand"]
-    B2["Spot overruns days late"]
-    B3["Chase crew leaders for explanations"]
-    B0 --> B1 --> B2 --> B3
+    B0["Lead calls or emails for a quote"]
+    B1["Estimator visits site and measures"]
+    B2["Estimator calculates price from spreadsheets"]
+    B3["Quote typed and emailed days later"]
+    B4["Follow up done when estimator remembers"]
+    B0 --> B1 --> B2 --> B3 --> B4
   end
   subgraph WithAI[With AI]
-    A0["Agent: compiles the one-page report by 9am Monday"]
-    A1["Agent: flags jobs over budget with likely causes from job no"]
-    A2["You: reviews and decides on pricing or crew changes"]
-    A3["You: questions crew leaders only about flagged jobs"]
-    A0 --> A1 --> A2 --> A3
+    A0["Agent captures lead details and service address"]
+    A1["Agent checks area, service type, and standard rate rules"]
+    A2["You: Estimator reviews site notes, measures, and approves pr"]
+    A3["Agent sends quote and tracks customer reply"]
+    A4["Agent follows up after three days and logs outcome"]
+    A0 --> A1 --> A2 --> A3 --> A4
   end
   classDef ai fill:#154899,color:#fff,stroke:#154899
   classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
-  class A0,A1 ai
-  class A2,A3 human
+  class A0,A1,A3,A4 ai
+  class A2 human
 ```
 
-## Roadmap
-**Phase 1 (Weeks 1-4): Office quick wins**
-- Set up enquiry triage with quote drafts in ServiceM8, linked to your Xero price lists
-- Turn on quote follow-ups using your approved email templates
-- Start scheduled invoice reminders and routine query replies from Xero
-- Record baseline response and follow-up times so you can prove the saving
+### 3. Before and after photos sent without chasing (phase 1)
+The agent pulls job photos from the job app or shared drive, adds the customer name and job details, and sends a before and after update. It asks for a review after completion and updates the customer record.
 
-**Phase 2 (Weeks 5-10): Crews and customers in sync**
-- Launch the weather and schedule change assistant with one-tap approvals
-- Deploy the customer service inbox agent for routine questions and request logging
-- Pilot automatic photo filing with two crews, then extend to all field teams
-- Train crew leaders on voice notes in a 30-minute session
+**Saves ~3h per week** · Roles: Customer Service Coordinator · Tools: Job management app, Google Workspace or Microsoft 365, Email, Review platform
 
-**Phase 3 (Months 4-6): Tighten the numbers**
-- Roll out voice job notes and timesheet checks across all crews
-- Start the Monday profitability report to the owner
-- Draft plant and material orders for Garden Projects
-- Review results, retire whatever is not earning its keep, and pick the next automation
+```mermaid
+flowchart LR
+  subgraph Today
+    B0["Crew takes photos on mobile"]
+    B1["Photos sit in phone or job app"]
+    B2["Coordinator downloads and sorts photos"]
+    B3["Coordinator writes email and sends photos"]
+    B4["Reviews requested only sometimes"]
+    B0 --> B1 --> B2 --> B3 --> B4
+  end
+  subgraph WithAI[With AI]
+    A0["Crew photos sync to job record"]
+    A1["Agent matches photos to customer and job"]
+    A2["Agent writes short before and after message"]
+    A3["You: Coordinator checks tone and sends or schedules"]
+    A4["Agent requests review and updates customer record"]
+    A0 --> A1 --> A2 --> A3 --> A4
+  end
+  classDef ai fill:#154899,color:#fff,stroke:#154899
+  classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
+  class A0,A1,A2,A4 ai
+  class A3 human
+```
 
-## Risks
-- **A quote goes out with wrong prices or scope.**: The agent drafts, a person checks and sends. Your price list stays the single source of truth and any price change needs approval.
-- **Field crews ignore new steps and data quality suffers.**: Crew-facing steps stay inside tools they already use, ServiceM8 and voice notes. Pilot with one crew leader and fix the friction before rolling out to everyone.
-- **Customer photos, addresses, and payment details are exposed or misused.**: Use Australian data hosting, restrict access to office roles, and set a written rule that customer data is never pasted into personal AI accounts.
-- **Automated messages annoy customers or carry wrong information.**: Every customer-facing schedule change and quote needs one-tap human approval. The agent drafts, your team sends.
-- **Automations quietly break as prices, staff, or seasons change.**: Book a monthly one-hour check with the consultant who set it up to update price lists, templates, and message rules.
+### 4. Recurring invoices and payment reminders run on time
+The agent creates recurring maintenance invoices from completed job records and sends polite payment reminders. It flags unpaid accounts and supplier bill details for the accounts administrator.
 
-## KPIs
-- Median response time to new quote enquiries under 2 business hours, down from same-day or worse
-- 100% of sent quotes followed up within 5 days
-- Days sales outstanding on invoices down 5 days within 90 days
-- 95% of completed jobs with before and after photos attached within 24 hours
-- 20 or more admin hours saved per week by month 3, measured against the Phase 1 baseline
-- Monday profitability report delivered by 9am every week
+**Saves ~5h per week** · Roles: Accounts Administrator · Tools: Job management app, Xero or QuickBooks, Email
 
-## Quote: phase 1
+```mermaid
+flowchart LR
+  subgraph Today
+    B0["Maintenance jobs completed in job app"]
+    B1["Administrator checks which contracts are due"]
+    B2["Invoice created in accounting software"]
+    B3["Invoice emailed one by one"]
+    B4["Overdue reminders sent manually"]
+    B0 --> B1 --> B2 --> B3 --> B4
+  end
+  subgraph WithAI[With AI]
+    A0["Agent pulls completed recurring jobs from job app"]
+    A1["Agent drafts invoices in accounting software"]
+    A2["You: Accounts Administrator checks amounts and approves"]
+    A3["Agent sends invoices and payment reminders"]
+    A4["Agent flags overdue accounts and supplier bills"]
+    A0 --> A1 --> A2 --> A3 --> A4
+  end
+  classDef ai fill:#154899,color:#fff,stroke:#154899
+  classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
+  class A0,A1,A3,A4 ai
+  class A2 human
+```
+
+### 5. Crew notes and variations captured from the field
+The agent turns short voice notes and photos from crews into job completion notes and variation requests. It sends extra work details to the office for pricing and customer approval.
+
+**Saves ~6h per week** · Roles: Crew Leader, Garden Maintenance Technician · Tools: Job management app, Mobile phone, Email, Spreadsheets
+
+```mermaid
+flowchart LR
+  subgraph Today
+    B0["Crew leader writes notes on paper or phone"]
+    B1["Photos saved in camera roll"]
+    B2["Office calls crew for details"]
+    B3["Variations written up later"]
+    B4["Customer approval chased by phone"]
+    B0 --> B1 --> B2 --> B3 --> B4
+  end
+  subgraph WithAI[With AI]
+    A0["Crew leader records a short voice note and photos"]
+    A1["Agent drafts completion notes and variation details"]
+    A2["You: Crew leader checks site name and scope"]
+    A3["Agent sends variation to office for pricing"]
+    A4["Agent requests customer approval and logs reply"]
+    A0 --> A1 --> A2 --> A3 --> A4
+  end
+  classDef ai fill:#154899,color:#fff,stroke:#154899
+  classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
+  class A0,A1,A3,A4 ai
+  class A2 human
+```
+
+### 6. Project progress and material updates shared daily
+The agent collects supervisor notes, delivery dockets, and photos into a daily project update. It highlights material shortages and plan changes for the supervisor to review.
+
+**Saves ~4h per week** · Roles: Project Supervisor, Garden Project Installer · Tools: Google Workspace or Microsoft 365, Job management app, Spreadsheets, Email
+
+```mermaid
+flowchart LR
+  subgraph Today
+    B0["Supervisor checks plans and measurements"]
+    B1["Materials ordered by phone or email"]
+    B2["Progress notes written at end of day"]
+    B3["Photos sent in group chat"]
+    B4["Office asks for updates"]
+    B0 --> B1 --> B2 --> B3 --> B4
+  end
+  subgraph WithAI[With AI]
+    A0["Supervisor sends short notes and delivery dockets"]
+    A1["Agent matches docket to project and updates materials list"]
+    A2["Agent drafts daily progress update with photos"]
+    A3["You: Supervisor checks issues and approves update"]
+    A4["Agent alerts office to shortages or plan changes"]
+    A0 --> A1 --> A2 --> A3 --> A4
+  end
+  classDef ai fill:#154899,color:#fff,stroke:#154899
+  classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
+  class A0,A1,A2,A4 ai
+  class A3 human
+```
+
+### 7. Weekly cash, quote, and job report for the owner
+The agent pulls quote outcomes, job completion, invoice status, and crew hours into one weekly report. It flags late quotes, overdue invoices, and jobs running over budget for the owner.
+
+**Saves ~3h per week** · Roles: Owner or Director, Operations Manager · Tools: Job management app, Xero or QuickBooks, Spreadsheets, Email
+
+```mermaid
+flowchart LR
+  subgraph Today
+    B0["Owner asks operations and accounts for updates"]
+    B1["Operations manager exports job list"]
+    B2["Accounts administrator exports invoice list"]
+    B3["Owner combines numbers in spreadsheet"]
+    B4["Report shared in meeting or email"]
+    B0 --> B1 --> B2 --> B3 --> B4
+  end
+  subgraph WithAI[With AI]
+    A0["Agent pulls job, quote, invoice, and hours data"]
+    A1["Agent builds weekly summary with exceptions"]
+    A2["You: Owner or Operations Manager reviews and sets actions"]
+    A3["Agent sends report to management"]
+    A4["Agent tracks actions for next week"]
+    A0 --> A1 --> A2 --> A3 --> A4
+  end
+  classDef ai fill:#154899,color:#fff,stroke:#154899
+  classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
+  class A0,A1,A3,A4 ai
+  class A2 human
+```
+
+### 8. Smarter crew routes and job reminders
+The agent reviews daily jobs, locations, and crew skills to suggest a route and job order for the operations manager. It sends crews their next job details and checks for schedule clashes.
+
+**Saves ~4h per week** · Roles: Operations Manager · Tools: Job management app, GPS or vehicle tracking, Google Maps, Mobile phone
+
+```mermaid
+flowchart LR
+  subgraph Today
+    B0["Operations manager checks jobs in spreadsheet"]
+    B1["Routes planned from memory and map"]
+    B2["Crews call office for next job"]
+    B3["Schedule changes handled by phone"]
+    B4["Travel time rarely reviewed"]
+    B0 --> B1 --> B2 --> B3 --> B4
+  end
+  subgraph WithAI[With AI]
+    A0["Agent pulls daily jobs, addresses, and crew skills"]
+    A1["Agent suggests route and job order"]
+    A2["You: Operations Manager approves route and swaps"]
+    A3["Agent sends crews next job details and reminders"]
+    A4["Agent logs travel time and clashes for review"]
+    A0 --> A1 --> A2 --> A3 --> A4
+  end
+  classDef ai fill:#154899,color:#fff,stroke:#154899
+  classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
+  class A0,A1,A3,A4 ai
+  class A2 human
+```
+
+## 3. A staged rollout with human checks proves returns before you add more agents
+Start with one agent and one office owner for each area, run it for two weeks, and check every customer-facing message before it sends. Once the numbers hold, add finance and field reporting agents. The rollout stays safe because your team approves exceptions, not every routine step.
+
+**Phase 1 (Weeks 1 to 4): Prove value with scheduling, quotes, and photo updates**
+- Connect the job app, shared inbox, and calendar for the booking agent
+- Set standard quote rules for service area and common garden jobs
+- Run photo update agent with coordinator approval before sending
+- Review time saved, mistakes, and customer replies each Friday
+
+**Phase 2 (Weeks 5 to 12): Add finance and field reporting agents**
+- Connect accounting software for recurring invoices and payment reminders
+- Test voice note and photo capture with one maintenance crew
+- Add project progress updates for one installation supervisor
+- Give accounts and operations managers a weekly exception review
+
+**Phase 3 (Months 4 to 6): Scale to project and management reporting**
+- Extend field note agent to all maintenance crews
+- Add route suggestions and crew reminders for daily jobs
+- Build weekly owner report with quote, cash, and job exceptions
+- Review hours saved and decide which agents to keep or adjust
+
+**Risks**
+- **An agent sends the wrong booking, quote, or message to a customer**: Keep human approval on all customer-facing messages for the first 30 days. Use clear templates and a daily error review.
+- **Job app and spreadsheet data is incomplete or inconsistent**: Clean the key fields first: customer name, site address, service type, price, and job status. Start with one job type before adding others.
+- **Field crews and office staff do not trust or use the new agents**: Involve crew leaders and administrators in testing. Show them the time saved each week and keep a simple way to flag bad output.
+- **Customer photos are shared without proper permission**: Check consent at job booking and keep photo sharing limited to the customer and your team. Store photos only in approved folders.
+- **Your team relies on agents and misses exceptions**: Use a weekly exception log and assign one owner for each agent. Review late quotes, overdue invoices, and missed job notes every Monday.
+
+**KPIs**
+- Quote response time under one business day
+- Invoices sent within two days of job completion
+- Share of jobs with before and after photos sent same day
+- Admin hours spent on bookings and reminders each week
+- Overdue invoices older than 30 days
+- Crew note completion rate by end of shift
+
+## Investment: phase 1 costs $1,030 a month and gives back $3,031 a month in time
 | Agent | Saves | Setup | Monthly |
 |---|---:|---:|---:|
-| Quote enquiries answered in minutes | 5h/wk | $790 | $320 |
-| No quote goes cold | 3h/wk | $790 | $290 |
-| Wet-weather rescheduling without phone tag | 4h/wk | $1,290 | $290 |
-| **Total** | **12h/wk** | **$2,870** | **$900** |
+| Job bookings and reminders handled by an agent | 7h/wk | $790 | $450 |
+| Quote requests answered in minutes | 4h/wk | $790 | $290 |
+| Before and after photos sent without chasing | 3h/wk | $790 | $290 |
+| **Total** | **14h/wk** | **$2,370** | **$1,030** |
 
-Setup is free when the agents run for 4 months. Full rollout of all 9 opportunities: $10,110 setup, $2,640/month.
+Setup is free when the agents run for 4 months. Full rollout of all 8 opportunities: $9,420 setup, $2,610/month.
+
+## Appendix: background
+- **Industry:** Gardening and grounds maintenance
+- **What they do:** Verdant Roots Landscaping is a 30-person gardening and grounds maintenance company near Brisbane, Australia. You quote new garden projects, run recurring maintenance contracts, schedule field crews, and handle invoicing and customer photos. Your customers are mainly homeowners, property managers, and small commercial sites in the Brisbane area.
+- **Customers:** Homeowners, landlords, property managers, real estate agents, body corporates, and small commercial sites in Brisbane and nearby suburbs.
+- **Team size:** 11-50 (estimate 30)
+- **Tools:** Job management app such as ServiceM8, Jobber, or similar, Accounting software such as Xero or QuickBooks, Google Workspace or Microsoft 365, Mobile phones for job notes and customer photos, Spreadsheets for quotes and crew schedules, GPS or vehicle tracking for field crews
+- **AI maturity:** 2/5, Early and mostly manual. You have solid job management and accounting tools, but AI is not yet part of daily work. The quickest gains come from connecting existing tools, not replacing them.
+
+| Department | People | Roles |
+|---|---:|---|
+| Field Maintenance | 15 | Garden Maintenance Technician (10), Crew Leader (5) |
+| Project Installation | 8 | Garden Project Installer (5), Project Supervisor (3) |
+| Scheduling and Administration | 2 | Office Administrator (2) |
+| Sales and Quoting | 1 | Estimator and Salesperson (1) |
+| Finance and Invoicing | 1 | Accounts Administrator (1) |
+| Customer Care and Photos | 1 | Customer Service Coordinator (1) |
+| Management | 2 | Owner or Director (1), Operations Manager (1) |
 
 ---
 Want this for your own company? **[Get your free AI strategy →](https://completeaistrategy.com)**

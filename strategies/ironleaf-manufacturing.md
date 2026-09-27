@@ -5,64 +5,68 @@
 
 | Hours saved per week | Value per year | Roles freed up | Opportunities |
 |---:|---:|---:|---:|
-| **84h** | **$193,200** | **2.1 FTE** | **9** |
+| **97h** | **$223,100** | **2.4 FTE** | **9** |
 
-## Summary
-Ironleaf Manufacturing runs custom metal parts work through Epicor, email RFQ intake, CAD drawings, and Excel quoting. Your team already has strong ERP and shop floor habits, but too much RFQ, scheduling, quality, purchasing, and finance work is still manual and scattered across inboxes and spreadsheets. The practical path is to add AI agents that read emails, extract drawing and PO details, draft updates, and log data into Epicor and Excel, with your people reviewing anything customer-facing or production-critical. Start with RFQ intake and daily scheduling because they touch the most revenue and capacity decisions. Keep the scope tight: assistants that prepare work, not systems that make final decisions.
+## Our recommendation
+**Start with an RFQ intake and quote drafting agent, a first article and PPAP packet agent, and a planner expedite and status update agent to cut response delays and free skilled time.**
 
-## Company snapshot
-- **Industry:** Metal parts manufacturing
-- **What they do:** You run a metal parts manufacturing company in Ohio, USA. Your team does CNC machining and sheet metal work for customers who send drawings and RFQs, and you quote custom parts. About 160 employees handle production, quality, purchasing, sales engineering, planning and finance.
-- **Customers:** Industrial OEMs and equipment makers that need custom metal parts, mostly in Ohio and nearby states.
-- **Team size:** 51-200 (estimate 160)
-- **Tools:** Epicor ERP, Email based RFQ intake, CAD software for drawings, CAM software for CNC programming, CNC controls such as Fanuc or Haas, Microsoft 365 or Outlook, Excel for quoting and planning, Calipers, micrometers, and CMM for inspection
-- **AI maturity:** 2/5, Early. You have Epicor, Outlook, Excel, and CAD/CAM in daily use, but AI is not part of regular work. Most automation is manual entry or basic ERP transactions, with no agents reading email, drawings, or supplier messages.
+Ironleaf Manufacturing runs custom CNC and sheet metal work for industrial buyers who send drawings and RFQs by email. Epicor, CAD/CAM and spreadsheets hold the core data, but much of the daily coordination still moves through email and manual entry. As order volume and customer expectations rise, your skilled estimators, quality engineers and planners spend hours copying data and chasing status instead of solving manufacturing problems. Delays in quotes, quality packets and promise dates put repeat business at risk.
 
-## Team and roles
-| Department | People | Roles |
-|---|---:|---|
-| Production | 94 | CNC Machinist (45), Sheet Metal Operator (24), Setup Technician (15), Production Supervisor (10) |
-| Quality | 18 | Quality Inspector (10), Quality Engineer (5), Calibration Technician (3) |
-| Purchasing | 10 | Buyer (6), Receiving Clerk (3), Purchasing Manager (1) |
-| Sales Engineering | 15 | Sales Engineer (6), Estimator (6), Customer Service Rep (3) |
-| Planning and Scheduling | 8 | Production Planner (4), Scheduler (3), Planning Manager (1) |
-| Finance | 7 | Staff Accountant (3), Accounts Payable and Receivable (3), Controller (1) |
-| Maintenance and Facilities | 8 | Maintenance Technician (5), Facilities Technician (2), Maintenance Manager (1) |
+1. **Repetitive work concentrates in RFQ triage, quality packets and planning firefighting** Your sales engineers read drawings, build estimates and chase updates by hand. Quality engineers copy inspection results into FAI and PPAP forms while planners and expediters rebuild status reports from Epicor and email.
+2. **These three agents use email, Epicor reports and existing templates** These three workflows repeat every day, touch many orders and use data you already have in Epicor, email and shared drives. They need human review, so they build trust without touching machine controls or final pricing.
+3. **Run supervised pilots with named owners, then expand after two clean weeks** Give each agent a named owner, run it in draft mode and review samples daily for two weeks before it sends anything. After that, expand to more order types and add the next agents in purchasing, finance and maintenance.
 
-## Opportunities
-| # | Opportunity | Department | Hours/week | Impact | Effort |
-|---:|---|---|---:|:-:|:-:|
-| 1 | RFQ intake and quote prep | Sales Engineering | 18 | 5/5 | 3/5 |
-| 2 | Daily schedule and late job alerts | Planning and Scheduling | 10 | 5/5 | 3/5 |
-| 3 | Production count and scrap entry | Production | 12 | 4/5 | 3/5 |
-| 4 | Invoice matching and AP exceptions | Finance | 10 | 4/5 | 3/5 |
-| 5 | Supplier PO follow-up and expediting | Purchasing | 9 | 4/5 | 2/5 |
-| 6 | Quote follow-ups and order status answers | Sales Engineering | 8 | 4/5 | 2/5 |
-| 7 | Nonconformance and corrective action logging | Quality | 7 | 4/5 | 2/5 |
-| 8 | Preventive maintenance reminders and repair logs | Maintenance and Facilities | 6 | 3/5 | 2/5 |
-| 9 | Calibration due date tracking | Quality | 4 | 3/5 | 1/5 |
+**Phase 1 at a glance:** RFQ emails become draft quotes in hours · First article and PPAP packets assembled automatically · Planner sends daily hot list and promise date alerts. About 48 hours a week back for $3,120/month (setup $2,870, free on a 4-month run).
 
-### 1. RFQ intake and quote prep
-An agent watches your RFQ inbox, opens attachments, extracts part numbers, quantities, material, and due dates, then creates a draft quote record in Epicor and a quote prep sheet in Excel. It also drafts an acknowledgement email that asks for missing drawing details.
+## 1. Repetitive work concentrates in RFQ triage, quality packets and planning firefighting
+Your sales engineers read drawings, build estimates and chase updates by hand. Quality engineers copy inspection results into FAI and PPAP forms while planners and expediters rebuild status reports from Epicor and email.
 
-**Saves ~18h per week** · Roles: Sales Engineer, Estimator, Customer Service Rep · Tools: Outlook, Epicor, Excel, CAD
+| Department | Hours saved / week | Share |
+|---|---:|---:|
+| Sales Engineering and Estimating | 26 | 27% |
+| Quality | 20 | 21% |
+| Planning and Scheduling | 16 | 16% |
+| Finance and Admin | 12 | 12% |
+| Purchasing and Supply Chain | 10 | 10% |
+| Maintenance and Tooling | 8 | 8% |
+| Production | 5 | 5% |
+
+## 2. These three agents use email, Epicor reports and existing templates
+These three workflows repeat every day, touch many orders and use data you already have in Epicor, email and shared drives. They need human review, so they build trust without touching machine controls or final pricing.
+
+| # | Opportunity | Department | Hours/week | Impact | Effort | Phase |
+|---:|---|---|---:|:-:|:-:|:-:|
+| 1 | RFQ emails become draft quotes in hours | Sales Engineering and Estimating | 18 | 5/5 | 2/5 | 1 |
+| 2 | First article and PPAP packets assembled automatically | Quality | 14 | 5/5 | 3/5 | 1 |
+| 3 | Planner sends daily hot list and promise date alerts | Planning and Scheduling | 16 | 4/5 | 2/5 | 1 |
+| 4 | Supplier PO follow-ups sent before material runs late | Purchasing and Supply Chain | 10 | 3/5 | 2/5 | later |
+| 5 | Calibration reminders and logs kept current | Quality | 6 | 2/5 | 1/5 | later |
+| 6 | AP invoice matching reviewed before month end | Finance and Admin | 12 | 3/5 | 3/5 | later |
+| 7 | Maintenance PMs and spare parts checked daily | Maintenance and Tooling | 8 | 3/5 | 3/5 | later |
+| 8 | Shift handoff notes written from daily logs | Production | 5 | 2/5 | 2/5 | later |
+| 9 | Customer order status replies drafted from Epicor | Sales Engineering and Estimating | 8 | 3/5 | 2/5 | later |
+
+### 1. RFQ emails become draft quotes in hours (phase 1)
+The agent reads incoming RFQ emails and attachments, extracts part specs, checks Epicor history and drafts a cost estimate with a customer reply. Your estimator reviews, adjusts and approves before anything goes out.
+
+**Saves ~18h per week** · Roles: Sales Engineer and Estimator, Customer Service Representative · Tools: Outlook, Epicor, CAD viewer, Excel
 
 ```mermaid
 flowchart LR
   subgraph Today
-    B0["Customer Service Rep checks shared RFQ inbox"]
-    B1["Sales Engineer opens drawing attachments"]
-    B2["Estimator reads drawing notes and calculates basic material"]
-    B3["Estimator types quote notes into Excel"]
-    B4["Estimator enters quote header in Epicor"]
+    B0["CSR opens RFQ email and saves drawings to a folder"]
+    B1["Estimator reads prints and marks material and operations"]
+    B2["Estimator checks similar jobs in Epicor and spreadsheets"]
+    B3["Estimator builds quote in Excel and writes reply"]
+    B4["Estimator emails quote and logs it in CRM"]
     B0 --> B1 --> B2 --> B3 --> B4
   end
   subgraph WithAI[With AI]
-    A0["Agent logs RFQ and extracts key fields from email and drawin"]
-    A1["Agent creates draft quote sheet and Epicor quote header"]
-    A2["Agent drafts acknowledgement with missing questions"]
-    A3["You: Sales Engineer reviews drawing and quote notes"]
-    A4["You: Estimator finishes cycle time and pricing"]
+    A0["Agent captures the email and attachments"]
+    A1["Agent extracts key specs and pulls similar job history"]
+    A2["Agent drafts the estimate and customer reply"]
+    A3["You: estimator reviews, adjusts pricing and approves"]
+    A4["You: estimator sends the quote and agent logs it"]
     A0 --> A1 --> A2 --> A3 --> A4
   end
   classDef ai fill:#154899,color:#fff,stroke:#154899
@@ -71,27 +75,27 @@ flowchart LR
   class A3,A4 human
 ```
 
-### 2. Daily schedule and late job alerts
-An agent reviews open work orders and material availability in Epicor each morning, builds a short schedule summary, and flags jobs at risk of missing a date. It emails the summary to supervisors and updates a shared Excel schedule board.
+### 2. First article and PPAP packets assembled automatically (phase 1)
+The agent collects inspection results, drawing revisions and material certs into a draft FAI or PPAP packet. It flags missing data so your quality engineer only reviews and signs.
 
-**Saves ~10h per week** · Roles: Production Planner, Scheduler, Production Supervisor · Tools: Epicor, Excel, Outlook
+**Saves ~14h per week** · Roles: Quality Engineer, Quality Inspector, Quality Manager · Tools: Epicor, CMM software, Shared drive, Excel, Word
 
 ```mermaid
 flowchart LR
   subgraph Today
-    B0["Planner reviews open orders in Epicor"]
-    B1["Planner checks material availability"]
-    B2["Scheduler sequences jobs on whiteboard or Excel"]
-    B3["Supervisor calls planning about changes"]
-    B4["Planner updates dates manually"]
+    B0["Inspector runs checks and logs results"]
+    B1["Quality engineer gathers drawing and revision data"]
+    B2["Quality engineer copies certs and results into forms"]
+    B3["Quality engineer checks packet against customer checklist"]
+    B4["Quality manager signs and sends packet"]
     B0 --> B1 --> B2 --> B3 --> B4
   end
   subgraph WithAI[With AI]
-    A0["Agent pulls open orders, material, and due dates from Epicor"]
-    A1["Agent creates morning schedule summary and risk list"]
-    A2["Agent updates shared Excel schedule board"]
-    A3["You: Planner reviews risks and adjusts sequence"]
-    A4["You: Supervisor assigns jobs at shift start"]
+    A0["Agent pulls inspection results from CMM and shared drive"]
+    A1["Agent gathers certs, revisions and customer checklist"]
+    A2["Agent drafts FAI or PPAP packet and flags gaps"]
+    A3["You: quality engineer reviews and corrects"]
+    A4["You: quality manager signs and sends"]
     A0 --> A1 --> A2 --> A3 --> A4
   end
   classDef ai fill:#154899,color:#fff,stroke:#154899
@@ -100,56 +104,27 @@ flowchart LR
   class A3,A4 human
 ```
 
-### 3. Production count and scrap entry
-An agent reads end-of-shift count sheets, texts, or emails from operators and enters production counts and scrap into Epicor or Excel. Supervisors get a clean daily summary instead of chasing paper.
+### 3. Planner sends daily hot list and promise date alerts (phase 1)
+The agent checks Epicor work orders and material status, then drafts a hot list and promise date changes for sales and the shop. Your planner approves exceptions and the expediter handles floor issues.
 
-**Saves ~12h per week** · Roles: CNC Machinist, Sheet Metal Operator, Production Supervisor · Tools: Epicor, Excel, Outlook
-
-```mermaid
-flowchart LR
-  subgraph Today
-    B0["Operator writes counts on paper"]
-    B1["Supervisor collects sheets"]
-    B2["Supervisor types counts into Epicor"]
-    B3["Supervisor records scrap"]
-    B4["Planner checks counts next day"]
-    B0 --> B1 --> B2 --> B3 --> B4
-  end
-  subgraph WithAI[With AI]
-    A0["Operator sends counts by text, email, or simple form"]
-    A1["Agent parses counts and scrap by job"]
-    A2["Agent enters data into Epicor or Excel"]
-    A3["Agent sends daily summary to supervisor"]
-    A4["You: Supervisor reviews and corrects exceptions"]
-    A0 --> A1 --> A2 --> A3 --> A4
-  end
-  classDef ai fill:#154899,color:#fff,stroke:#154899
-  classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
-  class A0,A1,A2,A3 ai
-  class A4 human
-```
-
-### 4. Invoice matching and AP exceptions
-An agent matches vendor invoices to purchase orders and receipts in Epicor, flags price or quantity mismatches, and drafts vendor questions. It prepares an exception list so AP can focus on real problems.
-
-**Saves ~10h per week** · Roles: Accounts Payable and Receivable, Staff Accountant, Controller · Tools: Epicor, Outlook, Excel
+**Saves ~16h per week** · Roles: Production Planner, Expediter, Scheduler · Tools: Epicor, Outlook, Excel
 
 ```mermaid
 flowchart LR
   subgraph Today
-    B0["AP opens vendor invoice email or mail"]
-    B1["AP matches invoice to PO and receipt in Epicor"]
-    B2["AP writes vendor email for mismatches"]
-    B3["AP enters invoice or holds it"]
-    B4["Controller reviews exceptions"]
+    B0["Expediter walks the shop to find late jobs"]
+    B1["Planner checks Epicor work orders and material"]
+    B2["Scheduler updates hot list in Excel"]
+    B3["Planner emails sales about date changes"]
+    B4["Expediter calls floor leads to move priority jobs"]
     B0 --> B1 --> B2 --> B3 --> B4
   end
   subgraph WithAI[With AI]
-    A0["Agent reads invoice and matches to Epicor PO and receipt"]
-    A1["Agent flags mismatches with reason codes"]
-    A2["Agent drafts vendor question email"]
-    A3["You: AP approves clean invoices and sends vendor questions"]
-    A4["You: Controller reviews exception summary"]
+    A0["Agent pulls work order and material status from Epicor"]
+    A1["Agent ranks at-risk jobs and drafts hot list"]
+    A2["Agent drafts promise date alerts to sales"]
+    A3["You: planner approves exceptions and date changes"]
+    A4["You: expediter handles floor moves and supplier calls"]
     A0 --> A1 --> A2 --> A3 --> A4
   end
   classDef ai fill:#154899,color:#fff,stroke:#154899
@@ -158,114 +133,85 @@ flowchart LR
   class A3,A4 human
 ```
 
-### 5. Supplier PO follow-up and expediting
-An agent monitors late purchase orders in Epicor, drafts supplier follow-up emails with PO line details, and logs replies and new promise dates. It gives buyers a daily exception list instead of a full open PO report.
+### 4. Supplier PO follow-ups sent before material runs late
+The agent monitors open purchase orders in Epicor and sends polite follow-up requests when promised dates pass. It also matches packing lists to receipts and flags short shipments.
 
-**Saves ~9h per week** · Roles: Buyer, Purchasing Manager · Tools: Epicor, Outlook, Excel
+**Saves ~10h per week** · Roles: Buyer, Receiving and Shipping Clerk · Tools: Epicor, Outlook, Supplier portals
 
 ```mermaid
 flowchart LR
   subgraph Today
-    B0["Buyer runs late PO report"]
-    B1["Buyer checks each supplier email thread"]
-    B2["Buyer writes follow-up emails"]
-    B3["Buyer updates Epicor notes"]
-    B4["Buyer tells planning about shortages"]
+    B0["Buyer reviews open PO report"]
+    B1["Buyer emails suppliers for status"]
+    B2["Buyer updates lead times in Epicor"]
+    B3["Receiving clerk counts material and matches packing list"]
+    B4["Clerk enters receipt and tells buyer about shortages"]
     B0 --> B1 --> B2 --> B3 --> B4
   end
   subgraph WithAI[With AI]
-    A0["Agent pulls late POs from Epicor"]
-    A1["Agent drafts supplier follow-up with line details"]
-    A2["Agent logs supplier replies and promise dates"]
-    A3["Agent creates daily shortage list"]
-    A4["You: Buyer reviews exceptions and escalates"]
+    A0["Agent reviews open POs and promised dates"]
+    A1["Agent drafts supplier follow-up emails"]
+    A2["You: buyer approves follow-ups and handles exceptions"]
+    A3["Agent matches packing lists to receipts"]
+    A4["You: receiving clerk counts and confirms receipt"]
     A0 --> A1 --> A2 --> A3 --> A4
   end
   classDef ai fill:#154899,color:#fff,stroke:#154899
   classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
-  class A0,A1,A2,A3 ai
-  class A4 human
+  class A0,A1,A3 ai
+  class A2,A4 human
 ```
 
-### 6. Quote follow-ups and order status answers
-An agent tracks open quotes and orders in Epicor, sends polite follow-up emails on a set cadence, and drafts status replies using current work order and shipment data. Your team approves anything that changes a promise date.
+### 5. Calibration reminders and logs kept current
+The agent tracks gauge calibration dates, drafts reminders and updates the calibration log when records are filed. Your technician handles physical checks and outside scheduling.
 
-**Saves ~8h per week** · Roles: Customer Service Rep, Sales Engineer · Tools: Outlook, Epicor
+**Saves ~6h per week** · Roles: Calibration Technician, Quality Manager · Tools: Excel, Outlook, Shared drive
 
 ```mermaid
 flowchart LR
   subgraph Today
-    B0["CSR runs open quote report"]
-    B1["CSR writes follow-up emails one by one"]
-    B2["CSR checks Epicor for order status"]
-    B3["CSR asks planning for date changes"]
-    B4["CSR replies to customer emails"]
+    B0["Technician checks calibration spreadsheet"]
+    B1["Technician emails reminders to tool owners"]
+    B2["Technician schedules outside calibration"]
+    B3["Technician files certificates in shared drive"]
+    B4["Manager reviews overdue gauges"]
     B0 --> B1 --> B2 --> B3 --> B4
   end
   subgraph WithAI[With AI]
-    A0["Agent pulls open quote and order list from Epicor"]
-    A1["Agent drafts follow-up or status email with current data"]
-    A2["Agent flags orders needing a human date decision"]
-    A3["You: CSR reviews and sends replies"]
-    A4["You: CSR updates customer on exceptions"]
+    A0["Agent checks calibration dates and drafts reminders"]
+    A1["Agent flags overdue gauges to technician"]
+    A2["You: technician checks gauge condition"]
+    A3["You: technician schedules outside calibration"]
+    A4["Agent files records and updates log after human confirms"]
     A0 --> A1 --> A2 --> A3 --> A4
   end
   classDef ai fill:#154899,color:#fff,stroke:#154899
   classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
-  class A0,A1,A2 ai
-  class A3,A4 human
+  class A0,A1,A4 ai
+  class A2,A3 human
 ```
 
-### 7. Nonconformance and corrective action logging
-An agent turns inspector notes, photos, and email into draft nonconformance records in Epicor or Excel, routes them to the right quality engineer, and tracks corrective action due dates. It sends reminders and updates the log when steps close.
+### 6. AP invoice matching reviewed before month end
+The agent matches incoming AP invoices to Epicor purchase orders and receiving records, then drafts exceptions for review. Your accountant approves matches and posts only the exceptions.
 
-**Saves ~7h per week** · Roles: Quality Inspector, Quality Engineer · Tools: Outlook, Epicor, Excel
+**Saves ~12h per week** · Roles: Accountant, Controller and Finance Manager · Tools: Epicor, Outlook, PDF invoices, Excel
 
 ```mermaid
 flowchart LR
   subgraph Today
-    B0["Inspector writes NCR on paper or email"]
-    B1["Quality Engineer types NCR into log"]
-    B2["QE emails production and purchasing"]
-    B3["QE tracks actions in spreadsheet"]
-    B4["QE closes record manually"]
+    B0["Accountant opens AP invoice emails"]
+    B1["Accountant finds matching PO in Epicor"]
+    B2["Accountant checks receiving record"]
+    B3["Accountant enters invoice or marks exception"]
+    B4["Controller reviews month end accruals"]
     B0 --> B1 --> B2 --> B3 --> B4
   end
   subgraph WithAI[With AI]
-    A0["Agent reads inspector email or form and creates draft NCR"]
-    A1["Agent routes NCR to assigned Quality Engineer"]
-    A2["Agent sends reminders on open actions"]
-    A3["You: QE reviews, edits, and approves NCR"]
-    A4["You: QE closes record after verification"]
-    A0 --> A1 --> A2 --> A3 --> A4
-  end
-  classDef ai fill:#154899,color:#fff,stroke:#154899
-  classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
-  class A0,A1,A2 ai
-  class A3,A4 human
-```
-
-### 8. Preventive maintenance reminders and repair logs
-An agent tracks preventive maintenance dates for CNC and sheet metal equipment, sends reminders to technicians, and turns repair emails into draft work logs. It keeps a simple downtime and parts list updated.
-
-**Saves ~6h per week** · Roles: Maintenance Technician, Maintenance Manager, Facilities Technician · Tools: Outlook, Excel, Epicor
-
-```mermaid
-flowchart LR
-  subgraph Today
-    B0["Manager checks PM calendar"]
-    B1["Manager emails technicians reminders"]
-    B2["Technician writes repair note on paper"]
-    B3["Manager enters repair into log"]
-    B4["Manager orders parts by email"]
-    B0 --> B1 --> B2 --> B3 --> B4
-  end
-  subgraph WithAI[With AI]
-    A0["Agent sends PM reminders from equipment list"]
-    A1["Agent creates draft repair log from email or text"]
-    A2["Agent flags repeat downtime by machine"]
-    A3["You: Technician completes repair and confirms parts used"]
-    A4["You: Manager reviews downtime report"]
+    A0["Agent reads invoice PDFs and pulls PO and receipt data"]
+    A1["Agent matches invoices and flags price or quantity gaps"]
+    A2["Agent drafts entry or exception note"]
+    A3["You: accountant reviews and approves matches"]
+    A4["You: controller reviews exceptions and close items"]
     A0 --> A1 --> A2 --> A3 --> A4
   end
   classDef ai fill:#154899,color:#fff,stroke:#154899
@@ -274,81 +220,158 @@ flowchart LR
   class A3,A4 human
 ```
 
-### 9. Calibration due date tracking
-An agent tracks gauge and calibration due dates, sends reminders before expiry, and updates the calibration log when certificates arrive. It helps you avoid finding an overdue gauge during an audit.
+### 7. Maintenance PMs and spare parts checked daily
+The agent reviews the PM schedule, checks spare parts in Epicor and drafts work orders for due maintenance. Your technicians complete the work and log repairs.
 
-**Saves ~4h per week** · Roles: Calibration Technician, Quality Engineer · Tools: Excel, Outlook
+**Saves ~8h per week** · Roles: Maintenance Technician, Maintenance Manager · Tools: Epicor, Outlook, Maintenance logs
 
 ```mermaid
 flowchart LR
   subgraph Today
-    B0["Calibration Tech reviews calibration spreadsheet"]
-    B1["Tech checks due dates manually"]
-    B2["Tech schedules outside calibration by email"]
-    B3["Tech files certificates in folder"]
-    B4["QE checks logs before audit"]
+    B0["Manager reviews PM schedule in spreadsheet"]
+    B1["Manager checks spare parts stock"]
+    B2["Manager writes work orders for due PMs"]
+    B3["Technician completes PM and logs repairs"]
+    B4["Manager reviews downtime report"]
     B0 --> B1 --> B2 --> B3 --> B4
   end
   subgraph WithAI[With AI]
-    A0["Agent reads gauge list and calibration dates"]
-    A1["Agent sends due and overdue reminders"]
-    A2["Agent drafts outside calibration request"]
-    A3["Agent updates log when certificate email arrives"]
-    A4["You: Calibration Tech confirms calibration and files record"]
+    A0["Agent reviews PM schedule and spare parts stock"]
+    A1["Agent drafts work orders for due PMs"]
+    A2["Agent flags parts shortages to manager"]
+    A3["You: technician completes PM and logs repair"]
+    A4["You: manager reviews downtime and approves follow-up"]
     A0 --> A1 --> A2 --> A3 --> A4
   end
   classDef ai fill:#154899,color:#fff,stroke:#154899
   classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
-  class A0,A1,A2,A3 ai
-  class A4 human
+  class A0,A1,A2 ai
+  class A3,A4 human
 ```
 
-## Roadmap
-**Phase 1 (Weeks 1 to 4): Fix the revenue and schedule front door**
-- Connect agent to shared RFQ inbox and extract fields into Excel draft
-- Build quote prep template and Epicor quote header draft
-- Set up daily schedule summary from Epicor open work orders
-- Train Sales Engineering and Planning on review steps
-- Measure baseline quote response time and schedule update time
+### 8. Shift handoff notes written from daily logs
+The agent summarizes production counts, open issues and machine notes into a draft shift handoff. Supervisors review the draft and add floor context.
 
-**Phase 2 (Months 2 to 3): Add quality, purchasing, and production data agents**
-- Launch NCR logging and corrective action reminders
-- Launch late PO follow-up and supplier promise tracking
-- Launch production count and scrap entry from shift messages
-- Keep human approval on all customer and supplier messages
-- Review error rates weekly and adjust rules
+**Saves ~5h per week** · Roles: Production Supervisor, CNC Machinist, Sheet Metal Operator · Tools: Epicor, Outlook, Shared drive
 
-**Phase 3 (Months 4 to 6): Extend to finance and maintenance**
-- Launch invoice matching exception list with AP review
-- Launch PM reminders and repair log drafts
-- Launch calibration due date tracking
-- Create monthly savings and quality dashboard
-- Decide what to expand based on measured hours saved
+```mermaid
+flowchart LR
+  subgraph Today
+    B0["Supervisors collect paper notes and count sheets"]
+    B1["Operators tell supervisor about issues"]
+    B2["Supervisor writes handoff email"]
+    B3["Supervisor calls next shift lead"]
+    B4["Next shift starts with incomplete notes"]
+    B0 --> B1 --> B2 --> B3 --> B4
+  end
+  subgraph WithAI[With AI]
+    A0["Agent pulls production counts and open work orders"]
+    A1["Agent drafts shift handoff summary"]
+    A2["You: supervisor adds floor context and priorities"]
+    A3["You: supervisor sends handoff to next shift"]
+    A4["Agent logs acknowledged issues"]
+    A0 --> A1 --> A2 --> A3 --> A4
+  end
+  classDef ai fill:#154899,color:#fff,stroke:#154899
+  classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
+  class A0,A1,A4 ai
+  class A2,A3 human
+```
 
-## Risks
-- **Agents read the wrong field from a drawing or email and draft a bad quote.**: Keep estimator approval before any quote goes out. Start with extraction only and compare against manual review for the first 4 weeks.
-- **Epicor integration is harder than expected, causing delays.**: Start with Outlook, Excel, and CSV imports. Add direct Epicor writes only after the workflow is proven.
-- **Supervisors and operators do not trust automated counts or logs.**: Use a simple review screen and daily exception report. Let supervisors correct entries before they affect planning.
-- **Customer or supplier receives an automated message with wrong tone or data.**: Use draft-only mode for all external emails. A named person sends every message until error rate is low.
-- **Data quality in Epicor, BOMs, or calibration list limits agent accuracy.**: Clean the top 20 used records first. Assign one owner per data set and review monthly.
+### 9. Customer order status replies drafted from Epicor
+The agent reads status request emails, checks Epicor order and work order status, and drafts a reply with current promise dates. Your CSR reviews and sends, or escalates exceptions.
 
-## KPIs
-- Average RFQ response time from receipt to quote sent
-- Number of quotes sent per week
-- Hours saved per week across live agents
-- On-time supplier PO follow-ups and shortage escalations
-- NCR and corrective action closure time
-- Invoice exception rate and AP days to resolve
+**Saves ~8h per week** · Roles: Customer Service Representative, Account Manager · Tools: Epicor, Outlook, CRM
 
-## Quote: phase 1
+```mermaid
+flowchart LR
+  subgraph Today
+    B0["CSR opens customer status email"]
+    B1["CSR looks up order in Epicor"]
+    B2["CSR checks work order and shipping status"]
+    B3["CSR writes reply or asks planner"]
+    B4["CSR logs note in CRM"]
+    B0 --> B1 --> B2 --> B3 --> B4
+  end
+  subgraph WithAI[With AI]
+    A0["Agent reads status request and pulls Epicor order data"]
+    A1["Agent drafts reply with current promise date"]
+    A2["Agent flags jobs needing planner or account manager input"]
+    A3["You: CSR reviews and sends reply"]
+    A4["You: account manager handles exceptions"]
+    A0 --> A1 --> A2 --> A3 --> A4
+  end
+  classDef ai fill:#154899,color:#fff,stroke:#154899
+  classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
+  class A0,A1,A2 ai
+  class A3,A4 human
+```
+
+## 3. Run supervised pilots with named owners, then expand after two clean weeks
+Give each agent a named owner, run it in draft mode and review samples daily for two weeks before it sends anything. After that, expand to more order types and add the next agents in purchasing, finance and maintenance.
+
+**Phase 1 (Weeks 1-6): Prove three office agents with supervised daily review**
+- Set up RFQ intake and quote draft agent for one sales engineer team
+- Set up FAI and PPAP packet agent for one quality engineer
+- Set up planner hot list and promise date agent for one planner and expediter
+- Review samples daily, fix exceptions and record hours saved
+- Hold a 30-minute weekly check with each named owner
+
+**Phase 2 (Weeks 7-16): Add purchasing, finance and maintenance agents after phase 1 signs off**
+- Add supplier PO follow-up and receipt matching agent
+- Add AP invoice matching agent for one accountant
+- Add maintenance PM and spare parts agent for one maintenance manager
+- Add calibration log agent for one quality technician
+- Expand phase 1 agents to more order types and users
+
+**Phase 3 (Months 5-9): Scale to more workflows and users as your team takes ownership**
+- Add shift handoff and customer status reply agents
+- Train internal owners to adjust prompts, templates and exception rules
+- Review KPI trends monthly and retire any agent that does not save time
+- Add new agents only after existing agents meet review and accuracy targets
+
+**Risks**
+- **Bad data in Epicor or drawings leads to wrong drafts**: Keep human approval on all customer-facing and financial outputs, run daily sample audits and correct data at the source.
+- **Estimators or quality staff do not trust agent output**: Name one owner per agent, start in draft mode, and let the owner set the review rules before anything is sent.
+- **Email and attachment access raises security concerns**: Limit each agent to a shared mailbox and specific folders, use least-privilege access and log every action.
+- **Scope creep across too many workflows slows the first wins**: Freeze the phase 1 list until each agent meets its accuracy and time-saving targets, then add the next agents.
+- **Customer-specific quote or PPAP formats vary too much**: Build a template library for the top formats and route unusual requests to a human exception queue.
+
+**KPIs**
+- Quote turnaround time from RFQ email to sent quote
+- FAI and PPAP packet cycle time
+- On-time promise date accuracy
+- AP invoice match rate without manual touch
+- Hours saved per week by agent, validated by supervisors
+- User adoption rate for phase 1 agents
+
+## Investment: phase 1 costs $3,120 a month and gives back $10,392 a month in time
 | Agent | Saves | Setup | Monthly |
 |---|---:|---:|---:|
-| RFQ intake and quote prep | 18h/wk | $1,290 | $1,170 |
-| Supplier PO follow-up and expediting | 9h/wk | $790 | $580 |
-| Daily schedule and late job alerts | 10h/wk | $1,290 | $650 |
-| **Total** | **37h/wk** | **$3,370** | **$2,400** |
+| RFQ emails become draft quotes in hours | 18h/wk | $790 | $1,170 |
+| First article and PPAP packets assembled automatically | 14h/wk | $1,290 | $910 |
+| Planner sends daily hot list and promise date alerts | 16h/wk | $790 | $1,040 |
+| **Total** | **48h/wk** | **$2,870** | **$3,120** |
 
-Setup is free when the agents run for 4 months. Full rollout of all 9 opportunities: $8,810 setup, $5,480/month.
+Setup is free when the agents run for 4 months. Full rollout of all 9 opportunities: $8,310 setup, $6,300/month.
+
+## Appendix: background
+- **Industry:** Metal parts manufacturing
+- **What they do:** Ironleaf Manufacturing is a custom metal parts maker in Ohio with about 160 employees. You run CNC machining and sheet metal work for industrial buyers who send drawings and RFQs by email. Your team covers production, quality, purchasing, sales engineering, planning and finance, with Epicor as the main ERP.
+- **Customers:** Industrial OEMs, machine builders and product companies in North America. Your buyers are design engineers, purchasing managers and supply chain teams who send drawings and RFQs by email.
+- **Team size:** 51-200 (estimate 160)
+- **Tools:** Epicor ERP, Email-based RFQ intake, CAD/CAM software for CNC and sheet metal, CNC controls and nesting software, Spreadsheets for planning and quoting, Calipers, micrometers and CMM for inspection
+- **AI maturity:** 2/5, Early. You have strong ERP and CAD systems but little automation between email, Epicor and documents. First wins should avoid machine controls and focus on office workflows.
+
+| Department | People | Roles |
+|---|---:|---|
+| Production | 90 | CNC Machinist (40), Sheet Metal Operator (25), Welder and Fabricator (15), Production Supervisor (10) |
+| Quality | 12 | Quality Inspector (7), Quality Engineer (3), Quality Manager (1), Calibration Technician (1) |
+| Purchasing and Supply Chain | 10 | Buyer (5), Purchasing Manager (1), Receiving and Shipping Clerk (3), Inventory Controller (1) |
+| Sales Engineering and Estimating | 18 | Sales Engineer and Estimator (10), Account Manager (4), Customer Service Representative (3), Sales Manager (1) |
+| Planning and Scheduling | 8 | Production Planner (4), Scheduler (2), Planning Manager (1), Expediter (1) |
+| Finance and Admin | 12 | Accountant (5), Admin and Payroll (4), IT and ERP Admin (2), Controller and Finance Manager (1) |
+| Maintenance and Tooling | 10 | Maintenance Technician (5), Tooling Technician (3), Maintenance Manager (1), Setup Technician (1) |
 
 ---
 Want this for your own company? **[Get your free AI strategy →](https://completeaistrategy.com)**

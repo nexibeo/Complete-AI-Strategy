@@ -6,147 +6,191 @@
     "url": null
   },
   "prepared_for": null,
-  "created_at": "2026-09-27T10:04:16.981Z",
+  "created_at": "2026-09-27T11:20:55.737Z",
   "profile": {
     "company": {
       "name": "Northpeak Realty",
-      "industry": "Residential Real Estate Brokerage",
-      "summary": "Northpeak Realty is a residential real estate agency in Denver with 22 people. Your team writes property listings, answers buyer inquiries, books viewings, and handles offer paperwork for home buyers and sellers across the metro area.",
+      "industry": "Residential real estate",
+      "summary": "Northpeak Realty is a residential real estate agency in Denver with 22 people. You help buyers and sellers with property listings, buyer inquiries, viewings, and offer paperwork. Your team uses a CRM, Zillow feeds, and DocuSign to run day to day work.",
       "offerings": [
-        "Seller listing services, including MLS listing creation and property marketing",
-        "Buyer representation, from showing requests through closing",
-        "Property valuation and pricing guidance for sellers",
-        "Viewing coordination and open house scheduling",
-        "Offer and contract paperwork management with DocuSign"
+        "Seller listing representation",
+        "Buyer representation",
+        "Property viewings and showings",
+        "Offer and transaction paperwork",
+        "Listing marketing and promotion"
       ],
-      "customers": "Home buyers and sellers in the Denver metro area, including first-time buyers and move-up sellers",
+      "customers": "Home buyers and sellers in Denver and nearby suburbs",
       "locations": [
-        "Denver, Colorado",
-        "Denver metro area"
+        "Denver, Colorado"
       ],
       "size_band": "11-50",
       "employee_estimate": 22,
       "tech_signals": [
-        "Real estate CRM",
-        "Zillow listing feeds",
+        "CRM",
+        "Zillow feeds",
         "DocuSign",
-        "MLS system",
-        "Email and calendar tools",
-        "Likely Google Workspace or Microsoft 365"
+        "MLS",
+        "Email and calendar"
       ],
-      "evidence_quality": "low"
+      "evidence_quality": "medium"
     },
     "departments": [
       {
-        "name": "Sales and Agent Team",
-        "headcount_estimate": 13,
+        "name": "Sales",
+        "headcount_estimate": 12,
         "roles": [
           {
-            "title": "Licensed Real Estate Agent",
-            "count_estimate": 9,
+            "title": "Managing Broker",
+            "count_estimate": 1,
             "repetitive_tasks": [
-              "Responding to buyer inquiries by email and text",
-              "Booking and confirming property viewings",
-              "Following up with leads in the CRM",
-              "Logging call and showing notes after each client contact"
+              "Review offer paperwork",
+              "Answer agent policy questions",
+              "Monitor deal deadlines",
+              "Sign off on listings"
             ]
           },
           {
-            "title": "Associate or Buyer's Agent",
-            "count_estimate": 4,
+            "title": "Real Estate Agent",
+            "count_estimate": 9,
             "repetitive_tasks": [
-              "Answering routine questions about listings",
-              "Sending showing feedback requests to clients",
-              "Updating CRM records after each appointment",
-              "Preparing simple property comparison notes"
+              "Answer inbound buyer calls and emails",
+              "Book and confirm showings",
+              "Write and update property listing text",
+              "Log client notes and next steps in CRM"
+            ]
+          },
+          {
+            "title": "Buyer's Agent",
+            "count_estimate": 2,
+            "repetitive_tasks": [
+              "Respond to Zillow leads",
+              "Schedule viewings",
+              "Send follow-up property lists",
+              "Update CRM lead status"
             ]
           }
         ]
       },
       {
-        "name": "Listings and Marketing",
-        "headcount_estimate": 4,
+        "name": "Listings and Transaction Coordination",
+        "headcount_estimate": 3,
         "roles": [
           {
             "title": "Listing Coordinator",
             "count_estimate": 1,
             "repetitive_tasks": [
-              "Writing MLS listing descriptions from agent notes",
-              "Uploading photos and documents to the MLS",
-              "Checking listing data for accuracy and required fields",
-              "Tracking listing expiration dates and status changes"
+              "Collect listing details and photos",
+              "Enter listing data into MLS and Zillow",
+              "Prepare disclosure packets",
+              "Track DocuSign signatures"
             ]
           },
           {
-            "title": "Marketing Specialist",
-            "count_estimate": 2,
-            "repetitive_tasks": [
-              "Scheduling social media posts for new listings",
-              "Resizing and formatting property photos",
-              "Drafting email blasts to the client list",
-              "Building open house flyers and sign requests"
-            ]
-          },
-          {
-            "title": "Content and Media Coordinator",
+            "title": "Transaction Coordinator",
             "count_estimate": 1,
             "repetitive_tasks": [
-              "Organizing property photo and video files",
-              "Writing short listing highlights for social posts",
-              "Maintaining the listing photo library",
-              "Preparing virtual tour links for each listing"
+              "Build offer and closing checklists",
+              "Request signatures via DocuSign",
+              "Update deal stages in CRM",
+              "Send deadline reminders"
+            ]
+          },
+          {
+            "title": "Offer and Paperwork Specialist",
+            "count_estimate": 1,
+            "repetitive_tasks": [
+              "Assemble offer packets",
+              "Check contract fields",
+              "File signed documents",
+              "Notify agents of missing items"
             ]
           }
         ]
       },
       {
-        "name": "Client Services and Office Administration",
+        "name": "Marketing",
+        "headcount_estimate": 3,
+        "roles": [
+          {
+            "title": "Marketing Manager",
+            "count_estimate": 1,
+            "repetitive_tasks": [
+              "Plan weekly property promotions",
+              "Review listing copy",
+              "Schedule email and social campaigns",
+              "Track lead sources"
+            ]
+          },
+          {
+            "title": "Content and Social Specialist",
+            "count_estimate": 1,
+            "repetitive_tasks": [
+              "Write property posts",
+              "Schedule social media",
+              "Update listing descriptions",
+              "Reply to comments and messages"
+            ]
+          },
+          {
+            "title": "Graphic Designer",
+            "count_estimate": 1,
+            "repetitive_tasks": [
+              "Create flyers and social graphics",
+              "Resize photos for listings",
+              "Update brand templates",
+              "Prepare open house signs"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Admin and Office Operations",
         "headcount_estimate": 3,
         "roles": [
           {
             "title": "Office Administrator",
             "count_estimate": 1,
             "repetitive_tasks": [
-              "Answering the main phone line and routing calls",
-              "Ordering office and signage supplies",
-              "Managing incoming mail and vendor invoices",
-              "Keeping the office calendar and meeting schedule"
+              "Answer main phone line",
+              "Manage office calendar",
+              "Order supplies",
+              "File documents"
             ]
           },
           {
-            "title": "Client Care Coordinator",
-            "count_estimate": 2,
+            "title": "Front Desk Receptionist",
+            "count_estimate": 1,
             "repetitive_tasks": [
-              "Replying to general email inquiries from the website",
-              "Sending appointment reminders to clients",
-              "Updating contact records in the CRM",
-              "Sending DocuSign envelopes for routine documents"
+              "Greet visitors",
+              "Route calls",
+              "Book viewing appointments",
+              "Update office calendar"
+            ]
+          },
+          {
+            "title": "Operations Assistant",
+            "count_estimate": 1,
+            "repetitive_tasks": [
+              "Prepare paperwork folders",
+              "Update contact records",
+              "Coordinate office vendors",
+              "Support listing mailers"
             ]
           }
         ]
       },
       {
-        "name": "Operations and Compliance",
-        "headcount_estimate": 2,
+        "name": "Client Services",
+        "headcount_estimate": 1,
         "roles": [
           {
-            "title": "Transaction Coordinator",
+            "title": "Buyer Inquiry Coordinator",
             "count_estimate": 1,
             "repetitive_tasks": [
-              "Tracking contract deadlines and sending reminders",
-              "Auditing offer paperwork for missing signatures",
-              "Following up with lenders and title companies",
-              "Updating deal stages in the CRM"
-            ]
-          },
-          {
-            "title": "Managing Broker",
-            "count_estimate": 1,
-            "repetitive_tasks": [
-              "Reviewing listings and marketing materials for compliance",
-              "Checking agent records for license and continuing education dates",
-              "Handling escalated client issues",
-              "Running weekly pipeline review meetings"
+              "Respond to Zillow and website leads",
+              "Qualify buyer needs",
+              "Book viewings for agents",
+              "Update CRM lead status"
             ]
           }
         ]
@@ -154,327 +198,391 @@
     ]
   },
   "strategy": {
-    "executive_summary": "Northpeak Realty has 22 people serving Denver buyers and sellers, with most work moving through your CRM, MLS, email, calendar, and DocuSign. Your team is early with AI today, so the best first step is to automate high volume tasks that already have clear steps. The plan below starts with buyer inquiry replies and listing descriptions, then moves into transaction deadlines and CRM follow up. It saves about 45 team hours a week, which is under 6 percent of your total weekly capacity. A consultant can set up and maintain each agent in your existing tools.",
+    "situation": "Northpeak Realty runs a 22 person residential agency in Denver with sales, transaction coordination, marketing, admin, and client services using CRM, Zillow feeds, DocuSign, and MLS. Leads, showings, and paperwork move through email, phone, and calendar work that the team manages manually.",
+    "complication": "As lead volume and deal activity rise, response times and deadlines depend on people checking inboxes, calendars, and signature status by hand. That creates lost buyer opportunities, missed paperwork dates, and CRM records that fall behind.",
+    "governing_thought": "Start with a lead response agent, a showing scheduler, and a transaction deadline chaser; they cut response delays, booking friction, and missed paperwork while your team stays in control.",
+    "key_arguments": [
+      {
+        "role": "where",
+        "headline": "Inbound leads, showings, and transaction paperwork carry most repetitive work",
+        "support": "Sales agents and the buyer inquiry coordinator spend their days answering leads, booking showings, and updating the CRM. Transaction coordinators chase signatures, deadlines, and missing fields across DocuSign and email. Marketing and admin handle steady copy, scheduling, and filing work that repeats every week."
+      },
+      {
+        "role": "what",
+        "headline": "Lead response, showing scheduling, and deadline chasing are the best first agents",
+        "support": "These three sit on high volume, rules based tasks that use systems you already have: CRM, Zillow feeds, calendar, and DocuSign. Each can be tested in weeks with clear quality checks. They reduce buyer wait times and missed dates without changing how agents sell."
+      },
+      {
+        "role": "how",
+        "headline": "Launch with human review, measure errors, then expand to other departments",
+        "support": "Phase one keeps a person approving messages, bookings, and deadline notices while the agent drafts and tracks. You review response times, error rates, and hours saved weekly, then move proven agents to listing, marketing, and admin work. Scale remains controlled because the same review model applies to each new agent."
+      }
+    ],
+    "executive_summary": "Northpeak Realty runs a 22 person residential agency in Denver with sales, transaction coordination, marketing, admin, and client services using CRM, Zillow feeds, DocuSign, and MLS. Leads, showings, and paperwork move through email, phone, and calendar work that the team manages manually. As lead volume and deal activity rise, response times and deadlines depend on people checking inboxes, calendars, and signature status by hand. That creates lost buyer opportunities, missed paperwork dates, and CRM records that fall behind. Start with a lead response agent, a showing scheduler, and a transaction deadline chaser; they cut response delays, booking friction, and missed paperwork while your team stays in control.",
     "maturity": {
       "score": 2,
-      "label": "Early",
-      "note": "Your systems are standard real estate tools, but most handoffs are manual. There is no named AI owner, and automations are limited to basic email or CRM rules."
+      "label": "Early automation",
+      "note": "Northpeak Realty uses core real estate systems but relies on manual email, calendar, and CRM updates. There are no AI agents or automations in place today."
     },
     "opportunities": [
       {
-        "title": "Buyer inquiries answered in minutes",
-        "department": "Sales and Agent Team",
+        "title": "Zillow and website leads answered in minutes",
+        "department": "Client Services",
         "roles": [
-          "Licensed Real Estate Agent",
-          "Associate or Buyer's Agent"
+          "Buyer Inquiry Coordinator",
+          "Buyer's Agent",
+          "Real Estate Agent"
         ],
-        "description": "An agent watches website, Zillow, email, and text inquiries, pulls listing details, and drafts a reply that answers common questions and offers viewing times. It also logs the contact in your CRM and creates a calendar hold when the buyer picks a slot.",
+        "description": "The agent reads each new Zillow or website lead, asks qualifying questions, proposes showing times, and updates the CRM. It keeps the buyer inquiry coordinator focused on complex cases and agent handoffs.",
         "before": [
-          "Agent sees inquiry in email, text, or Zillow.",
-          "Agent opens MLS and CRM to check listing facts and buyer history.",
-          "Agent writes a reply and asks for preferred viewing times.",
-          "Agent books the showing and logs notes in the CRM after the call."
+          "Lead arrives in Zillow or website inbox",
+          "Coordinator checks lead details manually",
+          "Coordinator replies and asks qualifying questions",
+          "Coordinator checks agent calendars for times",
+          "Coordinator updates CRM lead status"
         ],
         "after": [
-          "Agent drafts a reply with listing facts and two or three viewing times.",
-          "Human: Agent reviews the draft, edits if needed, and sends it.",
-          "Agent logs the inquiry and reply in the CRM.",
-          "Human: Agent approves the calendar hold after the buyer confirms.",
-          "Agent sends a reminder before the showing."
+          "Agent reads new lead and pulls property context",
+          "Agent replies with qualifying questions",
+          "Agent proposes available showing times",
+          "Human: Coordinator reviews unusual leads and confirms handoff",
+          "Agent updates CRM lead status"
+        ],
+        "hours_saved_per_week": 12,
+        "impact": 5,
+        "effort": 2,
+        "tools": [
+          "CRM",
+          "Zillow feeds",
+          "Email and calendar"
+        ],
+        "phase1": true
+      },
+      {
+        "title": "Showings booked and confirmed without phone tag",
+        "department": "Sales",
+        "roles": [
+          "Real Estate Agent",
+          "Buyer's Agent",
+          "Front Desk Receptionist"
+        ],
+        "description": "The agent coordinates showing requests, checks agent calendars, sends confirmations, and reminds buyers before the visit. It reduces phone tag and last minute cancellations for your agents.",
+        "before": [
+          "Buyer or agent requests a showing",
+          "Staff checks calendars by phone or email",
+          "Staff books the time manually",
+          "Staff sends confirmation and directions",
+          "Staff reminds buyer before showing"
+        ],
+        "after": [
+          "Agent receives showing request and checks calendars",
+          "Agent proposes open time slots",
+          "Agent books confirmed slot and sends directions",
+          "Human: Agent handles special access or negotiation",
+          "Agent sends reminder and updates CRM"
+        ],
+        "hours_saved_per_week": 10,
+        "impact": 4,
+        "effort": 2,
+        "tools": [
+          "CRM",
+          "Email and calendar",
+          "MLS"
+        ],
+        "phase1": true
+      },
+      {
+        "title": "Transaction deadlines and signatures tracked automatically",
+        "department": "Listings and Transaction Coordination",
+        "roles": [
+          "Transaction Coordinator",
+          "Offer and Paperwork Specialist",
+          "Managing Broker"
+        ],
+        "description": "The agent builds closing checklists, sends DocuSign reminders, updates deal stages, and flags missing items before deadlines. It gives the transaction coordinator an exception list instead of a manual hunt through email.",
+        "before": [
+          "Coordinator builds checklist from contract",
+          "Coordinator requests signatures in DocuSign",
+          "Coordinator tracks deadlines in spreadsheet",
+          "Coordinator emails agents about missing items",
+          "Coordinator updates CRM deal stage"
+        ],
+        "after": [
+          "Agent builds checklist from approved template",
+          "Agent sends DocuSign reminders on schedule",
+          "Agent updates CRM deal stage",
+          "Agent flags missing items to coordinator",
+          "Human: Coordinator reviews exceptions and contacts parties"
         ],
         "hours_saved_per_week": 8,
         "impact": 5,
         "effort": 3,
         "tools": [
-          "Real estate CRM",
-          "MLS system",
-          "Zillow listing feeds",
-          "Email",
-          "Calendar"
-        ]
+          "DocuSign",
+          "CRM",
+          "Email and calendar"
+        ],
+        "phase1": true
       },
       {
-        "title": "MLS and social listing descriptions drafted for review",
-        "department": "Listings and Marketing",
+        "title": "Listings published to MLS and Zillow faster",
+        "department": "Listings and Transaction Coordination",
         "roles": [
           "Listing Coordinator",
-          "Content and Media Coordinator"
+          "Real Estate Agent"
         ],
-        "description": "An agent turns agent notes, property facts, and photo details into an MLS ready description and short social highlights. It checks required fields and flags missing details before the listing goes live.",
+        "description": "The agent gathers listing details and photos, drafts MLS and Zillow fields, and checks required information before submission. It removes duplicate typing while keeping the coordinator in control of the final publish.",
         "before": [
-          "Listing Coordinator collects agent notes, photos, and property facts.",
-          "Coordinator writes the MLS description and short social captions.",
-          "Coordinator uploads photos and documents to the MLS.",
-          "Coordinator checks required fields and fixes errors."
+          "Agent sends listing details and photos",
+          "Coordinator enters data into MLS",
+          "Coordinator re-enters data into Zillow",
+          "Coordinator checks required fields and errors",
+          "Coordinator publishes listing"
         ],
         "after": [
-          "Agent gathers agent notes, property facts, and photo files.",
-          "Agent drafts the MLS description, social captions, and required field checklist.",
-          "Human: Listing Coordinator reviews, edits, and approves the draft.",
-          "Agent uploads approved copy and photos to the MLS and social scheduler."
+          "Agent reads intake form and photos",
+          "Agent drafts MLS and Zillow fields",
+          "Agent checks required fields and flags gaps",
+          "Human: Coordinator reviews, corrects, and submits",
+          "Agent logs publish status in CRM"
         ],
-        "hours_saved_per_week": 7,
-        "impact": 5,
+        "hours_saved_per_week": 9,
+        "impact": 4,
         "effort": 3,
         "tools": [
-          "MLS system",
-          "Google Workspace or Microsoft 365",
-          "Real estate CRM",
-          "Social media scheduler"
-        ]
+          "MLS",
+          "Zillow feeds",
+          "CRM"
+        ],
+        "phase1": false
       },
       {
-        "title": "Contract deadlines tracked automatically",
-        "department": "Operations and Compliance",
+        "title": "Listing copy and social posts drafted from property facts",
+        "department": "Marketing",
         "roles": [
-          "Transaction Coordinator",
-          "Managing Broker"
+          "Content and Social Specialist",
+          "Marketing Manager",
+          "Real Estate Agent"
         ],
-        "description": "An agent reads signed contracts and tracks every deadline, then sends reminders to your team, lenders, and title companies. It flags missing signatures or documents before they become a problem.",
+        "description": "The agent writes listing descriptions and social posts from approved property facts and brand rules. The marketing team edits and schedules, so they spend less time starting from a blank page.",
         "before": [
-          "Transaction Coordinator enters dates into a spreadsheet.",
-          "Coordinator checks DocuSign and email for signatures and documents.",
-          "Coordinator sends reminder emails to agents, lenders, and title.",
-          "Coordinator updates deal stages in the CRM by hand."
+          "Agent sends property notes and photos",
+          "Specialist writes listing description",
+          "Manager reviews copy",
+          "Specialist creates social posts",
+          "Specialist schedules posts"
         ],
         "after": [
-          "Agent reads contract dates and creates a deadline calendar.",
-          "Agent sends reminders to your team, lenders, and title.",
-          "Human: Transaction Coordinator handles exceptions and lender replies.",
-          "Agent flags missing signatures or documents.",
-          "Human: Coordinator updates the CRM when a deadline is met."
+          "Agent pulls property facts and photos",
+          "Agent drafts listing description and social posts",
+          "Human: Specialist edits for tone and accuracy",
+          "Human: Manager approves final copy",
+          "Agent schedules approved posts"
+        ],
+        "hours_saved_per_week": 8,
+        "impact": 4,
+        "effort": 2,
+        "tools": [
+          "CRM",
+          "MLS",
+          "Email and calendar"
+        ],
+        "phase1": false
+      },
+      {
+        "title": "Offer packets assembled and checked before sending",
+        "department": "Listings and Transaction Coordination",
+        "roles": [
+          "Offer and Paperwork Specialist",
+          "Managing Broker"
+        ],
+        "description": "The agent assembles offer packets from templates, checks required contract fields, and flags missing items for the specialist. It reduces back and forth before offers go out.",
+        "before": [
+          "Specialist collects required documents",
+          "Specialist copies latest templates",
+          "Specialist checks contract fields manually",
+          "Specialist emails agent about missing items",
+          "Specialist files signed documents"
+        ],
+        "after": [
+          "Agent builds packet from approved templates",
+          "Agent checks required fields and flags gaps",
+          "Human: Specialist reviews exceptions and legal terms",
+          "Human: Managing Broker signs off where required",
+          "Agent files signed documents in CRM"
         ],
         "hours_saved_per_week": 6,
-        "impact": 5,
-        "effort": 4,
+        "impact": 4,
+        "effort": 3,
         "tools": [
           "DocuSign",
-          "Real estate CRM",
-          "Email",
-          "Calendar",
-          "Lender and title email"
-        ]
+          "CRM",
+          "Email and calendar"
+        ],
+        "phase1": false
       },
       {
-        "title": "Showing requests booked with less back and forth",
-        "department": "Sales and Agent Team",
+        "title": "Main phone and viewing requests routed by an agent",
+        "department": "Admin and Office Operations",
         "roles": [
-          "Licensed Real Estate Agent",
-          "Associate or Buyer's Agent"
+          "Office Administrator",
+          "Front Desk Receptionist"
         ],
-        "description": "An agent reads showing requests from email, text, and website forms, checks agent calendars, and proposes available times. It confirms the booking and sends reminders to the buyer and agent.",
+        "description": "The agent answers common calls, routes urgent matters, books viewing appointments, and updates the office calendar. The front desk keeps greeting visitors and handling exceptions.",
         "before": [
-          "Agent reads showing request.",
-          "Agent checks calendars and listing access rules.",
-          "Agent emails or texts available times.",
-          "Agent confirms the time and sends a reminder."
+          "Call comes to main line",
+          "Receptionist answers and takes message",
+          "Receptionist routes call or books appointment",
+          "Receptionist updates office calendar",
+          "Receptionist follows up on missed calls"
         ],
         "after": [
-          "Agent reads the request and proposes two or three available times.",
-          "Human: Agent approves the proposed times if they are outside normal rules.",
-          "Agent confirms the booking and creates calendar invites.",
-          "Agent sends reminders to the buyer and agent."
+          "Agent answers common questions and captures details",
+          "Agent routes urgent calls to the right person",
+          "Agent books viewing requests on calendar",
+          "Human: Receptionist greets visitors and handles exceptions",
+          "Agent updates contact record in CRM"
         ],
-        "hours_saved_per_week": 6,
-        "impact": 4,
+        "hours_saved_per_week": 7,
+        "impact": 3,
         "effort": 2,
         "tools": [
-          "Calendar",
-          "Real estate CRM",
-          "Email",
-          "Text messaging"
-        ]
+          "Email and calendar",
+          "CRM"
+        ],
+        "phase1": false
       },
       {
-        "title": "Lead follow up runs on time",
-        "department": "Sales and Agent Team",
+        "title": "CRM notes and follow-ups updated from calls and emails",
+        "department": "Sales",
         "roles": [
-          "Licensed Real Estate Agent",
-          "Associate or Buyer's Agent"
+          "Real Estate Agent",
+          "Buyer's Agent"
         ],
-        "description": "An agent reviews your CRM each morning, finds leads that need follow up, and drafts personal emails or texts based on the last conversation. It logs replies and updates lead stages so your pipeline stays clean.",
+        "description": "The agent turns call notes, emails, and showing feedback into CRM updates and next step tasks. Your agents approve the record instead of typing it after every conversation.",
         "before": [
-          "Agent opens the CRM and reviews the pipeline.",
-          "Agent writes follow up emails or texts one by one.",
-          "Agent logs calls and replies after sending.",
-          "Agent updates lead stages when something changes."
+          "Agent finishes call or showing",
+          "Agent writes notes for CRM",
+          "Agent updates lead status",
+          "Agent sets next step reminder",
+          "Agent sends follow up email"
         ],
         "after": [
-          "Agent creates a daily follow up list from the CRM.",
-          "Agent drafts emails or texts with the last conversation details.",
-          "Human: Agent reviews, edits, and sends the messages.",
-          "Agent logs replies and updates lead stages.",
-          "Human: Agent handles complex or unhappy leads."
+          "Agent captures call notes or email thread",
+          "Agent drafts CRM update and next step",
+          "Human: Agent reviews and approves changes",
+          "Agent sends routine follow up email",
+          "Agent sets reminder in calendar"
         ],
-        "hours_saved_per_week": 5,
-        "impact": 4,
-        "effort": 3,
+        "hours_saved_per_week": 7,
+        "impact": 3,
+        "effort": 2,
         "tools": [
-          "Real estate CRM",
-          "Email",
-          "Text messaging",
-          "Calendar"
-        ]
+          "CRM",
+          "Email and calendar"
+        ],
+        "phase1": false
       },
       {
-        "title": "Website and general inbox triaged",
-        "department": "Client Services and Office Administration",
+        "title": "Weekly seller updates drafted from CRM and showing data",
+        "department": "Sales",
         "roles": [
-          "Client Care Coordinator",
-          "Office Administrator"
+          "Managing Broker",
+          "Real Estate Agent"
         ],
-        "description": "An agent reads general website and office email, answers common questions, and routes messages to the right agent. It updates contact records and sends standard DocuSign envelopes when a form is ready.",
+        "description": "The agent compiles showing activity, buyer feedback, and deadline status into a weekly seller update. The listing agent reviews and sends it, keeping sellers informed without manual reporting.",
         "before": [
-          "Client Care Coordinator reads every inbox message.",
-          "Coordinator decides if it is a new lead, vendor, or client request.",
-          "Coordinator writes a reply or forwards to an agent.",
-          "Coordinator updates the CRM contact record."
+          "Agent pulls showing data from CRM",
+          "Agent checks feedback emails",
+          "Agent checks transaction deadlines",
+          "Agent writes seller update",
+          "Agent sends update and logs it"
         ],
         "after": [
-          "Agent sorts inbox messages by type and urgency.",
-          "Agent drafts replies to common questions and routes the rest.",
-          "Human: Client Care Coordinator reviews and sends sensitive replies.",
-          "Agent updates contact records in the CRM.",
-          "Human: Coordinator sends DocuSign envelopes for routine documents."
+          "Agent pulls showing, feedback, and deadline data",
+          "Agent drafts weekly seller update",
+          "Human: Agent reviews and adds personal notes",
+          "Human: Agent sends update",
+          "Agent logs sent update in CRM"
         ],
         "hours_saved_per_week": 5,
         "impact": 3,
         "effort": 2,
         "tools": [
-          "Email",
-          "Website forms",
-          "Real estate CRM",
-          "DocuSign"
-        ]
-      },
-      {
-        "title": "Listing marketing posts prepared on schedule",
-        "department": "Listings and Marketing",
-        "roles": [
-          "Marketing Specialist",
-          "Content and Media Coordinator"
+          "CRM",
+          "Email and calendar",
+          "MLS"
         ],
-        "description": "An agent formats property photos, writes captions, and drafts email blasts and open house flyers from your templates. It schedules approved posts and sends the email blast to your client list.",
-        "before": [
-          "Marketing Specialist resizes and formats property photos.",
-          "Specialist writes social captions and schedules posts.",
-          "Specialist drafts an email blast to the client list.",
-          "Specialist builds an open house flyer and sign request."
-        ],
-        "after": [
-          "Agent formats photos, writes captions, and drafts the email blast.",
-          "Agent builds the flyer from your template.",
-          "Human: Marketing Specialist reviews and approves the materials.",
-          "Agent schedules social posts and sends the email blast."
-        ],
-        "hours_saved_per_week": 5,
-        "impact": 3,
-        "effort": 3,
-        "tools": [
-          "Social media scheduler",
-          "Email marketing",
-          "Google Workspace or Microsoft 365",
-          "Photo library"
-        ]
-      },
-      {
-        "title": "Compliance and license dates watched",
-        "department": "Operations and Compliance",
-        "roles": [
-          "Managing Broker"
-        ],
-        "description": "An agent checks new listings and marketing materials against your compliance checklist and tracks agent license and continuing education dates. It sends reminders before a date is missed and flags items for your review.",
-        "before": [
-          "Managing Broker reviews listings and marketing by hand.",
-          "Broker checks a spreadsheet for license and CE dates.",
-          "Broker emails agents about missing items or renewals.",
-          "Broker files compliance notes."
-        ],
-        "after": [
-          "Agent checks listings and marketing against your checklist.",
-          "Agent flags possible issues for the Managing Broker.",
-          "Human: Managing Broker makes the final compliance call.",
-          "Agent tracks license and CE dates and sends reminders.",
-          "Human: Broker handles escalated or disputed items."
-        ],
-        "hours_saved_per_week": 3,
-        "impact": 4,
-        "effort": 3,
-        "tools": [
-          "Compliance checklists",
-          "Real estate CRM",
-          "License and CE records",
-          "Email"
-        ]
+        "phase1": false
       }
     ],
     "roadmap": [
       {
         "phase": "Phase 1",
         "timeframe": "Weeks 1-4",
-        "title": "Set up the foundation and quick wins",
+        "title": "Prove value with lead response, showing scheduling, and deadline chasing",
         "items": [
-          "Choose one owner for each agent and one backup in your office.",
-          "Connect email, calendar, CRM, and MLS accounts for the first two agents.",
-          "Launch buyer inquiry replies and showing scheduling in Sales and Agent Team.",
-          "Train agents on reviewing drafts and approving sends.",
-          "Track hours saved and reply times weekly."
+          "Set up lead response agent with approved questions and CRM fields",
+          "Connect showing scheduler to agent calendars and CRM",
+          "Build transaction checklist templates and DocuSign reminder rules",
+          "Run daily human review for messages, bookings, and deadline notices",
+          "Track first response time, showing confirmations, and missed deadlines"
         ]
       },
       {
         "phase": "Phase 2",
         "timeframe": "Weeks 5-10",
-        "title": "Add listing and transaction work",
+        "title": "Extend proven agents to listing publishing, copy, and offer packets",
         "items": [
-          "Launch MLS and social listing description agent with Listings and Marketing.",
-          "Launch contract deadline tracker with Operations and Compliance.",
-          "Connect DocuSign and title or lender email to the deadline tracker.",
-          "Set review rules for compliance and client sensitive messages.",
-          "Review errors and adjust prompts and templates weekly."
+          "Connect listing intake to MLS and Zillow field drafts",
+          "Add marketing copy agent with brand and fair housing review",
+          "Add offer packet assembly agent with field checks",
+          "Train listing and marketing staff on review and approval steps",
+          "Compare error rates and hours saved against phase one"
         ]
       },
       {
         "phase": "Phase 3",
         "timeframe": "Weeks 11-16",
-        "title": "Expand follow up and reporting",
+        "title": "Add admin routing, CRM updates, and seller reporting",
         "items": [
-          "Launch lead follow up and website inbox triage.",
-          "Launch listing marketing scheduling and compliance date tracking.",
-          "Add a simple dashboard for hours saved, response times, and pipeline health.",
-          "Document who maintains each agent and when it is reviewed.",
-          "Plan next quarter based on measured results."
+          "Deploy phone and viewing request agent at front desk",
+          "Add CRM note and follow up agent for sales team",
+          "Add weekly seller update agent for listing agents",
+          "Set escalation rules for legal, pricing, and contract questions",
+          "Review all agents monthly and retire any that do not meet targets"
         ]
       }
     ],
     "risks": [
       {
-        "risk": "Agents send drafts without review and a wrong detail reaches a client.",
-        "mitigation": "Keep human approval on all outbound client messages for the first 90 days. Audit a sample every week."
+        "risk": "Automated replies may give wrong property or pricing information",
+        "mitigation": "Use approved answer libraries, keep humans approving first responses for two weeks, and route pricing or legal questions to an agent."
       },
       {
-        "risk": "CRM or MLS data is messy, so agents give bad answers.",
-        "mitigation": "Clean contact and listing fields before each launch. Start with one data source at a time."
+        "risk": "Agents may not trust or use the new workflows",
+        "mitigation": "Start with volunteers, show time saved in weekly reports, and keep agents in control of all client negotiations."
       },
       {
-        "risk": "Compliance rules change and the agent uses old language.",
-        "mitigation": "Managing Broker owns the compliance checklist. Review it monthly and update the agent."
+        "risk": "MLS, Zillow, and DocuSign rules may restrict automated actions",
+        "mitigation": "Follow each system's terms, limit access to approved accounts, and keep final submission or signature requests under human review."
       },
       {
-        "risk": "Team does not trust or use the agents.",
-        "mitigation": "Start with two volunteers. Show time saved and reply speed. Train in short sessions."
+        "risk": "CRM data may be incomplete or inconsistent",
+        "mitigation": "Define required fields, run weekly exception reports, and have the transaction coordinator fix gaps."
       },
       {
-        "risk": "Vendor lock in or cost creep.",
-        "mitigation": "Track monthly cost per agent. Keep setup in tools you already pay for where possible."
+        "risk": "Client communication may feel impersonal",
+        "mitigation": "Use plain templates with agent names, allow quick edits, and keep personal notes for offers, negotiations, and sensitive updates."
       }
     ],
     "kpis": [
-      "Average first response time to buyer inquiries, target under 10 minutes during business hours.",
-      "Showing requests booked without manual back and forth, target 60 percent.",
-      "Listing description draft time, target under 30 minutes from agent notes.",
-      "Contract deadlines missed, target zero.",
-      "CRM leads with follow up in the last 7 days, target 95 percent.",
-      "Team hours saved per week, target 45 to 50 by week 16."
+      "Median first response time to Zillow and website leads",
+      "Share of showings confirmed without manual phone tag",
+      "Transaction deadlines missed per month",
+      "Listing publish time from intake to MLS and Zillow",
+      "Validated hours saved per week by team",
+      "CRM lead status accuracy on weekly audit"
     ]
   },
   "quote": {
@@ -482,104 +590,111 @@
       "items": [
         {
           "n": 1,
-          "title": "Buyer inquiries answered in minutes",
-          "hours": 8,
-          "setup": 1290,
-          "monthly": 520
-        },
-        {
-          "n": 4,
-          "title": "Showing requests booked with less back and forth",
-          "hours": 6,
+          "title": "Zillow and website leads answered in minutes",
+          "hours": 12,
           "setup": 790,
-          "monthly": 390
+          "monthly": 780
         },
         {
           "n": 2,
-          "title": "MLS and social listing descriptions drafted for review",
-          "hours": 7,
+          "title": "Showings booked and confirmed without phone tag",
+          "hours": 10,
+          "setup": 790,
+          "monthly": 650
+        },
+        {
+          "n": 3,
+          "title": "Transaction deadlines and signatures tracked automatically",
+          "hours": 8,
           "setup": 1290,
-          "monthly": 450
+          "monthly": 520
         }
       ],
-      "setup": 3370,
-      "monthly": 1360,
-      "hours": 21,
-      "value_monthly": 4547
+      "setup": 2870,
+      "monthly": 1950,
+      "hours": 30,
+      "value_monthly": 6495
     },
     "full": {
       "items": [
         {
           "n": 1,
-          "title": "Buyer inquiries answered in minutes",
+          "title": "Zillow and website leads answered in minutes",
+          "hours": 12,
+          "setup": 790,
+          "monthly": 780
+        },
+        {
+          "n": 2,
+          "title": "Showings booked and confirmed without phone tag",
+          "hours": 10,
+          "setup": 790,
+          "monthly": 650
+        },
+        {
+          "n": 5,
+          "title": "Listing copy and social posts drafted from property facts",
+          "hours": 8,
+          "setup": 790,
+          "monthly": 520
+        },
+        {
+          "n": 3,
+          "title": "Transaction deadlines and signatures tracked automatically",
           "hours": 8,
           "setup": 1290,
           "monthly": 520
         },
         {
           "n": 4,
-          "title": "Showing requests booked with less back and forth",
-          "hours": 6,
-          "setup": 790,
-          "monthly": 390
-        },
-        {
-          "n": 2,
-          "title": "MLS and social listing descriptions drafted for review",
-          "hours": 7,
+          "title": "Listings published to MLS and Zillow faster",
+          "hours": 9,
           "setup": 1290,
-          "monthly": 450
-        },
-        {
-          "n": 3,
-          "title": "Contract deadlines tracked automatically",
-          "hours": 6,
-          "setup": 1890,
-          "monthly": 390
-        },
-        {
-          "n": 6,
-          "title": "Website and general inbox triaged",
-          "hours": 5,
-          "setup": 790,
-          "monthly": 320
-        },
-        {
-          "n": 5,
-          "title": "Lead follow up runs on time",
-          "hours": 5,
-          "setup": 1290,
-          "monthly": 320
+          "monthly": 580
         },
         {
           "n": 7,
-          "title": "Listing marketing posts prepared on schedule",
-          "hours": 5,
-          "setup": 1290,
-          "monthly": 320
+          "title": "Main phone and viewing requests routed by an agent",
+          "hours": 7,
+          "setup": 790,
+          "monthly": 450
         },
         {
           "n": 8,
-          "title": "Compliance and license dates watched",
-          "hours": 3,
+          "title": "CRM notes and follow-ups updated from calls and emails",
+          "hours": 7,
+          "setup": 790,
+          "monthly": 450
+        },
+        {
+          "n": 6,
+          "title": "Offer packets assembled and checked before sending",
+          "hours": 6,
           "setup": 1290,
-          "monthly": 290
+          "monthly": 390
+        },
+        {
+          "n": 9,
+          "title": "Weekly seller updates drafted from CRM and showing data",
+          "hours": 5,
+          "setup": 790,
+          "monthly": 320
         }
       ],
-      "setup": 9920,
-      "monthly": 3000,
-      "hours": 45,
-      "value_monthly": 9743
+      "setup": 8610,
+      "monthly": 4660,
+      "hours": 72,
+      "value_monthly": 15588
     },
     "rate": 50,
     "free_setup_months": 4
   },
   "totals": {
-    "hours_week": 45,
-    "annual_hours": 2070,
-    "annual_value": 103500,
-    "fte": 1.1,
-    "opportunities": 8,
+    "hours_week": 72,
+    "annual_hours": 3312,
+    "annual_value": 165600,
+    "fte": 1.8,
+    "opportunities": 9,
     "employees": 22,
     "rate": 50
   },

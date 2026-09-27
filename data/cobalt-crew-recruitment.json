@@ -6,216 +6,189 @@
     "url": null
   },
   "prepared_for": null,
-  "created_at": "2026-09-27T10:03:15.797Z",
+  "created_at": "2026-09-27T11:16:56.788Z",
   "profile": {
     "company": {
       "name": "Cobalt Crew Recruitment",
-      "industry": "Staffing and Recruiting",
-      "summary": "You run Cobalt Crew Recruitment, a Manchester staffing agency. You place temporary warehouse and logistics workers with client sites across the North West. Your 35 person team handles recruiting, account management, compliance and weekly payroll.",
+      "industry": "Staffing and recruitment for warehouse and logistics",
+      "summary": "Cobalt Crew Recruitment is a Manchester staffing agency that places temporary warehouse and logistics workers. Your team of 35 handles recruitment, account management, compliance, shift scheduling, and weekly payroll for client sites across Greater Manchester. You screen hundreds of CVs each week and keep temporary workers compliant and paid on time.",
       "offerings": [
         "Temporary warehouse staffing",
-        "Logistics and distribution temp placements",
+        "Logistics and distribution temp staffing",
+        "Shift scheduling and cover",
         "Right-to-work and compliance checks",
-        "Shift scheduling and workforce coordination",
         "Weekly payroll for temporary workers",
-        "Client account management for warehouse sites"
+        "Client account management"
       ],
-      "customers": "Warehouse operators, logistics companies, e-commerce fulfilment centres, manufacturers, distributors and third-party logistics providers in Manchester and the North West.",
+      "customers": "Warehouse operators, logistics firms, distribution centres, 3PLs, and manufacturers in and around Manchester that need temporary labour.",
       "locations": [
-        "Manchester, England",
-        "North West England (placement area)"
+        "Manchester, UK",
+        "Greater Manchester, UK"
       ],
       "size_band": "11-50",
       "employee_estimate": 35,
       "tech_signals": [
         "Applicant tracking system (ATS)",
-        "Recruitment CRM",
-        "Indeed and LinkedIn job posting",
-        "Right-to-work document checking tools",
-        "Shift scheduling or rostering software",
-        "Payroll software",
-        "Microsoft 365",
-        "Time and attendance system"
+        "Job boards such as Indeed and CV-Library",
+        "Excel or Google Sheets for trackers",
+        "Payroll software such as Sage or BrightPay",
+        "Right-to-work document checks",
+        "Shift scheduling tools",
+        "CRM for client accounts"
       ],
       "evidence_quality": "medium"
     },
     "departments": [
       {
         "name": "Recruitment",
-        "headcount_estimate": 12,
+        "headcount_estimate": 15,
         "roles": [
           {
+            "title": "Temporary Recruiter",
+            "count_estimate": 10,
+            "repetitive_tasks": [
+              "Screen CVs against warehouse and logistics requirements",
+              "Post and refresh job ads on job boards",
+              "Call and text candidates to confirm availability",
+              "Book interviews and shift inductions"
+            ]
+          },
+          {
             "title": "Senior Recruiter",
-            "count_estimate": 2,
-            "repetitive_tasks": [
-              "Screen high volumes of warehouse and logistics CVs",
-              "Shortlist candidates for urgent shifts",
-              "Coach recruiters on candidate screening",
-              "Handle escalated candidate issues"
-            ]
-          },
-          {
-            "title": "Recruiter",
-            "count_estimate": 7,
-            "repetitive_tasks": [
-              "Screen CVs against client shift requirements",
-              "Call and text candidates about available shifts",
-              "Book candidates into interviews or inductions",
-              "Update the applicant tracking system"
-            ]
-          },
-          {
-            "title": "Recruitment Administrator",
             "count_estimate": 3,
             "repetitive_tasks": [
-              "Post job ads on job boards",
-              "Chase candidate references and documents",
-              "Arrange interview and induction slots",
-              "Keep candidate records tidy"
+              "Review candidate shortlists",
+              "Handle difficult or urgent placements",
+              "Check daily fill rates",
+              "Coach junior recruiters"
+            ]
+          },
+          {
+            "title": "Candidate Coordinator",
+            "count_estimate": 2,
+            "repetitive_tasks": [
+              "Chase missing candidate documents",
+              "Update ATS records",
+              "Send shift confirmations"
             ]
           }
         ]
       },
       {
         "name": "Account Management",
-        "headcount_estimate": 8,
+        "headcount_estimate": 6,
         "roles": [
           {
             "title": "Account Manager",
-            "count_estimate": 5,
+            "count_estimate": 4,
             "repetitive_tasks": [
-              "Take shift requests from client sites",
-              "Check fill rates and send updates",
-              "Visit client sites and review service",
-              "Resolve temp worker issues"
+              "Take client shift requests",
+              "Confirm worker bookings",
+              "Handle call-offs and replacements",
+              "Send weekly usage reports"
             ]
           },
           {
-            "title": "Client Coordinator",
+            "title": "Client Services Coordinator",
             "count_estimate": 2,
             "repetitive_tasks": [
-              "Confirm shift bookings with clients",
-              "Track worker attendance against requests",
-              "Prepare weekly client reports",
-              "Answer client queries by phone and email"
-            ]
-          },
-          {
-            "title": "Business Development Manager",
-            "count_estimate": 1,
-            "repetitive_tasks": [
-              "Find new warehouse and logistics clients",
-              "Prepare quotes and service proposals",
-              "Attend sales meetings",
-              "Track new business pipeline"
+              "Log client orders",
+              "Update shift schedules",
+              "Chase timesheets",
+              "Resolve invoice queries"
             ]
           }
         ]
       },
       {
         "name": "Compliance",
-        "headcount_estimate": 6,
+        "headcount_estimate": 5,
         "roles": [
           {
             "title": "Compliance Officer",
-            "count_estimate": 2,
-            "repetitive_tasks": [
-              "Audit right-to-work files",
-              "Review compliance against client rules",
-              "Handle document exceptions",
-              "Train staff on checks"
-            ]
-          },
-          {
-            "title": "Compliance Administrator",
             "count_estimate": 3,
             "repetitive_tasks": [
-              "Check passports, visas and right-to-work documents",
-              "Verify addresses and references",
-              "Chase missing documents",
-              "Update compliance records"
+              "Check right-to-work documents",
+              "Verify DBS and licences",
+              "Keep expiry dates updated",
+              "Audit candidate files"
             ]
           },
           {
-            "title": "Onboarding Compliance Assistant",
-            "count_estimate": 1,
+            "title": "Compliance Assistant",
+            "count_estimate": 2,
             "repetitive_tasks": [
-              "Send new starter packs",
-              "Collect ID and bank details",
-              "Run basic background checks",
-              "Book inductions"
+              "Scan and file documents",
+              "Chase expired documents",
+              "Run right-to-work expiry reports"
             ]
           }
         ]
       },
       {
         "name": "Payroll",
-        "headcount_estimate": 5,
+        "headcount_estimate": 4,
         "roles": [
           {
-            "title": "Payroll Manager",
-            "count_estimate": 1,
-            "repetitive_tasks": [
-              "Run weekly payroll sign-off",
-              "Check tax and National Insurance calculations",
-              "Resolve payroll escalations",
-              "Keep payroll records compliant"
-            ]
-          },
-          {
             "title": "Payroll Administrator",
-            "count_estimate": 3,
+            "count_estimate": 2,
             "repetitive_tasks": [
-              "Collect and check timesheets",
-              "Enter hours and rates into payroll software",
-              "Process weekly payments",
-              "Answer pay queries from temps"
+              "Enter timesheets",
+              "Calculate hours, overtime, and holiday pay",
+              "Process weekly BACS runs",
+              "Resolve pay queries"
             ]
           },
           {
-            "title": "Timesheet Clerk",
-            "count_estimate": 1,
+            "title": "Payroll Officer",
+            "count_estimate": 2,
             "repetitive_tasks": [
-              "Chase missing timesheets",
-              "Match timesheets to shift bookings",
-              "Flag timesheet disputes",
-              "Send timesheet reminders"
+              "Check timesheet exceptions",
+              "Reconcile client charge rates",
+              "Send payslips",
+              "Manage PAYE submissions"
             ]
           }
         ]
       },
       {
         "name": "Operations and Admin",
-        "headcount_estimate": 4,
+        "headcount_estimate": 3,
         "roles": [
           {
-            "title": "Operations Manager",
-            "count_estimate": 1,
+            "title": "Operations Coordinator",
+            "count_estimate": 2,
             "repetitive_tasks": [
-              "Plan shift cover across client sites",
-              "Track fill rates and no-shows",
-              "Improve daily office workflows",
-              "Report weekly performance to directors"
+              "Manage rota coverage",
+              "Order PPE",
+              "Update worker records",
+              "Handle incoming calls"
             ]
           },
           {
             "title": "Office Administrator",
-            "count_estimate": 2,
-            "repetitive_tasks": [
-              "Answer main phone line",
-              "Manage office supplies and post",
-              "Support payroll and compliance admin",
-              "Book meeting rooms and travel"
-            ]
-          },
-          {
-            "title": "Receptionist",
             "count_estimate": 1,
             "repetitive_tasks": [
-              "Greet visitors",
-              "Log candidate arrivals",
-              "Take messages",
-              "Keep reception area tidy"
+              "Answer calls",
+              "File documents",
+              "Order office supplies",
+              "Support compliance mail"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Management",
+        "headcount_estimate": 2,
+        "roles": [
+          {
+            "title": "Director or Manager",
+            "count_estimate": 2,
+            "repetitive_tasks": [
+              "Review weekly fill rates and margins",
+              "Meet key clients",
+              "Approve payroll and compliance exceptions",
+              "Set recruiter targets"
             ]
           }
         ]
@@ -223,348 +196,395 @@
     ]
   },
   "strategy": {
-    "executive_summary": "Cobalt Crew Recruitment places temp warehouse and logistics workers across Manchester and the North West. Your 35 person team is strong on relationships and client cover, but a lot of daily work still runs through manual checks, calls and spreadsheets. The best early wins are shift offers, timesheet chasing, candidate screening and right to work document checks. Start with agents that support your recruiters, payroll and compliance teams, and keep a human in charge of exceptions and final decisions.",
+    "situation": "Cobalt Crew Recruitment places temporary warehouse and logistics workers across Greater Manchester. Your 35-person team runs recruitment, compliance, scheduling, and weekly payroll using an ATS, job boards, spreadsheets, and payroll software.",
+    "complication": "CV volume, right-to-work expiry checks, and daily shift changes create manual chasing that slows placements and risks compliance misses. Weekly payroll and client reporting add pressure when fill rates are already tight.",
+    "governing_thought": "Start with a CV screening agent, a right-to-work expiry agent, and a shift booking agent to cut manual chasing, protect compliance, and fill shifts faster.",
+    "key_arguments": [
+      {
+        "role": "where",
+        "headline": "Recruiters, compliance staff, and account managers carry most of the repetitive admin",
+        "support": "Your recruitment team screens hundreds of CVs each week and confirms availability by phone and text. Compliance staff chase right-to-work documents and expiry dates across spreadsheets. Account managers take shift requests, confirm bookings, and handle call-offs while updating CRM and schedules."
+      },
+      {
+        "role": "what",
+        "headline": "These three agents hit high-volume, rule-based tasks with existing tools",
+        "support": "CV screening, right-to-work expiry checks, and shift booking all follow clear rules and use systems you already have. They create fast proof because the agent can draft, flag, or rank while a human approves. Each one reduces manual chasing in a different department, so the value is visible across the business."
+      },
+      {
+        "role": "how",
+        "headline": "Pilot each agent for two weeks, check outputs, then scale across teams",
+        "support": "Set narrow rules, keep humans in approval steps, and review errors weekly before expanding. Start with one recruiter pod, one compliance officer, and one account manager as pilot owners. After the pilot proves reliable, rollout scales to the full team and then to more client sites."
+      }
+    ],
+    "executive_summary": "Cobalt Crew Recruitment places temporary warehouse and logistics workers across Greater Manchester. Your 35-person team runs recruitment, compliance, scheduling, and weekly payroll using an ATS, job boards, spreadsheets, and payroll software. CV volume, right-to-work expiry checks, and daily shift changes create manual chasing that slows placements and risks compliance misses. Weekly payroll and client reporting add pressure when fill rates are already tight. Start with a CV screening agent, a right-to-work expiry agent, and a shift booking agent to cut manual chasing, protect compliance, and fill shifts faster.",
     "maturity": {
       "score": 2,
-      "label": "Early",
-      "note": "You have an ATS, recruitment CRM, payroll and scheduling tools, but the handoffs between them are mostly manual. A score of 2 means the foundations are there, but agents are not yet doing repeatable work."
+      "label": "Emerging",
+      "note": "You have core systems like an ATS, payroll software, and spreadsheets, but most screening, compliance chasing, and shift booking is still manual. No AI agents are in daily use."
     },
     "opportunities": [
       {
-        "title": "Shift offers sent to available temps automatically",
+        "title": "Warehouse CVs screened and ranked in minutes",
         "department": "Recruitment",
         "roles": [
-          "Recruiter",
-          "Recruitment Administrator",
-          "Senior Recruiter"
+          "Temporary Recruiter",
+          "Senior Recruiter",
+          "Candidate Coordinator"
         ],
-        "description": "An agent checks the ATS and shift requirements for available, compliant temps, then sends personalised SMS or email offers. It collects yes or no replies, logs them in the ATS and flags anyone who has not responded.",
+        "description": "An agent reads incoming CVs from the ATS and job boards, checks warehouse and logistics criteria, and ranks candidates by availability, location, and right-to-work status. It drafts shortlists and screening questions for recruiters to approve.",
         "before": [
-          "Recruiter pulls a list of available temps for each open shift.",
-          "Recruiter calls or texts each temp one by one.",
-          "Recruiter waits for replies and updates the ATS by hand.",
-          "Recruiter repeats the same calls when someone drops out."
+          "CVs arrive by email, job boards, and ATS",
+          "Recruiter opens each CV",
+          "Checks skills, location, and availability manually",
+          "Updates ATS status",
+          "Calls or texts candidates for missing details"
         ],
         "after": [
-          "Agent checks ATS and shift requirements for available, compliant temps.",
-          "Agent sends personalised SMS or email offers and collects yes or no replies.",
-          "Agent logs replies in the ATS and flags no responses.",
-          "Human: calls only the non-responders and confirms final shift cover."
+          "Agent pulls new CVs from ATS and job boards",
+          "Agent checks criteria and ranks candidates",
+          "Agent drafts shortlist and screening messages",
+          "Human: recruiter reviews and approves shortlist",
+          "Human: recruiter calls top candidates"
         ],
-        "hours_saved_per_week": 12,
+        "hours_saved_per_week": 15,
         "impact": 5,
         "effort": 2,
         "tools": [
-          "Applicant tracking system (ATS)",
-          "Recruitment CRM",
-          "SMS or WhatsApp",
-          "Microsoft 365"
-        ]
+          "ATS",
+          "Job boards",
+          "Email",
+          "Google Sheets or Excel"
+        ],
+        "phase1": true
       },
       {
-        "title": "Timesheet chasing and shift matching",
-        "department": "Payroll",
+        "title": "Right-to-work expiry checks run daily",
+        "department": "Compliance",
         "roles": [
-          "Timesheet Clerk",
-          "Payroll Administrator",
-          "Payroll Manager"
+          "Compliance Officer",
+          "Compliance Assistant"
         ],
-        "description": "An agent compares shift bookings with submitted timesheets each morning, sends reminders to temps with missing or mismatched hours, and updates the payroll tracker. It lists exceptions for the payroll team to resolve before the weekly run.",
+        "description": "An agent checks right-to-work, DBS, and licence documents against expiry dates, flags missing or expiring items, and sends chase messages to workers and recruiters. It keeps a live compliance tracker without manual report building.",
         "before": [
-          "Timesheet Clerk checks which temps have not submitted hours.",
-          "Clerk sends reminders by email or phone.",
-          "Administrator matches timesheets to shift bookings in a spreadsheet.",
-          "Administrator flags disputes and passes them to Payroll Manager."
+          "Compliance assistant runs expiry report in spreadsheet",
+          "Checks each worker file",
+          "Notes missing or expiring documents",
+          "Emails or calls worker",
+          "Updates tracker after reply"
         ],
         "after": [
-          "Agent compares shift bookings with submitted timesheets each morning.",
-          "Agent sends reminders to temps with missing or mismatched hours.",
-          "Agent updates the payroll tracker and lists exceptions.",
-          "Human: resolves disputes and approves the weekly payroll run."
+          "Agent reads document dates from tracker and files",
+          "Agent flags expiring or missing items",
+          "Agent sends chase emails or texts",
+          "Human: compliance officer reviews exceptions",
+          "Human: officer confirms updated documents"
         ],
-        "hours_saved_per_week": 12,
+        "hours_saved_per_week": 10,
         "impact": 5,
-        "effort": 3,
+        "effort": 2,
         "tools": [
-          "Time and attendance system",
-          "Payroll software",
-          "Applicant tracking system (ATS)",
-          "Microsoft 365"
-        ]
+          "ATS",
+          "Compliance tracker",
+          "Email",
+          "SMS"
+        ],
+        "phase1": true
       },
       {
-        "title": "Candidate screening for warehouse shifts",
-        "department": "Recruitment",
-        "roles": [
-          "Recruiter",
-          "Senior Recruiter",
-          "Recruitment Administrator"
-        ],
-        "description": "An agent reads new CVs and ranks them against each client shift brief, checking location, shift pattern, licence and right to work status. It creates a shortlist in the ATS with reasons for each match so recruiters can approve who to call.",
-        "before": [
-          "Recruiter opens each new CV in the ATS.",
-          "Recruiter checks warehouse experience, location, availability and right to work status.",
-          "Recruiter writes a shortlist in a spreadsheet or ATS note.",
-          "Senior Recruiter reviews shortlists for urgent shifts."
-        ],
-        "after": [
-          "Agent reads new CVs and ranks them against each client shift brief.",
-          "Agent checks key facts such as location, shift pattern, licence and right to work status.",
-          "Agent creates a shortlist in the ATS with reasons for each match.",
-          "Human: reviews the top candidates and approves who to call."
-        ],
-        "hours_saved_per_week": 14,
-        "impact": 5,
-        "effort": 3,
-        "tools": [
-          "Applicant tracking system (ATS)",
-          "Indeed",
-          "LinkedIn",
-          "Microsoft 365"
-        ]
-      },
-      {
-        "title": "Client shift requests turned into confirmed bookings",
+        "title": "Client shift requests booked with fewer calls",
         "department": "Account Management",
         "roles": [
           "Account Manager",
-          "Client Coordinator"
+          "Client Services Coordinator"
         ],
-        "description": "An agent reads client emails and extracts role, site, shift times, rates and numbers needed. It checks available and compliant temps in the ATS, creates the booking, sends confirmation and updates the CRM.",
+        "description": "An agent takes shift requests from client emails and CRM notes, checks available workers in the scheduling tool, and drafts booking confirmations and replacement options. Account managers approve the final booking.",
         "before": [
-          "Client emails or calls with shift requests.",
-          "Coordinator writes the request into the CRM or a spreadsheet.",
-          "Coordinator checks available temps in the ATS.",
-          "Coordinator confirms booking by email and updates the client."
+          "Client emails or calls with shift request",
+          "Account manager checks schedule manually",
+          "Calls workers for availability",
+          "Confirms booking by email",
+          "Updates CRM and schedule"
         ],
         "after": [
-          "Agent reads client emails and extracts role, site, shift times, rates and numbers needed.",
-          "Agent checks available and compliant temps in the ATS.",
-          "Agent creates the booking, sends confirmation and updates the CRM.",
-          "Human: reviews gaps and calls the client if cover cannot be fully met."
+          "Agent reads client request from email or CRM",
+          "Agent checks worker availability and compliance status",
+          "Agent drafts booking and replacement options",
+          "Human: account manager approves and sends",
+          "Agent updates CRM and schedule"
         ],
-        "hours_saved_per_week": 10,
-        "impact": 5,
-        "effort": 4,
-        "tools": [
-          "Recruitment CRM",
-          "Applicant tracking system (ATS)",
-          "Scheduling software",
-          "Microsoft 365"
-        ]
-      },
-      {
-        "title": "Right to work checks and expiry reminders",
-        "department": "Compliance",
-        "roles": [
-          "Compliance Administrator",
-          "Compliance Officer",
-          "Onboarding Compliance Assistant"
-        ],
-        "description": "An agent checks uploaded documents for missing pages, readable dates and key details, then extracts expiry dates and flags anything that needs a human check. It updates the compliance record and sends expiry reminders.",
-        "before": [
-          "Administrator opens each uploaded passport, visa or share code.",
-          "Administrator checks dates, names and document type against client rules.",
-          "Administrator updates the compliance record.",
-          "Officer audits files and chases expiring documents."
-        ],
-        "after": [
-          "Agent checks uploaded documents for missing pages, readable dates and key details.",
-          "Agent extracts expiry dates and flags anything that needs a human check.",
-          "Agent updates the compliance record and sends expiry reminders.",
-          "Human: reviews flagged exceptions and signs off the file."
-        ],
-        "hours_saved_per_week": 10,
+        "hours_saved_per_week": 12,
         "impact": 5,
         "effort": 3,
         "tools": [
-          "Right to work document checking tools",
-          "Applicant tracking system (ATS)",
-          "Microsoft 365"
-        ]
+          "CRM",
+          "Email",
+          "Shift scheduling tool",
+          "ATS"
+        ],
+        "phase1": true
       },
       {
-        "title": "Weekly client reports prepared from live data",
-        "department": "Account Management",
-        "roles": [
-          "Client Coordinator",
-          "Account Manager"
-        ],
-        "description": "An agent pulls fill rates, attendance and no-shows from the ATS and time system, then builds the weekly report for each client site. It emails a draft to the Account Manager for review and context.",
-        "before": [
-          "Coordinator exports fill rates and attendance from several systems.",
-          "Coordinator copies numbers into a weekly spreadsheet.",
-          "Account Manager checks the report and adds comments.",
-          "Coordinator emails the report to each client."
-        ],
-        "after": [
-          "Agent pulls fill rates, attendance and no-shows from the ATS and time system.",
-          "Agent builds the weekly report for each client site.",
-          "Agent emails a draft to the Account Manager.",
-          "Human: reviews the draft, adds context and sends to the client."
-        ],
-        "hours_saved_per_week": 7,
-        "impact": 4,
-        "effort": 2,
-        "tools": [
-          "Applicant tracking system (ATS)",
-          "Scheduling software",
-          "Time and attendance system",
-          "Microsoft 365"
-        ]
-      },
-      {
-        "title": "New starter pack and induction booking",
-        "department": "Compliance",
-        "roles": [
-          "Onboarding Compliance Assistant",
-          "Compliance Administrator"
-        ],
-        "description": "An agent sends the new starter pack and tracks what comes back, then chases missing ID, bank details and references on a schedule. It offers induction slots and books the chosen time.",
-        "before": [
-          "Assistant sends a new starter pack by email.",
-          "Assistant waits for ID, bank details and references.",
-          "Assistant chases missing items one by one.",
-          "Assistant books an induction slot and updates records."
-        ],
-        "after": [
-          "Agent sends the new starter pack and tracks what comes back.",
-          "Agent chases missing ID, bank details and references on a schedule.",
-          "Agent offers induction slots and books the chosen time.",
-          "Human: checks documents, answers questions and confirms the start."
-        ],
-        "hours_saved_per_week": 8,
-        "impact": 4,
-        "effort": 3,
-        "tools": [
-          "Applicant tracking system (ATS)",
-          "Microsoft 365",
-          "Scheduling software"
-        ]
-      },
-      {
-        "title": "Common pay queries answered from payroll data",
+        "title": "Timesheets entered and checked before payroll run",
         "department": "Payroll",
         "roles": [
           "Payroll Administrator",
-          "Payroll Manager"
+          "Payroll Officer"
         ],
-        "description": "An agent reads pay queries and looks up the temp record in payroll data. It answers common questions about pay date, rate, hours and deductions, then escalates anything about missing pay, tax codes or disputes.",
+        "description": "An agent collects timesheets from client emails and portals, checks hours and overtime against shift records, and flags exceptions before the weekly BACS run. Payroll staff review only the flagged items.",
         "before": [
-          "Temp emails or calls about pay date, rate or hours.",
-          "Administrator looks up the record in payroll software.",
-          "Administrator replies with the same standard answers.",
-          "Manager handles complaints or complex queries."
+          "Client timesheets arrive by email and portal",
+          "Payroll admin downloads and opens each file",
+          "Enters hours into payroll software",
+          "Checks overtime and holiday manually",
+          "Queries exceptions by email"
         ],
         "after": [
-          "Agent reads pay queries and looks up the temp record in payroll data.",
-          "Agent answers common questions about pay date, rate, hours and deductions.",
-          "Agent escalates anything about missing pay, tax codes or disputes.",
-          "Human: reviews escalations and replies to sensitive cases."
+          "Agent collects timesheets from email and portal",
+          "Agent matches hours to shift records",
+          "Agent calculates overtime and holiday pay",
+          "Agent flags exceptions with reasons",
+          "Human: payroll officer reviews and approves"
+        ],
+        "hours_saved_per_week": 10,
+        "impact": 4,
+        "effort": 4,
+        "tools": [
+          "Payroll software",
+          "Email",
+          "Shift scheduling tool",
+          "Excel or Google Sheets"
+        ],
+        "phase1": false
+      },
+      {
+        "title": "Job ads refreshed without manual posting",
+        "department": "Recruitment",
+        "roles": [
+          "Temporary Recruiter",
+          "Senior Recruiter"
+        ],
+        "description": "An agent reviews performance of warehouse and logistics job ads and refreshes posts on Indeed and CV-Library on a set schedule. It pauses weak ads and drafts new wording for recruiter approval.",
+        "before": [
+          "Recruiter checks which ads are live",
+          "Reviews applications by job board",
+          "Rewrites or bumps ads manually",
+          "Posts to each board",
+          "Tracks results in spreadsheet"
+        ],
+        "after": [
+          "Agent checks ad performance daily",
+          "Agent refreshes or pauses ads by rule",
+          "Agent drafts new ad wording",
+          "Human: recruiter approves changes",
+          "Agent logs results in tracker"
         ],
         "hours_saved_per_week": 6,
         "impact": 3,
         "effort": 2,
         "tools": [
-          "Payroll software",
-          "Microsoft 365",
-          "Email or helpdesk"
-        ]
+          "Job boards",
+          "ATS",
+          "Excel or Google Sheets"
+        ],
+        "phase1": false
       },
       {
-        "title": "Main phone triage and candidate arrival logging",
+        "title": "Rota gaps and PPE orders handled earlier",
         "department": "Operations and Admin",
         "roles": [
-          "Receptionist",
+          "Operations Coordinator",
           "Office Administrator"
         ],
-        "description": "An agent answers common calls and routes urgent ones to the right person, logs candidate arrivals and sends a note to the recruiter. It takes messages and emails them to the team.",
+        "description": "An agent watches rota coverage and PPE stock levels, then flags gaps and drafts cover requests or purchase orders. Coordinators approve the action before it is sent.",
         "before": [
-          "Receptionist answers every call.",
-          "Receptionist takes messages and passes them on.",
-          "Receptionist logs candidate arrivals on paper or screen.",
-          "Office Administrator handles supply and post queries."
+          "Operations coordinator checks rota each morning",
+          "Spots gaps manually",
+          "Calls workers for cover",
+          "Checks PPE stock in spreadsheet",
+          "Raises order when low"
         ],
         "after": [
-          "Agent answers common calls and routes urgent ones to the right person.",
-          "Agent logs candidate arrivals and sends a note to the recruiter.",
-          "Agent takes messages and emails them to the team.",
-          "Human: handles complex calls, visitors and deliveries."
+          "Agent checks rota and PPE stock daily",
+          "Agent flags gaps and low stock",
+          "Agent drafts cover requests and orders",
+          "Human: coordinator approves and sends",
+          "Agent updates tracker"
+        ],
+        "hours_saved_per_week": 6,
+        "impact": 3,
+        "effort": 3,
+        "tools": [
+          "Shift scheduling tool",
+          "Excel or Google Sheets",
+          "Email"
+        ],
+        "phase1": false
+      },
+      {
+        "title": "Pay queries answered from a known list",
+        "department": "Payroll",
+        "roles": [
+          "Payroll Administrator",
+          "Payroll Officer"
+        ],
+        "description": "An agent reads common pay queries by email and text, checks payslips and timesheet records, and drafts replies for payroll staff to approve. Unusual queries go straight to a human.",
+        "before": [
+          "Worker emails or texts pay query",
+          "Payroll admin searches payslip and timesheet",
+          "Checks hours and deductions manually",
+          "Writes reply",
+          "Escalates if unclear"
+        ],
+        "after": [
+          "Agent reads query and classifies it",
+          "Agent checks payslip and timesheet records",
+          "Agent drafts reply for common queries",
+          "Human: payroll officer approves or edits",
+          "Agent routes unusual queries to human"
         ],
         "hours_saved_per_week": 5,
         "impact": 3,
         "effort": 3,
         "tools": [
-          "Phone system",
-          "Microsoft 365",
-          "Applicant tracking system (ATS)"
-        ]
+          "Payroll software",
+          "Email",
+          "SMS",
+          "Excel or Google Sheets"
+        ],
+        "phase1": false
+      },
+      {
+        "title": "Candidate files audited in batches",
+        "department": "Compliance",
+        "roles": [
+          "Compliance Officer",
+          "Compliance Assistant"
+        ],
+        "description": "An agent checks candidate files for missing right-to-work, DBS, and licence documents before client audits. It produces an exception list so compliance staff fix only the files that need attention.",
+        "before": [
+          "Compliance assistant selects file batch",
+          "Opens each candidate record",
+          "Checks required documents against checklist",
+          "Notes missing items",
+          "Emails recruiters to fix"
+        ],
+        "after": [
+          "Agent scans candidate files against checklist",
+          "Agent lists missing or expired items",
+          "Agent drafts fix requests",
+          "Human: compliance officer reviews list",
+          "Human: officer confirms fixes"
+        ],
+        "hours_saved_per_week": 7,
+        "impact": 4,
+        "effort": 2,
+        "tools": [
+          "ATS",
+          "Compliance tracker",
+          "Email"
+        ],
+        "phase1": false
+      },
+      {
+        "title": "Weekly fill rates and margins reported without spreadsheet chase",
+        "department": "Management",
+        "roles": [
+          "Director or Manager"
+        ],
+        "description": "An agent pulls fill rates, margin data, and payroll exceptions into one weekly summary for the directors. It highlights changes and questions so the management meeting starts with decisions, not data gathering.",
+        "before": [
+          "Director asks recruiters for fill rates",
+          "Exports data from ATS and payroll",
+          "Combines figures in spreadsheet",
+          "Checks margins manually",
+          "Prepares notes for meeting"
+        ],
+        "after": [
+          "Agent pulls data from ATS and payroll",
+          "Agent calculates fill rates and margins",
+          "Agent drafts weekly summary",
+          "Human: director reviews and adds context",
+          "Agent sends summary before meeting"
+        ],
+        "hours_saved_per_week": 4,
+        "impact": 3,
+        "effort": 3,
+        "tools": [
+          "ATS",
+          "Payroll software",
+          "Excel or Google Sheets",
+          "Email"
+        ],
+        "phase1": false
       }
     ],
     "roadmap": [
       {
         "phase": "Phase 1",
-        "timeframe": "0 to 30 days",
-        "title": "Set up the highest volume agents",
+        "timeframe": "Weeks 1-4",
+        "title": "Prove the three phase 1 agents",
         "items": [
-          "Map the ATS, payroll, scheduling and email data you already use.",
-          "Build the shift offer agent for SMS and email, with Recruiter approval.",
-          "Build the timesheet chasing agent and test it on one client site.",
-          "Agree human approval rules for compliance and payroll exceptions."
+          "Map CV sources, right-to-work trackers, and shift request channels",
+          "Set up CV screening agent with recruiter approval",
+          "Set up right-to-work expiry agent with compliance approval",
+          "Set up shift booking agent with account manager approval",
+          "Review outputs weekly and fix false positives or misses"
         ]
       },
       {
         "phase": "Phase 2",
-        "timeframe": "30 to 90 days",
-        "title": "Add compliance, onboarding and client reporting",
+        "timeframe": "Weeks 5-10",
+        "title": "Extend into payroll and operations",
         "items": [
-          "Launch the right to work check assistant with Compliance Officer sign off.",
-          "Launch the new starter pack and induction booking agent.",
-          "Launch the weekly client report agent for your top five client sites.",
-          "Train recruiters and administrators on what the agents do and when to step in."
+          "Add timesheet collection and exception agent",
+          "Add pay query triage agent",
+          "Add rota gap and PPE order agent",
+          "Add job ad refresh agent",
+          "Train payroll and operations staff on approval steps"
         ]
       },
       {
         "phase": "Phase 3",
-        "timeframe": "90 to 180 days",
-        "title": "Extend to client requests, pay queries and phone triage",
+        "timeframe": "Weeks 11-16",
+        "title": "Scale reporting and audits",
         "items": [
-          "Connect client shift request emails to the booking agent.",
-          "Add the common pay query agent for payroll inboxes and calls.",
-          "Add phone triage and candidate arrival logging at reception.",
-          "Review fill rates, payroll cut off times and query response times each month."
+          "Add candidate file audit agent",
+          "Add management reporting agent",
+          "Set monthly KPI reviews for all agents",
+          "Expand agents to more client sites and recruiter pods",
+          "Document agent rules and owner responsibilities"
         ]
       }
     ],
     "risks": [
       {
-        "risk": "Right to work and candidate data is sensitive. If an agent handles documents badly, you risk a data breach or compliance failure.",
-        "mitigation": "Keep documents in your existing secure systems, limit agent access to the fields it needs, and have Compliance Officers approve all exceptions."
+        "risk": "The CV screening agent rejects good candidates because rules are too rigid.",
+        "mitigation": "Keep recruiter approval on every shortlist and review false negatives weekly for the first month."
       },
       {
-        "risk": "Automated shift offers or reminders may annoy temps if they are too frequent or poorly timed.",
-        "mitigation": "Set clear send times, opt out rules and daily caps. Let temps reply in plain language."
+        "risk": "Compliance mistakes create legal or client audit problems.",
+        "mitigation": "Let the agent flag and draft only. Compliance officers approve all right-to-work and document decisions."
       },
       {
-        "risk": "A screening or matching agent could put forward the wrong candidate.",
-        "mitigation": "Use agents to rank and prepare shortlists, not to make final hiring decisions. Senior Recruiters approve every candidate before a shift offer."
+        "risk": "Payroll errors damage worker trust and cause BACS delays.",
+        "mitigation": "Run the timesheet agent in parallel with manual checks for four weeks and keep human approval before BACS."
       },
       {
-        "risk": "Payroll errors are costly and damage trust.",
-        "mitigation": "Keep Payroll Manager sign off for every weekly run. The agent only prepares matches and flags exceptions."
+        "risk": "Staff resist using new agents or ignore the outputs.",
+        "mitigation": "Start with volunteer pilot users, show time saved in their own tasks, and give clear owner roles."
       },
       {
-        "risk": "Your systems may not connect cleanly.",
-        "mitigation": "Start with email, SMS and spreadsheet outputs, then connect the ATS, payroll and scheduling tools in phases."
+        "risk": "Worker or client data is exposed through new tools.",
+        "mitigation": "Use role-based access, keep data inside existing systems where possible, and review permissions before each rollout."
       }
     ],
     "kpis": [
+      "Time from CV received to recruiter shortlist",
+      "Right-to-work expiry checks completed on time",
       "Shift fill rate for client requests",
-      "Average time from client shift request to confirmed cover",
-      "Timesheets missing at weekly payroll cut off",
-      "Right to work files complete before first shift",
-      "Pay query first response time",
-      "Hours saved per week from live agents"
+      "Timesheet exceptions caught before payroll run",
+      "Hours saved per week from active agents",
+      "Payroll accuracy and on-time BACS rate"
     ]
   },
   "quote": {
@@ -572,110 +592,110 @@
       "items": [
         {
           "n": 1,
-          "title": "Shift offers sent to available temps automatically",
-          "hours": 12,
+          "title": "Warehouse CVs screened and ranked in minutes",
+          "hours": 15,
           "setup": 790,
-          "monthly": 780
-        },
-        {
-          "n": 3,
-          "title": "Candidate screening for warehouse shifts",
-          "hours": 14,
-          "setup": 1290,
-          "monthly": 910
+          "monthly": 970
         },
         {
           "n": 2,
-          "title": "Timesheet chasing and shift matching",
+          "title": "Right-to-work expiry checks run daily",
+          "hours": 10,
+          "setup": 790,
+          "monthly": 650
+        },
+        {
+          "n": 3,
+          "title": "Client shift requests booked with fewer calls",
           "hours": 12,
           "setup": 1290,
           "monthly": 780
         }
       ],
-      "setup": 3370,
-      "monthly": 2470,
-      "hours": 38,
-      "value_monthly": 8227
+      "setup": 2870,
+      "monthly": 2400,
+      "hours": 37,
+      "value_monthly": 8011
     },
     "full": {
       "items": [
         {
           "n": 1,
-          "title": "Shift offers sent to available temps automatically",
-          "hours": 12,
+          "title": "Warehouse CVs screened and ranked in minutes",
+          "hours": 15,
           "setup": 790,
-          "monthly": 780
-        },
-        {
-          "n": 3,
-          "title": "Candidate screening for warehouse shifts",
-          "hours": 14,
-          "setup": 1290,
-          "monthly": 910
+          "monthly": 970
         },
         {
           "n": 2,
-          "title": "Timesheet chasing and shift matching",
+          "title": "Right-to-work expiry checks run daily",
+          "hours": 10,
+          "setup": 790,
+          "monthly": 650
+        },
+        {
+          "n": 3,
+          "title": "Client shift requests booked with fewer calls",
           "hours": 12,
           "setup": 1290,
           "monthly": 780
         },
         {
-          "n": 5,
-          "title": "Right to work checks and expiry reminders",
-          "hours": 10,
-          "setup": 1290,
-          "monthly": 650
-        },
-        {
-          "n": 6,
-          "title": "Weekly client reports prepared from live data",
+          "n": 8,
+          "title": "Candidate files audited in batches",
           "hours": 7,
           "setup": 790,
           "monthly": 450
         },
         {
           "n": 4,
-          "title": "Client shift requests turned into confirmed bookings",
+          "title": "Timesheets entered and checked before payroll run",
           "hours": 10,
           "setup": 1890,
           "monthly": 650
         },
         {
-          "n": 7,
-          "title": "New starter pack and induction booking",
-          "hours": 8,
-          "setup": 1290,
-          "monthly": 520
-        },
-        {
-          "n": 8,
-          "title": "Common pay queries answered from payroll data",
+          "n": 5,
+          "title": "Job ads refreshed without manual posting",
           "hours": 6,
           "setup": 790,
           "monthly": 390
         },
         {
-          "n": 9,
-          "title": "Main phone triage and candidate arrival logging",
+          "n": 6,
+          "title": "Rota gaps and PPE orders handled earlier",
+          "hours": 6,
+          "setup": 1290,
+          "monthly": 390
+        },
+        {
+          "n": 7,
+          "title": "Pay queries answered from a known list",
           "hours": 5,
           "setup": 1290,
           "monthly": 320
+        },
+        {
+          "n": 9,
+          "title": "Weekly fill rates and margins reported without spreadsheet chase",
+          "hours": 4,
+          "setup": 1290,
+          "monthly": 290
         }
       ],
-      "setup": 10710,
-      "monthly": 5450,
-      "hours": 84,
-      "value_monthly": 18186
+      "setup": 10210,
+      "monthly": 4890,
+      "hours": 75,
+      "value_monthly": 16238
     },
     "rate": 50,
     "free_setup_months": 4
   },
   "totals": {
-    "hours_week": 84,
-    "annual_hours": 3864,
-    "annual_value": 193200,
-    "fte": 2.1,
+    "hours_week": 75,
+    "annual_hours": 3450,
+    "annual_value": 172500,
+    "fte": 1.9,
     "opportunities": 9,
     "employees": 35,
     "rate": 50

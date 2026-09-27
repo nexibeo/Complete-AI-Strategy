@@ -5,62 +5,66 @@
 
 | Hours saved per week | Value per year | Roles freed up | Opportunities |
 |---:|---:|---:|---:|
-| **39h** | **$89,700** | **1 FTE** | **9** |
+| **47h** | **$108,100** | **1.2 FTE** | **8** |
 
-## Summary
-Tidewell Outdoor runs a 3,000 product Shopify store from Gothenburg with 15 people and a steady flow of order, return, sizing, and stock questions. Your team already has the core systems in place, but most work still moves through shared inboxes, spreadsheets, and manual checks. We estimate your current AI maturity at 2 out of 5: basic tools are connected, but agents are not yet doing routine work. A focused first program can save about 39 hours per week, roughly 6.5 percent of your team's 600 weekly hours, without changing your storefront or warehouse process. Start with customer service replies and stock reorder checks, then expand into marketing and reporting.
+## Our recommendation
+**Start with three agents for order status and returns, sizing advice, and late parcel tracking; they cut your team’s repetitive email and parcel work and prove value fast.**
 
-## Company snapshot
-- **Industry:** Outdoor and camping gear retail (e-commerce)
-- **What they do:** You sell outdoor and camping gear online from Gothenburg, Sweden. Your 15 person team runs a Shopify store with about 3,000 products and handles many customer emails about orders, returns, and sizing. Your customers are mainly Swedish and Nordic outdoor shoppers, from casual campers to serious hikers.
-- **Customers:** You sell direct to consumers in Sweden and nearby Nordic countries. Typical buyers are campers, hikers, families, and outdoor hobbyists. A small share may be clubs or local resellers.
-- **Team size:** 11-50 (estimate 15)
-- **Tools:** Shopify, Shared email inbox or helpdesk, Inventory or order management software, Shipping label and returns tools, Google Analytics or similar web analytics, Email marketing tool
-- **AI maturity:** 2/5, Early automation. You have Shopify, a shared inbox or helpdesk, inventory tools, and analytics. The next step is small agents that draft routine replies, check stock, and prepare reports for human approval.
+Tidewell Outdoor sells about 3,000 outdoor products online with a 15-person team in Gothenburg. Most customer questions, returns, stock checks, and reporting still run through email and manual Shopify work. Order and sizing emails arrive faster than your team can answer, and late parcels create repeat contacts that cost time and trust. As sales grow, the same manual steps will absorb more hours without adding capacity.
 
-## Team and roles
-| Department | People | Roles |
-|---|---:|---|
-| Customer Service | 4 | Customer Service Agent (4) |
-| Marketing | 3 | Marketing Specialist (2), Content and SEO Specialist (1) |
-| Purchasing | 2 | Purchasing Manager (1), Purchasing Assistant (1) |
-| Warehouse and Fulfilment | 4 | Warehouse Lead (1), Warehouse Operative (3) |
-| IT and Development | 1 | E-commerce Developer (1) |
-| Leadership and Admin | 1 | Founder or General Manager (1) |
+1. **Customer service and logistics absorb most of the repetitive email and parcel work** Your four-person customer service team spends much of each day on order status, returns, exchanges, and sizing questions. The logistics coordinator also spends hours tracking late parcels and updating delivery status. Marketing and purchasing have recurring listing, stock, and reporting chores, but they are smaller and less urgent.
+2. **Order status, sizing advice, and late parcel tracking are the best first agents** These three tasks are high volume, rules-based, and already supported by Shopify, your shared inbox, and carrier tools. They affect customers directly, so fast replies and fewer mistakes are easy to see. Each agent can start with a human approval step before sending anything.
+3. **Run a four-week pilot, keep humans in the loop, then scale proven agents** Connect one shared inbox and one carrier account first, then review every drafted reply or update for the first two weeks. Use simple exception rules so refunds, replacements, and unusual cases still go to a person. After the pilot, extend the same agents to more inboxes, carriers, and product categories.
 
-## Opportunities
-| # | Opportunity | Department | Hours/week | Impact | Effort |
-|---:|---|---|---:|:-:|:-:|
-| 1 | Order status and delay replies handled in minutes | Customer Service | 7 | 5/5 | 2/5 |
-| 2 | Returns and exchanges processed with less back and forth | Customer Service | 6 | 5/5 | 3/5 |
-| 3 | Sizing and fit questions answered from product data | Customer Service | 4 | 4/5 | 2/5 |
-| 4 | Reorder suggestions before stock runs out | Purchasing | 5 | 4/5 | 3/5 |
-| 5 | Seasonal emails and social posts prepared from your product feed | Marketing | 4 | 3/5 | 2/5 |
-| 6 | Product descriptions and buying guides kept up to date | Marketing | 5 | 4/5 | 2/5 |
-| 7 | Weekly sales, margin, and cashflow summary ready on Monday | Leadership and Admin | 3 | 4/5 | 3/5 |
-| 8 | Return and damage reports sorted for the warehouse | Warehouse and Fulfilment | 3 | 3/5 | 3/5 |
-| 9 | Shopify and integration issues triaged before they grow | IT and Development | 2 | 3/5 | 4/5 |
+**Phase 1 at a glance:** Order status and returns triage · Sizing and product advice replies · Late parcel tracking and delivery updates. About 26 hours a week back for $1,690/month (setup $2,870, free on a 4-month run).
 
-### 1. Order status and delay replies handled in minutes
-An agent checks Shopify, carrier tracking, and your helpdesk for order status questions and delivery delays. It drafts a reply with the current tracking link, delay reason if known, and next step for the customer.
+## 1. Customer service and logistics absorb most of the repetitive email and parcel work
+Your four-person customer service team spends much of each day on order status, returns, exchanges, and sizing questions. The logistics coordinator also spends hours tracking late parcels and updating delivery status. Marketing and purchasing have recurring listing, stock, and reporting chores, but they are smaller and less urgent.
 
-**Saves ~7h per week** · Roles: Customer Service Agent · Tools: Shopify, Shared email inbox or helpdesk, Carrier tracking, Shipping label tool
+| Department | Hours saved / week | Share |
+|---|---:|---:|
+| Customer Service | 20 | 43% |
+| Marketing | 10 | 21% |
+| Warehouse and Logistics | 6 | 13% |
+| Purchasing and Merchandising | 5 | 11% |
+| Finance and Admin | 4 | 9% |
+| Technology and Web | 2 | 4% |
+
+## 2. Order status, sizing advice, and late parcel tracking are the best first agents
+These three tasks are high volume, rules-based, and already supported by Shopify, your shared inbox, and carrier tools. They affect customers directly, so fast replies and fewer mistakes are easy to see. Each agent can start with a human approval step before sending anything.
+
+| # | Opportunity | Department | Hours/week | Impact | Effort | Phase |
+|---:|---|---|---:|:-:|:-:|:-:|
+| 1 | Order status and returns triage | Customer Service | 12 | 5/5 | 2/5 | 1 |
+| 2 | Sizing and product advice replies | Customer Service | 8 | 5/5 | 3/5 | 1 |
+| 3 | Late parcel tracking and delivery updates | Warehouse and Logistics | 6 | 4/5 | 2/5 | 1 |
+| 4 | Product listing and collection updates | Marketing | 7 | 4/5 | 3/5 | later |
+| 5 | Stock reorder alerts and supplier order drafts | Purchasing and Merchandising | 5 | 4/5 | 3/5 | later |
+| 6 | Invoice and payout reconciliation | Finance and Admin | 4 | 3/5 | 3/5 | later |
+| 7 | Site error and speed monitoring | Technology and Web | 2 | 3/5 | 2/5 | later |
+| 8 | Weekly campaign and traffic digest | Marketing | 3 | 3/5 | 2/5 | later |
+
+### 1. Order status and returns triage (phase 1)
+An agent reads incoming order, return, and exchange emails, checks Shopify and carrier status, and drafts a reply with the right next step. It routes refunds, replacements, and complaints to a human for approval. Pilot: first shared inbox and Shopify order data.
+
+**Saves ~12h per week** · Roles: Customer Service Agent, Customer Service Lead · Tools: Shopify, Shared inbox or helpdesk, Shipping carrier tools
 
 ```mermaid
 flowchart LR
   subgraph Today
-    B0["Agent opens shared inbox"]
-    B1["Searches Shopify order number"]
-    B2["Checks carrier tracking site"]
-    B3["Writes reply and updates ticket"]
-    B0 --> B1 --> B2 --> B3
+    B0["Open shared inbox and read email"]
+    B1["Find order in Shopify"]
+    B2["Check carrier tracking and return policy"]
+    B3["Write reply and update order note"]
+    B4["Escalate refunds or delays to lead"]
+    B0 --> B1 --> B2 --> B3 --> B4
   end
   subgraph WithAI[With AI]
-    A0["Agent reads customer email"]
-    A1["AI agent pulls order and tracking data"]
-    A2["AI agent drafts reply with tracking and delay note"]
-    A3["You: Agent reviews and sends"]
-    A4["You: Agent updates exception notes if needed"]
+    A0["Agent reads email and finds order in Shopify"]
+    A1["Agent checks carrier tracking and return rules"]
+    A2["Agent drafts reply and order note"]
+    A3["You: reviews and sends reply or approves refund"]
+    A4["You: handles only exceptions and complaints"]
     A0 --> A1 --> A2 --> A3 --> A4
   end
   classDef ai fill:#154899,color:#fff,stroke:#154899
@@ -69,83 +73,143 @@ flowchart LR
   class A3,A4 human
 ```
 
-### 2. Returns and exchanges processed with less back and forth
-An agent reads return requests, checks the order and return policy, and prepares the return label, refund or exchange options. It flags damaged or late items for the warehouse.
+### 2. Sizing and product advice replies (phase 1)
+An agent matches customer questions to product specs, size charts, and past answers, then drafts a helpful reply. It flags missing or unclear product data for your content writer to fix.
 
-**Saves ~6h per week** · Roles: Customer Service Agent · Tools: Shopify, Returns tool, Shared email inbox or helpdesk, Shipping label tool
+**Saves ~8h per week** · Roles: Customer Service Agent, Content Writer · Tools: Shopify, Shared inbox or helpdesk, Product data feed
 
 ```mermaid
 flowchart LR
   subgraph Today
-    B0["Agent reads return email"]
-    B1["Checks order in Shopify"]
-    B2["Confirms policy and item condition"]
-    B3["Creates return label or exchange"]
-    B4["Writes refund notes"]
+    B0["Read sizing or product email"]
+    B1["Search product pages and old replies"]
+    B2["Check size chart and stock"]
+    B3["Write answer manually"]
+    B4["Copy lead on uncertain fit advice"]
     B0 --> B1 --> B2 --> B3 --> B4
   end
   subgraph WithAI[With AI]
-    A0["AI agent classifies return reason"]
-    A1["AI agent checks order and policy"]
-    A2["AI agent drafts label and exchange options"]
-    A3["You: Agent approves and sends"]
-    A4["AI agent logs reason for reporting"]
+    A0["Agent reads question and product ID"]
+    A1["Agent pulls specs, size chart, and similar past answers"]
+    A2["Agent drafts reply with fit guidance"]
+    A3["You: reviews and sends reply"]
+    A4["You: updates product page when data is missing"]
     A0 --> A1 --> A2 --> A3 --> A4
   end
   classDef ai fill:#154899,color:#fff,stroke:#154899
   classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
-  class A0,A1,A2,A4 ai
-  class A3 human
+  class A0,A1,A2 ai
+  class A3,A4 human
 ```
 
-### 3. Sizing and fit questions answered from product data
-An agent answers common sizing, weight, and compatibility questions using product pages, specs, and past replies. It sends a draft with links to size guides and similar products.
+### 3. Late parcel tracking and delivery updates (phase 1)
+An agent checks carrier tracking for delayed or lost parcels and drafts customer updates or internal alerts, then updates Shopify delivery status. It tells customer service when a claim or replacement is needed.
 
-**Saves ~4h per week** · Roles: Customer Service Agent · Tools: Shopify, Shared email inbox or helpdesk, Product spec sheets, Google Analytics
+**Saves ~6h per week** · Roles: Logistics Coordinator, Customer Service Agent · Tools: Shipping carrier tools, Shopify, Shared inbox or helpdesk
 
 ```mermaid
 flowchart LR
   subgraph Today
-    B0["Agent reads sizing question"]
-    B1["Opens product page and spec sheet"]
-    B2["Checks old emails for similar answers"]
-    B3["Writes reply with links"]
-    B0 --> B1 --> B2 --> B3
+    B0["Check carrier portals for late parcels"]
+    B1["Compare tracking to promised delivery date"]
+    B2["Write customer update email"]
+    B3["Update Shopify order status"]
+    B4["Tell customer service about exceptions"]
+    B0 --> B1 --> B2 --> B3 --> B4
   end
   subgraph WithAI[With AI]
-    A0["AI agent finds product specs and size guide"]
-    A1["AI agent drafts answer with fit notes"]
-    A2["You: Agent checks accuracy and sends"]
-    A3["AI agent tags unanswered spec gaps"]
-    A0 --> A1 --> A2 --> A3
+    A0["Agent checks carrier data for late parcels"]
+    A1["Agent compares dates and drafts customer update"]
+    A2["Agent updates Shopify delivery status"]
+    A3["You: reviews and sends update"]
+    A4["You: handles claims and replacements"]
+    A0 --> A1 --> A2 --> A3 --> A4
+  end
+  classDef ai fill:#154899,color:#fff,stroke:#154899
+  classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
+  class A0,A1,A2 ai
+  class A3,A4 human
+```
+
+### 4. Product listing and collection updates
+An agent drafts product descriptions, tags, and collection placements from supplier specs and your style rules. It prepares changes in Shopify for a human to approve before publishing. Pilot: one seasonal camping collection.
+
+**Saves ~7h per week** · Roles: Ecommerce Marketing Specialist, Content Writer · Tools: Shopify, Supplier spreadsheets, Product image library
+
+```mermaid
+flowchart LR
+  subgraph Today
+    B0["Collect supplier specs and images"]
+    B1["Write product description manually"]
+    B2["Set tags, price, and collection"]
+    B3["Check page layout and links"]
+    B4["Publish and spot-check"]
+    B0 --> B1 --> B2 --> B3 --> B4
+  end
+  subgraph WithAI[With AI]
+    A0["Agent reads supplier specs and style rules"]
+    A1["Agent drafts description, tags, and placement"]
+    A2["You: reviews and edits content"]
+    A3["Agent publishes approved product updates"]
+    A4["You: checks one sample per batch"]
+    A0 --> A1 --> A2 --> A3 --> A4
   end
   classDef ai fill:#154899,color:#fff,stroke:#154899
   classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
   class A0,A1,A3 ai
-  class A2 human
+  class A2,A4 human
 ```
 
-### 4. Reorder suggestions before stock runs out
-An agent checks stock levels, sales velocity, supplier lead times, and open purchase orders each morning. It drafts reorder requests for items likely to run out and notes late or partial deliveries.
+### 5. Stock reorder alerts and supplier order drafts
+An agent checks stock levels against reorder points and drafts supplier orders for low items. It highlights lead times and price changes for the purchasing manager to approve. Pilot: top 100 selling products.
 
-**Saves ~5h per week** · Roles: Purchasing Manager, Purchasing Assistant · Tools: Inventory or order management software, Shopify, Supplier email, Spreadsheets
+**Saves ~5h per week** · Roles: Purchasing Manager, Merchandising Assistant · Tools: Inventory management, Shopify, Supplier email
 
 ```mermaid
 flowchart LR
   subgraph Today
-    B0["Purchasing manager exports stock report"]
-    B1["Checks sales velocity in Shopify"]
-    B2["Reviews supplier lead times in email or spreadsheet"]
-    B3["Writes reorder email"]
-    B4["Updates purchase order dates"]
+    B0["Export stock report"]
+    B1["Compare stock to reorder points"]
+    B2["Check supplier price and lead time"]
+    B3["Write supplier order email"]
+    B4["Update purchase record"]
     B0 --> B1 --> B2 --> B3 --> B4
   end
   subgraph WithAI[With AI]
-    A0["AI agent pulls stock, sales, and open order data"]
-    A1["AI agent flags items below reorder point"]
-    A2["AI agent drafts supplier email and PO update"]
-    A3["You: Purchasing manager checks and sends"]
-    A4["You: Assistant updates arrival dates"]
+    A0["Agent pulls stock and sales data"]
+    A1["Agent flags items below reorder point"]
+    A2["Agent drafts supplier order with quantities"]
+    A3["You: reviews and sends order"]
+    A4["Agent updates purchase record"]
+    A0 --> A1 --> A2 --> A3 --> A4
+  end
+  classDef ai fill:#154899,color:#fff,stroke:#154899
+  classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
+  class A0,A1,A2,A4 ai
+  class A3 human
+```
+
+### 6. Invoice and payout reconciliation
+An agent matches Shopify payouts, carrier invoices, and supplier receipts, then flags mismatches for review. It prepares a simple weekly reconciliation summary for the finance assistant. Pilot: one month of payouts and carrier invoices.
+
+**Saves ~4h per week** · Roles: Finance and Admin Assistant, General Manager · Tools: Shopify, Accounting or spreadsheets, Invoice email
+
+```mermaid
+flowchart LR
+  subgraph Today
+    B0["Download Shopify payout report"]
+    B1["Collect carrier and supplier invoices"]
+    B2["Match amounts in spreadsheet"]
+    B3["Flag differences manually"]
+    B4["Prepare summary for manager"]
+    B0 --> B1 --> B2 --> B3 --> B4
+  end
+  subgraph WithAI[With AI]
+    A0["Agent pulls payout and invoice files"]
+    A1["Agent matches amounts and flags differences"]
+    A2["Agent prepares reconciliation summary"]
+    A3["You: reviews exceptions and approves"]
+    A4["You: sends final report or asks supplier"]
     A0 --> A1 --> A2 --> A3 --> A4
   end
   classDef ai fill:#154899,color:#fff,stroke:#154899
@@ -154,56 +218,27 @@ flowchart LR
   class A3,A4 human
 ```
 
-### 5. Seasonal emails and social posts prepared from your product feed
-An agent drafts product emails and social posts from new stock, best sellers, and seasonal themes. It schedules them in your email tool and keeps product links and prices correct.
+### 7. Site error and speed monitoring
+An agent checks Shopify theme errors, broken links, and page speed daily, then writes a short issue list. It creates a draft ticket or fix note for your developer. Pilot: checkout, product, and home pages.
 
-**Saves ~4h per week** · Roles: Marketing Specialist · Tools: Shopify, Email marketing tool, Social media scheduler, Google Analytics
-
-```mermaid
-flowchart LR
-  subgraph Today
-    B0["Marketer picks products for campaign"]
-    B1["Writes email and social copy"]
-    B2["Checks prices and links manually"]
-    B3["Schedules in email tool"]
-    B4["Posts or queues social media"]
-    B0 --> B1 --> B2 --> B3 --> B4
-  end
-  subgraph WithAI[With AI]
-    A0["AI agent selects products from your feed"]
-    A1["AI agent drafts email and social copy"]
-    A2["You: Marketer edits and approves"]
-    A3["AI agent schedules in email tool"]
-    A4["AI agent logs campaign for reports"]
-    A0 --> A1 --> A2 --> A3 --> A4
-  end
-  classDef ai fill:#154899,color:#fff,stroke:#154899
-  classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
-  class A0,A1,A3,A4 ai
-  class A2 human
-```
-
-### 6. Product descriptions and buying guides kept up to date
-An agent writes first drafts for product descriptions, category pages, and buying guides from your specs and customer questions. It also flags broken links, missing metadata, and outdated pages.
-
-**Saves ~5h per week** · Roles: Content and SEO Specialist · Tools: Shopify, Google Analytics, Search Console, Product spec sheets
+**Saves ~2h per week** · Roles: Ecommerce Developer · Tools: Shopify, Site monitoring tools, Issue tracker or email
 
 ```mermaid
 flowchart LR
   subgraph Today
-    B0["Specialist picks product or category"]
-    B1["Reads specs and supplier notes"]
-    B2["Writes description and metadata"]
-    B3["Checks internal links"]
-    B4["Publishes in Shopify"]
+    B0["Check Shopify admin alerts"]
+    B1["Test key pages manually"]
+    B2["Review speed reports"]
+    B3["Write issue list"]
+    B4["Decide priority for fixes"]
     B0 --> B1 --> B2 --> B3 --> B4
   end
   subgraph WithAI[With AI]
-    A0["AI agent pulls specs and common customer questions"]
-    A1["AI agent drafts description and metadata"]
-    A2["AI agent flags broken links and missing fields"]
-    A3["You: Specialist edits and publishes"]
-    A4["AI agent tracks ranking changes"]
+    A0["Agent checks theme, link, and speed signals"]
+    A1["Agent groups issues by page and severity"]
+    A2["Agent drafts developer ticket"]
+    A3["You: reviews and fixes critical issues"]
+    A4["Agent confirms fix after next check"]
     A0 --> A1 --> A2 --> A3 --> A4
   end
   classDef ai fill:#154899,color:#fff,stroke:#154899
@@ -212,139 +247,98 @@ flowchart LR
   class A3 human
 ```
 
-### 7. Weekly sales, margin, and cashflow summary ready on Monday
-An agent pulls sales, margin, stock, and cashflow data into a short weekly report. It highlights changes, slow sellers, and cash risks so you can decide faster.
+### 8. Weekly campaign and traffic digest
+An agent pulls Google Analytics, email, and ad data into a short weekly digest with what changed and what needs attention. It drafts the summary and suggested follow-ups for the marketing team. Pilot: one email campaign and one ad channel.
 
-**Saves ~3h per week** · Roles: Founder or General Manager · Tools: Shopify, Google Analytics, Spreadsheets, Accounting software, Inventory or order management software
-
-```mermaid
-flowchart LR
-  subgraph Today
-    B0["Founder exports Shopify sales report"]
-    B1["Combines margin and stock data in spreadsheet"]
-    B2["Checks bank or accounting figures"]
-    B3["Writes notes for team"]
-    B4["Shares in meeting"]
-    B0 --> B1 --> B2 --> B3 --> B4
-  end
-  subgraph WithAI[With AI]
-    A0["AI agent pulls sales, margin, stock, and cash data"]
-    A1["AI agent drafts weekly summary with exceptions"]
-    A2["You: Founder reviews and adjusts decisions"]
-    A3["AI agent sends to leadership channel"]
-    A4["AI agent stores report for trend tracking"]
-    A0 --> A1 --> A2 --> A3 --> A4
-  end
-  classDef ai fill:#154899,color:#fff,stroke:#154899
-  classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
-  class A0,A1,A3,A4 ai
-  class A2 human
-```
-
-### 8. Return and damage reports sorted for the warehouse
-An agent groups return and damage reports by reason, SKU, and carrier. It prepares a daily list for restock, repair, or claim so your team does less sorting and paperwork.
-
-**Saves ~3h per week** · Roles: Warehouse Lead, Warehouse Operative · Tools: Returns tool, Inventory or order management software, Shopify, Carrier claim portal
+**Saves ~3h per week** · Roles: Ecommerce Marketing Specialist · Tools: Google Analytics, Email marketing platform, Ad platforms
 
 ```mermaid
 flowchart LR
   subgraph Today
-    B0["Warehouse lead reads return emails and notes"]
-    B1["Sorts items by condition"]
-    B2["Checks SKU and order details"]
-    B3["Writes restock or damage list"]
-    B4["Updates return notes"]
+    B0["Open Google Analytics"]
+    B1["Export email campaign results"]
+    B2["Check ad platform metrics"]
+    B3["Build spreadsheet summary"]
+    B4["Write notes for team meeting"]
     B0 --> B1 --> B2 --> B3 --> B4
   end
   subgraph WithAI[With AI]
-    A0["AI agent groups returns by reason and SKU"]
-    A1["AI agent prepares restock or repair list"]
-    A2["You: Warehouse lead checks and assigns work"]
-    A3["You: Operative sorts physical items"]
-    A4["AI agent updates claim log for carrier"]
+    A0["Agent pulls analytics, email, and ad data"]
+    A1["Agent compares week over week and flags changes"]
+    A2["Agent drafts digest with suggested actions"]
+    A3["You: reviews and adjusts plan"]
+    A4["You: shares notes with team"]
     A0 --> A1 --> A2 --> A3 --> A4
   end
   classDef ai fill:#154899,color:#fff,stroke:#154899
   classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
-  class A0,A1,A4 ai
-  class A2,A3 human
+  class A0,A1,A2 ai
+  class A3,A4 human
 ```
 
-### 9. Shopify and integration issues triaged before they grow
-An agent watches checkout errors, app alerts, and site speed reports, then writes a short issue summary with steps tried and likely cause. It routes urgent problems to you and keeps a log.
+## 3. Run a four-week pilot, keep humans in the loop, then scale proven agents
+Connect one shared inbox and one carrier account first, then review every drafted reply or update for the first two weeks. Use simple exception rules so refunds, replacements, and unusual cases still go to a person. After the pilot, extend the same agents to more inboxes, carriers, and product categories.
 
-**Saves ~2h per week** · Roles: E-commerce Developer · Tools: Shopify, Google Analytics, Error monitoring, Shared email inbox or helpdesk, Spreadsheets
+**Phase 1 (Weeks 1-4): Prove three agents with human review**
+- Connect one shared inbox, Shopify order data, and one carrier account
+- Launch order status and returns triage agent with human approval
+- Launch sizing and product advice agent using top 50 questions
+- Launch late parcel tracking agent for one Nordic carrier lane
+- Review drafts daily and track response time, accuracy, and exceptions
 
-```mermaid
-flowchart LR
-  subgraph Today
-    B0["Developer checks app and store alerts"]
-    B1["Reads customer or team messages about bugs"]
-    B2["Reproduces issue manually"]
-    B3["Checks logs and theme changes"]
-    B4["Writes fix notes"]
-    B0 --> B1 --> B2 --> B3 --> B4
-  end
-  subgraph WithAI[With AI]
-    A0["AI agent collects alerts, messages, and speed data"]
-    A1["AI agent groups and ranks issues"]
-    A2["AI agent drafts summary with likely cause"]
-    A3["You: Developer checks and fixes"]
-    A4["AI agent updates issue log"]
-    A0 --> A1 --> A2 --> A3 --> A4
-  end
-  classDef ai fill:#154899,color:#fff,stroke:#154899
-  classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
-  class A0,A1,A2,A4 ai
-  class A3 human
-```
+**Phase 2 (Weeks 5-10): Extend to marketing, purchasing, and finance**
+- Add product listing and collection update agent for one seasonal collection
+- Add stock reorder and supplier order draft agent for top 100 products
+- Add invoice and payout reconciliation agent for one month of data
+- Keep human approval on all customer-facing and spending actions
 
-## Roadmap
-**Phase 1 (Weeks 1-4): Fix the highest volume work in Customer Service and Purchasing**
-- Connect helpdesk, Shopify, and carrier tracking to an order status agent.
-- Set up return and exchange drafting with human approval.
-- Add sizing and fit answer drafts from product specs.
-- Build daily reorder and late delivery alerts for Purchasing.
-- Define approval rules and escalation contacts.
+**Phase 3 (Weeks 11-16): Scale, measure, and add new agents**
+- Extend agents to more inboxes, carriers, and product categories
+- Add site error monitoring and weekly campaign digest agents
+- Set a weekly review of hours saved, errors, and customer feedback
+- Train team on exception handling and agent maintenance
 
-**Phase 2 (Weeks 5-10): Add marketing content and leadership reporting**
-- Launch product email and social post drafting from your Shopify feed.
-- Start product description and buying guide drafts with SEO checks.
-- Build weekly sales, margin, and cashflow summary for the founder.
-- Train the team on review steps and tone of voice.
-- Track hours saved and error rates weekly.
+**Risks**
+- **An agent sends a wrong reply or updates an order incorrectly**: Require human approval for customer replies during the pilot and keep refunds, replacements, and complaints human-controlled.
+- **Product data is incomplete, so sizing advice is unreliable**: Start with the top 50 questions, flag missing specs to the content writer, and block answers when key size or fit data is absent.
+- **The team does not trust or adopt the agents**: Involve customer service and logistics in weekly reviews, show their edits, and adjust drafts based on their feedback.
+- **Carrier or Shopify connections break or hit limits**: Pilot one carrier and one inbox first, monitor failed checks, and keep a manual fallback process documented.
+- **Saved hours are not redirected to higher-value work**: Track weekly hours saved and assign that time to product content, supplier negotiations, or customer retention tasks.
 
-**Phase 3 (Weeks 11-16): Cover warehouse, IT, and ongoing improvement**
-- Add return and damage sorting lists for the warehouse.
-- Set up Shopify and integration issue triage for IT.
-- Connect carrier claim logs and stock count exceptions.
-- Review agents monthly and retire low value ones.
-- Expand to Nordic language replies where quality holds.
+**KPIs**
+- First response time for order and sizing emails
+- Return and exchange processing time
+- Late parcel customer updates sent before the customer asks
+- Manual hours spent on order emails per week
+- Product listing update cycle time
+- Reconciliation exceptions found and closed within three days
 
-## Risks
-- **Wrong order or return information sent to customers.**: Keep human approval before sending, and set clear escalation for delayed or damaged orders.
-- **Product specs and stock data are incomplete.**: Start with your top 200 SKUs, add missing fields, and review data quality weekly.
-- **The team is busy and skips review steps.**: Assign owners, keep daily review under 30 minutes, and measure time saved.
-- **Customer data privacy and GDPR concerns.**: Limit access, use approved tools, keep logs, and avoid putting customer data into public AI tools.
-- **Agent costs or complexity grow without clear return.**: Start with three agents, review monthly, and cancel any agent that does not show clear hours saved.
-
-## KPIs
-- Hours saved per week by department from agent logs.
-- First reply time for customer service emails.
-- Return processing time from request to label.
-- Stockouts on your top 200 SKUs.
-- Email campaign preparation time and click rate.
-- Weekly report delivery on Monday before 9:00.
-
-## Quote: phase 1
+## Investment: phase 1 costs $1,690 a month and gives back $5,629 a month in time
 | Agent | Saves | Setup | Monthly |
 |---|---:|---:|---:|
-| Order status and delay replies handled in minutes | 7h/wk | $790 | $450 |
-| Returns and exchanges processed with less back and forth | 6h/wk | $1,290 | $390 |
-| Product descriptions and buying guides kept up to date | 5h/wk | $790 | $320 |
-| **Total** | **18h/wk** | **$2,870** | **$1,160** |
+| Order status and returns triage | 12h/wk | $790 | $780 |
+| Sizing and product advice replies | 8h/wk | $1,290 | $520 |
+| Late parcel tracking and delivery updates | 6h/wk | $790 | $390 |
+| **Total** | **26h/wk** | **$2,870** | **$1,690** |
 
-Setup is free when the agents run for 4 months. Full rollout of all 9 opportunities: $10,210 setup, $2,930/month.
+Setup is free when the agents run for 4 months. Full rollout of all 8 opportunities: $8,320 setup, $3,330/month.
+
+## Appendix: background
+- **Industry:** Outdoor and camping ecommerce retail
+- **What they do:** Tidewell Outdoor is an online shop for outdoor and camping gear based in Gothenburg, Sweden. You sell about 3,000 products to consumers and handle many order, return, and sizing questions by email. Your team of 15 covers customer service, marketing, purchasing, warehouse, and one developer.
+- **Customers:** Consumers in Sweden and nearby Nordic and EU markets who buy outdoor and camping gear online.
+- **Team size:** 11-50 (estimate 15)
+- **Tools:** Shopify, Customer email inbox, Order and returns management, Inventory management, Shipping carrier tools, Google Analytics, Email marketing platform, Helpdesk or shared inbox
+- **AI maturity:** 2/5, Early. You use Shopify and a shared inbox, but most repetitive work is still manual and AI use is limited to occasional experiments.
+
+| Department | People | Roles |
+|---|---:|---|
+| Customer Service | 4 | Customer Service Agent (3), Customer Service Lead (1) |
+| Marketing | 3 | Ecommerce Marketing Specialist (2), Content Writer (1) |
+| Purchasing and Merchandising | 2 | Purchasing Manager (1), Merchandising Assistant (1) |
+| Warehouse and Logistics | 3 | Warehouse Associate (2), Logistics Coordinator (1) |
+| Technology and Web | 1 | Ecommerce Developer (1) |
+| Finance and Admin | 2 | General Manager (1), Finance and Admin Assistant (1) |
 
 ---
 Want this for your own company? **[Get your free AI strategy →](https://completeaistrategy.com)**

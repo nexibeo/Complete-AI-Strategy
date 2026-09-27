@@ -6,187 +6,160 @@
     "url": null
   },
   "prepared_for": null,
-  "created_at": "2026-09-27T10:02:28.904Z",
+  "created_at": "2026-09-27T11:16:12.760Z",
   "profile": {
     "company": {
       "name": "Maple & Sage Dental",
-      "industry": "Dental care and healthcare services",
-      "summary": "Maple & Sage Dental is a group of three dental clinics in Leeds, UK. You provide general, hygiene and cosmetic dental care to local individuals and families, with a mix of NHS and private patients. Your team of about 40 handles appointments, reminders, insurance and treatment plans by phone and email.",
+      "industry": "Dental care",
+      "summary": "Maple & Sage Dental runs three dental clinics in Leeds, UK. Your team of about 40 provides check-ups, hygiene, general treatments, appointment booking, insurance support, and treatment plans for local patients.",
       "offerings": [
-        "NHS and private dental check-ups",
-        "Hygiene and gum care",
-        "Fillings, crowns, bridges and root canals",
-        "Teeth whitening and cosmetic dentistry",
-        "Children's dentistry",
-        "Emergency dental appointments"
+        "Routine dental check-ups and hygiene appointments",
+        "General dental treatments such as fillings and root canals",
+        "Emergency dental appointments",
+        "Treatment plan creation and review",
+        "Insurance claims and payment support",
+        "Appointment reminders and recall letters"
       ],
-      "customers": "Local individuals and families in Leeds. A mix of NHS patients, private patients and some insurance-funded cases.",
+      "customers": "Local patients in Leeds, including families, adults, and children. Some treatment is paid privately or through insurance.",
       "locations": [
-        "Leeds, UK",
-        "Three clinic sites across Leeds"
+        "Leeds, UK (3 clinics)"
       ],
       "size_band": "11-50",
       "employee_estimate": 40,
       "tech_signals": [
-        "Dental practice management software such as Dentally, SOE Ex",
-        "Microsoft 365 and Outlook for email and documents",
-        "Xero or QuickBooks for finance",
-        "VoIP phone system",
-        "SMS and email appointment reminder tool",
-        "Card payment terminals and online booking forms"
+        "Practice management software (not named in brief)",
+        "Appointment booking system",
+        "Phone system",
+        "Email",
+        "Accounting software",
+        "Patient reminder tools"
       ],
       "evidence_quality": "low"
     },
     "departments": [
       {
-        "name": "Clinical Team",
+        "name": "Clinical",
         "headcount_estimate": 24,
         "roles": [
           {
             "title": "Dentist",
-            "count_estimate": 8,
+            "count_estimate": 6,
             "repetitive_tasks": [
-              "Review patient history and chart notes before each appointment",
-              "Write clinical notes and treatment plans after appointments",
-              "Issue prescriptions and referral letters",
-              "Update recall intervals and follow-up instructions"
+              "Recording clinical notes after each visit",
+              "Reviewing x-rays and charting teeth",
+              "Writing and updating treatment plans",
+              "Issuing prescriptions and referrals"
             ]
           },
           {
             "title": "Hygienist",
-            "count_estimate": 5,
+            "count_estimate": 4,
             "repetitive_tasks": [
-              "Record gum measurements and hygiene notes",
-              "Set recall dates and schedule follow-up appointments",
-              "Send home care instructions to patients"
+              "Scaling and polishing teeth",
+              "Giving oral hygiene advice",
+              "Updating gum health records",
+              "Booking recall appointments"
             ]
           },
           {
-            "title": "Dental Nurse",
-            "count_estimate": 11,
+            "title": "Dental nurse",
+            "count_estimate": 14,
             "repetitive_tasks": [
-              "Prepare and turn over treatment rooms",
-              "Sterilize and track instruments",
-              "Record patient notes during exams",
-              "Stock check and order clinical supplies"
+              "Sterilising instruments and preparing trays",
+              "Taking and filing x-rays",
+              "Updating patient records during appointments",
+              "Turning over treatment rooms between patients"
             ]
           }
         ]
       },
       {
-        "name": "Patient Reception",
+        "name": "Front Desk",
         "headcount_estimate": 8,
         "roles": [
           {
             "title": "Receptionist",
-            "count_estimate": 6,
+            "count_estimate": 7,
             "repetitive_tasks": [
-              "Answer calls and book, change or cancel appointments",
-              "Send appointment reminders by SMS or email",
-              "Take payments and issue receipts",
-              "Manage the waiting list and walk-in requests"
+              "Answering phone calls and booking appointments",
+              "Rescheduling and cancelling appointments",
+              "Sending appointment reminders",
+              "Taking payments and handling insurance questions"
             ]
           },
           {
-            "title": "Treatment Coordinator",
-            "count_estimate": 2,
+            "title": "Reception supervisor",
+            "count_estimate": 1,
             "repetitive_tasks": [
-              "Check insurance and payment options",
-              "Follow up on unconfirmed treatment plans",
-              "Prepare cost estimates and consent forms",
-              "Track outstanding treatment decisions"
+              "Managing the front desk rota",
+              "Handling patient complaints and escalations",
+              "Tracking no-shows and late cancellations"
             ]
           }
         ]
       },
       {
         "name": "Practice Management",
-        "headcount_estimate": 3,
+        "headcount_estimate": 1,
         "roles": [
           {
-            "title": "Practice Manager",
+            "title": "Practice manager",
             "count_estimate": 1,
             "repetitive_tasks": [
-              "Build staff rotas and cover gaps",
-              "Review daily and monthly performance reports",
-              "Handle patient complaints and escalations",
-              "Check compliance logs and certifications"
-            ]
-          },
-          {
-            "title": "Assistant Practice Manager",
-            "count_estimate": 1,
-            "repetitive_tasks": [
-              "Update staff training records",
-              "Order supplies and manage stock",
-              "Support reception during busy periods"
-            ]
-          },
-          {
-            "title": "Operations Coordinator",
-            "count_estimate": 1,
-            "repetitive_tasks": [
-              "Coordinate maintenance visits",
-              "Keep clinic policies and notices up to date",
-              "Track equipment servicing dates"
+              "Building staff rotas across three clinics",
+              "Checking compliance and CQC records",
+              "Ordering supplies and equipment",
+              "Reporting on clinic performance"
             ]
           }
         ]
       },
       {
-        "name": "Finance & Billing",
+        "name": "Finance",
         "headcount_estimate": 3,
         "roles": [
           {
-            "title": "Finance Manager",
+            "title": "Finance manager",
             "count_estimate": 1,
             "repetitive_tasks": [
-              "Prepare monthly management accounts",
-              "Reconcile bank and card payments",
-              "Review debtors and cash flow"
+              "Running payroll and reconciliations",
+              "Preparing monthly management accounts",
+              "Managing supplier payments"
             ]
           },
           {
-            "title": "Billing Administrator",
-            "count_estimate": 1,
+            "title": "Finance assistant",
+            "count_estimate": 2,
             "repetitive_tasks": [
-              "Submit insurance and NHS claims",
-              "Raise invoices and credit notes",
-              "Chase unpaid balances",
-              "Process refunds and payment plans"
-            ]
-          },
-          {
-            "title": "Accounts Assistant",
-            "count_estimate": 1,
-            "repetitive_tasks": [
-              "Enter supplier bills",
-              "Match purchase orders to invoices",
-              "File payment records"
+              "Processing invoices and payments",
+              "Submitting insurance claims",
+              "Chasing overdue patient balances",
+              "Posting daily takings"
             ]
           }
         ]
       },
       {
-        "name": "Compliance & Facilities",
-        "headcount_estimate": 2,
+        "name": "Admin and Operations",
+        "headcount_estimate": 4,
         "roles": [
           {
-            "title": "Compliance Lead",
-            "count_estimate": 1,
+            "title": "Admin assistant",
+            "count_estimate": 3,
             "repetitive_tasks": [
-              "Complete infection control audits",
-              "Track staff CPD and registration renewals",
-              "Update risk assessments and policies"
+              "Sending recall letters and reminders",
+              "Filing insurance forms and patient documents",
+              "Entering patient data into the practice system",
+              "Booking follow-up appointments"
             ]
           },
           {
-            "title": "Facilities and Decontamination Technician",
+            "title": "Operations coordinator",
             "count_estimate": 1,
             "repetitive_tasks": [
-              "Run daily decontamination checks",
-              "Log equipment test results",
-              "Arrange waste collection and repairs"
+              "Tracking staff training records",
+              "Running compliance audits",
+              "Updating clinic policies and procedures"
             ]
           }
         ]
@@ -194,337 +167,389 @@
     ]
   },
   "strategy": {
-    "executive_summary": "Maple & Sage Dental runs three Leeds clinics with about 40 staff and a mix of NHS and private patients. Your team already uses practice management software, SMS reminders and Xero or QuickBooks, but most patient admin, claims chasing and clinical paperwork is still manual. The best first steps are low-risk agents for appointment reminders, new patient enquiries and treatment plan follow-ups. Later steps can connect Dentally or SOE Ex to finance and management reporting, with human sign-off kept for all clinical and payment decisions. A realistic early target is around 65 hours saved per week across all sites, which is about 4 percent of your team's weekly hours.",
+    "situation": "Maple & Sage Dental runs three dental clinics in Leeds with about 40 staff, offering check-ups, hygiene, general treatments, emergency appointments, insurance support, and treatment plans.",
+    "complication": "Appointment calls, reminders, insurance claims, and clinical admin still depend on manual work across three sites, which slows patient response, risks missed follow-ups, and takes your team away from chairside care.",
+    "governing_thought": "Start with the front desk appointment agent, the recall reminder agent, and the insurance claim agent, so your team cuts the most repetitive admin and proves value before expanding.",
+    "key_arguments": [
+      {
+        "role": "where",
+        "headline": "Front desk, recall admin, and insurance claims absorb most of the repetitive work.",
+        "support": "Receptionists handle calls, reschedules, reminders, payments, and insurance questions while also managing the desk. Admin assistants send recall letters and file documents, and finance assistants submit claims and chase balances. These tasks are frequent, rule-based, and spread across all three clinics, so delays show up in bookings, no-shows, and unpaid claims."
+      },
+      {
+        "role": "what",
+        "headline": "These three agents are quick to set up and target visible daily pain.",
+        "support": "Appointment booking and recall reminders use existing phone, email, and reminder tools, so they need little integration. Insurance claim preparation follows a predictable form and falls between finance and front desk, where errors cost time. Together they cover patient contact, follow-up, and payment, the three areas your team feels first."
+      },
+      {
+        "role": "how",
+        "headline": "Roll out in stages, keep humans in control, and measure before expanding.",
+        "support": "Start with one clinic or one workflow, train the small group who will use it, and review outputs daily for the first two weeks. Human staff approve bookings, claim submissions, and reminder wording until accuracy is proven. After that, extend the same agents to the other clinics and add clinical and rota support."
+      }
+    ],
+    "executive_summary": "Maple & Sage Dental runs three dental clinics in Leeds with about 40 staff, offering check-ups, hygiene, general treatments, emergency appointments, insurance support, and treatment plans. Appointment calls, reminders, insurance claims, and clinical admin still depend on manual work across three sites, which slows patient response, risks missed follow-ups, and takes your team away from chairside care. Start with the front desk appointment agent, the recall reminder agent, and the insurance claim agent, so your team cuts the most repetitive admin and proves value before expanding.",
     "maturity": {
       "score": 2,
       "label": "Early",
-      "note": "You have core practice software and reminder tools in place. Most cross-site admin is still manual, with data spread across Dentally or SOE Ex, Outlook, Xero or QuickBooks and spreadsheets. Simple agents can be added without replacing your main systems."
+      "note": "Tools are mostly manual with practice software and reminders in place. A few simple automations could be added without a big IT project."
     },
     "opportunities": [
       {
-        "title": "Appointment reminders and rescheduling handled automatically",
-        "department": "Patient Reception",
+        "title": "Appointment requests answered and booked from calls and web forms",
+        "department": "Front Desk",
         "roles": [
-          "Receptionist"
+          "Receptionist",
+          "Reception supervisor"
         ],
-        "description": "An agent checks tomorrow's schedule, sends SMS or email reminders, and handles simple confirm, cancel or reschedule replies. It updates the practice management system and only passes complex calls to your team.",
+        "description": "An agent answers routine booking, rescheduling, and cancellation requests from phone messages, email, and web forms, then proposes open slots. It checks the practice system for availability and sends confirmation, while staff handle complex or clinical questions.",
         "before": [
-          "Receptionist opens tomorrow's appointment list",
-          "Calls or texts patients one by one",
-          "Notes replies on paper or in the diary",
-          "Updates Dentally or SOE Ex manually",
-          "Chases no replies again later"
+          "Patient calls or emails the clinic",
+          "Receptionist listens to voicemail or reads email",
+          "Staff checks the booking system for open slots",
+          "Receptionist calls or emails the patient back",
+          "Staff manually enters or changes the appointment"
         ],
         "after": [
-          "Agent reviews the next day's schedule",
-          "Agent sends reminders by SMS and email",
-          "Agent handles confirm, cancel or simple reschedule replies",
-          "Agent updates the practice management system",
-          "Human: Receptionist handles complex calls and same-day changes"
+          "Patient calls, emails, or uses a web form",
+          "Agent captures the request and checks the booking system",
+          "Agent proposes two or three open slots and confirms the choice",
+          "Human: Receptionist reviews and handles complex or clinical questions",
+          "Agent logs the booking and sends a confirmation"
         ],
-        "hours_saved_per_week": 12,
+        "hours_saved_per_week": 18,
         "impact": 5,
         "effort": 2,
         "tools": [
-          "Dentally",
-          "SOE Ex",
-          "SMS reminder tool",
-          "Outlook",
-          "VoIP phone system"
-        ]
+          "Phone system",
+          "Email",
+          "Appointment booking system",
+          "Practice management software"
+        ],
+        "phase1": true
       },
       {
-        "title": "Insurance and NHS claims tracked and chased",
-        "department": "Finance & Billing",
+        "title": "Recall letters and appointment reminders sent on schedule",
+        "department": "Admin and Operations",
         "roles": [
-          "Billing Administrator",
-          "Finance Manager"
+          "Admin assistant",
+          "Hygienist"
         ],
-        "description": "An agent prepares claim drafts from treatment codes, submits or queues them, and tracks rejections or unpaid claims. It sends polite chasers and gives the billing administrator a daily list of items needing a human decision.",
+        "description": "An agent builds the daily recall and reminder list from the practice system, drafts the message, and sends it by the patient's preferred channel. It tracks replies and books simple recall appointments or flags them for staff.",
         "before": [
-          "Billing Administrator exports treatment data",
-          "Checks each claim against NHS or insurer rules",
-          "Submits claims through portal or email",
-          "Tracks rejections in a spreadsheet",
-          "Chases unpaid claims by phone or email"
+          "Staff checks which patients are due for recall",
+          "Admin assistant filters the patient list in the practice system",
+          "Staff writes or updates reminder letters and emails",
+          "Admin assistant sends reminders one by one",
+          "Staff logs replies and books follow-ups manually"
         ],
         "after": [
-          "Agent gathers treatment codes and patient details",
-          "Agent drafts claims and flags missing information",
-          "Agent submits routine claims or queues them for approval",
-          "Agent tracks status and sends standard chasers",
-          "Human: Billing Administrator reviews rejections and handles disputes"
+          "Agent pulls the daily recall and reminder list from the practice system",
+          "Agent drafts and sends reminders by email or text",
+          "Patient replies with a preferred time",
+          "Agent offers slots and books simple recall appointments",
+          "Human: Admin assistant handles special cases and confirms with hygienist"
+        ],
+        "hours_saved_per_week": 14,
+        "impact": 4,
+        "effort": 2,
+        "tools": [
+          "Practice management software",
+          "Patient reminder tools",
+          "Email"
+        ],
+        "phase1": true
+      },
+      {
+        "title": "Insurance claims prepared and submitted with fewer errors",
+        "department": "Finance",
+        "roles": [
+          "Finance assistant",
+          "Finance manager"
+        ],
+        "description": "An agent gathers treatment codes, patient details, and insurer rules, then prepares the claim form for review. It submits approved claims and logs the status so staff can chase only the exceptions.",
+        "before": [
+          "Finance assistant collects treatment details from the practice system",
+          "Staff checks the insurer's claim rules and patient policy",
+          "Finance assistant fills in the claim form",
+          "Finance manager reviews and approves the claim",
+          "Staff submits the claim and records the reference"
+        ],
+        "after": [
+          "Agent collects treatment and patient details from the practice system",
+          "Agent checks the insurer rules and flags missing information",
+          "Agent prepares the claim form and reference",
+          "Human: Finance assistant reviews and approves the claim",
+          "Agent submits the claim and tracks the status"
+        ],
+        "hours_saved_per_week": 12,
+        "impact": 4,
+        "effort": 3,
+        "tools": [
+          "Practice management software",
+          "Accounting software",
+          "Email",
+          "Insurer portals"
+        ],
+        "phase1": true
+      },
+      {
+        "title": "Clinical notes drafted from templates after visits",
+        "department": "Clinical",
+        "roles": [
+          "Dentist",
+          "Dental nurse"
+        ],
+        "description": "An agent uses the dentist's short voice or text notes to draft a structured clinical note in the practice system. The dentist reviews, edits, and signs it, which reduces end-of-day typing.",
+        "before": [
+          "Dentist records brief notes on paper or in the system",
+          "Dental nurse updates patient records during the appointment",
+          "Dentist writes fuller clinical notes after the visit",
+          "Staff checks notes for missing details",
+          "Dentist signs off the record"
+        ],
+        "after": [
+          "Dentist records short voice or text notes after the visit",
+          "Agent turns the notes into a structured draft",
+          "Agent checks the patient record for missing fields",
+          "Human: Dentist reviews, edits, and signs the note",
+          "Agent files the signed note in the practice system"
         ],
         "hours_saved_per_week": 10,
         "impact": 4,
         "effort": 3,
         "tools": [
-          "Dentally",
-          "SOE Ex",
-          "Xero",
-          "QuickBooks",
-          "NHS claims portal",
-          "Insurance portals"
-        ]
+          "Practice management software",
+          "Voice notes",
+          "Email"
+        ],
+        "phase1": false
       },
       {
-        "title": "Clinical notes and referral letters drafted for review",
-        "department": "Clinical Team",
+        "title": "Treatment plan drafts prepared for dentist review",
+        "department": "Clinical",
         "roles": [
           "Dentist",
-          "Hygienist",
-          "Dental Nurse"
+          "Dental nurse"
         ],
-        "description": "An agent uses your templates and short voice or typed prompts to draft clinical notes, referral letters and home care instructions. The clinician reviews, edits and signs off before anything goes into the patient record or to a referrer.",
+        "description": "An agent assembles the dentist's diagnosis, x-ray findings, and standard options into a treatment plan draft for the patient. The dentist reviews the clinical choices and approves the final plan.",
         "before": [
-          "Clinician writes notes after each appointment",
-          "Types referral letters from scratch",
-          "Updates recall intervals and follow-up instructions",
-          "Sends home care advice to patients",
-          "Nurse records notes during exams"
+          "Dentist reviews x-rays and writes treatment options",
+          "Dental nurse gathers patient history and notes",
+          "Staff types the treatment plan into a template",
+          "Dentist checks costs and options",
+          "Staff prints or emails the plan to the patient"
         ],
         "after": [
-          "Clinician records a short voice or text summary",
-          "Agent drafts the clinical note using your template",
-          "Agent prepares referral letter or home care instructions",
-          "Clinician reviews and edits the draft",
-          "Human: Clinician signs off and saves to the patient record"
+          "Agent pulls diagnosis, x-ray notes, and patient history",
+          "Agent drafts options using approved templates",
+          "Human: Dentist reviews and confirms clinical choices",
+          "Agent updates costs, dates, and consent wording",
+          "Agent sends the plan to the patient for review"
+        ],
+        "hours_saved_per_week": 8,
+        "impact": 4,
+        "effort": 3,
+        "tools": [
+          "Practice management software",
+          "Email",
+          "Document templates"
+        ],
+        "phase1": false
+      },
+      {
+        "title": "No-show and late cancellation follow-up handled automatically",
+        "department": "Front Desk",
+        "roles": [
+          "Reception supervisor",
+          "Receptionist"
+        ],
+        "description": "An agent spots no-shows and late cancellations, sends a polite follow-up, and offers another appointment slot. It updates the no-show log and alerts the supervisor when a patient misses repeatedly.",
+        "before": [
+          "Receptionist notices a missed appointment",
+          "Staff checks whether the patient called or emailed",
+          "Reception supervisor decides whether to charge or waive a fee",
+          "Receptionist calls or emails the patient",
+          "Staff updates the no-show log manually"
+        ],
+        "after": [
+          "Agent flags no-shows and late cancellations in the booking system",
+          "Agent sends a follow-up message with open slots",
+          "Patient picks a new time or explains the absence",
+          "Human: Reception supervisor reviews repeat no-shows and fee decisions",
+          "Agent updates the no-show log and daily report"
         ],
         "hours_saved_per_week": 9,
         "impact": 4,
-        "effort": 3,
-        "tools": [
-          "Dentally",
-          "SOE Ex",
-          "Microsoft 365",
-          "Outlook",
-          "Dictation tool"
-        ]
-      },
-      {
-        "title": "Treatment plan follow-ups sent on time",
-        "department": "Patient Reception",
-        "roles": [
-          "Treatment Coordinator"
-        ],
-        "description": "An agent tracks unconfirmed treatment plans and sends follow-up messages with cost, consent and payment option details from approved templates. It books callbacks for the coordinator when a patient has questions.",
-        "before": [
-          "Coordinator reviews list of open treatment plans",
-          "Calls or emails each patient manually",
-          "Explains costs and payment options from memory or notes",
-          "Updates Dentally with outcome",
-          "Sets reminders to chase again"
-        ],
-        "after": [
-          "Agent finds plans with no decision after a set number of days",
-          "Agent sends approved follow-up message with estimate and options",
-          "Agent answers common cost and consent questions",
-          "Agent books a callback for complex cases",
-          "Human: Treatment Coordinator closes the plan and handles clinical questions"
-        ],
-        "hours_saved_per_week": 8,
-        "impact": 4,
         "effort": 2,
         "tools": [
-          "Dentally",
-          "Outlook",
-          "SMS reminder tool",
-          "Payment plan records"
-        ]
+          "Appointment booking system",
+          "Phone system",
+          "Email"
+        ],
+        "phase1": false
       },
       {
-        "title": "New patient enquiries answered and booked faster",
-        "department": "Patient Reception",
+        "title": "Supplier invoice coding and payment reminders run on a schedule",
+        "department": "Finance",
         "roles": [
-          "Receptionist"
+          "Finance assistant",
+          "Finance manager"
         ],
-        "description": "An agent answers common questions from your website and inbox about opening hours, treatments, NHS or private prices and parking. It collects patient details, offers available slots and creates a booking request for reception to confirm.",
+        "description": "An agent reads supplier invoices, matches them to purchase orders or clinic costs, and prepares them for approval. It also sends payment reminders and flags duplicate or missing invoices.",
         "before": [
-          "Receptionist checks website inbox and phone messages",
-          "Replies with hours, prices and directions",
-          "Checks Dentally for available slots",
-          "Books appointment and sends forms",
-          "Handles follow-up questions"
+          "Finance assistant receives invoices by email or post",
+          "Staff enters invoice details into accounting software",
+          "Finance assistant matches invoices to orders or clinic costs",
+          "Finance manager approves payment runs",
+          "Staff chases missing invoices and credits"
         ],
         "after": [
-          "Agent answers common questions from approved information",
-          "Agent collects name, contact details and reason for visit",
-          "Agent offers available slots from the diary",
-          "Agent creates a booking request and sends new patient forms",
-          "Human: Receptionist confirms unusual requests and same-day emergencies"
-        ],
-        "hours_saved_per_week": 8,
-        "impact": 3,
-        "effort": 2,
-        "tools": [
-          "Website form",
-          "Outlook",
-          "Dentally",
-          "SMS reminder tool"
-        ]
-      },
-      {
-        "title": "Rota gaps and daily performance summary prepared",
-        "department": "Practice Management",
-        "roles": [
-          "Practice Manager",
-          "Assistant Practice Manager"
-        ],
-        "description": "An agent reviews appointment demand, staff leave and clinic cover rules to draft a weekly rota and flag gaps. It also compiles a short daily performance summary from your practice software and finance data.",
-        "before": [
-          "Practice Manager opens rota spreadsheet",
-          "Checks leave requests and appointment demand",
-          "Calls or messages staff for cover",
-          "Pulls reports from Dentally and Xero",
-          "Combines numbers into an email or spreadsheet"
-        ],
-        "after": [
-          "Agent reviews demand, leave and cover rules",
-          "Agent drafts a rota with suggested cover",
-          "Agent flags gaps and staff nearing overtime",
-          "Agent compiles daily performance summary",
-          "Human: Practice Manager approves rota and makes final staff calls"
+          "Agent reads invoice emails and extracts key details",
+          "Agent matches invoices to orders or clinic costs",
+          "Agent flags duplicates, missing details, or price changes",
+          "Human: Finance manager approves the payment run",
+          "Agent sends reminders and updates the supplier log"
         ],
         "hours_saved_per_week": 7,
-        "impact": 4,
+        "impact": 3,
         "effort": 3,
         "tools": [
-          "Dentally",
-          "Xero",
-          "QuickBooks",
-          "Microsoft 365",
-          "Rota spreadsheet"
-        ]
+          "Accounting software",
+          "Email",
+          "Spreadsheets"
+        ],
+        "phase1": false
       },
       {
-        "title": "Compliance dates and equipment logs watched automatically",
-        "department": "Compliance & Facilities",
+        "title": "Staff rota and training records kept up to date",
+        "department": "Practice Management",
         "roles": [
-          "Compliance Lead",
-          "Facilities and Decontamination Technician"
+          "Practice manager"
         ],
-        "description": "An agent tracks infection control audits, CPD renewals, equipment servicing and waste collection dates. It sends reminders, drafts simple audit summaries and keeps a single log for inspection.",
+        "description": "An agent drafts rotas across the three clinics from leave, clinic hours, and cover rules, then tracks training and compliance dates. The practice manager reviews and adjusts before publishing.",
         "before": [
-          "Compliance Lead checks paper or spreadsheet logs",
-          "Chases staff for CPD and registration dates",
-          "Updates risk assessments and policies",
-          "Facilities technician logs decontamination checks",
-          "Arranges waste collection and repairs by phone or email"
+          "Practice manager collects leave requests and clinic needs",
+          "Staff builds the rota in a spreadsheet",
+          "Practice manager checks training and CQC dates manually",
+          "Staff emails the rota and updates changes",
+          "Practice manager tracks expiring certificates in a folder"
         ],
         "after": [
-          "Agent monitors due dates for audits, CPD and servicing",
-          "Agent sends reminders to named staff",
-          "Agent drafts audit summary from your checklist",
-          "Agent logs equipment test results and waste collections",
-          "Human: Compliance Lead performs audits and signs off policies"
+          "Agent pulls leave requests, clinic hours, and cover rules",
+          "Agent drafts a rota with gaps and conflicts flagged",
+          "Human: Practice manager reviews and adjusts the rota",
+          "Agent publishes the rota and updates staff calendars",
+          "Agent tracks training dates and sends renewal reminders"
         ],
         "hours_saved_per_week": 6,
         "impact": 3,
-        "effort": 2,
+        "effort": 3,
         "tools": [
-          "Microsoft 365",
-          "SharePoint",
-          "Equipment logs",
-          "Outlook"
-        ]
+          "Spreadsheets",
+          "Email",
+          "Practice management software"
+        ],
+        "phase1": false
       },
       {
-        "title": "Supplier invoices entered and matched",
-        "department": "Finance & Billing",
+        "title": "Patient data entry and document filing done with checks",
+        "department": "Admin and Operations",
         "roles": [
-          "Accounts Assistant",
-          "Finance Manager"
+          "Admin assistant"
         ],
-        "description": "An agent reads supplier invoices from email or a shared folder, codes them and matches them to purchase orders. It flags price or quantity mismatches and prepares a payment list for approval.",
+        "description": "An agent reads forms, referrals, and insurance documents, then enters or files the standard details into the practice system. It flags anything unclear for an admin assistant to check.",
         "before": [
-          "Accounts Assistant opens supplier emails and PDFs",
-          "Enters bills into Xero or QuickBooks",
-          "Matches purchase orders to invoices",
-          "Files payment records",
-          "Chases missing invoices or credits"
+          "Admin assistant receives forms, referrals, and insurance documents",
+          "Staff sorts documents by patient and clinic",
+          "Admin assistant types details into the practice system",
+          "Staff files paper or digital copies",
+          "Admin assistant checks for missing fields"
         ],
         "after": [
-          "Agent reads supplier invoices from email or folder",
-          "Agent codes bills and matches to purchase orders",
-          "Agent flags mismatches or missing details",
-          "Agent prepares a payment list",
-          "Human: Finance Manager approves payments and handles supplier queries"
+          "Agent reads forms and extracts standard details",
+          "Agent enters details into the practice system or flags gaps",
+          "Agent files documents in the correct patient record",
+          "Human: Admin assistant checks flagged items and exceptions",
+          "Agent updates the filing log and daily count"
         ],
-        "hours_saved_per_week": 5,
+        "hours_saved_per_week": 7,
         "impact": 3,
         "effort": 2,
         "tools": [
-          "Xero",
-          "QuickBooks",
-          "Outlook",
-          "Supplier portals"
-        ]
+          "Practice management software",
+          "Email",
+          "Document storage"
+        ],
+        "phase1": false
       }
     ],
     "roadmap": [
       {
         "phase": "Phase 1",
-        "timeframe": "Weeks 1 to 4",
-        "title": "Quick wins with reminders and patient enquiries",
+        "timeframe": "Weeks 1 to 6",
+        "title": "Prove booking, recall, and insurance agents at one clinic",
         "items": [
-          "Set up appointment reminder and rescheduling agent for all three clinics",
-          "Connect website and inbox enquiry agent to approved opening hours, price and treatment information",
-          "Use treatment plan follow-up templates for unconfirmed private and NHS plans",
-          "Train reception and treatment coordinators on review and escalation steps"
+          "Choose one clinic as the first test site",
+          "Set up the appointment booking agent with the phone system and booking system",
+          "Set up the recall reminder agent with the practice system and email",
+          "Set up the insurance claim agent with finance and insurer rules",
+          "Review daily outputs and fix errors before wider use"
         ]
       },
       {
         "phase": "Phase 2",
-        "timeframe": "Weeks 5 to 12",
-        "title": "Finance, claims and management reporting",
+        "timeframe": "Weeks 7 to 16",
+        "title": "Extend into clinical notes, no-shows, and patient filing",
         "items": [
-          "Connect claims tracking agent to Dentally or SOE Ex and finance system",
-          "Set up supplier invoice entry and purchase order matching in Xero or QuickBooks",
-          "Build weekly rota draft and daily performance summary agent",
-          "Add compliance date and equipment log reminders for all sites"
+          "Add clinical note drafting for dentists and dental nurses",
+          "Add no-show and late cancellation follow-up at the front desk",
+          "Add patient data entry and document filing for admin assistants",
+          "Train staff on review steps and exception handling",
+          "Track time saved and error rates each week"
         ]
       },
       {
         "phase": "Phase 3",
-        "timeframe": "Months 4 to 6",
-        "title": "Clinical notes and deeper reporting",
+        "timeframe": "Weeks 17 to 30",
+        "title": "Connect finance, rota, and reporting across three clinics",
         "items": [
-          "Pilot clinical note and referral letter drafting with two dentists and one hygienist",
-          "Add human sign-off workflow before notes save to patient records",
-          "Link management reporting to finance and appointment data for monthly reviews",
-          "Review time saved, error rates and patient feedback before wider rollout"
+          "Add supplier invoice coding and payment reminders for finance",
+          "Add rota and training record support for the practice manager",
+          "Connect agents to reporting for clinic performance",
+          "Roll out proven agents to all three clinics",
+          "Set a quarterly review of accuracy, privacy, and staff feedback"
         ]
       }
     ],
     "risks": [
       {
-        "risk": "Patient data privacy and NHS confidentiality rules",
-        "mitigation": "Use UK data storage, limit access by role, keep patient identifiers out of prompts where possible, and sign a data processing agreement with the tool provider."
+        "risk": "Patient data privacy and UK GDPR rules are not followed.",
+        "mitigation": "Use UK data storage, restrict access by role, complete a data protection review, and keep human approval for any patient-facing message or record change."
       },
       {
-        "risk": "Clinical notes or advice contain errors",
-        "mitigation": "Keep clinicians as the only people who sign off notes, referrals and home care instructions. Use approved templates and require review before anything saves."
+        "risk": "Clinical notes or treatment plan drafts contain errors.",
+        "mitigation": "Keep dentists responsible for all clinical decisions and require a dentist to review, edit, and sign every clinical note or plan."
       },
       {
-        "risk": "Staff do not trust or use the new agents",
-        "mitigation": "Start with reception and billing tasks that save clear time. Train one champion per site and review outputs weekly for the first month."
+        "risk": "Staff do not trust the agents or stop using them.",
+        "mitigation": "Start with one clinic, train the people who will review outputs, and share weekly examples of time saved and errors fixed."
       },
       {
-        "risk": "Practice software or finance systems do not connect easily",
-        "mitigation": "Check Dentally, SOE Ex, Xero or QuickBooks integration options before build. If no direct link exists, use email or export files as a fallback."
+        "risk": "The practice management software does not connect easily.",
+        "mitigation": "Begin with email, web forms, and CSV imports. Only add deeper integration after the agent has proven accurate for four to six weeks."
       },
       {
-        "risk": "Savings are smaller than expected",
-        "mitigation": "Track hours saved per task each week. Stop or adjust any agent that does not save at least two hours per week per site after the first month."
+        "risk": "Exceptions are missed because staff rely too much on automation.",
+        "mitigation": "Run a daily exception report, keep named human owners for bookings, claims, and clinical notes, and review missed items in the weekly team meeting."
       }
     ],
     "kpis": [
-      "No-show rate across all three clinics",
-      "Average time to reply to a new patient enquiry",
-      "Percentage of unconfirmed treatment plans followed up within 48 hours",
-      "Value of unpaid insurance and NHS claims older than 30 days",
-      "Hours spent on rota, reporting and invoice entry per week",
-      "Percentage of clinical notes completed same day"
+      "Calls and web booking requests answered within one working hour",
+      "Recall appointment booking rate",
+      "No-show and late cancellation rate",
+      "Insurance claims submitted within three days and first-pass acceptance rate",
+      "Admin hours saved per week by clinic",
+      "Staff satisfaction with agent support and review workload"
     ]
   },
   "quote": {
@@ -532,104 +557,111 @@
       "items": [
         {
           "n": 1,
-          "title": "Appointment reminders and rescheduling handled automatically",
-          "hours": 12,
+          "title": "Appointment requests answered and booked from calls and web forms",
+          "hours": 18,
           "setup": 790,
-          "monthly": 780
-        },
-        {
-          "n": 4,
-          "title": "Treatment plan follow-ups sent on time",
-          "hours": 8,
-          "setup": 790,
-          "monthly": 520
+          "monthly": 1170
         },
         {
           "n": 2,
-          "title": "Insurance and NHS claims tracked and chased",
-          "hours": 10,
+          "title": "Recall letters and appointment reminders sent on schedule",
+          "hours": 14,
+          "setup": 790,
+          "monthly": 910
+        },
+        {
+          "n": 3,
+          "title": "Insurance claims prepared and submitted with fewer errors",
+          "hours": 12,
           "setup": 1290,
-          "monthly": 650
+          "monthly": 780
         }
       ],
       "setup": 2870,
-      "monthly": 1950,
-      "hours": 30,
-      "value_monthly": 6495
+      "monthly": 2860,
+      "hours": 44,
+      "value_monthly": 9526
     },
     "full": {
       "items": [
         {
           "n": 1,
-          "title": "Appointment reminders and rescheduling handled automatically",
-          "hours": 12,
+          "title": "Appointment requests answered and booked from calls and web forms",
+          "hours": 18,
           "setup": 790,
+          "monthly": 1170
+        },
+        {
+          "n": 2,
+          "title": "Recall letters and appointment reminders sent on schedule",
+          "hours": 14,
+          "setup": 790,
+          "monthly": 910
+        },
+        {
+          "n": 6,
+          "title": "No-show and late cancellation follow-up handled automatically",
+          "hours": 9,
+          "setup": 790,
+          "monthly": 580
+        },
+        {
+          "n": 3,
+          "title": "Insurance claims prepared and submitted with fewer errors",
+          "hours": 12,
+          "setup": 1290,
           "monthly": 780
         },
         {
           "n": 4,
-          "title": "Treatment plan follow-ups sent on time",
-          "hours": 8,
-          "setup": 790,
-          "monthly": 520
-        },
-        {
-          "n": 2,
-          "title": "Insurance and NHS claims tracked and chased",
+          "title": "Clinical notes drafted from templates after visits",
           "hours": 10,
           "setup": 1290,
           "monthly": 650
         },
         {
-          "n": 3,
-          "title": "Clinical notes and referral letters drafted for review",
-          "hours": 9,
-          "setup": 1290,
-          "monthly": 580
-        },
-        {
           "n": 5,
-          "title": "New patient enquiries answered and booked faster",
+          "title": "Treatment plan drafts prepared for dentist review",
           "hours": 8,
-          "setup": 790,
+          "setup": 1290,
           "monthly": 520
         },
         {
-          "n": 6,
-          "title": "Rota gaps and daily performance summary prepared",
+          "n": 9,
+          "title": "Patient data entry and document filing done with checks",
+          "hours": 7,
+          "setup": 790,
+          "monthly": 450
+        },
+        {
+          "n": 7,
+          "title": "Supplier invoice coding and payment reminders run on a schedule",
           "hours": 7,
           "setup": 1290,
           "monthly": 450
         },
         {
-          "n": 7,
-          "title": "Compliance dates and equipment logs watched automatically",
-          "hours": 6,
-          "setup": 790,
-          "monthly": 390
-        },
-        {
           "n": 8,
-          "title": "Supplier invoices entered and matched",
-          "hours": 5,
-          "setup": 790,
-          "monthly": 320
+          "title": "Staff rota and training records kept up to date",
+          "hours": 6,
+          "setup": 1290,
+          "monthly": 390
         }
       ],
-      "setup": 7820,
-      "monthly": 4210,
-      "hours": 65,
-      "value_monthly": 14073
+      "setup": 9610,
+      "monthly": 5900,
+      "hours": 91,
+      "value_monthly": 19702
     },
     "rate": 50,
     "free_setup_months": 4
   },
   "totals": {
-    "hours_week": 65,
-    "annual_hours": 2990,
-    "annual_value": 149500,
-    "fte": 1.6,
-    "opportunities": 8,
+    "hours_week": 91,
+    "annual_hours": 4186,
+    "annual_value": 209300,
+    "fte": 2.3,
+    "opportunities": 9,
     "employees": 40,
     "rate": 50
   },

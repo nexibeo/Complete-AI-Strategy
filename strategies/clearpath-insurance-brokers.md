@@ -5,331 +5,370 @@
 
 | Hours saved per week | Value per year | Roles freed up | Opportunities |
 |---:|---:|---:|---:|
-| **138h** | **$317,400** | **3.5 FTE** | **9** |
+| **135h** | **$310,500** | **3.4 FTE** | **9** |
 
-## Summary
-Clearpath Insurance Brokers runs on an agency management system, carrier portals, and a lot of PDFs, which means your team spends real hours copying data, chasing documents, and sending the same follow-up emails. The biggest wins here are not fancy AI projects: they are agents that pre-fill quote requests from client documents, chase missing underwriting info automatically, and keep the agency system updated so your brokers and assistants stop typing the same details three times. A renewal pipeline agent and a claims status updater round out the high-value items. Together these save your team an estimated 130 hours a week, under 6% of total staff time, mostly in Commercial Lines, Personal Lines, and Claims Support.
+## Our recommendation
+**Start with quote intake, renewal preparation, and claims status updates as your first three agents to cut repetitive work, speed up client responses, and prove value before wider rollout.**
 
-## Company snapshot
-- **Industry:** Insurance brokerage
-- **What they do:** Clearpath Insurance Brokers is an independent insurance broker in Toronto with about 55 employees. You sell commercial and personal lines insurance, helping businesses and individuals get quotes from carriers, compare options, renew policies, and get claims support. Your team runs on an agency management system and many PDFs.
-- **Customers:** Small and mid-sized businesses, professionals, homeowners, and auto owners in Toronto and across Ontario.
-- **Team size:** 51-200 (estimate 55)
-- **Tools:** Agency management system, Carrier quote portals, PDF documents, Email, Spreadsheets, E-signature tools
-- **AI maturity:** 2/5, Early. You have core systems in place but rely heavily on manual data entry, PDF handling, and email follow-ups. There is no visible automation today.
+Clearpath Insurance Brokers is a 55-person independent brokerage in Toronto with strong carrier relationships, a busy commercial and personal lines book, and most client, quote, and claims work still handled through email, PDFs, carrier portals, and spreadsheets. As renewals and quote requests pile up, your team spends too much time retyping client details, chasing carriers, and sending status updates, which slows response times and puts service quality at risk during peak periods.
 
-## Team and roles
-| Department | People | Roles |
-|---|---:|---|
-| Commercial Lines | 16 | Commercial Account Manager (8), Commercial Account Executive (4), Commercial Broker Assistant (4) |
-| Personal Lines | 14 | Personal Lines Account Manager (7), Personal Lines Broker Assistant (4), Personal Lines Customer Service Representative (3) |
-| Claims Support | 6 | Claims Advocate (3), Claims Assistant (2), Claims Coordinator (1) |
-| Sales and Marketing | 6 | Business Development Manager (2), Sales Support Specialist (2), Marketing Coordinator (2) |
-| Accounting and Finance | 5 | Accounting Manager (1), Accounts Receivable Clerk (2), Accounts Payable Clerk (1), Payroll and Benefits Administrator (1) |
-| Operations, Admin, and IT | 6 | Operations Manager (1), IT and Systems Administrator (1), Compliance Officer (1), Reception and Admin Assistant (2) |
-| Leadership and Management | 2 | Managing Director (1), Finance and HR Director (1) |
+1. **Commercial and personal lines absorb most of the repetitive client and carrier work** About 30 of your 55 employees sit in Commercial Lines and Personal Lines, where quote intake, renewals, and document handling repeat every day. Add claims support and administration, and most of the manual work sits in four teams.
+2. **Quote intake, renewal prep, and claims updates give the fastest proof at low integration effort** These three areas touch many files, have clear rules, and use email, PDFs, and carrier portals your team already knows. They can show measurable time savings in weeks, and they need only light integration with your agency management system.
+3. **Run a 90-day pilot with human review, then scale what clears quality and time checks** Run a 90-day pilot with human review on every client-facing message and a weekly quality check. Once the first three agents meet response-time and error-rate targets, connect them to the agency management system and add renewals, sales follow-up, admin, finance, and risk work. Scaling after the pilot keeps risk low and lets your team adopt at a comfortable pace.
 
-## Opportunities
-| # | Opportunity | Department | Hours/week | Impact | Effort |
-|---:|---|---|---:|:-:|:-:|
-| 1 | Quote requests assembled from client documents in minutes | Commercial Lines | 30 | 5/5 | 3/5 |
-| 2 | Renewals tracked and reminders sent automatically | Commercial Lines | 22 | 5/5 | 2/5 |
-| 3 | Missing underwriting information chased automatically | Commercial Lines | 18 | 4/5 | 2/5 |
-| 4 | Claims intake and adjuster follow-ups handled faster | Claims Support | 20 | 4/5 | 3/5 |
-| 5 | Personal lines policy changes and document filing handled at the front desk | Personal Lines | 18 | 3/5 | 3/5 |
-| 6 | Overdue invoice follow-ups sent consistently | Accounting and Finance | 10 | 3/5 | 2/5 |
-| 7 | New lead qualification and meeting scheduling for business development | Sales and Marketing | 8 | 3/5 | 2/5 |
-| 8 | Compliance file audits and licensing tracking automated | Operations, Admin, and IT | 6 | 3/5 | 3/5 |
-| 9 | Carrier statement matching for accounts payable | Accounting and Finance | 6 | 2/5 | 3/5 |
+**Phase 1 at a glance:** Commercial quote requests prepared in minutes · Inbound personal quote requests answered same day · Claims status updates sent without manual chasing. About 60 hours a week back for $3,900/month (setup $2,370, free on a 4-month run).
 
-### 1. Quote requests assembled from client documents in minutes
-An agent reads client-submitted PDFs, spreadsheets, and emails, extracts payroll, operations, and exposure details, and pre-fills carrier quote request forms or emails. Your account managers review and send instead of retyping everything by hand.
+## 1. Commercial and personal lines absorb most of the repetitive client and carrier work
+About 30 of your 55 employees sit in Commercial Lines and Personal Lines, where quote intake, renewals, and document handling repeat every day. Add claims support and administration, and most of the manual work sits in four teams.
 
-**Saves ~30h per week** · Roles: Commercial Account Manager, Commercial Broker Assistant · Tools: Agency management system, Carrier quote portals, Email, PDF document processing
+| Department | Hours saved / week | Share |
+|---|---:|---:|
+| Commercial Lines | 38 | 28% |
+| Personal Lines | 32 | 24% |
+| Claims and Risk Support | 26 | 19% |
+| Operations and Administration | 15 | 11% |
+| Sales and Business Development | 14 | 10% |
+| Finance and Accounting | 10 | 7% |
+
+## 2. Quote intake, renewal prep, and claims updates give the fastest proof at low integration effort
+These three areas touch many files, have clear rules, and use email, PDFs, and carrier portals your team already knows. They can show measurable time savings in weeks, and they need only light integration with your agency management system.
+
+| # | Opportunity | Department | Hours/week | Impact | Effort | Phase |
+|---:|---|---|---:|:-:|:-:|:-:|
+| 1 | Commercial quote requests prepared in minutes | Commercial Lines | 22 | 5/5 | 2/5 | 1 |
+| 2 | Inbound personal quote requests answered same day | Personal Lines | 20 | 5/5 | 2/5 | 1 |
+| 3 | Claims status updates sent without manual chasing | Claims and Risk Support | 18 | 4/5 | 2/5 | 1 |
+| 4 | Commercial renewals prepared before the client asks | Commercial Lines | 16 | 4/5 | 2/5 | later |
+| 5 | Personal renewals and endorsements processed with fewer touches | Personal Lines | 12 | 4/5 | 2/5 | later |
+| 6 | Producers spend more time selling and less time updating leads | Sales and Business Development | 14 | 3/5 | 2/5 | later |
+| 7 | Admin team routes documents and emails by rule, not memory | Operations and Administration | 15 | 3/5 | 2/5 | later |
+| 8 | Carrier statements reconciled without month-end scramble | Finance and Accounting | 10 | 3/5 | 3/5 | later |
+| 9 | Risk reviews and applications drafted from client operations | Claims and Risk Support | 8 | 3/5 | 3/5 | later |
+
+### 1. Commercial quote requests prepared in minutes (phase 1)
+The agent reads client emails and attachments, pulls business details, requests carrier quotes, and builds a comparison for review. Your account manager still gives the advice and approves what goes to the client.
+
+**Saves ~22h per week** · Roles: Account Manager, Commercial Lines Assistant · Tools: Agency management system, Carrier quote portals, Email, Microsoft 365
 
 ```mermaid
 flowchart LR
   subgraph Today
-    B0["Request client details by email"]
-    B1["Chase client for missing information"]
-    B2["Manually extract figures from PDFs"]
-    B3["Fill out carrier portal quote requests one by one"]
-    B0 --> B1 --> B2 --> B3
+    B0["Account Manager receives client email and attachments"]
+    B1["Re-keys business details into carrier portals"]
+    B2["Downloads and compares PDF quotes"]
+    B3["Builds a summary for the client"]
+    B4["Chases missing information by email"]
+    B0 --> B1 --> B2 --> B3 --> B4
   end
   subgraph WithAI[With AI]
-    A0["You: broker forwards client email or uploads documents"]
-    A1["Agent extracts and structures the requested details"]
-    A2["Agent flags missing fields and drafts a request to the clien"]
-    A3["Agent pre-fills carrier quote requests"]
-    A4["You: broker reviews and submits"]
+    A0["Agent reads email and attachments, extracts business details"]
+    A1["Agent requests quotes from carrier portals and collects PDFs"]
+    A2["Agent builds a side-by-side comparison and flags gaps"]
+    A3["You: Account Manager reviews coverage advice and approves th"]
+    A4["Agent sends the quote package and logs activity"]
     A0 --> A1 --> A2 --> A3 --> A4
   end
   classDef ai fill:#154899,color:#fff,stroke:#154899
   classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
-  class A1,A2,A3 ai
-  class A0,A4 human
-```
-
-### 2. Renewals tracked and reminders sent automatically
-An agent monitors renewal dates in the agency system and runs a structured outreach sequence at 90, 60, and 30 days, updating account managers on which clients have responded. No policy quietly slips past its renewal date.
-
-**Saves ~22h per week** · Roles: Commercial Account Manager, Commercial Broker Assistant · Tools: Agency management system, Email, Shared calendar
-
-```mermaid
-flowchart LR
-  subgraph Today
-    B0["Assistant checks renewal report in agency system"]
-    B1["Sends manual reminder emails"]
-    B2["Follows up inconsistently with carriers"]
-    B3["Account manager finds gaps at the last minute"]
-    B0 --> B1 --> B2 --> B3
-  end
-  subgraph WithAI[With AI]
-    A0["Agent pulls upcoming renewals weekly"]
-    A1["Agent sends staged reminders to clients and carriers"]
-    A2["Agent tracks responses and flags non-responders"]
-    A3["You: account managers call only the flagged accounts"]
-    A0 --> A1 --> A2 --> A3
-  end
-  classDef ai fill:#154899,color:#fff,stroke:#154899
-  classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
-  class A0,A1,A2 ai
+  class A0,A1,A2,A4 ai
   class A3 human
 ```
 
-### 3. Missing underwriting information chased automatically
-An agent tracks quotes sitting in underwriting, identifies what is missing, and sends polite, persistent follow-ups to clients and carriers. It drafts the emails and updates the quote status so your executives only step in when a human nudge matters.
+### 2. Inbound personal quote requests answered same day (phase 1)
+The agent captures inbound quote requests, asks for missing details, runs carrier portal quotes, and ranks options. Your producer reviews the advice and approves the quote package before it is sent.
 
-**Saves ~18h per week** · Roles: Commercial Account Executive, Commercial Broker Assistant · Tools: Agency management system, Email, Carrier quote portals
-
-```mermaid
-flowchart LR
-  subgraph Today
-    B0["Executive notes missing items manually"]
-    B1["Sends follow-up emails when time allows"]
-    B2["Quotes sit idle for days"]
-    B3["Assistant re-checks status by phone"]
-    B0 --> B1 --> B2 --> B3
-  end
-  subgraph WithAI[With AI]
-    A0["Agent detects stalled quotes and missing items"]
-    A1["Agent sends scheduled follow-ups to clients and carriers"]
-    A2["Agent updates quote status in the system"]
-    A3["You: executive reviews agent digest and handles exceptions"]
-    A0 --> A1 --> A2 --> A3
-  end
-  classDef ai fill:#154899,color:#fff,stroke:#154899
-  classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
-  class A0,A1,A2 ai
-  class A3 human
-```
-
-### 4. Claims intake and adjuster follow-ups handled faster
-An agent collects first notice of loss details from client calls and emails, opens the claim file in the agency system, and chases adjusters on a fixed schedule for status updates. Clients get automatic progress updates, and delayed claims get flagged for your coordinator.
-
-**Saves ~20h per week** · Roles: Claims Advocate, Claims Assistant, Claims Coordinator · Tools: Agency management system, Email, Carrier portals
+**Saves ~20h per week** · Roles: Personal Lines Account Manager, Personal Lines Producer · Tools: Carrier quote portals, Email, Agency management system, Spreadsheets
 
 ```mermaid
 flowchart LR
   subgraph Today
-    B0["Advocate gathers incident details by email and phone"]
-    B1["Assistant manually enters claim into agency system"]
-    B2["Assistant uploads documents to carrier portal"]
-    B3["Coordinator builds the weekly status list by hand"]
-    B0 --> B1 --> B2 --> B3
+    B0["Producer takes inbound call or web form"]
+    B1["Collects driver, home, or tenant details"]
+    B2["Runs quotes in several carrier portals"]
+    B3["Compares coverage and price"]
+    B4["Sends PDF package and follows up"]
+    B0 --> B1 --> B2 --> B3 --> B4
   end
   subgraph WithAI[With AI]
-    A0["You: advocate confirms details with client"]
-    A1["Agent structures the claim and enters it in the system"]
-    A2["Agent sends adjuster follow-ups on schedule and logs respons"]
-    A3["Agent flags delayed claims and drafts client updates"]
-    A4["You: coordinator reviews flags and approves client messages"]
+    A0["Agent captures web form or call notes and asks for missing d"]
+    A1["Agent runs quotes in carrier portals"]
+    A2["Agent ranks options by coverage and price"]
+    A3["You: Producer reviews advice and approves the package"]
+    A4["Agent sends the package and schedules follow-up"]
     A0 --> A1 --> A2 --> A3 --> A4
   end
   classDef ai fill:#154899,color:#fff,stroke:#154899
   classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
-  class A1,A2,A3 ai
-  class A0,A4 human
+  class A0,A1,A2,A4 ai
+  class A3 human
 ```
 
-### 5. Personal lines policy changes and document filing handled at the front desk
-An agent triages incoming client emails, drafts address and vehicle change requests, and files incoming policy PDFs into the right client records in the agency system. Your reps confirm and send instead of doing data entry all day.
+### 3. Claims status updates sent without manual chasing (phase 1)
+The agent logs claim intake, checks carrier claim portals, and drafts plain-language status updates for review. Your claims advocate approves sensitive updates and handles negotiations.
 
-**Saves ~18h per week** · Roles: Personal Lines Customer Service Representative, Personal Lines Broker Assistant · Tools: Agency management system, Email, PDF document processing
+**Saves ~18h per week** · Roles: Claims Advocate, Claims Coordinator · Tools: Carrier claims portals, Email, Agency management system, Microsoft 365
 
 ```mermaid
 flowchart LR
   subgraph Today
-    B0["Rep reads each email and types change requests"]
-    B1["Assistant re-enters details in the agency system"]
-    B2["Assistant files PDF policy documents manually"]
-    B3["Rep calls clients back to confirm"]
-    B0 --> B1 --> B2 --> B3
+    B0["Client emails or calls with claim question"]
+    B1["Coordinator logs into carrier claim portals"]
+    B2["Checks adjuster notes"]
+    B3["Writes status email"]
+    B4["Repeats follow-up next week"]
+    B0 --> B1 --> B2 --> B3 --> B4
   end
   subgraph WithAI[With AI]
-    A0["Agent triages email and drafts change requests"]
-    A1["Agent files incoming policy PDFs to client records"]
-    A2["Agent drafts a confirmation reply to the client"]
-    A3["You: rep reviews, approves, and sends"]
-    A0 --> A1 --> A2 --> A3
+    A0["Agent opens claim intake from email or form and logs details"]
+    A1["Agent checks carrier claim portal status and adjuster notes"]
+    A2["Agent drafts a plain-language update"]
+    A3["You: Claims Advocate reviews and approves sensitive updates"]
+    A4["Agent sends update and schedules next check"]
+    A0 --> A1 --> A2 --> A3 --> A4
   end
   classDef ai fill:#154899,color:#fff,stroke:#154899
   classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
-  class A0,A1,A2 ai
+  class A0,A1,A2,A4 ai
   class A3 human
 ```
 
-### 6. Overdue invoice follow-ups sent consistently
-An agent watches your receivables aging and sends polite, escalating payment reminders to clients, posting receipts and updating the ledger when payments land. Your clerk focuses on the accounts that genuinely need a phone call.
+### 4. Commercial renewals prepared before the client asks
+The agent builds the renewal queue, requests carrier quotes, and drafts the renewal summary with coverage changes flagged. Your account manager reviews advice and approves the binder before it goes out.
 
-**Saves ~10h per week** · Roles: Accounts Receivable Clerk · Tools: Accounting software, Email, Agency management system
+**Saves ~16h per week** · Roles: Account Manager, Commercial Lines Assistant · Tools: Agency management system, Carrier quote portals, Email, Microsoft 365
 
 ```mermaid
 flowchart LR
   subgraph Today
-    B0["Clerk runs aging report"]
-    B1["Sends reminder emails one by one"]
-    B2["Posts receipts manually"]
-    B3["Chases a few by phone when time allows"]
-    B0 --> B1 --> B2 --> B3
+    B0["Calendar reminder for renewal date"]
+    B1["Collect updated exposure and financials"]
+    B2["Request renewal quotes from carriers"]
+    B3["Compare terms and prepare binder"]
+    B4["Email client and chase signature"]
+    B0 --> B1 --> B2 --> B3 --> B4
   end
   subgraph WithAI[With AI]
-    A0["Agent monitors aging daily and sends staged reminders"]
-    A1["Agent matches incoming payments and posts receipts"]
-    A2["Agent flags accounts for a personal call"]
-    A3["You: clerk calls flagged clients and resolves disputes"]
-    A0 --> A1 --> A2 --> A3
+    A0["Agent pulls renewal list and prior policy data"]
+    A1["Agent requests updated information and carrier quotes"]
+    A2["Agent drafts renewal summary and flags coverage changes"]
+    A3["You: Account Manager reviews advice and approves binder"]
+    A4["Agent sends renewal package and tracks signature"]
+    A0 --> A1 --> A2 --> A3 --> A4
   end
   classDef ai fill:#154899,color:#fff,stroke:#154899
   classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
-  class A0,A1,A2 ai
+  class A0,A1,A2,A4 ai
   class A3 human
 ```
 
-### 7. New lead qualification and meeting scheduling for business development
-An agent responds to inbound quote inquiries within minutes, asks a short set of qualifying questions, and books discovery calls straight into your developers' calendars. Your team walks into meetings with prospect details already captured in the system.
+### 5. Personal renewals and endorsements processed with fewer touches
+The agent prepares the renewal and endorsement queue, refreshes carrier quotes, and drafts client emails and forms. Your account manager reviews exceptions and approves what is sent.
 
-**Saves ~8h per week** · Roles: Business Development Manager, Sales Support Specialist · Tools: Email, Website contact forms, Scheduling tool, Agency management system or CRM
+**Saves ~12h per week** · Roles: Personal Lines Account Manager, Personal Lines Assistant · Tools: Agency management system, Carrier portals, Email, PDF documents
 
 ```mermaid
 flowchart LR
   subgraph Today
-    B0["Prospect emails or calls in"]
-    B1["Support specialist replies within hours or days"]
-    B2["Back-and-forth emails to schedule"]
-    B3["Details entered into the system by hand"]
-    B0 --> B1 --> B2 --> B3
+    B0["Renewal list reviewed each week"]
+    B1["Client details checked in agency system"]
+    B2["Carrier portal quotes refreshed"]
+    B3["Endorsement forms completed"]
+    B4["Documents emailed and filed"]
+    B0 --> B1 --> B2 --> B3 --> B4
   end
   subgraph WithAI[With AI]
-    A0["Agent replies to inquiry immediately and asks qualifying que"]
-    A1["Agent books qualified prospects into calendars"]
-    A2["Agent logs prospect details in the system"]
-    A3["You: developer joins the call prepared"]
-    A0 --> A1 --> A2 --> A3
+    A0["Agent builds weekly renewal and endorsement queue"]
+    A1["Agent refreshes carrier quotes and checks details"]
+    A2["Agent prepares endorsement forms and client email"]
+    A3["You: Account Manager reviews exceptions and approves"]
+    A4["Agent files documents and updates agency system"]
+    A0 --> A1 --> A2 --> A3 --> A4
   end
   classDef ai fill:#154899,color:#fff,stroke:#154899
   classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
-  class A0,A1,A2 ai
+  class A0,A1,A2,A4 ai
   class A3 human
 ```
 
-### 8. Compliance file audits and licensing tracking automated
-An agent scans client files in the agency system for missing signatures, expired documents, or incomplete records, and produces a weekly exception report. It also tracks broker license expiry dates and sends renewal reminders.
+### 6. Producers spend more time selling and less time updating leads
+The agent builds prospect lists, books discovery meetings, drafts follow-ups from call notes, and updates the pipeline. Your producers review messages and focus on conversations that need a human.
 
-**Saves ~6h per week** · Roles: Compliance Officer · Tools: Agency management system, E-signature tools, Spreadsheets
+**Saves ~14h per week** · Roles: Commercial Producer, Personal Producer, Business Development Coordinator · Tools: CRM, Email, Calendars, Spreadsheets, Agency management system
 
 ```mermaid
 flowchart LR
   subgraph Today
-    B0["Officer samples files manually for audit"]
-    B1["Checks license dates in a spreadsheet"]
-    B2["Chases brokers for expired documents"]
-    B3["Builds compliance reports by hand"]
-    B0 --> B1 --> B2 --> B3
+    B0["Prospect lists built by hand"]
+    B1["Discovery meetings booked by email chains"]
+    B2["Proposal follow-ups tracked in spreadsheet"]
+    B3["Pipeline notes updated after calls"]
+    B4["Unsold quotes rarely revisited"]
+    B0 --> B1 --> B2 --> B3 --> B4
   end
   subgraph WithAI[With AI]
-    A0["Agent scans files continuously and flags gaps"]
-    A1["Agent tracks license expiries and sends reminders"]
-    A2["Agent drafts the weekly exception report"]
-    A3["You: officer reviews report and follows up on flagged items"]
-    A0 --> A1 --> A2 --> A3
+    A0["Agent builds and scores prospect lists from approved sources"]
+    A1["Agent schedules discovery meetings and sends reminders"]
+    A2["Agent drafts proposal follow-ups from call notes"]
+    A3["You: Producer reviews messages and approves sends"]
+    A4["Agent updates pipeline and flags stale quotes"]
+    A0 --> A1 --> A2 --> A3 --> A4
   end
   classDef ai fill:#154899,color:#fff,stroke:#154899
   classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
-  class A0,A1,A2 ai
+  class A0,A1,A2,A4 ai
   class A3 human
 ```
 
-### 9. Carrier statement matching for accounts payable
-An agent reads carrier statements and invoices, matches them to policies in the agency system, and flags mismatches or billing anomalies before payment. Your clerk approves rather than line-by-line matching.
+### 7. Admin team routes documents and emails by rule, not memory
+The agent classifies incoming email and documents, routes them to the right queue, renames and files PDFs, and updates client records. Your admin team handles urgent calls and exceptions.
 
-**Saves ~6h per week** · Roles: Accounts Payable Clerk, Accounting Manager · Tools: Agency management system, Accounting software, PDF document processing
+**Saves ~15h per week** · Roles: Administrative Assistant, Systems and Data Administrator · Tools: Microsoft 365, Shared inbox, Agency management system, Document folders
 
 ```mermaid
 flowchart LR
   subgraph Today
-    B0["Clerk downloads carrier statements"]
-    B1["Manually matches invoices to policies"]
-    B2["Flags issues from memory"]
-    B3["Files payment records"]
-    B0 --> B1 --> B2 --> B3
+    B0["Phones and shared inbox checked all day"]
+    B1["Emails forwarded to departments by hand"]
+    B2["PDFs renamed and filed manually"]
+    B3["Client records updated after filing"]
+    B4["Missing documents chased by email"]
+    B0 --> B1 --> B2 --> B3 --> B4
   end
   subgraph WithAI[With AI]
-    A0["Agent ingests carrier statements and matches to policies"]
-    A1["Agent flags discrepancies and billing anomalies"]
-    A2["Agent drafts payment approval list for review"]
-    A3["You: clerk reviews flags and approves payments"]
-    A0 --> A1 --> A2 --> A3
+    A0["Agent classifies incoming emails and attachments"]
+    A1["Agent routes items to the right queue with a summary"]
+    A2["Agent renames and files PDFs in the document system"]
+    A3["You: Administrative Assistant handles exceptions and urgent "]
+    A4["Agent updates client records and sends missing-document requ"]
+    A0 --> A1 --> A2 --> A3 --> A4
   end
   classDef ai fill:#154899,color:#fff,stroke:#154899
   classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
-  class A0,A1,A2 ai
+  class A0,A1,A2,A4 ai
   class A3 human
 ```
 
-## Roadmap
-**Phase 1 (Weeks 1-8): Quick wins with email and reminders**
-- Set up renewal tracking and staged reminder emails in Commercial Lines
-- Deploy automated follow-ups on stalled quotes and missing underwriting info
-- Deploy receivables reminder agent in Accounting
-- Baseline measurement: count hours spent on renewals, follow-ups, and collections
+### 8. Carrier statements reconciled without month-end scramble
+The agent extracts carrier statement lines, matches commissions to policy records, and flags variances. Your finance manager approves adjustments, payments, and overdue notices.
 
-**Phase 2 (Weeks 9-16): Document processing and claims**
-- Roll out PDF extraction for commercial quote requests
-- Launch claims intake and adjuster follow-up agent
-- Launch personal lines email triage and PDF filing agent
-- Train staff on reviewing agent output before it goes to clients
+**Saves ~10h per week** · Roles: Finance Manager, Accounting Clerk · Tools: Accounting software, Agency management system, Carrier statements, Spreadsheets
 
-**Phase 3 (Weeks 17-26): Front desk, compliance, and reporting**
-- Deploy lead qualification and scheduling for inbound inquiries
-- Automate compliance file audits and license tracking
-- Automate carrier statement matching in accounts payable
-- Review results against baseline and decide what to expand or retire
+```mermaid
+flowchart LR
+  subgraph Today
+    B0["Carrier statements downloaded as PDFs"]
+    B1["Commission lines matched to agency system by hand"]
+    B2["Payment and invoice entries typed into accounting"]
+    B3["Overdue accounts reviewed weekly"]
+    B4["Monthly reports built in spreadsheets"]
+    B0 --> B1 --> B2 --> B3 --> B4
+  end
+  subgraph WithAI[With AI]
+    A0["Agent extracts statement lines from carrier PDFs"]
+    A1["Agent matches commissions to agency policy records"]
+    A2["Agent flags variances and missing payments"]
+    A3["You: Finance Manager approves adjustments and payments"]
+    A4["Agent updates reports and drafts overdue notices"]
+    A0 --> A1 --> A2 --> A3 --> A4
+  end
+  classDef ai fill:#154899,color:#fff,stroke:#154899
+  classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
+  class A0,A1,A2,A4 ai
+  class A3 human
+```
 
-## Risks
-- **Regulated insurance communications sent without human review could create compliance or E&O exposure.**: Every client-facing message is drafted by the agent but requires one-click approval from a licensed staff member. No agent sends binding or coverage advice on its own.
-- **Agency management system may lack a clean API, making integrations harder than expected.**: Start Phase 1 with email-only automations that need no system integration, and confirm API access with your vendor before committing to deeper phases.
-- **Staff distrust agents and keep doing work manually, so savings never materialize.**: Pick one owner per agent, run a 4-week pilot with real metrics, and only roll out agents that beat the manual process on accuracy and speed.
-- **Client data sent to AI tools raises privacy and PIPEDA concerns.**: Use business-tier tools with no training on your data, restrict access by role, and get your compliance officer to sign off on the data flow before launch.
-- **Agents draft wrong extraction from messy client PDFs, leading to bad quotes.**: Agents always flag low-confidence fields and show a side-by-side of extracted versus source data so the broker can verify before submitting.
+### 9. Risk reviews and applications drafted from client operations
+The agent reads client notes and operations details, drafts risk recommendations, and fills application answers for review. Your risk advisor approves the advice and final application.
 
-## KPIs
-- Renewal reminders sent on time: target 100% of renewals contacted at 90, 60, and 30 days
-- Average time from client inquiry to first response: under 15 minutes for inbound leads
-- Hours logged per week on manual data entry in Commercial Lines: 25% reduction within 90 days
-- Percentage of overdue invoices followed up within 48 hours: target 95%
-- Claims status updates sent to clients at least every 7 days: target 90% of open claims
-- Agent accuracy rate on document extraction: above 95% before removing broker review
+**Saves ~8h per week** · Roles: Risk Advisor · Tools: Agency management system, Microsoft 365, Carrier application portals, Web research
 
-## Quote: phase 1
+```mermaid
+flowchart LR
+  subgraph Today
+    B0["Client operations reviewed from notes and websites"]
+    B1["Risk recommendations written from scratch"]
+    B2["Insurance application fields copied by hand"]
+    B3["Missing details chased by email"]
+    B4["Final documents assembled manually"]
+    B0 --> B1 --> B2 --> B3 --> B4
+  end
+  subgraph WithAI[With AI]
+    A0["Agent reads client notes and public operations details"]
+    A1["Agent drafts risk recommendations and application answers"]
+    A2["Agent flags missing information and drafts questions"]
+    A3["You: Risk Advisor reviews advice and approves application"]
+    A4["Agent assembles final documents and updates records"]
+    A0 --> A1 --> A2 --> A3 --> A4
+  end
+  classDef ai fill:#154899,color:#fff,stroke:#154899
+  classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
+  class A0,A1,A2,A4 ai
+  class A3 human
+```
+
+## 3. Run a 90-day pilot with human review, then scale what clears quality and time checks
+Run a 90-day pilot with human review on every client-facing message and a weekly quality check. Once the first three agents meet response-time and error-rate targets, connect them to the agency management system and add renewals, sales follow-up, admin, finance, and risk work. Scaling after the pilot keeps risk low and lets your team adopt at a comfortable pace.
+
+**Phase 1 (Weeks 1 to 4): Prove the first three agents on live but low-risk work**
+- Set up quote intake, renewal preparation, and claims status agents
+- Connect email, PDFs, and carrier portals with human review
+- Track response time, errors, and hours saved weekly
+- Train account managers and claims staff on review steps
+
+**Phase 2 (Weeks 5 to 12): Connect to core systems and expand into renewals and sales**
+- Integrate the agency management system and CRM
+- Add commercial renewals, personal renewals, and sales follow-up agents
+- Create a shared review queue for exceptions
+- Report results to leadership every two weeks
+
+**Phase 3 (Months 4 to 6): Scale across departments with clear ownership and controls**
+- Add admin, finance, and risk review agents
+- Set data privacy, carrier, and quality rules
+- Assign an owner for each agent and a monthly review
+- Move from pilot metrics to department scorecards
+
+**Risks**
+- **Carrier portals may limit automated access, which can slow quote and claim agents.**: Start with email and PDF steps, use approved carrier connections, and keep human entry where portals require it.
+- **Client data privacy and consent rules apply to every agent that reads personal or business information.**: Limit access by role, log every action, store data in approved systems, and review with your compliance coordinator.
+- **Automated messages can damage trust if they are wrong or sound generic.**: Keep human approval on advice, claims updates, and renewals until error rates are low.
+- **Your team may resist tools that change daily work.**: Involve account managers and assistants in testing, show time saved, and give clear review steps.
+- **Vendor or tool sprawl can create new manual work.**: Use one orchestration owner, prefer tools that connect to Microsoft 365 and your agency management system, and review usage monthly.
+
+**KPIs**
+- Quote response time from client request to first options
+- Renewal packages sent at least 10 days before expiry
+- Claims status updates sent within 2 business days of carrier change
+- Hours saved per week by team, tracked against baseline
+- Error and rework rate on agent-prepared documents
+- Client satisfaction score for quote, renewal, and claims updates
+
+## Investment: phase 1 costs $3,900 a month and gives back $12,990 a month in time
 | Agent | Saves | Setup | Monthly |
 |---|---:|---:|---:|
-| Renewals tracked and reminders sent automatically | 22h/wk | $790 | $1,430 |
-| Quote requests assembled from client documents in minutes | 30h/wk | $1,290 | $1,950 |
-| Missing underwriting information chased automatically | 18h/wk | $790 | $1,170 |
-| **Total** | **70h/wk** | **$2,870** | **$4,550** |
+| Commercial quote requests prepared in minutes | 22h/wk | $790 | $1,430 |
+| Inbound personal quote requests answered same day | 20h/wk | $790 | $1,300 |
+| Claims status updates sent without manual chasing | 18h/wk | $790 | $1,170 |
+| **Total** | **60h/wk** | **$2,370** | **$3,900** |
 
-Setup is free when the agents run for 4 months. Full rollout of all 9 opportunities: $9,610 setup, $8,970/month.
+Setup is free when the agents run for 4 months. Full rollout of all 9 opportunities: $8,110 setup, $8,770/month.
+
+## Appendix: background
+- **Industry:** Insurance brokerage
+- **What they do:** You are an independent insurance broker in Toronto with about 55 employees. Your team handles commercial and personal lines, collects client information, gets quotes from carriers, compares options, and supports renewals and claims.
+- **Customers:** Small and mid-sized businesses, homeowners, drivers, tenants, and condo owners in Toronto and the Greater Toronto Area.
+- **Team size:** 51-200 (estimate 55)
+- **Tools:** Agency management system, PDF documents, Carrier quote portals, Email and calendars, Spreadsheets for tracking, Microsoft 365 or similar office tools
+- **AI maturity:** 2/5, Early. You use an agency management system, carrier portals, and spreadsheets, but handoffs between them are still manual.
+
+| Department | People | Roles |
+|---|---:|---|
+| Commercial Lines | 18 | Account Manager (8), Account Executive or Producer (5), Claims Support Specialist (3), Commercial Lines Assistant (2) |
+| Personal Lines | 12 | Personal Lines Account Manager (6), Personal Lines Producer (3), Claims Support Specialist (2), Personal Lines Assistant (1) |
+| Sales and Business Development | 7 | Commercial Producer (3), Personal Producer (2), Business Development Coordinator (2) |
+| Claims and Risk Support | 5 | Claims Advocate (2), Risk Advisor (2), Claims Coordinator (1) |
+| Operations and Administration | 8 | Operations Manager (1), Systems and Data Administrator (1), Administrative Assistant (3), Compliance and Quality Coordinator (1) |
+| Finance and Accounting | 3 | Finance Manager (1), Accounting Clerk (2) |
+| Leadership | 2 | Principal Broker (1), Director of Operations (1) |
 
 ---
 Want this for your own company? **[Get your free AI strategy →](https://completeaistrategy.com)**

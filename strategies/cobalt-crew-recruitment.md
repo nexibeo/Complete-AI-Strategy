@@ -5,327 +5,372 @@
 
 | Hours saved per week | Value per year | Roles freed up | Opportunities |
 |---:|---:|---:|---:|
-| **84h** | **$193,200** | **2.1 FTE** | **9** |
+| **75h** | **$172,500** | **1.9 FTE** | **9** |
 
-## Summary
-Cobalt Crew Recruitment places temp warehouse and logistics workers across Manchester and the North West. Your 35 person team is strong on relationships and client cover, but a lot of daily work still runs through manual checks, calls and spreadsheets. The best early wins are shift offers, timesheet chasing, candidate screening and right to work document checks. Start with agents that support your recruiters, payroll and compliance teams, and keep a human in charge of exceptions and final decisions.
+## Our recommendation
+**Start with a CV screening agent, a right-to-work expiry agent, and a shift booking agent to cut manual chasing, protect compliance, and fill shifts faster.**
 
-## Company snapshot
-- **Industry:** Staffing and Recruiting
-- **What they do:** You run Cobalt Crew Recruitment, a Manchester staffing agency. You place temporary warehouse and logistics workers with client sites across the North West. Your 35 person team handles recruiting, account management, compliance and weekly payroll.
-- **Customers:** Warehouse operators, logistics companies, e-commerce fulfilment centres, manufacturers, distributors and third-party logistics providers in Manchester and the North West.
-- **Team size:** 11-50 (estimate 35)
-- **Tools:** Applicant tracking system (ATS), Recruitment CRM, Indeed and LinkedIn job posting, Right-to-work document checking tools, Shift scheduling or rostering software, Payroll software, Microsoft 365, Time and attendance system
-- **AI maturity:** 2/5, Early. You have an ATS, recruitment CRM, payroll and scheduling tools, but the handoffs between them are mostly manual. A score of 2 means the foundations are there, but agents are not yet doing repeatable work.
+Cobalt Crew Recruitment places temporary warehouse and logistics workers across Greater Manchester. Your 35-person team runs recruitment, compliance, scheduling, and weekly payroll using an ATS, job boards, spreadsheets, and payroll software. CV volume, right-to-work expiry checks, and daily shift changes create manual chasing that slows placements and risks compliance misses. Weekly payroll and client reporting add pressure when fill rates are already tight.
 
-## Team and roles
-| Department | People | Roles |
-|---|---:|---|
-| Recruitment | 12 | Senior Recruiter (2), Recruiter (7), Recruitment Administrator (3) |
-| Account Management | 8 | Account Manager (5), Client Coordinator (2), Business Development Manager (1) |
-| Compliance | 6 | Compliance Officer (2), Compliance Administrator (3), Onboarding Compliance Assistant (1) |
-| Payroll | 5 | Payroll Manager (1), Payroll Administrator (3), Timesheet Clerk (1) |
-| Operations and Admin | 4 | Operations Manager (1), Office Administrator (2), Receptionist (1) |
+1. **Recruiters, compliance staff, and account managers carry most of the repetitive admin** Your recruitment team screens hundreds of CVs each week and confirms availability by phone and text. Compliance staff chase right-to-work documents and expiry dates across spreadsheets. Account managers take shift requests, confirm bookings, and handle call-offs while updating CRM and schedules.
+2. **These three agents hit high-volume, rule-based tasks with existing tools** CV screening, right-to-work expiry checks, and shift booking all follow clear rules and use systems you already have. They create fast proof because the agent can draft, flag, or rank while a human approves. Each one reduces manual chasing in a different department, so the value is visible across the business.
+3. **Pilot each agent for two weeks, check outputs, then scale across teams** Set narrow rules, keep humans in approval steps, and review errors weekly before expanding. Start with one recruiter pod, one compliance officer, and one account manager as pilot owners. After the pilot proves reliable, rollout scales to the full team and then to more client sites.
 
-## Opportunities
-| # | Opportunity | Department | Hours/week | Impact | Effort |
-|---:|---|---|---:|:-:|:-:|
-| 1 | Shift offers sent to available temps automatically | Recruitment | 12 | 5/5 | 2/5 |
-| 2 | Timesheet chasing and shift matching | Payroll | 12 | 5/5 | 3/5 |
-| 3 | Candidate screening for warehouse shifts | Recruitment | 14 | 5/5 | 3/5 |
-| 4 | Client shift requests turned into confirmed bookings | Account Management | 10 | 5/5 | 4/5 |
-| 5 | Right to work checks and expiry reminders | Compliance | 10 | 5/5 | 3/5 |
-| 6 | Weekly client reports prepared from live data | Account Management | 7 | 4/5 | 2/5 |
-| 7 | New starter pack and induction booking | Compliance | 8 | 4/5 | 3/5 |
-| 8 | Common pay queries answered from payroll data | Payroll | 6 | 3/5 | 2/5 |
-| 9 | Main phone triage and candidate arrival logging | Operations and Admin | 5 | 3/5 | 3/5 |
+**Phase 1 at a glance:** Warehouse CVs screened and ranked in minutes · Right-to-work expiry checks run daily · Client shift requests booked with fewer calls. About 37 hours a week back for $2,400/month (setup $2,870, free on a 4-month run).
 
-### 1. Shift offers sent to available temps automatically
-An agent checks the ATS and shift requirements for available, compliant temps, then sends personalised SMS or email offers. It collects yes or no replies, logs them in the ATS and flags anyone who has not responded.
+## 1. Recruiters, compliance staff, and account managers carry most of the repetitive admin
+Your recruitment team screens hundreds of CVs each week and confirms availability by phone and text. Compliance staff chase right-to-work documents and expiry dates across spreadsheets. Account managers take shift requests, confirm bookings, and handle call-offs while updating CRM and schedules.
 
-**Saves ~12h per week** · Roles: Recruiter, Recruitment Administrator, Senior Recruiter · Tools: Applicant tracking system (ATS), Recruitment CRM, SMS or WhatsApp, Microsoft 365
+| Department | Hours saved / week | Share |
+|---|---:|---:|
+| Recruitment | 21 | 28% |
+| Compliance | 17 | 23% |
+| Payroll | 15 | 20% |
+| Account Management | 12 | 16% |
+| Operations and Admin | 6 | 8% |
+| Management | 4 | 5% |
 
-```mermaid
-flowchart LR
-  subgraph Today
-    B0["Recruiter pulls a list of available temps for each open shif"]
-    B1["Recruiter calls or texts each temp one by one."]
-    B2["Recruiter waits for replies and updates the ATS by hand."]
-    B3["Recruiter repeats the same calls when someone drops out."]
-    B0 --> B1 --> B2 --> B3
-  end
-  subgraph WithAI[With AI]
-    A0["Agent checks ATS and shift requirements for available, compl"]
-    A1["Agent sends personalised SMS or email offers and collects ye"]
-    A2["Agent logs replies in the ATS and flags no responses."]
-    A3["You: calls only the non-responders and confirms final shift "]
-    A0 --> A1 --> A2 --> A3
-  end
-  classDef ai fill:#154899,color:#fff,stroke:#154899
-  classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
-  class A0,A1,A2 ai
-  class A3 human
-```
+## 2. These three agents hit high-volume, rule-based tasks with existing tools
+CV screening, right-to-work expiry checks, and shift booking all follow clear rules and use systems you already have. They create fast proof because the agent can draft, flag, or rank while a human approves. Each one reduces manual chasing in a different department, so the value is visible across the business.
 
-### 2. Timesheet chasing and shift matching
-An agent compares shift bookings with submitted timesheets each morning, sends reminders to temps with missing or mismatched hours, and updates the payroll tracker. It lists exceptions for the payroll team to resolve before the weekly run.
+| # | Opportunity | Department | Hours/week | Impact | Effort | Phase |
+|---:|---|---|---:|:-:|:-:|:-:|
+| 1 | Warehouse CVs screened and ranked in minutes | Recruitment | 15 | 5/5 | 2/5 | 1 |
+| 2 | Right-to-work expiry checks run daily | Compliance | 10 | 5/5 | 2/5 | 1 |
+| 3 | Client shift requests booked with fewer calls | Account Management | 12 | 5/5 | 3/5 | 1 |
+| 4 | Timesheets entered and checked before payroll run | Payroll | 10 | 4/5 | 4/5 | later |
+| 5 | Job ads refreshed without manual posting | Recruitment | 6 | 3/5 | 2/5 | later |
+| 6 | Rota gaps and PPE orders handled earlier | Operations and Admin | 6 | 3/5 | 3/5 | later |
+| 7 | Pay queries answered from a known list | Payroll | 5 | 3/5 | 3/5 | later |
+| 8 | Candidate files audited in batches | Compliance | 7 | 4/5 | 2/5 | later |
+| 9 | Weekly fill rates and margins reported without spreadsheet chase | Management | 4 | 3/5 | 3/5 | later |
 
-**Saves ~12h per week** · Roles: Timesheet Clerk, Payroll Administrator, Payroll Manager · Tools: Time and attendance system, Payroll software, Applicant tracking system (ATS), Microsoft 365
+### 1. Warehouse CVs screened and ranked in minutes (phase 1)
+An agent reads incoming CVs from the ATS and job boards, checks warehouse and logistics criteria, and ranks candidates by availability, location, and right-to-work status. It drafts shortlists and screening questions for recruiters to approve.
+
+**Saves ~15h per week** · Roles: Temporary Recruiter, Senior Recruiter, Candidate Coordinator · Tools: ATS, Job boards, Email, Google Sheets or Excel
 
 ```mermaid
 flowchart LR
   subgraph Today
-    B0["Timesheet Clerk checks which temps have not submitted hours."]
-    B1["Clerk sends reminders by email or phone."]
-    B2["Administrator matches timesheets to shift bookings in a spre"]
-    B3["Administrator flags disputes and passes them to Payroll Mana"]
-    B0 --> B1 --> B2 --> B3
+    B0["CVs arrive by email, job boards, and ATS"]
+    B1["Recruiter opens each CV"]
+    B2["Checks skills, location, and availability manually"]
+    B3["Updates ATS status"]
+    B4["Calls or texts candidates for missing details"]
+    B0 --> B1 --> B2 --> B3 --> B4
   end
   subgraph WithAI[With AI]
-    A0["Agent compares shift bookings with submitted timesheets each"]
-    A1["Agent sends reminders to temps with missing or mismatched ho"]
-    A2["Agent updates the payroll tracker and lists exceptions."]
-    A3["You: resolves disputes and approves the weekly payroll run."]
-    A0 --> A1 --> A2 --> A3
+    A0["Agent pulls new CVs from ATS and job boards"]
+    A1["Agent checks criteria and ranks candidates"]
+    A2["Agent drafts shortlist and screening messages"]
+    A3["You: recruiter reviews and approves shortlist"]
+    A4["You: recruiter calls top candidates"]
+    A0 --> A1 --> A2 --> A3 --> A4
   end
   classDef ai fill:#154899,color:#fff,stroke:#154899
   classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
   class A0,A1,A2 ai
-  class A3 human
+  class A3,A4 human
 ```
 
-### 3. Candidate screening for warehouse shifts
-An agent reads new CVs and ranks them against each client shift brief, checking location, shift pattern, licence and right to work status. It creates a shortlist in the ATS with reasons for each match so recruiters can approve who to call.
+### 2. Right-to-work expiry checks run daily (phase 1)
+An agent checks right-to-work, DBS, and licence documents against expiry dates, flags missing or expiring items, and sends chase messages to workers and recruiters. It keeps a live compliance tracker without manual report building.
 
-**Saves ~14h per week** · Roles: Recruiter, Senior Recruiter, Recruitment Administrator · Tools: Applicant tracking system (ATS), Indeed, LinkedIn, Microsoft 365
+**Saves ~10h per week** · Roles: Compliance Officer, Compliance Assistant · Tools: ATS, Compliance tracker, Email, SMS
 
 ```mermaid
 flowchart LR
   subgraph Today
-    B0["Recruiter opens each new CV in the ATS."]
-    B1["Recruiter checks warehouse experience, location, availabilit"]
-    B2["Recruiter writes a shortlist in a spreadsheet or ATS note."]
-    B3["Senior Recruiter reviews shortlists for urgent shifts."]
-    B0 --> B1 --> B2 --> B3
+    B0["Compliance assistant runs expiry report in spreadsheet"]
+    B1["Checks each worker file"]
+    B2["Notes missing or expiring documents"]
+    B3["Emails or calls worker"]
+    B4["Updates tracker after reply"]
+    B0 --> B1 --> B2 --> B3 --> B4
   end
   subgraph WithAI[With AI]
-    A0["Agent reads new CVs and ranks them against each client shift"]
-    A1["Agent checks key facts such as location, shift pattern, lice"]
-    A2["Agent creates a shortlist in the ATS with reasons for each m"]
-    A3["You: reviews the top candidates and approves who to call."]
-    A0 --> A1 --> A2 --> A3
+    A0["Agent reads document dates from tracker and files"]
+    A1["Agent flags expiring or missing items"]
+    A2["Agent sends chase emails or texts"]
+    A3["You: compliance officer reviews exceptions"]
+    A4["You: officer confirms updated documents"]
+    A0 --> A1 --> A2 --> A3 --> A4
   end
   classDef ai fill:#154899,color:#fff,stroke:#154899
   classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
   class A0,A1,A2 ai
-  class A3 human
+  class A3,A4 human
 ```
 
-### 4. Client shift requests turned into confirmed bookings
-An agent reads client emails and extracts role, site, shift times, rates and numbers needed. It checks available and compliant temps in the ATS, creates the booking, sends confirmation and updates the CRM.
+### 3. Client shift requests booked with fewer calls (phase 1)
+An agent takes shift requests from client emails and CRM notes, checks available workers in the scheduling tool, and drafts booking confirmations and replacement options. Account managers approve the final booking.
 
-**Saves ~10h per week** · Roles: Account Manager, Client Coordinator · Tools: Recruitment CRM, Applicant tracking system (ATS), Scheduling software, Microsoft 365
+**Saves ~12h per week** · Roles: Account Manager, Client Services Coordinator · Tools: CRM, Email, Shift scheduling tool, ATS
 
 ```mermaid
 flowchart LR
   subgraph Today
-    B0["Client emails or calls with shift requests."]
-    B1["Coordinator writes the request into the CRM or a spreadsheet"]
-    B2["Coordinator checks available temps in the ATS."]
-    B3["Coordinator confirms booking by email and updates the client"]
-    B0 --> B1 --> B2 --> B3
+    B0["Client emails or calls with shift request"]
+    B1["Account manager checks schedule manually"]
+    B2["Calls workers for availability"]
+    B3["Confirms booking by email"]
+    B4["Updates CRM and schedule"]
+    B0 --> B1 --> B2 --> B3 --> B4
   end
   subgraph WithAI[With AI]
-    A0["Agent reads client emails and extracts role, site, shift tim"]
-    A1["Agent checks available and compliant temps in the ATS."]
-    A2["Agent creates the booking, sends confirmation and updates th"]
-    A3["You: reviews gaps and calls the client if cover cannot be fu"]
-    A0 --> A1 --> A2 --> A3
+    A0["Agent reads client request from email or CRM"]
+    A1["Agent checks worker availability and compliance status"]
+    A2["Agent drafts booking and replacement options"]
+    A3["You: account manager approves and sends"]
+    A4["Agent updates CRM and schedule"]
+    A0 --> A1 --> A2 --> A3 --> A4
   end
   classDef ai fill:#154899,color:#fff,stroke:#154899
   classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
-  class A0,A1,A2 ai
+  class A0,A1,A2,A4 ai
   class A3 human
 ```
 
-### 5. Right to work checks and expiry reminders
-An agent checks uploaded documents for missing pages, readable dates and key details, then extracts expiry dates and flags anything that needs a human check. It updates the compliance record and sends expiry reminders.
+### 4. Timesheets entered and checked before payroll run
+An agent collects timesheets from client emails and portals, checks hours and overtime against shift records, and flags exceptions before the weekly BACS run. Payroll staff review only the flagged items.
 
-**Saves ~10h per week** · Roles: Compliance Administrator, Compliance Officer, Onboarding Compliance Assistant · Tools: Right to work document checking tools, Applicant tracking system (ATS), Microsoft 365
+**Saves ~10h per week** · Roles: Payroll Administrator, Payroll Officer · Tools: Payroll software, Email, Shift scheduling tool, Excel or Google Sheets
 
 ```mermaid
 flowchart LR
   subgraph Today
-    B0["Administrator opens each uploaded passport, visa or share co"]
-    B1["Administrator checks dates, names and document type against "]
-    B2["Administrator updates the compliance record."]
-    B3["Officer audits files and chases expiring documents."]
-    B0 --> B1 --> B2 --> B3
+    B0["Client timesheets arrive by email and portal"]
+    B1["Payroll admin downloads and opens each file"]
+    B2["Enters hours into payroll software"]
+    B3["Checks overtime and holiday manually"]
+    B4["Queries exceptions by email"]
+    B0 --> B1 --> B2 --> B3 --> B4
   end
   subgraph WithAI[With AI]
-    A0["Agent checks uploaded documents for missing pages, readable "]
-    A1["Agent extracts expiry dates and flags anything that needs a "]
-    A2["Agent updates the compliance record and sends expiry reminde"]
-    A3["You: reviews flagged exceptions and signs off the file."]
-    A0 --> A1 --> A2 --> A3
+    A0["Agent collects timesheets from email and portal"]
+    A1["Agent matches hours to shift records"]
+    A2["Agent calculates overtime and holiday pay"]
+    A3["Agent flags exceptions with reasons"]
+    A4["You: payroll officer reviews and approves"]
+    A0 --> A1 --> A2 --> A3 --> A4
   end
   classDef ai fill:#154899,color:#fff,stroke:#154899
   classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
-  class A0,A1,A2 ai
-  class A3 human
+  class A0,A1,A2,A3 ai
+  class A4 human
 ```
 
-### 6. Weekly client reports prepared from live data
-An agent pulls fill rates, attendance and no-shows from the ATS and time system, then builds the weekly report for each client site. It emails a draft to the Account Manager for review and context.
+### 5. Job ads refreshed without manual posting
+An agent reviews performance of warehouse and logistics job ads and refreshes posts on Indeed and CV-Library on a set schedule. It pauses weak ads and drafts new wording for recruiter approval.
 
-**Saves ~7h per week** · Roles: Client Coordinator, Account Manager · Tools: Applicant tracking system (ATS), Scheduling software, Time and attendance system, Microsoft 365
+**Saves ~6h per week** · Roles: Temporary Recruiter, Senior Recruiter · Tools: Job boards, ATS, Excel or Google Sheets
 
 ```mermaid
 flowchart LR
   subgraph Today
-    B0["Coordinator exports fill rates and attendance from several s"]
-    B1["Coordinator copies numbers into a weekly spreadsheet."]
-    B2["Account Manager checks the report and adds comments."]
-    B3["Coordinator emails the report to each client."]
-    B0 --> B1 --> B2 --> B3
+    B0["Recruiter checks which ads are live"]
+    B1["Reviews applications by job board"]
+    B2["Rewrites or bumps ads manually"]
+    B3["Posts to each board"]
+    B4["Tracks results in spreadsheet"]
+    B0 --> B1 --> B2 --> B3 --> B4
   end
   subgraph WithAI[With AI]
-    A0["Agent pulls fill rates, attendance and no-shows from the ATS"]
-    A1["Agent builds the weekly report for each client site."]
-    A2["Agent emails a draft to the Account Manager."]
-    A3["You: reviews the draft, adds context and sends to the client"]
-    A0 --> A1 --> A2 --> A3
+    A0["Agent checks ad performance daily"]
+    A1["Agent refreshes or pauses ads by rule"]
+    A2["Agent drafts new ad wording"]
+    A3["You: recruiter approves changes"]
+    A4["Agent logs results in tracker"]
+    A0 --> A1 --> A2 --> A3 --> A4
   end
   classDef ai fill:#154899,color:#fff,stroke:#154899
   classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
-  class A0,A1,A2 ai
+  class A0,A1,A2,A4 ai
   class A3 human
 ```
 
-### 7. New starter pack and induction booking
-An agent sends the new starter pack and tracks what comes back, then chases missing ID, bank details and references on a schedule. It offers induction slots and books the chosen time.
+### 6. Rota gaps and PPE orders handled earlier
+An agent watches rota coverage and PPE stock levels, then flags gaps and drafts cover requests or purchase orders. Coordinators approve the action before it is sent.
 
-**Saves ~8h per week** · Roles: Onboarding Compliance Assistant, Compliance Administrator · Tools: Applicant tracking system (ATS), Microsoft 365, Scheduling software
+**Saves ~6h per week** · Roles: Operations Coordinator, Office Administrator · Tools: Shift scheduling tool, Excel or Google Sheets, Email
 
 ```mermaid
 flowchart LR
   subgraph Today
-    B0["Assistant sends a new starter pack by email."]
-    B1["Assistant waits for ID, bank details and references."]
-    B2["Assistant chases missing items one by one."]
-    B3["Assistant books an induction slot and updates records."]
-    B0 --> B1 --> B2 --> B3
+    B0["Operations coordinator checks rota each morning"]
+    B1["Spots gaps manually"]
+    B2["Calls workers for cover"]
+    B3["Checks PPE stock in spreadsheet"]
+    B4["Raises order when low"]
+    B0 --> B1 --> B2 --> B3 --> B4
   end
   subgraph WithAI[With AI]
-    A0["Agent sends the new starter pack and tracks what comes back."]
-    A1["Agent chases missing ID, bank details and references on a sc"]
-    A2["Agent offers induction slots and books the chosen time."]
-    A3["You: checks documents, answers questions and confirms the st"]
-    A0 --> A1 --> A2 --> A3
+    A0["Agent checks rota and PPE stock daily"]
+    A1["Agent flags gaps and low stock"]
+    A2["Agent drafts cover requests and orders"]
+    A3["You: coordinator approves and sends"]
+    A4["Agent updates tracker"]
+    A0 --> A1 --> A2 --> A3 --> A4
   end
   classDef ai fill:#154899,color:#fff,stroke:#154899
   classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
-  class A0,A1,A2 ai
+  class A0,A1,A2,A4 ai
   class A3 human
 ```
 
-### 8. Common pay queries answered from payroll data
-An agent reads pay queries and looks up the temp record in payroll data. It answers common questions about pay date, rate, hours and deductions, then escalates anything about missing pay, tax codes or disputes.
+### 7. Pay queries answered from a known list
+An agent reads common pay queries by email and text, checks payslips and timesheet records, and drafts replies for payroll staff to approve. Unusual queries go straight to a human.
 
-**Saves ~6h per week** · Roles: Payroll Administrator, Payroll Manager · Tools: Payroll software, Microsoft 365, Email or helpdesk
+**Saves ~5h per week** · Roles: Payroll Administrator, Payroll Officer · Tools: Payroll software, Email, SMS, Excel or Google Sheets
 
 ```mermaid
 flowchart LR
   subgraph Today
-    B0["Temp emails or calls about pay date, rate or hours."]
-    B1["Administrator looks up the record in payroll software."]
-    B2["Administrator replies with the same standard answers."]
-    B3["Manager handles complaints or complex queries."]
-    B0 --> B1 --> B2 --> B3
+    B0["Worker emails or texts pay query"]
+    B1["Payroll admin searches payslip and timesheet"]
+    B2["Checks hours and deductions manually"]
+    B3["Writes reply"]
+    B4["Escalates if unclear"]
+    B0 --> B1 --> B2 --> B3 --> B4
   end
   subgraph WithAI[With AI]
-    A0["Agent reads pay queries and looks up the temp record in payr"]
-    A1["Agent answers common questions about pay date, rate, hours a"]
-    A2["Agent escalates anything about missing pay, tax codes or dis"]
-    A3["You: reviews escalations and replies to sensitive cases."]
-    A0 --> A1 --> A2 --> A3
+    A0["Agent reads query and classifies it"]
+    A1["Agent checks payslip and timesheet records"]
+    A2["Agent drafts reply for common queries"]
+    A3["You: payroll officer approves or edits"]
+    A4["Agent routes unusual queries to human"]
+    A0 --> A1 --> A2 --> A3 --> A4
   end
   classDef ai fill:#154899,color:#fff,stroke:#154899
   classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
-  class A0,A1,A2 ai
+  class A0,A1,A2,A4 ai
   class A3 human
 ```
 
-### 9. Main phone triage and candidate arrival logging
-An agent answers common calls and routes urgent ones to the right person, logs candidate arrivals and sends a note to the recruiter. It takes messages and emails them to the team.
+### 8. Candidate files audited in batches
+An agent checks candidate files for missing right-to-work, DBS, and licence documents before client audits. It produces an exception list so compliance staff fix only the files that need attention.
 
-**Saves ~5h per week** · Roles: Receptionist, Office Administrator · Tools: Phone system, Microsoft 365, Applicant tracking system (ATS)
+**Saves ~7h per week** · Roles: Compliance Officer, Compliance Assistant · Tools: ATS, Compliance tracker, Email
 
 ```mermaid
 flowchart LR
   subgraph Today
-    B0["Receptionist answers every call."]
-    B1["Receptionist takes messages and passes them on."]
-    B2["Receptionist logs candidate arrivals on paper or screen."]
-    B3["Office Administrator handles supply and post queries."]
-    B0 --> B1 --> B2 --> B3
+    B0["Compliance assistant selects file batch"]
+    B1["Opens each candidate record"]
+    B2["Checks required documents against checklist"]
+    B3["Notes missing items"]
+    B4["Emails recruiters to fix"]
+    B0 --> B1 --> B2 --> B3 --> B4
   end
   subgraph WithAI[With AI]
-    A0["Agent answers common calls and routes urgent ones to the rig"]
-    A1["Agent logs candidate arrivals and sends a note to the recrui"]
-    A2["Agent takes messages and emails them to the team."]
-    A3["You: handles complex calls, visitors and deliveries."]
-    A0 --> A1 --> A2 --> A3
+    A0["Agent scans candidate files against checklist"]
+    A1["Agent lists missing or expired items"]
+    A2["Agent drafts fix requests"]
+    A3["You: compliance officer reviews list"]
+    A4["You: officer confirms fixes"]
+    A0 --> A1 --> A2 --> A3 --> A4
   end
   classDef ai fill:#154899,color:#fff,stroke:#154899
   classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
   class A0,A1,A2 ai
+  class A3,A4 human
+```
+
+### 9. Weekly fill rates and margins reported without spreadsheet chase
+An agent pulls fill rates, margin data, and payroll exceptions into one weekly summary for the directors. It highlights changes and questions so the management meeting starts with decisions, not data gathering.
+
+**Saves ~4h per week** · Roles: Director or Manager · Tools: ATS, Payroll software, Excel or Google Sheets, Email
+
+```mermaid
+flowchart LR
+  subgraph Today
+    B0["Director asks recruiters for fill rates"]
+    B1["Exports data from ATS and payroll"]
+    B2["Combines figures in spreadsheet"]
+    B3["Checks margins manually"]
+    B4["Prepares notes for meeting"]
+    B0 --> B1 --> B2 --> B3 --> B4
+  end
+  subgraph WithAI[With AI]
+    A0["Agent pulls data from ATS and payroll"]
+    A1["Agent calculates fill rates and margins"]
+    A2["Agent drafts weekly summary"]
+    A3["You: director reviews and adds context"]
+    A4["Agent sends summary before meeting"]
+    A0 --> A1 --> A2 --> A3 --> A4
+  end
+  classDef ai fill:#154899,color:#fff,stroke:#154899
+  classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
+  class A0,A1,A2,A4 ai
   class A3 human
 ```
 
-## Roadmap
-**Phase 1 (0 to 30 days): Set up the highest volume agents**
-- Map the ATS, payroll, scheduling and email data you already use.
-- Build the shift offer agent for SMS and email, with Recruiter approval.
-- Build the timesheet chasing agent and test it on one client site.
-- Agree human approval rules for compliance and payroll exceptions.
+## 3. Pilot each agent for two weeks, check outputs, then scale across teams
+Set narrow rules, keep humans in approval steps, and review errors weekly before expanding. Start with one recruiter pod, one compliance officer, and one account manager as pilot owners. After the pilot proves reliable, rollout scales to the full team and then to more client sites.
 
-**Phase 2 (30 to 90 days): Add compliance, onboarding and client reporting**
-- Launch the right to work check assistant with Compliance Officer sign off.
-- Launch the new starter pack and induction booking agent.
-- Launch the weekly client report agent for your top five client sites.
-- Train recruiters and administrators on what the agents do and when to step in.
+**Phase 1 (Weeks 1-4): Prove the three phase 1 agents**
+- Map CV sources, right-to-work trackers, and shift request channels
+- Set up CV screening agent with recruiter approval
+- Set up right-to-work expiry agent with compliance approval
+- Set up shift booking agent with account manager approval
+- Review outputs weekly and fix false positives or misses
 
-**Phase 3 (90 to 180 days): Extend to client requests, pay queries and phone triage**
-- Connect client shift request emails to the booking agent.
-- Add the common pay query agent for payroll inboxes and calls.
-- Add phone triage and candidate arrival logging at reception.
-- Review fill rates, payroll cut off times and query response times each month.
+**Phase 2 (Weeks 5-10): Extend into payroll and operations**
+- Add timesheet collection and exception agent
+- Add pay query triage agent
+- Add rota gap and PPE order agent
+- Add job ad refresh agent
+- Train payroll and operations staff on approval steps
 
-## Risks
-- **Right to work and candidate data is sensitive. If an agent handles documents badly, you risk a data breach or compliance failure.**: Keep documents in your existing secure systems, limit agent access to the fields it needs, and have Compliance Officers approve all exceptions.
-- **Automated shift offers or reminders may annoy temps if they are too frequent or poorly timed.**: Set clear send times, opt out rules and daily caps. Let temps reply in plain language.
-- **A screening or matching agent could put forward the wrong candidate.**: Use agents to rank and prepare shortlists, not to make final hiring decisions. Senior Recruiters approve every candidate before a shift offer.
-- **Payroll errors are costly and damage trust.**: Keep Payroll Manager sign off for every weekly run. The agent only prepares matches and flags exceptions.
-- **Your systems may not connect cleanly.**: Start with email, SMS and spreadsheet outputs, then connect the ATS, payroll and scheduling tools in phases.
+**Phase 3 (Weeks 11-16): Scale reporting and audits**
+- Add candidate file audit agent
+- Add management reporting agent
+- Set monthly KPI reviews for all agents
+- Expand agents to more client sites and recruiter pods
+- Document agent rules and owner responsibilities
 
-## KPIs
+**Risks**
+- **The CV screening agent rejects good candidates because rules are too rigid.**: Keep recruiter approval on every shortlist and review false negatives weekly for the first month.
+- **Compliance mistakes create legal or client audit problems.**: Let the agent flag and draft only. Compliance officers approve all right-to-work and document decisions.
+- **Payroll errors damage worker trust and cause BACS delays.**: Run the timesheet agent in parallel with manual checks for four weeks and keep human approval before BACS.
+- **Staff resist using new agents or ignore the outputs.**: Start with volunteer pilot users, show time saved in their own tasks, and give clear owner roles.
+- **Worker or client data is exposed through new tools.**: Use role-based access, keep data inside existing systems where possible, and review permissions before each rollout.
+
+**KPIs**
+- Time from CV received to recruiter shortlist
+- Right-to-work expiry checks completed on time
 - Shift fill rate for client requests
-- Average time from client shift request to confirmed cover
-- Timesheets missing at weekly payroll cut off
-- Right to work files complete before first shift
-- Pay query first response time
-- Hours saved per week from live agents
+- Timesheet exceptions caught before payroll run
+- Hours saved per week from active agents
+- Payroll accuracy and on-time BACS rate
 
-## Quote: phase 1
+## Investment: phase 1 costs $2,400 a month and gives back $8,011 a month in time
 | Agent | Saves | Setup | Monthly |
 |---|---:|---:|---:|
-| Shift offers sent to available temps automatically | 12h/wk | $790 | $780 |
-| Candidate screening for warehouse shifts | 14h/wk | $1,290 | $910 |
-| Timesheet chasing and shift matching | 12h/wk | $1,290 | $780 |
-| **Total** | **38h/wk** | **$3,370** | **$2,470** |
+| Warehouse CVs screened and ranked in minutes | 15h/wk | $790 | $970 |
+| Right-to-work expiry checks run daily | 10h/wk | $790 | $650 |
+| Client shift requests booked with fewer calls | 12h/wk | $1,290 | $780 |
+| **Total** | **37h/wk** | **$2,870** | **$2,400** |
 
-Setup is free when the agents run for 4 months. Full rollout of all 9 opportunities: $10,710 setup, $5,450/month.
+Setup is free when the agents run for 4 months. Full rollout of all 9 opportunities: $10,210 setup, $4,890/month.
+
+## Appendix: background
+- **Industry:** Staffing and recruitment for warehouse and logistics
+- **What they do:** Cobalt Crew Recruitment is a Manchester staffing agency that places temporary warehouse and logistics workers. Your team of 35 handles recruitment, account management, compliance, shift scheduling, and weekly payroll for client sites across Greater Manchester. You screen hundreds of CVs each week and keep temporary workers compliant and paid on time.
+- **Customers:** Warehouse operators, logistics firms, distribution centres, 3PLs, and manufacturers in and around Manchester that need temporary labour.
+- **Team size:** 11-50 (estimate 35)
+- **Tools:** Applicant tracking system (ATS), Job boards such as Indeed and CV-Library, Excel or Google Sheets for trackers, Payroll software such as Sage or BrightPay, Right-to-work document checks, Shift scheduling tools, CRM for client accounts
+- **AI maturity:** 2/5, Emerging. You have core systems like an ATS, payroll software, and spreadsheets, but most screening, compliance chasing, and shift booking is still manual. No AI agents are in daily use.
+
+| Department | People | Roles |
+|---|---:|---|
+| Recruitment | 15 | Temporary Recruiter (10), Senior Recruiter (3), Candidate Coordinator (2) |
+| Account Management | 6 | Account Manager (4), Client Services Coordinator (2) |
+| Compliance | 5 | Compliance Officer (3), Compliance Assistant (2) |
+| Payroll | 4 | Payroll Administrator (2), Payroll Officer (2) |
+| Operations and Admin | 3 | Operations Coordinator (2), Office Administrator (1) |
+| Management | 2 | Director or Manager (2) |
 
 ---
 Want this for your own company? **[Get your free AI strategy →](https://completeaistrategy.com)**

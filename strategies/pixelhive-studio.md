@@ -5,63 +5,66 @@
 
 | Hours saved per week | Value per year | Roles freed up | Opportunities |
 |---:|---:|---:|---:|
-| **46h** | **$105,800** | **1.2 FTE** | **9** |
+| **53h** | **$121,900** | **1.3 FTE** | **8** |
 
-## Summary
-Pixelhive Studio is an 18-person Berlin agency with five designers, three copy and content people, four social media managers, four account managers, one developer, and one operations manager. Most of your current work runs through Meta Business Suite, Instagram, Facebook, LinkedIn, TikTok, Google Ads, GA4, Looker Studio, Google Workspace, and Slack, with little automation between them. The best near-term gains are in comment and DM triage, client approval chasing, first-draft copy, monthly report data pulls, and ad resize prep. Start with low-effort agents that keep a human in the loop for public replies, client emails, and final numbers.
+## Our recommendation
+**Start with three agents for social scheduling and comment triage, monthly client reporting, and campaign setup QA to reduce missed messages, produce cleaner reports, and speed campaign launches.**
 
-## Company snapshot
-- **Industry:** Creative and digital marketing agency
-- **What they do:** You run an 18-person creative and digital marketing agency in Berlin. Your team includes designers, copywriters, social media managers, account managers, and one developer. You sell ongoing social campaigns, ad creative, and monthly reporting to clients, with many revision rounds along the way.
-- **Customers:** Small and mid-sized consumer brands, local Berlin businesses, ecommerce shops, and startups that need regular marketing execution.
-- **Team size:** 11-50 (estimate 18)
-- **Tools:** Meta Business Suite, Instagram, Facebook, LinkedIn, TikTok, Google Ads, Google Analytics 4, Looker Studio, Google Workspace, Slack
-- **AI maturity:** 2/5, Early stage. You have the tools in place but the work is still manual. No agents are running, data lives in separate platforms and sheets, and team time is spent on repetition rather than strategy.
+Pixelhive Studio is an 18-person Berlin agency running social campaigns, ad creative, copy, and monthly reporting for many clients. Most work moves through Slack, Asana or Trello, Google Workspace, Adobe Creative Cloud, Figma, and platform ad tools. Your team repeats the same setup, scheduling, metric pulling, feedback chasing, and file prep across every client, so deadlines slip when volume rises. Client reporting and campaign checks depend on busy people remembering manual steps, which creates errors and slow responses.
 
-## Team and roles
-| Department | People | Roles |
-|---|---:|---|
-| Creative and Design | 5 | Graphic Designer (3), Art Director (1), Motion Designer (1) |
-| Copywriting and Content | 3 | Copywriter (2), Content Strategist (1) |
-| Social Media Management | 4 | Social Media Manager (3), Community Manager (1) |
-| Account Management and Client Services | 4 | Account Manager (3), Project Coordinator (1) |
-| Development | 1 | Web Developer (1) |
-| Operations and Finance | 1 | Operations Manager (1) |
+1. **Social, account, and creative teams carry most repeated client work** Social managers and community managers repeat scheduling, comment checks, and metric pulls for every client. Account teams chase feedback, build monthly reports, and track revision rounds by hand. Creative teams spend hours resizing, exporting, and renaming files after each approval.
+2. **The first three agents target frequent, low-risk work with clear inputs** Social scheduling and comment triage use tools you already have and affect every client account. Monthly reporting pulls from known platforms into a template your account team already owns. Campaign setup QA catches costly mistakes before spend starts. These three show proof quickly without touching sensitive creative decisions.
+3. **Pilot each agent with one owner, human approval, and weekly checks** Run a four-week pilot per agent with one process owner and human approval on client-facing output. Review errors and time saved weekly, then scale to all clients once the workflow is stable. Keep manual fallbacks for platform access issues and unclear briefs.
 
-## Opportunities
-| # | Opportunity | Department | Hours/week | Impact | Effort |
-|---:|---|---|---:|:-:|:-:|
-| 1 | Comments and DMs answered in minutes | Social Media Management | 8 | 5/5 | 3/5 |
-| 2 | Client approvals chased automatically | Account Management and Client Services | 6 | 5/5 | 3/5 |
-| 3 | First drafts for captions and ad variants | Copywriting and Content | 8 | 4/5 | 2/5 |
-| 4 | Monthly report data pull and first notes | Social Media Management | 6 | 4/5 | 3/5 |
-| 5 | Ad resize prep and export names | Creative and Design | 5 | 4/5 | 4/5 |
-| 6 | Weekly call recaps and action items | Account Management and Client Services | 4 | 3/5 | 2/5 |
-| 7 | Invoice reminders and subscription renewals | Operations and Finance | 3 | 3/5 | 2/5 |
-| 8 | Landing page checks before launch | Development | 3 | 3/5 | 3/5 |
-| 9 | Competitor post digest for content planning | Copywriting and Content | 3 | 2/5 | 2/5 |
+**Phase 1 at a glance:** Social posts scheduled and routine comments triaged · Monthly client reports built from live metrics · Ad campaigns checked before launch and pacing alerts sent daily. About 26 hours a week back for $1,680/month (setup $3,370, free on a 4-month run).
 
-### 1. Comments and DMs answered in minutes
-An agent watches comments and direct messages across client accounts, drafts replies from approved FAQs, and flags sensitive or buying-intent threads to the right person. It logs repeated questions so your team can update the FAQ bank.
+## 1. Social, account, and creative teams carry most repeated client work
+Social managers and community managers repeat scheduling, comment checks, and metric pulls for every client. Account teams chase feedback, build monthly reports, and track revision rounds by hand. Creative teams spend hours resizing, exporting, and renaming files after each approval.
 
-**Saves ~8h per week** · Roles: Social Media Manager, Community Manager · Tools: Meta Business Suite, Instagram, Facebook, LinkedIn, Slack
+| Department | Hours saved / week | Share |
+|---|---:|---:|
+| Social Media & Campaigns | 17 | 32% |
+| Account Management | 14 | 26% |
+| Creative & Design | 8 | 15% |
+| Copy & Content | 7 | 13% |
+| Operations & Leadership | 4 | 8% |
+| Web Development | 3 | 6% |
+
+## 2. The first three agents target frequent, low-risk work with clear inputs
+Social scheduling and comment triage use tools you already have and affect every client account. Monthly reporting pulls from known platforms into a template your account team already owns. Campaign setup QA catches costly mistakes before spend starts. These three show proof quickly without touching sensitive creative decisions.
+
+| # | Opportunity | Department | Hours/week | Impact | Effort | Phase |
+|---:|---|---|---:|:-:|:-:|:-:|
+| 1 | Social posts scheduled and routine comments triaged | Social Media & Campaigns | 11 | 5/5 | 2/5 | 1 |
+| 2 | Monthly client reports built from live metrics | Account Management | 9 | 5/5 | 3/5 | 1 |
+| 3 | Ad campaigns checked before launch and pacing alerts sent daily | Social Media & Campaigns | 6 | 4/5 | 3/5 | 1 |
+| 4 | Ad creative resized and exported for every placement | Creative & Design | 8 | 4/5 | 3/5 | later |
+| 5 | First-draft ad copy and captions ready for editing | Copy & Content | 7 | 4/5 | 3/5 | later |
+| 6 | Revision rounds tracked and client feedback collected in one place | Account Management | 5 | 4/5 | 2/5 | later |
+| 7 | Small landing page edits and tracking checks handled faster | Web Development | 3 | 3/5 | 4/5 | later |
+| 8 | Contractor invoices and tool renewals tracked automatically | Operations & Leadership | 4 | 3/5 | 3/5 | later |
+
+### 1. Social posts scheduled and routine comments triaged (phase 1)
+An agent schedules approved posts across client accounts and drafts replies to routine comments for human review. It flags urgent or negative messages in Slack with context.
+
+**Saves ~11h per week** · Roles: Social Media Manager, Community Manager · Tools: Hootsuite, Later, Meta Business Suite, Slack, Asana, Google Sheets
 
 ```mermaid
 flowchart LR
   subgraph Today
-    B0["Open Meta Business Suite, Instagram, Facebook, LinkedIn, and"]
-    B1["Read each comment and DM."]
-    B2["Copy common answers from a notes doc."]
-    B3["Flag sensitive messages in Slack."]
-    B4["Log repeated questions in a sheet."]
+    B0["Collect approved copy and assets from Asana"]
+    B1["Log into each client account"]
+    B2["Upload and schedule posts one by one"]
+    B3["Check comments and messages across platforms"]
+    B4["Copy engagement numbers into a sheet"]
     B0 --> B1 --> B2 --> B3 --> B4
   end
   subgraph WithAI[With AI]
-    A0["Agent checks all connected accounts every 15 minutes."]
-    A1["Agent drafts replies for common questions."]
-    A2["Agent flags sensitive threads in Slack with context."]
-    A3["You: approves or edits drafts and sends replies."]
-    A4["Agent updates the repeated-question log."]
+    A0["Agent pulls approved assets from Asana and Google Drive"]
+    A1["Agent schedules posts in Hootsuite, Later, and Meta Business"]
+    A2["Agent drafts routine comment replies and flags urgent ones i"]
+    A3["You: reviews and approves replies and schedule changes"]
+    A4["Agent logs engagement numbers for reporting"]
     A0 --> A1 --> A2 --> A3 --> A4
   end
   classDef ai fill:#154899,color:#fff,stroke:#154899
@@ -70,85 +73,27 @@ flowchart LR
   class A3 human
 ```
 
-### 2. Client approvals chased automatically
-An agent reads client email and Slack threads, pulls out feedback and approvals, and keeps a shared approval tracker current. It sends polite reminders when a client is holding up a deadline.
+### 2. Monthly client reports built from live metrics (phase 1)
+An agent pulls metrics from Meta, Google Ads, and GA4 into a client-ready draft with commentary prompts. It updates the same report template each month.
 
-**Saves ~6h per week** · Roles: Account Manager, Project Coordinator · Tools: Google Workspace, Slack, Google Sheets
-
-```mermaid
-flowchart LR
-  subgraph Today
-    B0["Account manager searches email and Slack for feedback."]
-    B1["Copies comments into a tracker."]
-    B2["Checks which items are still waiting."]
-    B3["Writes reminder emails one by one."]
-    B4["Updates the deadline list."]
-    B0 --> B1 --> B2 --> B3 --> B4
-  end
-  subgraph WithAI[With AI]
-    A0["Agent reads client email and Slack threads."]
-    A1["Agent extracts feedback, approvals, and open questions."]
-    A2["Agent updates the approval tracker."]
-    A3["Agent drafts reminder emails for late items."]
-    A4["You: reviews the tracker and sends reminders."]
-    A0 --> A1 --> A2 --> A3 --> A4
-  end
-  classDef ai fill:#154899,color:#fff,stroke:#154899
-  classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
-  class A0,A1,A2,A3 ai
-  class A4 human
-```
-
-### 3. First drafts for captions and ad variants
-An agent turns a short brief and brand tone guide into first drafts for social captions, headlines, and A/B variants. It marks claims or phrases that need human checking before client delivery.
-
-**Saves ~8h per week** · Roles: Copywriter, Content Strategist · Tools: Google Workspace, Meta Business Suite, Google Ads
+**Saves ~9h per week** · Roles: Account Manager, Account Coordinator · Tools: Meta Ads Manager, Google Ads, Google Analytics 4, Google Slides, Google Sheets, Asana
 
 ```mermaid
 flowchart LR
   subgraph Today
-    B0["Read the client brief and old posts."]
-    B1["Open a blank doc."]
-    B2["Write captions and headlines."]
-    B3["Create A/B variants by hand."]
-    B4["Check every line against the tone guide."]
+    B0["Log into each ad and analytics platform"]
+    B1["Export separate CSV files"]
+    B2["Paste numbers into slide templates"]
+    B3["Write first draft commentary"]
+    B4["Ask account lead to check and send"]
     B0 --> B1 --> B2 --> B3 --> B4
   end
   subgraph WithAI[With AI]
-    A0["You: writes a 5-line brief."]
-    A1["Agent drafts captions, headlines, and 5 to 10 variants."]
-    A2["Agent checks drafts against the tone guide and flags claims."]
-    A3["You: edits the best options."]
-    A4["Agent saves approved copy to the client folder."]
-    A0 --> A1 --> A2 --> A3 --> A4
-  end
-  classDef ai fill:#154899,color:#fff,stroke:#154899
-  classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
-  class A1,A2,A4 ai
-  class A0,A3 human
-```
-
-### 4. Monthly report data pull and first notes
-An agent pulls numbers from each platform and GA4 into a reporting sheet, then writes plain-language notes about what changed. Your team checks the numbers and edits the story before it goes to the client.
-
-**Saves ~6h per week** · Roles: Social Media Manager, Account Manager · Tools: Google Analytics 4, Looker Studio, Meta Business Suite, Google Sheets
-
-```mermaid
-flowchart LR
-  subgraph Today
-    B0["Log into Meta, LinkedIn, TikTok, and GA4."]
-    B1["Export numbers for each client."]
-    B2["Paste data into a sheet."]
-    B3["Write commentary by hand."]
-    B4["Build slides or a Looker Studio page."]
-    B0 --> B1 --> B2 --> B3 --> B4
-  end
-  subgraph WithAI[With AI]
-    A0["Agent pulls numbers from connected platforms and GA4."]
-    A1["Agent fills the reporting sheet and Looker Studio data sourc"]
-    A2["Agent drafts plain-language notes on changes."]
-    A3["You: checks numbers and edits notes."]
-    A4["Agent builds the client-ready report draft."]
+    A0["Agent connects to Meta Ads, Google Ads, and GA4"]
+    A1["Agent fills the monthly report template"]
+    A2["Agent drafts commentary based on changes"]
+    A3["You: checks numbers, edits narrative, and approves"]
+    A4["Agent saves final PDF and updates client tracker"]
     A0 --> A1 --> A2 --> A3 --> A4
   end
   classDef ai fill:#154899,color:#fff,stroke:#154899
@@ -157,27 +102,27 @@ flowchart LR
   class A3 human
 ```
 
-### 5. Ad resize prep and export names
-An agent reads campaign specs and prepares the resize list, file names, and export checklist for each platform. It reduces the manual admin around exports and gives designers a clean queue.
+### 3. Ad campaigns checked before launch and pacing alerts sent daily (phase 1)
+An agent runs a pre-launch checklist on new Meta and Google campaigns and posts daily pacing alerts. It catches missing pixels, wrong budgets, and broken links before spend starts.
 
-**Saves ~5h per week** · Roles: Graphic Designer, Motion Designer · Tools: Google Workspace, Meta Business Suite, LinkedIn
+**Saves ~6h per week** · Roles: Campaign Manager · Tools: Meta Ads Manager, Google Ads, Slack, Asana, Google Sheets
 
 ```mermaid
 flowchart LR
   subgraph Today
-    B0["Check platform size requirements."]
-    B1["Write a resize list by hand."]
-    B2["Rename files to match naming rules."]
-    B3["Export each size."]
-    B4["Upload files to shared folders."]
+    B0["Build campaign in Meta and Google"]
+    B1["Manually check budgets, audiences, and tracking"]
+    B2["Ask designer for missing asset sizes"]
+    B3["Watch spend during first days"]
+    B4["Send status updates in Slack"]
     B0 --> B1 --> B2 --> B3 --> B4
   end
   subgraph WithAI[With AI]
-    A0["Agent reads campaign specs and builds the size list."]
-    A1["Agent renames source files and sets export names."]
-    A2["Agent creates the export checklist."]
-    A3["You: reviews the list and exports final files."]
-    A4["Agent files exports into the right client folders."]
+    A0["Agent reads campaign setup from Meta and Google"]
+    A1["Agent checks budget, audience, pixels, links, and asset size"]
+    A2["Agent posts a Slack checklist with failed items"]
+    A3["You: fixes flagged items and approves launch"]
+    A4["Agent sends daily pacing alerts with budget burn"]
     A0 --> A1 --> A2 --> A3 --> A4
   end
   classDef ai fill:#154899,color:#fff,stroke:#154899
@@ -186,27 +131,27 @@ flowchart LR
   class A3 human
 ```
 
-### 6. Weekly call recaps and action items
-An agent turns recorded weekly status calls into a short recap with owners and due dates. It posts the recap in the client Slack channel or drafts the follow-up email for the account manager.
+### 4. Ad creative resized and exported for every placement
+An agent prepares common ad sizes from approved Figma or Photoshop files and names files to your convention. Designers review and adjust only where the layout breaks.
 
-**Saves ~4h per week** · Roles: Account Manager, Project Coordinator · Tools: Google Workspace, Slack, Google Sheets
+**Saves ~8h per week** · Roles: Graphic Designer, Senior Designer · Tools: Figma, Adobe Photoshop, Adobe Illustrator, Google Drive, Asana
 
 ```mermaid
 flowchart LR
   subgraph Today
-    B0["Join the weekly call."]
-    B1["Take notes during the call."]
-    B2["Write a recap email after the call."]
-    B3["Add action items to the tracker."]
-    B4["Send tasks in Slack."]
+    B0["Open master design file"]
+    B1["Duplicate artboards for each size"]
+    B2["Resize and rearrange elements manually"]
+    B3["Export PNG and JPG files"]
+    B4["Rename and upload to shared drive"]
     B0 --> B1 --> B2 --> B3 --> B4
   end
   subgraph WithAI[With AI]
-    A0["Agent records and transcribes the call with permission."]
-    A1["Agent writes a short recap with owners and dates."]
-    A2["Agent adds action items to the tracker."]
-    A3["You: checks names, dates, and tone."]
-    A4["Agent sends the recap or saves it as an email draft."]
+    A0["Agent reads approved master file"]
+    A1["Agent creates standard ad sizes"]
+    A2["Agent exports and names files by campaign and placement"]
+    A3["You: checks layouts and fixes edge cases"]
+    A4["Agent uploads to Google Drive and links in Asana"]
     A0 --> A1 --> A2 --> A3 --> A4
   end
   classDef ai fill:#154899,color:#fff,stroke:#154899
@@ -215,27 +160,27 @@ flowchart LR
   class A3 human
 ```
 
-### 7. Invoice reminders and subscription renewals
-An agent watches invoice due dates and software renewal dates in your finance sheet and inbox. It drafts reminder emails and flags subscriptions that are close to renewal.
+### 5. First-draft ad copy and captions ready for editing
+An agent drafts ad copy and social captions from a brief, brand voice notes, and past top performers. It gives writers a clear starting point instead of a blank page.
 
-**Saves ~3h per week** · Roles: Operations Manager · Tools: Google Workspace, Google Sheets, Slack
+**Saves ~7h per week** · Roles: Copywriter, Content Strategist, Editor · Tools: Google Docs, Google Workspace, Slack, Asana
 
 ```mermaid
 flowchart LR
   subgraph Today
-    B0["Check the invoice sheet each week."]
-    B1["Compare due dates to payments received."]
-    B2["Write reminder emails by hand."]
-    B3["Check software renewal dates."]
-    B4["Update the finance sheet."]
+    B0["Read client brief and old posts"]
+    B1["Write captions for each platform"]
+    B2["Create multiple ad variants"]
+    B3["Check brand voice and hashtags"]
+    B4["Send to editor for proofing"]
     B0 --> B1 --> B2 --> B3 --> B4
   end
   subgraph WithAI[With AI]
-    A0["Agent checks invoice due dates and payment status."]
-    A1["Agent drafts reminder emails for late invoices."]
-    A2["Agent flags upcoming software renewals."]
-    A3["You: reviews and sends reminders."]
-    A4["Agent updates the finance log."]
+    A0["Agent reads brief, brand notes, and past posts"]
+    A1["Agent drafts captions and ad variants by platform"]
+    A2["Agent checks tone against brand guide"]
+    A3["You: edits, approves, and adds final ideas"]
+    A4["Agent formats approved copy for scheduling"]
     A0 --> A1 --> A2 --> A3 --> A4
   end
   classDef ai fill:#154899,color:#fff,stroke:#154899
@@ -244,56 +189,27 @@ flowchart LR
   class A3 human
 ```
 
-### 8. Landing page checks before launch
-An agent runs a launch checklist on campaign pages, checking forms, tracking pixels, mobile layout, and speed. It sends a screenshot-based issue list to the developer so fixes are clear.
+### 6. Revision rounds tracked and client feedback collected in one place
+An agent gathers feedback from email, Slack, and calls into a numbered revision list. It tracks rounds and approvals so nothing gets lost between client and creative.
 
-**Saves ~3h per week** · Roles: Web Developer · Tools: Google Analytics 4, Google Ads, Google Workspace
-
-```mermaid
-flowchart LR
-  subgraph Today
-    B0["Open each landing page manually."]
-    B1["Test forms and thank-you pages."]
-    B2["Check GA4 and Google Ads pixels."]
-    B3["Resize the browser for mobile."]
-    B4["Run a speed test and write notes."]
-    B0 --> B1 --> B2 --> B3 --> B4
-  end
-  subgraph WithAI[With AI]
-    A0["Agent opens each page and runs the checklist."]
-    A1["Agent tests forms and tracking tags."]
-    A2["Agent captures mobile screenshots."]
-    A3["Agent writes an issue list with page links."]
-    A4["You: fixes issues and approves launch."]
-    A0 --> A1 --> A2 --> A3 --> A4
-  end
-  classDef ai fill:#154899,color:#fff,stroke:#154899
-  classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
-  class A0,A1,A2,A3 ai
-  class A4 human
-```
-
-### 9. Competitor post digest for content planning
-An agent collects public posts from chosen competitor accounts and groups them by theme, format, and hook. It sends a weekly digest to help your team plan, without copying claims or creative.
-
-**Saves ~3h per week** · Roles: Content Strategist, Copywriter · Tools: Instagram, LinkedIn, TikTok, Slack
+**Saves ~5h per week** · Roles: Account Manager, Account Coordinator · Tools: Google Workspace, Slack, Asana, Trello
 
 ```mermaid
 flowchart LR
   subgraph Today
-    B0["Open each competitor account."]
-    B1["Scroll recent posts."]
-    B2["Take screenshots and notes."]
-    B3["Group ideas in a doc."]
-    B4["Share with the content team."]
+    B0["Client sends feedback in email, Slack, and calls"]
+    B1["Account coordinator copies notes into a document"]
+    B2["Team asks which comments are approved"]
+    B3["Designer guesses order and priority"]
+    B4["Rounds get counted manually"]
     B0 --> B1 --> B2 --> B3 --> B4
   end
   subgraph WithAI[With AI]
-    A0["Agent collects public posts from a set list."]
-    A1["Agent groups posts by theme, format, and hook."]
-    A2["Agent sends a weekly digest to Slack."]
-    A3["You: reviews the digest and picks ideas."]
-    A4["Agent saves the digest to the campaign folder."]
+    A0["Agent collects feedback from email, Slack, and call notes"]
+    A1["Agent creates a numbered revision list with source links"]
+    A2["Agent flags unclear or conflicting requests"]
+    A3["You: confirms priorities with client and team"]
+    A4["Agent updates approval status and round count"]
     A0 --> A1 --> A2 --> A3 --> A4
   end
   classDef ai fill:#154899,color:#fff,stroke:#154899
@@ -302,52 +218,127 @@ flowchart LR
   class A3 human
 ```
 
-## Roadmap
-**Phase 1 (Weeks 1 to 4): Low-effort agents with human review**
-- Build an approved FAQ bank for common comments and DMs.
-- Connect Slack, Google Workspace, and Meta Business Suite to the first agents.
-- Start the comments and DMs agent with human approval for all public replies.
-- Start the copy drafting agent for social captions and ad variants.
-- Start the monthly report data pull agent for one or two friendly clients.
+### 7. Small landing page edits and tracking checks handled faster
+An agent prepares routine landing page text and image swaps and checks forms, pixels, and links. The developer reviews and deploys changes.
 
-**Phase 2 (Months 2 to 3): Client workflows and finance**
-- Add the client approval tracker and reminder agent.
-- Add weekly call recaps with human review before sending.
-- Add invoice reminders and subscription renewal flags.
-- Add landing page launch checks for the developer.
-- Train account managers and social managers on review steps and escalation rules.
+**Saves ~3h per week** · Roles: Web Developer · Tools: Webflow, WordPress, Google Analytics 4, Google Tag Manager, Asana
 
-**Phase 3 (Months 4 to 6): Creative and planning support**
-- Add ad resize prep and export naming for the design team.
-- Add the competitor post digest for content planning.
-- Expand agents to more client accounts after privacy checks.
-- Review hours saved, error rates, and client feedback every month.
-- Refine FAQ banks, tone guides, and report templates from agent logs.
+```mermaid
+flowchart LR
+  subgraph Today
+    B0["Get edit request from account team"]
+    B1["Find page and make changes manually"]
+    B2["Check form submissions and pixels"]
+    B3["Test links on mobile"]
+    B4["Reply with done status"]
+    B0 --> B1 --> B2 --> B3 --> B4
+  end
+  subgraph WithAI[With AI]
+    A0["Agent reads request from Asana"]
+    A1["Agent prepares text and image swaps in staging"]
+    A2["Agent checks forms, pixels, and links"]
+    A3["You: reviews, tests, and deploys"]
+    A4["Agent posts status update in Asana"]
+    A0 --> A1 --> A2 --> A3 --> A4
+  end
+  classDef ai fill:#154899,color:#fff,stroke:#154899
+  classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
+  class A0,A1,A2,A4 ai
+  class A3 human
+```
 
-## Risks
-- **Client data privacy and platform rules are not followed.**: Only connect approved client accounts, get written consent, limit agent access to what is needed, and review DMs before replies go out.
-- **An AI reply or client email damages a brand or relationship.**: Keep human approval for all public replies and client emails. Use an approved FAQ bank and escalate sensitive topics to an account manager.
-- **Integrations break or become hard to maintain.**: Start with Google Workspace, Slack, and Meta. Add one tool at a time. Document each connection and assign one owner per agent.
-- **The team does not adopt the agents or sees them as extra work.**: Assign an owner per agent, hold a 30-minute weekly review, and show hours saved per role. Start with the tasks people dislike most.
-- **Report numbers are wrong before they reach a client.**: Have the agent pull raw data, then require a human check against platform dashboards before any client report is sent.
+### 8. Contractor invoices and tool renewals tracked automatically
+An agent reads invoice emails and renewal notices, logs amounts and due dates, and sends reminders. It keeps contractor paperwork and tool access notes in one place.
 
-## KPIs
-- Hours saved per week from agents, target 40 to 50 after phase 2
-- Average first reply time to comments and DMs
-- Percentage of client approvals collected before the deadline
-- Monthly reports delivered on time and without corrections
-- Number of revision rounds per campaign
-- Invoice reminders sent before due date and overdue invoice count
+**Saves ~4h per week** · Roles: Operations Manager · Tools: Gmail, Google Sheets, Google Drive, Slack, Asana
 
-## Quote: phase 1
+```mermaid
+flowchart LR
+  subgraph Today
+    B0["Check shared inbox for invoices"]
+    B1["Download PDFs and rename them"]
+    B2["Enter amounts in spreadsheet"]
+    B3["Track renewal dates manually"]
+    B4["Chase missing paperwork by email"]
+    B0 --> B1 --> B2 --> B3 --> B4
+  end
+  subgraph WithAI[With AI]
+    A0["Agent reads invoice and renewal emails"]
+    A1["Agent logs vendor, amount, and due date in Google Sheets"]
+    A2["Agent sends Slack reminders before due dates"]
+    A3["You: approves payments and access changes"]
+    A4["Agent files documents in shared drive"]
+    A0 --> A1 --> A2 --> A3 --> A4
+  end
+  classDef ai fill:#154899,color:#fff,stroke:#154899
+  classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
+  class A0,A1,A2,A4 ai
+  class A3 human
+```
+
+## 3. Pilot each agent with one owner, human approval, and weekly checks
+Run a four-week pilot per agent with one process owner and human approval on client-facing output. Review errors and time saved weekly, then scale to all clients once the workflow is stable. Keep manual fallbacks for platform access issues and unclear briefs.
+
+**Phase 1 (Weeks 1-4): Prove three agents on daily client work**
+- Set up social scheduling and comment triage with two client accounts
+- Connect Meta, Google Ads, and GA4 for monthly reporting draft
+- Run campaign setup QA and pacing alerts for new campaigns
+- Keep human approval on all client-facing messages and reports
+- Review time saved and errors weekly
+
+**Phase 2 (Weeks 5-10): Add creative and copy support**
+- Pilot ad resize agent with three standard placements
+- Pilot copy variant agent with two copywriters
+- Connect revision tracking to Asana and Slack
+- Train team on review and approval steps
+
+**Phase 3 (Weeks 11-16): Extend to web and operations, then scale**
+- Add landing page edit and tracking check agent
+- Add invoice and renewal tracking for operations
+- Document each agent owner and backup
+- Review KPIs and expand to all clients
+
+**Risks**
+- **Client-facing errors from automated drafts**: Human approval before send and weekly sample checks
+- **Platform API limits or access changes**: Start with exports and scheduled checks where APIs are limited, and keep manual fallbacks
+- **Team adoption stalls because process is unclear**: Name one owner per agent and train in short sessions
+- **Data privacy or client confidentiality**: Limit access to need-to-know accounts, use client-specific workspaces, and review permissions quarterly
+- **Too many tools at once**: Limit phase 1 to three agents and existing tools
+
+**KPIs**
+- Hours saved per week across phase 1 agents
+- Average first response time to client comments and messages
+- Monthly reports delivered by target date
+- Campaign setup errors caught before launch
+- Revision rounds completed within agreed turnaround
+- Team adoption rate for each agent
+
+## Investment: phase 1 costs $1,680 a month and gives back $5,629 a month in time
 | Agent | Saves | Setup | Monthly |
 |---|---:|---:|---:|
-| First drafts for captions and ad variants | 8h/wk | $790 | $520 |
-| Comments and DMs answered in minutes | 8h/wk | $1,290 | $520 |
-| Client approvals chased automatically | 6h/wk | $1,290 | $390 |
-| **Total** | **22h/wk** | **$3,370** | **$1,430** |
+| Social posts scheduled and routine comments triaged | 11h/wk | $790 | $710 |
+| Monthly client reports built from live metrics | 9h/wk | $1,290 | $580 |
+| Ad campaigns checked before launch and pacing alerts sent daily | 6h/wk | $1,290 | $390 |
+| **Total** | **26h/wk** | **$3,370** | **$1,680** |
 
-Setup is free when the agents run for 4 months. Full rollout of all 9 opportunities: $10,210 setup, $3,300/month.
+Setup is free when the agents run for 4 months. Full rollout of all 8 opportunities: $9,920 setup, $3,550/month.
+
+## Appendix: background
+- **Industry:** Creative and digital marketing agency
+- **What they do:** Pixelhive Studio is a Berlin creative and digital marketing agency with 18 people. You and your team run social campaigns, create ads, produce design and copy, report monthly results to clients, and manage many revision rounds.
+- **Customers:** Small and mid-sized brands, consumer companies and local businesses that need ongoing marketing creative and campaign support. Likely B2C clients plus some B2B clients in Berlin, Germany and nearby markets.
+- **Team size:** 11-50 (estimate 18)
+- **Tools:** Adobe Creative Cloud (Photoshop, Illustrator, InDesign), Figma, Canva, Meta Business Suite and Ads Manager, Google Ads, Google Analytics 4, Google Workspace, Slack, Asana or Trello, Hootsuite or Later
+- **AI maturity:** 2/5, Early. AI use is ad hoc, mostly writing help and simple automations, and no agent owns a recurring workflow yet.
+
+| Department | People | Roles |
+|---|---:|---|
+| Creative & Design | 5 | Graphic Designer (3), Senior Designer (1), Art Director (1) |
+| Copy & Content | 4 | Copywriter (2), Content Strategist (1), Editor (1) |
+| Social Media & Campaigns | 4 | Social Media Manager (2), Campaign Manager (1), Community Manager (1) |
+| Account Management | 3 | Account Manager (2), Account Coordinator (1) |
+| Web Development | 1 | Web Developer (1) |
+| Operations & Leadership | 1 | Operations Manager (1) |
 
 ---
 Want this for your own company? **[Get your free AI strategy →](https://completeaistrategy.com)**

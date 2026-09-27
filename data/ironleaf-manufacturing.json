@@ -6,20 +6,21 @@
     "url": null
   },
   "prepared_for": null,
-  "created_at": "2026-09-27T10:02:42.577Z",
+  "created_at": "2026-09-27T11:16:27.591Z",
   "profile": {
     "company": {
       "name": "Ironleaf Manufacturing",
       "industry": "Metal parts manufacturing",
-      "summary": "You run a metal parts manufacturing company in Ohio, USA. Your team does CNC machining and sheet metal work for customers who send drawings and RFQs, and you quote custom parts. About 160 employees handle production, quality, purchasing, sales engineering, planning and finance.",
+      "summary": "Ironleaf Manufacturing is a custom metal parts maker in Ohio with about 160 employees. You run CNC machining and sheet metal work for industrial buyers who send drawings and RFQs by email. Your team covers production, quality, purchasing, sales engineering, planning and finance, with Epicor as the main ERP.",
       "offerings": [
-        "CNC machining",
-        "Sheet metal fabrication",
-        "Custom metal parts quoted from customer drawings",
-        "RFQ quoting and job costing",
-        "Short-run and repeat production runs"
+        "CNC machining of custom metal parts",
+        "Sheet metal fabrication, including cutting, forming and welding",
+        "Custom quoting from drawings and CAD files",
+        "Low to medium volume production runs",
+        "Quality inspection and first article documentation",
+        "Finishing and light assembly for metal components"
       ],
-      "customers": "Industrial OEMs and equipment makers that need custom metal parts, mostly in Ohio and nearby states.",
+      "customers": "Industrial OEMs, machine builders and product companies in North America. Your buyers are design engineers, purchasing managers and supply chain teams who send drawings and RFQs by email.",
       "locations": [
         "Ohio, USA"
       ],
@@ -27,163 +28,195 @@
       "employee_estimate": 160,
       "tech_signals": [
         "Epicor ERP",
-        "Email based RFQ intake",
-        "CAD software for drawings",
-        "CAM software for CNC programming",
-        "CNC controls such as Fanuc or Haas",
-        "Microsoft 365 or Outlook",
-        "Excel for quoting and planning",
-        "Calipers, micrometers, and CMM for inspection"
+        "Email-based RFQ intake",
+        "CAD/CAM software for CNC and sheet metal",
+        "CNC controls and nesting software",
+        "Spreadsheets for planning and quoting",
+        "Calipers, micrometers and CMM for inspection"
       ],
       "evidence_quality": "medium"
     },
     "departments": [
       {
         "name": "Production",
-        "headcount_estimate": 94,
+        "headcount_estimate": 90,
         "roles": [
           {
             "title": "CNC Machinist",
-            "count_estimate": 45,
+            "count_estimate": 40,
             "repetitive_tasks": [
-              "Load and unload parts",
-              "Check dimensions with gauges",
-              "Change tooling",
-              "Log job status in Epicor"
+              "Load programs and set up machines",
+              "Check parts with calipers and micrometers",
+              "Deburr finished parts",
+              "Record production counts"
             ]
           },
           {
             "title": "Sheet Metal Operator",
-            "count_estimate": 24,
+            "count_estimate": 25,
             "repetitive_tasks": [
-              "Run press brake",
-              "Load nest sheets",
-              "Deburr parts",
-              "Record scrap"
+              "Read drawings and cut sheets",
+              "Form parts on press brakes",
+              "Measure parts against prints",
+              "Stack and rack finished parts"
             ]
           },
           {
-            "title": "Setup Technician",
+            "title": "Welder and Fabricator",
             "count_estimate": 15,
             "repetitive_tasks": [
-              "Read drawings",
-              "Set fixtures",
-              "Adjust offsets",
-              "Run first article checks"
+              "Set up fixtures and weld parts",
+              "Grind and finish welds",
+              "Check weld size and placement",
+              "Log job completion"
             ]
           },
           {
             "title": "Production Supervisor",
             "count_estimate": 10,
             "repetitive_tasks": [
-              "Review schedule",
-              "Assign jobs to operators",
-              "Handle machine downtime",
-              "Enter production counts"
+              "Review daily schedules",
+              "Approve time and attendance",
+              "Run shift handoff meetings",
+              "Escalate machine and material issues"
             ]
           }
         ]
       },
       {
         "name": "Quality",
-        "headcount_estimate": 18,
+        "headcount_estimate": 12,
         "roles": [
           {
             "title": "Quality Inspector",
-            "count_estimate": 10,
+            "count_estimate": 7,
             "repetitive_tasks": [
-              "Inspect first articles",
-              "Measure parts",
-              "File inspection reports",
-              "Log nonconformances"
+              "Perform first article inspections",
+              "Run dimensional checks",
+              "Log inspection results",
+              "Sort nonconforming parts"
             ]
           },
           {
             "title": "Quality Engineer",
-            "count_estimate": 5,
+            "count_estimate": 3,
             "repetitive_tasks": [
-              "Review customer specs",
-              "Update control plans",
-              "Lead corrective actions"
+              "Prepare PPAP and FAI documents",
+              "Track corrective actions",
+              "Audit processes and records",
+              "Answer customer quality emails"
+            ]
+          },
+          {
+            "title": "Quality Manager",
+            "count_estimate": 1,
+            "repetitive_tasks": [
+              "Review quality metrics",
+              "Sign off inspection reports",
+              "Handle customer complaints",
+              "Prepare for audits"
             ]
           },
           {
             "title": "Calibration Technician",
-            "count_estimate": 3,
+            "count_estimate": 1,
             "repetitive_tasks": [
-              "Check gauges",
               "Update calibration logs",
-              "Schedule outside calibration"
+              "Check gauge condition",
+              "Schedule outside calibration",
+              "File calibration records"
             ]
           }
         ]
       },
       {
-        "name": "Purchasing",
+        "name": "Purchasing and Supply Chain",
         "headcount_estimate": 10,
         "roles": [
           {
             "title": "Buyer",
-            "count_estimate": 6,
+            "count_estimate": 5,
             "repetitive_tasks": [
-              "Send POs",
-              "Follow up on late material",
-              "Update Epicor",
-              "Compare supplier quotes"
-            ]
-          },
-          {
-            "title": "Receiving Clerk",
-            "count_estimate": 3,
-            "repetitive_tasks": [
-              "Receive material",
-              "Match packing slips",
-              "Enter receipts",
-              "Tag material"
+              "Enter purchase orders",
+              "Follow up with suppliers",
+              "Check prices and lead times",
+              "Expedite late material"
             ]
           },
           {
             "title": "Purchasing Manager",
             "count_estimate": 1,
             "repetitive_tasks": [
-              "Review shortages",
-              "Approve POs",
-              "Negotiate pricing"
+              "Review supplier performance",
+              "Negotiate pricing",
+              "Approve purchase orders",
+              "Check supply risk"
+            ]
+          },
+          {
+            "title": "Receiving and Shipping Clerk",
+            "count_estimate": 3,
+            "repetitive_tasks": [
+              "Count incoming material",
+              "Match packing lists",
+              "Print labels and paperwork",
+              "Enter inventory receipts"
+            ]
+          },
+          {
+            "title": "Inventory Controller",
+            "count_estimate": 1,
+            "repetitive_tasks": [
+              "Run cycle counts",
+              "Adjust stock records",
+              "Review min and max levels",
+              "Update inventory reports"
             ]
           }
         ]
       },
       {
-        "name": "Sales Engineering",
-        "headcount_estimate": 15,
+        "name": "Sales Engineering and Estimating",
+        "headcount_estimate": 18,
         "roles": [
           {
-            "title": "Sales Engineer",
-            "count_estimate": 6,
+            "title": "Sales Engineer and Estimator",
+            "count_estimate": 10,
             "repetitive_tasks": [
-              "Review RFQ emails",
-              "Read drawings",
-              "Ask customer questions",
-              "Prepare quote notes"
+              "Read customer drawings",
+              "Reply to email RFQs",
+              "Build cost estimates",
+              "Follow up on open quotes"
             ]
           },
           {
-            "title": "Estimator",
-            "count_estimate": 6,
+            "title": "Account Manager",
+            "count_estimate": 4,
             "repetitive_tasks": [
-              "Calculate cycle times",
-              "Estimate material cost",
-              "Estimate tooling",
-              "Enter quote in Epicor"
+              "Call customers for updates",
+              "Review order status",
+              "Handle delivery issues",
+              "Update CRM notes"
             ]
           },
           {
-            "title": "Customer Service Rep",
+            "title": "Customer Service Representative",
             "count_estimate": 3,
             "repetitive_tasks": [
-              "Acknowledge RFQs",
-              "Send quote follow ups",
-              "Update order status"
+              "Enter orders",
+              "Send status emails",
+              "Process expedite requests",
+              "File customer documents"
+            ]
+          },
+          {
+            "title": "Sales Manager",
+            "count_estimate": 1,
+            "repetitive_tasks": [
+              "Review pipeline and win rates",
+              "Approve quotes and pricing",
+              "Set sales targets",
+              "Visit key customers"
             ]
           }
         ]
@@ -196,95 +229,132 @@
             "title": "Production Planner",
             "count_estimate": 4,
             "repetitive_tasks": [
-              "Review open orders",
+              "Review new orders",
               "Create work orders",
               "Check material availability",
-              "Adjust dates"
+              "Update promise dates"
             ]
           },
           {
             "title": "Scheduler",
-            "count_estimate": 3,
+            "count_estimate": 2,
             "repetitive_tasks": [
-              "Sequence jobs",
-              "Coordinate with supervisors",
-              "Update schedule board"
+              "Load machines and work centers",
+              "Build shift plans",
+              "Update hot lists",
+              "Review capacity gaps"
             ]
           },
           {
             "title": "Planning Manager",
             "count_estimate": 1,
             "repetitive_tasks": [
-              "Run capacity reports",
-              "Prioritize jobs",
-              "Communicate lead times"
-            ]
-          }
-        ]
-      },
-      {
-        "name": "Finance",
-        "headcount_estimate": 7,
-        "roles": [
-          {
-            "title": "Staff Accountant",
-            "count_estimate": 3,
-            "repetitive_tasks": [
-              "Enter invoices",
-              "Reconcile accounts",
-              "Prepare job cost reports"
+              "Run S&OP meetings",
+              "Review bottlenecks",
+              "Approve promise dates",
+              "Check planning KPIs"
             ]
           },
           {
-            "title": "Accounts Payable and Receivable",
-            "count_estimate": 3,
-            "repetitive_tasks": [
-              "Match invoices to POs",
-              "Send statements",
-              "Follow up on past due"
-            ]
-          },
-          {
-            "title": "Controller",
+            "title": "Expediter",
             "count_estimate": 1,
             "repetitive_tasks": [
-              "Close month",
-              "Review job costing",
-              "Prepare management reports"
+              "Track late jobs",
+              "Move priority orders",
+              "Update sales on delays",
+              "Coordinate with the shop"
             ]
           }
         ]
       },
       {
-        "name": "Maintenance and Facilities",
-        "headcount_estimate": 8,
+        "name": "Finance and Admin",
+        "headcount_estimate": 12,
+        "roles": [
+          {
+            "title": "Accountant",
+            "count_estimate": 5,
+            "repetitive_tasks": [
+              "Enter AP and AR invoices",
+              "Match invoices to POs",
+              "Post month end entries",
+              "Prepare finance reports"
+            ]
+          },
+          {
+            "title": "Admin and Payroll",
+            "count_estimate": 4,
+            "repetitive_tasks": [
+              "Process timesheets",
+              "Run payroll",
+              "Administer benefits",
+              "Maintain employee records"
+            ]
+          },
+          {
+            "title": "IT and ERP Admin",
+            "count_estimate": 2,
+            "repetitive_tasks": [
+              "Support Epicor users",
+              "Write reports",
+              "Clean up data",
+              "Handle access requests"
+            ]
+          },
+          {
+            "title": "Controller and Finance Manager",
+            "count_estimate": 1,
+            "repetitive_tasks": [
+              "Run financial close",
+              "Review margins",
+              "Update budgets",
+              "Support audits"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Maintenance and Tooling",
+        "headcount_estimate": 10,
         "roles": [
           {
             "title": "Maintenance Technician",
             "count_estimate": 5,
             "repetitive_tasks": [
-              "Fix CNC and sheet metal equipment",
-              "Check fluids",
+              "Complete machine PMs",
               "Log repairs",
-              "Order spare parts"
+              "Check spare parts",
+              "Inspect safety guards"
             ]
           },
           {
-            "title": "Facilities Technician",
-            "count_estimate": 2,
+            "title": "Tooling Technician",
+            "count_estimate": 3,
             "repetitive_tasks": [
-              "Handle building repairs",
-              "Manage waste",
-              "Check safety items"
+              "Set up tooling",
+              "Repair fixtures",
+              "Track tool crib inventory",
+              "Log tool sharpening"
             ]
           },
           {
             "title": "Maintenance Manager",
             "count_estimate": 1,
             "repetitive_tasks": [
-              "Plan preventive maintenance",
-              "Schedule outside contractors",
-              "Track downtime"
+              "Plan PM schedule",
+              "Review work orders",
+              "Call vendors for parts",
+              "Review downtime reports"
+            ]
+          },
+          {
+            "title": "Setup Technician",
+            "count_estimate": 1,
+            "repetitive_tasks": [
+              "Change over machines",
+              "Verify first parts",
+              "Adjust fixtures",
+              "Record setup times"
             ]
           }
         ]
@@ -292,364 +362,395 @@
     ]
   },
   "strategy": {
-    "executive_summary": "Ironleaf Manufacturing runs custom metal parts work through Epicor, email RFQ intake, CAD drawings, and Excel quoting. Your team already has strong ERP and shop floor habits, but too much RFQ, scheduling, quality, purchasing, and finance work is still manual and scattered across inboxes and spreadsheets. The practical path is to add AI agents that read emails, extract drawing and PO details, draft updates, and log data into Epicor and Excel, with your people reviewing anything customer-facing or production-critical. Start with RFQ intake and daily scheduling because they touch the most revenue and capacity decisions. Keep the scope tight: assistants that prepare work, not systems that make final decisions.",
+    "situation": "Ironleaf Manufacturing runs custom CNC and sheet metal work for industrial buyers who send drawings and RFQs by email. Epicor, CAD/CAM and spreadsheets hold the core data, but much of the daily coordination still moves through email and manual entry.",
+    "complication": "As order volume and customer expectations rise, your skilled estimators, quality engineers and planners spend hours copying data and chasing status instead of solving manufacturing problems. Delays in quotes, quality packets and promise dates put repeat business at risk.",
+    "governing_thought": "Start with an RFQ intake and quote drafting agent, a first article and PPAP packet agent, and a planner expedite and status update agent to cut response delays and free skilled time.",
+    "key_arguments": [
+      {
+        "role": "where",
+        "headline": "Repetitive work concentrates in RFQ triage, quality packets and planning firefighting",
+        "support": "Your sales engineers read drawings, build estimates and chase updates by hand. Quality engineers copy inspection results into FAI and PPAP forms while planners and expediters rebuild status reports from Epicor and email."
+      },
+      {
+        "role": "what",
+        "headline": "These three agents use email, Epicor reports and existing templates",
+        "support": "These three workflows repeat every day, touch many orders and use data you already have in Epicor, email and shared drives. They need human review, so they build trust without touching machine controls or final pricing."
+      },
+      {
+        "role": "how",
+        "headline": "Run supervised pilots with named owners, then expand after two clean weeks",
+        "support": "Give each agent a named owner, run it in draft mode and review samples daily for two weeks before it sends anything. After that, expand to more order types and add the next agents in purchasing, finance and maintenance."
+      }
+    ],
+    "executive_summary": "Ironleaf Manufacturing runs custom CNC and sheet metal work for industrial buyers who send drawings and RFQs by email. Epicor, CAD/CAM and spreadsheets hold the core data, but much of the daily coordination still moves through email and manual entry. As order volume and customer expectations rise, your skilled estimators, quality engineers and planners spend hours copying data and chasing status instead of solving manufacturing problems. Delays in quotes, quality packets and promise dates put repeat business at risk. Start with an RFQ intake and quote drafting agent, a first article and PPAP packet agent, and a planner expedite and status update agent to cut response delays and free skilled time.",
     "maturity": {
       "score": 2,
       "label": "Early",
-      "note": "You have Epicor, Outlook, Excel, and CAD/CAM in daily use, but AI is not part of regular work. Most automation is manual entry or basic ERP transactions, with no agents reading email, drawings, or supplier messages."
+      "note": "You have strong ERP and CAD systems but little automation between email, Epicor and documents. First wins should avoid machine controls and focus on office workflows."
     },
     "opportunities": [
       {
-        "title": "RFQ intake and quote prep",
-        "department": "Sales Engineering",
+        "title": "RFQ emails become draft quotes in hours",
+        "department": "Sales Engineering and Estimating",
         "roles": [
-          "Sales Engineer",
-          "Estimator",
-          "Customer Service Rep"
+          "Sales Engineer and Estimator",
+          "Customer Service Representative"
         ],
-        "description": "An agent watches your RFQ inbox, opens attachments, extracts part numbers, quantities, material, and due dates, then creates a draft quote record in Epicor and a quote prep sheet in Excel. It also drafts an acknowledgement email that asks for missing drawing details.",
+        "description": "The agent reads incoming RFQ emails and attachments, extracts part specs, checks Epicor history and drafts a cost estimate with a customer reply. Your estimator reviews, adjusts and approves before anything goes out.",
         "before": [
-          "Customer Service Rep checks shared RFQ inbox",
-          "Sales Engineer opens drawing attachments",
-          "Estimator reads drawing notes and calculates basic material",
-          "Estimator types quote notes into Excel",
-          "Estimator enters quote header in Epicor"
+          "CSR opens RFQ email and saves drawings to a folder",
+          "Estimator reads prints and marks material and operations",
+          "Estimator checks similar jobs in Epicor and spreadsheets",
+          "Estimator builds quote in Excel and writes reply",
+          "Estimator emails quote and logs it in CRM"
         ],
         "after": [
-          "Agent logs RFQ and extracts key fields from email and drawing",
-          "Agent creates draft quote sheet and Epicor quote header",
-          "Agent drafts acknowledgement with missing questions",
-          "Human: Sales Engineer reviews drawing and quote notes",
-          "Human: Estimator finishes cycle time and pricing"
+          "Agent captures the email and attachments",
+          "Agent extracts key specs and pulls similar job history",
+          "Agent drafts the estimate and customer reply",
+          "Human: estimator reviews, adjusts pricing and approves",
+          "Human: estimator sends the quote and agent logs it"
         ],
         "hours_saved_per_week": 18,
         "impact": 5,
-        "effort": 3,
+        "effort": 2,
         "tools": [
           "Outlook",
           "Epicor",
-          "Excel",
-          "CAD"
-        ]
+          "CAD viewer",
+          "Excel"
+        ],
+        "phase1": true
       },
       {
-        "title": "Daily schedule and late job alerts",
-        "department": "Planning and Scheduling",
+        "title": "First article and PPAP packets assembled automatically",
+        "department": "Quality",
         "roles": [
-          "Production Planner",
-          "Scheduler",
-          "Production Supervisor"
+          "Quality Engineer",
+          "Quality Inspector",
+          "Quality Manager"
         ],
-        "description": "An agent reviews open work orders and material availability in Epicor each morning, builds a short schedule summary, and flags jobs at risk of missing a date. It emails the summary to supervisors and updates a shared Excel schedule board.",
+        "description": "The agent collects inspection results, drawing revisions and material certs into a draft FAI or PPAP packet. It flags missing data so your quality engineer only reviews and signs.",
         "before": [
-          "Planner reviews open orders in Epicor",
-          "Planner checks material availability",
-          "Scheduler sequences jobs on whiteboard or Excel",
-          "Supervisor calls planning about changes",
-          "Planner updates dates manually"
+          "Inspector runs checks and logs results",
+          "Quality engineer gathers drawing and revision data",
+          "Quality engineer copies certs and results into forms",
+          "Quality engineer checks packet against customer checklist",
+          "Quality manager signs and sends packet"
         ],
         "after": [
-          "Agent pulls open orders, material, and due dates from Epicor",
-          "Agent creates morning schedule summary and risk list",
-          "Agent updates shared Excel schedule board",
-          "Human: Planner reviews risks and adjusts sequence",
-          "Human: Supervisor assigns jobs at shift start"
+          "Agent pulls inspection results from CMM and shared drive",
+          "Agent gathers certs, revisions and customer checklist",
+          "Agent drafts FAI or PPAP packet and flags gaps",
+          "Human: quality engineer reviews and corrects",
+          "Human: quality manager signs and sends"
         ],
-        "hours_saved_per_week": 10,
+        "hours_saved_per_week": 14,
         "impact": 5,
         "effort": 3,
         "tools": [
           "Epicor",
+          "CMM software",
+          "Shared drive",
           "Excel",
-          "Outlook"
-        ]
+          "Word"
+        ],
+        "phase1": true
       },
       {
-        "title": "Production count and scrap entry",
-        "department": "Production",
+        "title": "Planner sends daily hot list and promise date alerts",
+        "department": "Planning and Scheduling",
         "roles": [
-          "CNC Machinist",
-          "Sheet Metal Operator",
-          "Production Supervisor"
+          "Production Planner",
+          "Expediter",
+          "Scheduler"
         ],
-        "description": "An agent reads end-of-shift count sheets, texts, or emails from operators and enters production counts and scrap into Epicor or Excel. Supervisors get a clean daily summary instead of chasing paper.",
+        "description": "The agent checks Epicor work orders and material status, then drafts a hot list and promise date changes for sales and the shop. Your planner approves exceptions and the expediter handles floor issues.",
         "before": [
-          "Operator writes counts on paper",
-          "Supervisor collects sheets",
-          "Supervisor types counts into Epicor",
-          "Supervisor records scrap",
-          "Planner checks counts next day"
+          "Expediter walks the shop to find late jobs",
+          "Planner checks Epicor work orders and material",
+          "Scheduler updates hot list in Excel",
+          "Planner emails sales about date changes",
+          "Expediter calls floor leads to move priority jobs"
         ],
         "after": [
-          "Operator sends counts by text, email, or simple form",
-          "Agent parses counts and scrap by job",
-          "Agent enters data into Epicor or Excel",
-          "Agent sends daily summary to supervisor",
-          "Human: Supervisor reviews and corrects exceptions"
+          "Agent pulls work order and material status from Epicor",
+          "Agent ranks at-risk jobs and drafts hot list",
+          "Agent drafts promise date alerts to sales",
+          "Human: planner approves exceptions and date changes",
+          "Human: expediter handles floor moves and supplier calls"
         ],
-        "hours_saved_per_week": 12,
+        "hours_saved_per_week": 16,
         "impact": 4,
-        "effort": 3,
-        "tools": [
-          "Epicor",
-          "Excel",
-          "Outlook"
-        ]
-      },
-      {
-        "title": "Invoice matching and AP exceptions",
-        "department": "Finance",
-        "roles": [
-          "Accounts Payable and Receivable",
-          "Staff Accountant",
-          "Controller"
-        ],
-        "description": "An agent matches vendor invoices to purchase orders and receipts in Epicor, flags price or quantity mismatches, and drafts vendor questions. It prepares an exception list so AP can focus on real problems.",
-        "before": [
-          "AP opens vendor invoice email or mail",
-          "AP matches invoice to PO and receipt in Epicor",
-          "AP writes vendor email for mismatches",
-          "AP enters invoice or holds it",
-          "Controller reviews exceptions"
-        ],
-        "after": [
-          "Agent reads invoice and matches to Epicor PO and receipt",
-          "Agent flags mismatches with reason codes",
-          "Agent drafts vendor question email",
-          "Human: AP approves clean invoices and sends vendor questions",
-          "Human: Controller reviews exception summary"
-        ],
-        "hours_saved_per_week": 10,
-        "impact": 4,
-        "effort": 3,
+        "effort": 2,
         "tools": [
           "Epicor",
           "Outlook",
           "Excel"
-        ]
+        ],
+        "phase1": true
       },
       {
-        "title": "Supplier PO follow-up and expediting",
-        "department": "Purchasing",
+        "title": "Supplier PO follow-ups sent before material runs late",
+        "department": "Purchasing and Supply Chain",
         "roles": [
           "Buyer",
-          "Purchasing Manager"
+          "Receiving and Shipping Clerk"
         ],
-        "description": "An agent monitors late purchase orders in Epicor, drafts supplier follow-up emails with PO line details, and logs replies and new promise dates. It gives buyers a daily exception list instead of a full open PO report.",
+        "description": "The agent monitors open purchase orders in Epicor and sends polite follow-up requests when promised dates pass. It also matches packing lists to receipts and flags short shipments.",
         "before": [
-          "Buyer runs late PO report",
-          "Buyer checks each supplier email thread",
-          "Buyer writes follow-up emails",
-          "Buyer updates Epicor notes",
-          "Buyer tells planning about shortages"
+          "Buyer reviews open PO report",
+          "Buyer emails suppliers for status",
+          "Buyer updates lead times in Epicor",
+          "Receiving clerk counts material and matches packing list",
+          "Clerk enters receipt and tells buyer about shortages"
         ],
         "after": [
-          "Agent pulls late POs from Epicor",
-          "Agent drafts supplier follow-up with line details",
-          "Agent logs supplier replies and promise dates",
-          "Agent creates daily shortage list",
-          "Human: Buyer reviews exceptions and escalates"
+          "Agent reviews open POs and promised dates",
+          "Agent drafts supplier follow-up emails",
+          "Human: buyer approves follow-ups and handles exceptions",
+          "Agent matches packing lists to receipts",
+          "Human: receiving clerk counts and confirms receipt"
         ],
-        "hours_saved_per_week": 9,
-        "impact": 4,
-        "effort": 2,
-        "tools": [
-          "Epicor",
-          "Outlook",
-          "Excel"
-        ]
-      },
-      {
-        "title": "Quote follow-ups and order status answers",
-        "department": "Sales Engineering",
-        "roles": [
-          "Customer Service Rep",
-          "Sales Engineer"
-        ],
-        "description": "An agent tracks open quotes and orders in Epicor, sends polite follow-up emails on a set cadence, and drafts status replies using current work order and shipment data. Your team approves anything that changes a promise date.",
-        "before": [
-          "CSR runs open quote report",
-          "CSR writes follow-up emails one by one",
-          "CSR checks Epicor for order status",
-          "CSR asks planning for date changes",
-          "CSR replies to customer emails"
-        ],
-        "after": [
-          "Agent pulls open quote and order list from Epicor",
-          "Agent drafts follow-up or status email with current data",
-          "Agent flags orders needing a human date decision",
-          "Human: CSR reviews and sends replies",
-          "Human: CSR updates customer on exceptions"
-        ],
-        "hours_saved_per_week": 8,
-        "impact": 4,
-        "effort": 2,
-        "tools": [
-          "Outlook",
-          "Epicor"
-        ]
-      },
-      {
-        "title": "Nonconformance and corrective action logging",
-        "department": "Quality",
-        "roles": [
-          "Quality Inspector",
-          "Quality Engineer"
-        ],
-        "description": "An agent turns inspector notes, photos, and email into draft nonconformance records in Epicor or Excel, routes them to the right quality engineer, and tracks corrective action due dates. It sends reminders and updates the log when steps close.",
-        "before": [
-          "Inspector writes NCR on paper or email",
-          "Quality Engineer types NCR into log",
-          "QE emails production and purchasing",
-          "QE tracks actions in spreadsheet",
-          "QE closes record manually"
-        ],
-        "after": [
-          "Agent reads inspector email or form and creates draft NCR",
-          "Agent routes NCR to assigned Quality Engineer",
-          "Agent sends reminders on open actions",
-          "Human: QE reviews, edits, and approves NCR",
-          "Human: QE closes record after verification"
-        ],
-        "hours_saved_per_week": 7,
-        "impact": 4,
-        "effort": 2,
-        "tools": [
-          "Outlook",
-          "Epicor",
-          "Excel"
-        ]
-      },
-      {
-        "title": "Preventive maintenance reminders and repair logs",
-        "department": "Maintenance and Facilities",
-        "roles": [
-          "Maintenance Technician",
-          "Maintenance Manager",
-          "Facilities Technician"
-        ],
-        "description": "An agent tracks preventive maintenance dates for CNC and sheet metal equipment, sends reminders to technicians, and turns repair emails into draft work logs. It keeps a simple downtime and parts list updated.",
-        "before": [
-          "Manager checks PM calendar",
-          "Manager emails technicians reminders",
-          "Technician writes repair note on paper",
-          "Manager enters repair into log",
-          "Manager orders parts by email"
-        ],
-        "after": [
-          "Agent sends PM reminders from equipment list",
-          "Agent creates draft repair log from email or text",
-          "Agent flags repeat downtime by machine",
-          "Human: Technician completes repair and confirms parts used",
-          "Human: Manager reviews downtime report"
-        ],
-        "hours_saved_per_week": 6,
+        "hours_saved_per_week": 10,
         "impact": 3,
         "effort": 2,
         "tools": [
+          "Epicor",
           "Outlook",
-          "Excel",
-          "Epicor"
-        ]
+          "Supplier portals"
+        ],
+        "phase1": false
       },
       {
-        "title": "Calibration due date tracking",
+        "title": "Calibration reminders and logs kept current",
         "department": "Quality",
         "roles": [
           "Calibration Technician",
-          "Quality Engineer"
+          "Quality Manager"
         ],
-        "description": "An agent tracks gauge and calibration due dates, sends reminders before expiry, and updates the calibration log when certificates arrive. It helps you avoid finding an overdue gauge during an audit.",
+        "description": "The agent tracks gauge calibration dates, drafts reminders and updates the calibration log when records are filed. Your technician handles physical checks and outside scheduling.",
         "before": [
-          "Calibration Tech reviews calibration spreadsheet",
-          "Tech checks due dates manually",
-          "Tech schedules outside calibration by email",
-          "Tech files certificates in folder",
-          "QE checks logs before audit"
+          "Technician checks calibration spreadsheet",
+          "Technician emails reminders to tool owners",
+          "Technician schedules outside calibration",
+          "Technician files certificates in shared drive",
+          "Manager reviews overdue gauges"
         ],
         "after": [
-          "Agent reads gauge list and calibration dates",
-          "Agent sends due and overdue reminders",
-          "Agent drafts outside calibration request",
-          "Agent updates log when certificate email arrives",
-          "Human: Calibration Tech confirms calibration and files record"
+          "Agent checks calibration dates and drafts reminders",
+          "Agent flags overdue gauges to technician",
+          "Human: technician checks gauge condition",
+          "Human: technician schedules outside calibration",
+          "Agent files records and updates log after human confirms"
         ],
-        "hours_saved_per_week": 4,
-        "impact": 3,
+        "hours_saved_per_week": 6,
+        "impact": 2,
         "effort": 1,
         "tools": [
           "Excel",
-          "Outlook"
-        ]
+          "Outlook",
+          "Shared drive"
+        ],
+        "phase1": false
+      },
+      {
+        "title": "AP invoice matching reviewed before month end",
+        "department": "Finance and Admin",
+        "roles": [
+          "Accountant",
+          "Controller and Finance Manager"
+        ],
+        "description": "The agent matches incoming AP invoices to Epicor purchase orders and receiving records, then drafts exceptions for review. Your accountant approves matches and posts only the exceptions.",
+        "before": [
+          "Accountant opens AP invoice emails",
+          "Accountant finds matching PO in Epicor",
+          "Accountant checks receiving record",
+          "Accountant enters invoice or marks exception",
+          "Controller reviews month end accruals"
+        ],
+        "after": [
+          "Agent reads invoice PDFs and pulls PO and receipt data",
+          "Agent matches invoices and flags price or quantity gaps",
+          "Agent drafts entry or exception note",
+          "Human: accountant reviews and approves matches",
+          "Human: controller reviews exceptions and close items"
+        ],
+        "hours_saved_per_week": 12,
+        "impact": 3,
+        "effort": 3,
+        "tools": [
+          "Epicor",
+          "Outlook",
+          "PDF invoices",
+          "Excel"
+        ],
+        "phase1": false
+      },
+      {
+        "title": "Maintenance PMs and spare parts checked daily",
+        "department": "Maintenance and Tooling",
+        "roles": [
+          "Maintenance Technician",
+          "Maintenance Manager"
+        ],
+        "description": "The agent reviews the PM schedule, checks spare parts in Epicor and drafts work orders for due maintenance. Your technicians complete the work and log repairs.",
+        "before": [
+          "Manager reviews PM schedule in spreadsheet",
+          "Manager checks spare parts stock",
+          "Manager writes work orders for due PMs",
+          "Technician completes PM and logs repairs",
+          "Manager reviews downtime report"
+        ],
+        "after": [
+          "Agent reviews PM schedule and spare parts stock",
+          "Agent drafts work orders for due PMs",
+          "Agent flags parts shortages to manager",
+          "Human: technician completes PM and logs repair",
+          "Human: manager reviews downtime and approves follow-up"
+        ],
+        "hours_saved_per_week": 8,
+        "impact": 3,
+        "effort": 3,
+        "tools": [
+          "Epicor",
+          "Outlook",
+          "Maintenance logs"
+        ],
+        "phase1": false
+      },
+      {
+        "title": "Shift handoff notes written from daily logs",
+        "department": "Production",
+        "roles": [
+          "Production Supervisor",
+          "CNC Machinist",
+          "Sheet Metal Operator"
+        ],
+        "description": "The agent summarizes production counts, open issues and machine notes into a draft shift handoff. Supervisors review the draft and add floor context.",
+        "before": [
+          "Supervisors collect paper notes and count sheets",
+          "Operators tell supervisor about issues",
+          "Supervisor writes handoff email",
+          "Supervisor calls next shift lead",
+          "Next shift starts with incomplete notes"
+        ],
+        "after": [
+          "Agent pulls production counts and open work orders",
+          "Agent drafts shift handoff summary",
+          "Human: supervisor adds floor context and priorities",
+          "Human: supervisor sends handoff to next shift",
+          "Agent logs acknowledged issues"
+        ],
+        "hours_saved_per_week": 5,
+        "impact": 2,
+        "effort": 2,
+        "tools": [
+          "Epicor",
+          "Outlook",
+          "Shared drive"
+        ],
+        "phase1": false
+      },
+      {
+        "title": "Customer order status replies drafted from Epicor",
+        "department": "Sales Engineering and Estimating",
+        "roles": [
+          "Customer Service Representative",
+          "Account Manager"
+        ],
+        "description": "The agent reads status request emails, checks Epicor order and work order status, and drafts a reply with current promise dates. Your CSR reviews and sends, or escalates exceptions.",
+        "before": [
+          "CSR opens customer status email",
+          "CSR looks up order in Epicor",
+          "CSR checks work order and shipping status",
+          "CSR writes reply or asks planner",
+          "CSR logs note in CRM"
+        ],
+        "after": [
+          "Agent reads status request and pulls Epicor order data",
+          "Agent drafts reply with current promise date",
+          "Agent flags jobs needing planner or account manager input",
+          "Human: CSR reviews and sends reply",
+          "Human: account manager handles exceptions"
+        ],
+        "hours_saved_per_week": 8,
+        "impact": 3,
+        "effort": 2,
+        "tools": [
+          "Epicor",
+          "Outlook",
+          "CRM"
+        ],
+        "phase1": false
       }
     ],
     "roadmap": [
       {
         "phase": "Phase 1",
-        "timeframe": "Weeks 1 to 4",
-        "title": "Fix the revenue and schedule front door",
+        "timeframe": "Weeks 1-6",
+        "title": "Prove three office agents with supervised daily review",
         "items": [
-          "Connect agent to shared RFQ inbox and extract fields into Excel draft",
-          "Build quote prep template and Epicor quote header draft",
-          "Set up daily schedule summary from Epicor open work orders",
-          "Train Sales Engineering and Planning on review steps",
-          "Measure baseline quote response time and schedule update time"
+          "Set up RFQ intake and quote draft agent for one sales engineer team",
+          "Set up FAI and PPAP packet agent for one quality engineer",
+          "Set up planner hot list and promise date agent for one planner and expediter",
+          "Review samples daily, fix exceptions and record hours saved",
+          "Hold a 30-minute weekly check with each named owner"
         ]
       },
       {
         "phase": "Phase 2",
-        "timeframe": "Months 2 to 3",
-        "title": "Add quality, purchasing, and production data agents",
+        "timeframe": "Weeks 7-16",
+        "title": "Add purchasing, finance and maintenance agents after phase 1 signs off",
         "items": [
-          "Launch NCR logging and corrective action reminders",
-          "Launch late PO follow-up and supplier promise tracking",
-          "Launch production count and scrap entry from shift messages",
-          "Keep human approval on all customer and supplier messages",
-          "Review error rates weekly and adjust rules"
+          "Add supplier PO follow-up and receipt matching agent",
+          "Add AP invoice matching agent for one accountant",
+          "Add maintenance PM and spare parts agent for one maintenance manager",
+          "Add calibration log agent for one quality technician",
+          "Expand phase 1 agents to more order types and users"
         ]
       },
       {
         "phase": "Phase 3",
-        "timeframe": "Months 4 to 6",
-        "title": "Extend to finance and maintenance",
+        "timeframe": "Months 5-9",
+        "title": "Scale to more workflows and users as your team takes ownership",
         "items": [
-          "Launch invoice matching exception list with AP review",
-          "Launch PM reminders and repair log drafts",
-          "Launch calibration due date tracking",
-          "Create monthly savings and quality dashboard",
-          "Decide what to expand based on measured hours saved"
+          "Add shift handoff and customer status reply agents",
+          "Train internal owners to adjust prompts, templates and exception rules",
+          "Review KPI trends monthly and retire any agent that does not save time",
+          "Add new agents only after existing agents meet review and accuracy targets"
         ]
       }
     ],
     "risks": [
       {
-        "risk": "Agents read the wrong field from a drawing or email and draft a bad quote.",
-        "mitigation": "Keep estimator approval before any quote goes out. Start with extraction only and compare against manual review for the first 4 weeks."
+        "risk": "Bad data in Epicor or drawings leads to wrong drafts",
+        "mitigation": "Keep human approval on all customer-facing and financial outputs, run daily sample audits and correct data at the source."
       },
       {
-        "risk": "Epicor integration is harder than expected, causing delays.",
-        "mitigation": "Start with Outlook, Excel, and CSV imports. Add direct Epicor writes only after the workflow is proven."
+        "risk": "Estimators or quality staff do not trust agent output",
+        "mitigation": "Name one owner per agent, start in draft mode, and let the owner set the review rules before anything is sent."
       },
       {
-        "risk": "Supervisors and operators do not trust automated counts or logs.",
-        "mitigation": "Use a simple review screen and daily exception report. Let supervisors correct entries before they affect planning."
+        "risk": "Email and attachment access raises security concerns",
+        "mitigation": "Limit each agent to a shared mailbox and specific folders, use least-privilege access and log every action."
       },
       {
-        "risk": "Customer or supplier receives an automated message with wrong tone or data.",
-        "mitigation": "Use draft-only mode for all external emails. A named person sends every message until error rate is low."
+        "risk": "Scope creep across too many workflows slows the first wins",
+        "mitigation": "Freeze the phase 1 list until each agent meets its accuracy and time-saving targets, then add the next agents."
       },
       {
-        "risk": "Data quality in Epicor, BOMs, or calibration list limits agent accuracy.",
-        "mitigation": "Clean the top 20 used records first. Assign one owner per data set and review monthly."
+        "risk": "Customer-specific quote or PPAP formats vary too much",
+        "mitigation": "Build a template library for the top formats and route unusual requests to a human exception queue."
       }
     ],
     "kpis": [
-      "Average RFQ response time from receipt to quote sent",
-      "Number of quotes sent per week",
-      "Hours saved per week across live agents",
-      "On-time supplier PO follow-ups and shortage escalations",
-      "NCR and corrective action closure time",
-      "Invoice exception rate and AP days to resolve"
+      "Quote turnaround time from RFQ email to sent quote",
+      "FAI and PPAP packet cycle time",
+      "On-time promise date accuracy",
+      "AP invoice match rate without manual touch",
+      "Hours saved per week by agent, validated by supervisors",
+      "User adoption rate for phase 1 agents"
     ]
   },
   "quote": {
@@ -657,110 +758,110 @@
       "items": [
         {
           "n": 1,
-          "title": "RFQ intake and quote prep",
+          "title": "RFQ emails become draft quotes in hours",
           "hours": 18,
-          "setup": 1290,
+          "setup": 790,
           "monthly": 1170
         },
         {
-          "n": 5,
-          "title": "Supplier PO follow-up and expediting",
-          "hours": 9,
-          "setup": 790,
-          "monthly": 580
+          "n": 2,
+          "title": "First article and PPAP packets assembled automatically",
+          "hours": 14,
+          "setup": 1290,
+          "monthly": 910
         },
         {
-          "n": 2,
-          "title": "Daily schedule and late job alerts",
-          "hours": 10,
-          "setup": 1290,
-          "monthly": 650
+          "n": 3,
+          "title": "Planner sends daily hot list and promise date alerts",
+          "hours": 16,
+          "setup": 790,
+          "monthly": 1040
         }
       ],
-      "setup": 3370,
-      "monthly": 2400,
-      "hours": 37,
-      "value_monthly": 8011
+      "setup": 2870,
+      "monthly": 3120,
+      "hours": 48,
+      "value_monthly": 10392
     },
     "full": {
       "items": [
         {
           "n": 1,
-          "title": "RFQ intake and quote prep",
+          "title": "RFQ emails become draft quotes in hours",
           "hours": 18,
-          "setup": 1290,
+          "setup": 790,
           "monthly": 1170
         },
         {
-          "n": 5,
-          "title": "Supplier PO follow-up and expediting",
-          "hours": 9,
+          "n": 3,
+          "title": "Planner sends daily hot list and promise date alerts",
+          "hours": 16,
           "setup": 790,
-          "monthly": 580
+          "monthly": 1040
         },
         {
           "n": 2,
-          "title": "Daily schedule and late job alerts",
-          "hours": 10,
+          "title": "First article and PPAP packets assembled automatically",
+          "hours": 14,
           "setup": 1290,
+          "monthly": 910
+        },
+        {
+          "n": 4,
+          "title": "Supplier PO follow-ups sent before material runs late",
+          "hours": 10,
+          "setup": 790,
           "monthly": 650
         },
         {
-          "n": 3,
-          "title": "Production count and scrap entry",
+          "n": 5,
+          "title": "Calibration reminders and logs kept current",
+          "hours": 6,
+          "setup": 490,
+          "monthly": 390
+        },
+        {
+          "n": 6,
+          "title": "AP invoice matching reviewed before month end",
           "hours": 12,
           "setup": 1290,
           "monthly": 780
         },
         {
-          "n": 6,
-          "title": "Quote follow-ups and order status answers",
+          "n": 9,
+          "title": "Customer order status replies drafted from Epicor",
           "hours": 8,
           "setup": 790,
           "monthly": 520
         },
         {
           "n": 7,
-          "title": "Nonconformance and corrective action logging",
-          "hours": 7,
-          "setup": 790,
-          "monthly": 450
-        },
-        {
-          "n": 4,
-          "title": "Invoice matching and AP exceptions",
-          "hours": 10,
+          "title": "Maintenance PMs and spare parts checked daily",
+          "hours": 8,
           "setup": 1290,
-          "monthly": 650
-        },
-        {
-          "n": 9,
-          "title": "Calibration due date tracking",
-          "hours": 4,
-          "setup": 490,
-          "monthly": 290
+          "monthly": 520
         },
         {
           "n": 8,
-          "title": "Preventive maintenance reminders and repair logs",
-          "hours": 6,
+          "title": "Shift handoff notes written from daily logs",
+          "hours": 5,
           "setup": 790,
-          "monthly": 390
+          "monthly": 320
         }
       ],
-      "setup": 8810,
-      "monthly": 5480,
-      "hours": 84,
-      "value_monthly": 18186
+      "setup": 8310,
+      "monthly": 6300,
+      "hours": 97,
+      "value_monthly": 21001
     },
     "rate": 50,
     "free_setup_months": 4
   },
   "totals": {
-    "hours_week": 84,
-    "annual_hours": 3864,
-    "annual_value": 193200,
-    "fte": 2.1,
+    "hours_week": 97,
+    "annual_hours": 4462,
+    "annual_value": 223100,
+    "fte": 2.4,
     "opportunities": 9,
     "employees": 160,
     "rate": 50

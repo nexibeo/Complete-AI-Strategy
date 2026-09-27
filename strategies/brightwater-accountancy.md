@@ -5,62 +5,67 @@
 
 | Hours saved per week | Value per year | Roles freed up | Opportunities |
 |---:|---:|---:|---:|
-| **49h** | **$112,700** | **1.2 FTE** | **9** |
+| **79h** | **$181,700** | **2 FTE** | **9** |
 
-## Summary
-Brightwater Accountancy runs on a skilled team of 28 across bookkeeping, payroll, VAT and accounts, and client services. The biggest time sink is not the accounting work itself, it is chasing 400 clients for documents, typing invoice data, and answering routine questions. Your systems (Exact, Twinfield, the portal, Excel, Outlook) already hold the data an agent needs, so most wins come from connecting what you have rather than buying new software. We propose nine agents that remove the repetitive middle of your month: reminders, coding, reconciliation, VAT drafts, payslips, email triage, onboarding and deadline alerts. Realistic savings are around 49 hours a week across the firm, about 4 percent of total team hours, with a human always checking the output before it reaches a client or an authority.
+## Our recommendation
+**Start with three phase 1 agents: client document chasing, bank transaction coding and reconciliation, and routine client question answering, to cut manual admin and free your team for review work.**
 
-## Company snapshot
-- **Industry:** Accounting and bookkeeping services
-- **What they do:** Brightwater Accountancy is a 28-person accounting and bookkeeping firm in Utrecht. You serve 400 small businesses with bookkeeping, VAT returns, annual accounts, and payroll. Your team uses Exact, Twinfield, Excel, and a client portal, and spends a lot of time chasing clients for documents every month.
-- **Customers:** 400 small businesses, likely Dutch SMEs, sole traders, and owner-managed companies around Utrecht.
-- **Team size:** 11-50 (estimate 28)
-- **Tools:** Exact, Twinfield, Microsoft Excel, Client portal, Email, Microsoft 365 (typical for this size), PDF scanning and basic OCR (likely)
-- **AI maturity:** 2/5, Early. You have solid accounting systems and a client portal, plus some scanning and OCR in place. AI use today is limited to basic document reading. There is no automated chasing, coding, or reporting, and most coordination still runs through Excel and Outlook by hand.
+Brightwater Accountancy is a 28-person firm in Utrecht serving about 400 small businesses with bookkeeping, VAT, annual accounts, and payroll. Your team runs on Exact, Twinfield, Excel, and a client portal, and still chases many clients for documents each month. The current way depends on manual email chasing and spreadsheet trackers, which creates deadline risk and pulls senior accountants into routine work. Clients expect faster answers, and any filing error or missed deadline carries compliance and reputation cost.
 
-## Team and roles
-| Department | People | Roles |
-|---|---:|---|
-| Bookkeeping and Client Accounting | 12 | Senior Bookkeeper / Accountant (3), Bookkeeper (6), Junior Bookkeeper / Assistant (3) |
-| Payroll | 4 | Payroll Specialist (3), Payroll Administrator (1) |
-| VAT and Annual Accounts | 5 | Tax Accountant / Accounts Preparer (3), Tax Reviewer / Manager (2) |
-| Client Services and Administration | 4 | Client Coordinator (2), Office Administrator (2) |
-| Practice Management and Operations | 3 | Director / Partner (1), Practice Manager (1), IT / Operations Support (1) |
+1. **Monthly document chasing and bank entry eat the most repetitive time** Your 11-person bookkeeping team and 3-person client services team carry most of the manual work. Document chasing, transaction coding, and routine client questions repeat for every client, every month. Senior accountants still correct coding and answer questions that follow the same patterns.
+2. **Document chasing, transaction coding, and client questions are the best first agents** These three tasks are high volume, rule-based, and already supported by Exact, Twinfield, and your portal. They need limited integration and produce visible relief in the first month. Each one has a clear review step, so your team stays in control.
+3. **Pilot with one client group, review outputs, then expand agent by agent** Start with 30 to 40 clients and a named reviewer for each agent. Measure accuracy, response rates, and hours returned before adding more clients. After the pilot, connect the remaining agents in the same way and train the team on exception handling.
 
-## Opportunities
-| # | Opportunity | Department | Hours/week | Impact | Effort |
-|---:|---|---|---:|:-:|:-:|
-| 1 | Missing documents chased automatically | Client Services and Administration | 14 | 5/5 | 2/5 |
-| 2 | Invoice and receipt data entry drafted | Bookkeeping and Client Accounting | 11 | 5/5 | 3/5 |
-| 3 | VAT return drafts ready for review | VAT and Annual Accounts | 5 | 4/5 | 3/5 |
-| 4 | Client email triage and first replies | Client Services and Administration | 5 | 4/5 | 2/5 |
-| 5 | Bank reconciliation match suggestions | Bookkeeping and Client Accounting | 4 | 4/5 | 3/5 |
-| 6 | Payroll questions and payslip delivery handled | Payroll | 3 | 3/5 | 3/5 |
-| 7 | Monthly management reports drafted | Bookkeeping and Client Accounting | 3 | 3/5 | 2/5 |
-| 8 | New client onboarding pack assembled | Practice Management and Operations | 2 | 3/5 | 3/5 |
-| 9 | Deadline and workload alerts across 400 clients | Practice Management and Operations | 2 | 3/5 | 2/5 |
+**Phase 1 at a glance:** Client documents chased and tracked automatically · Bank transactions coded and matched automatically · Routine client questions answered from approved templates. About 46 hours a week back for $2,990/month (setup $2,870, free on a 4-month run).
 
-### 1. Missing documents chased automatically
-An agent checks the client portal each morning against the document list for each monthly bookkeeping run, then sends personalised reminders to clients who are missing receipts, invoices or bank statements. It escalates to a call list after a set number of days and stops as soon as the document arrives.
+## 1. Monthly document chasing and bank entry eat the most repetitive time
+Your 11-person bookkeeping team and 3-person client services team carry most of the manual work. Document chasing, transaction coding, and routine client questions repeat for every client, every month. Senior accountants still correct coding and answer questions that follow the same patterns.
 
-**Saves ~14h per week** · Roles: Client Coordinator, Junior Bookkeeper / Assistant, Bookkeeper · Tools: Client portal, Exact, Twinfield, Microsoft Outlook, Excel
+| Department | Hours saved / week | Share |
+|---|---:|---:|
+| Client Services and Support | 28 | 35% |
+| Bookkeeping and Client Accounting | 27 | 34% |
+| VAT and Compliance | 8 | 10% |
+| Annual Accounts | 7 | 9% |
+| Payroll | 6 | 8% |
+| Operations and Administration | 3 | 4% |
+
+## 2. Document chasing, transaction coding, and client questions are the best first agents
+These three tasks are high volume, rule-based, and already supported by Exact, Twinfield, and your portal. They need limited integration and produce visible relief in the first month. Each one has a clear review step, so your team stays in control.
+
+| # | Opportunity | Department | Hours/week | Impact | Effort | Phase |
+|---:|---|---|---:|:-:|:-:|:-:|
+| 1 | Client documents chased and tracked automatically | Client Services and Support | 16 | 5/5 | 2/5 | 1 |
+| 2 | Bank transactions coded and matched automatically | Bookkeeping and Client Accounting | 22 | 5/5 | 3/5 | 1 |
+| 3 | Routine client questions answered from approved templates | Client Services and Support | 8 | 4/5 | 2/5 | 1 |
+| 4 | VAT returns pre-filled and checked before filing | VAT and Compliance | 8 | 4/5 | 3/5 | later |
+| 5 | Payroll changes collected and checked automatically | Payroll | 6 | 4/5 | 3/5 | later |
+| 6 | Year-end accounts compiled from standard checklists | Annual Accounts | 7 | 4/5 | 3/5 | later |
+| 7 | Month-end close status tracked without chasing the team | Bookkeeping and Client Accounting | 5 | 3/5 | 2/5 | later |
+| 8 | New clients onboarded with clean data entry | Client Services and Support | 4 | 3/5 | 3/5 | later |
+| 9 | Office invoices and leave requests handled by rules | Operations and Administration | 3 | 2/5 | 2/5 | later |
+
+### 1. Client documents chased and tracked automatically (phase 1)
+An agent monitors missing document lists in Exact, Twinfield and the portal, sends personalized reminders, and logs replies. It escalates only clients who do not respond after two reminders.
+
+**Saves ~16h per week** · Roles: Client Support Coordinator, Bookkeeping Specialist · Tools: Exact, Twinfield, Client portal, Email, Excel
 
 ```mermaid
 flowchart LR
   subgraph Today
-    B0["Coordinator opens the portal and Exact to see which clients "]
-    B1["Writes reminder emails one by one in Outlook"]
-    B2["Tracks who was chased and when in an Excel sheet"]
-    B3["Repeats the same chase every few days"]
-    B4["Tells the bookkeeper which clients are still outstanding"]
+    B0["Bookkeeper marks missing items in Excel"]
+    B1["Coordinator writes reminder emails one by one"]
+    B2["Team checks portal and inbox for replies"]
+    B3["Bookkeeper updates status in Exact or Twinfield"]
+    B4["Lead reviews overdue list at month end"]
     B0 --> B1 --> B2 --> B3 --> B4
   end
   subgraph WithAI[With AI]
-    A0["Agent scans the portal and ledger for missing documents each"]
-    A1["Agent sends a personalised reminder listing exactly what is "]
-    A2["Agent increases the frequency or tone after several days wit"]
-    A3["You: coordinator reviews the escalation list of clients not "]
-    A4["You: coordinator or bookkeeper calls the few clients on the "]
+    A0["Agent reads missing item list from Exact, Twinfield and port"]
+    A1["Agent sends reminder with correct client details and deadlin"]
+    A2["Agent logs replies and attachments into client record"]
+    A3["You: reviews exceptions and calls difficult clients"]
+    A4["You: confirms complete document set before close"]
     A0 --> A1 --> A2 --> A3 --> A4
   end
   classDef ai fill:#154899,color:#fff,stroke:#154899
@@ -69,143 +74,27 @@ flowchart LR
   class A3,A4 human
 ```
 
-### 2. Invoice and receipt data entry drafted
-The agent reads scanned invoices and receipts, extracts supplier, amount, date and VAT, and proposes the ledger account and VAT code in Exact or Twinfield. Your bookkeeper checks and posts instead of typing everything from scratch.
+### 2. Bank transactions coded and matched automatically (phase 1)
+An agent reads bank feeds, proposes ledger codes and matches receipts and invoices to transactions. Your bookkeepers approve or correct suggestions in a review queue.
 
-**Saves ~11h per week** · Roles: Bookkeeper, Junior Bookkeeper / Assistant, Senior Bookkeeper / Accountant · Tools: Exact, Twinfield, Client portal, PDF scanning
-
-```mermaid
-flowchart LR
-  subgraph Today
-    B0["Junior scans and files incoming documents"]
-    B1["Bookkeeper opens each PDF and reads the details"]
-    B2["Types supplier, amount, date and VAT code into Exact or Twin"]
-    B3["Checks the coding against last month"]
-    B4["Files the document in the portal"]
-    B0 --> B1 --> B2 --> B3 --> B4
-  end
-  subgraph WithAI[With AI]
-    A0["Agent reads each scanned document and extracts the key field"]
-    A1["Agent proposes a ledger account and VAT code based on past e"]
-    A2["You: bookkeeper reviews the proposed entries and corrects an"]
-    A3["You: bookkeeper posts the batch to Exact or Twinfield"]
-    A4["Agent files the document and updates the portal"]
-    A0 --> A1 --> A2 --> A3 --> A4
-  end
-  classDef ai fill:#154899,color:#fff,stroke:#154899
-  classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
-  class A0,A1,A4 ai
-  class A2,A3 human
-```
-
-### 3. VAT return drafts ready for review
-The agent pulls the quarter's ledger data, checks it against the previous return, flags unusual movements and drafts the VAT return in the right format. Your tax accountant reviews the draft instead of building it from zero.
-
-**Saves ~5h per week** · Roles: Tax Accountant / Accounts Preparer, Tax Reviewer / Manager · Tools: Exact, Twinfield, Excel, Belastingdienst portal
+**Saves ~22h per week** · Roles: Bookkeeping Specialist, Senior Accountant · Tools: Exact, Twinfield, Document management, Email, Excel
 
 ```mermaid
 flowchart LR
   subgraph Today
-    B0["Accountant exports ledger data for each client"]
-    B1["Reconciles VAT accounts manually in Excel"]
-    B2["Checks for missing or odd entries"]
-    B3["Fills in the VAT return form"]
-    B4["Passes it to the reviewer"]
+    B0["Download bank statement from Exact or Twinfield"]
+    B1["Open each transaction and choose ledger code"]
+    B2["Search email or portal for matching receipt"]
+    B3["Attach document and mark transaction reconciled"]
+    B4["Senior accountant reviews coding errors later"]
     B0 --> B1 --> B2 --> B3 --> B4
   end
   subgraph WithAI[With AI]
-    A0["Agent exports and reconciles ledger data for each client"]
-    A1["Agent flags odd movements, missing entries and large swings "]
-    A2["You: tax accountant reviews the flagged items and confirms t"]
-    A3["Agent fills in the draft VAT return"]
-    A4["You: tax reviewer checks and files with the authorities"]
-    A0 --> A1 --> A2 --> A3 --> A4
-  end
-  classDef ai fill:#154899,color:#fff,stroke:#154899
-  classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
-  class A0,A1,A3 ai
-  class A2,A4 human
-```
-
-### 4. Client email triage and first replies
-The agent reads incoming client email, sorts it by topic and client, drafts a reply for the common questions (document requests, portal access, invoice copies) and routes anything that needs a person. Your administrator sends or edits the draft instead of writing every reply from scratch.
-
-**Saves ~5h per week** · Roles: Office Administrator, Client Coordinator · Tools: Microsoft Outlook, Client portal, Exact, Excel
-
-```mermaid
-flowchart LR
-  subgraph Today
-    B0["Administrator reads every email in the shared inbox"]
-    B1["Decides who should handle it"]
-    B2["Writes replies to routine questions"]
-    B3["Forwards the rest to bookkeepers or payroll"]
-    B4["Keeps a list of open items"]
-    B0 --> B1 --> B2 --> B3 --> B4
-  end
-  subgraph WithAI[With AI]
-    A0["Agent sorts incoming email by client and topic"]
-    A1["Agent drafts replies for routine questions using your templa"]
-    A2["You: administrator reviews and sends the drafts, editing whe"]
-    A3["Agent routes the rest to the right person with a short summa"]
-    A4["Agent updates the open items list"]
-    A0 --> A1 --> A2 --> A3 --> A4
-  end
-  classDef ai fill:#154899,color:#fff,stroke:#154899
-  classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
-  class A0,A1,A3,A4 ai
-  class A2 human
-```
-
-### 5. Bank reconciliation match suggestions
-The agent compares bank transactions to open invoices and receipts and suggests matches, leaving only the unclear ones for a person. Your bookkeeper confirms the batch and investigates the exceptions.
-
-**Saves ~4h per week** · Roles: Bookkeeper, Senior Bookkeeper / Accountant · Tools: Exact, Twinfield, Bank feeds, Excel
-
-```mermaid
-flowchart LR
-  subgraph Today
-    B0["Bookkeeper downloads bank statements"]
-    B1["Opens Exact or Twinfield and matches line by line"]
-    B2["Searches for the matching invoice or receipt"]
-    B3["Marks exceptions to investigate later"]
-    B4["Repeats the process for each client"]
-    B0 --> B1 --> B2 --> B3 --> B4
-  end
-  subgraph WithAI[With AI]
-    A0["Agent pulls bank statements and open items"]
-    A1["Agent suggests matches with a confidence level"]
-    A2["You: bookkeeper confirms the high-confidence batch"]
-    A3["You: bookkeeper investigates the flagged exceptions"]
-    A4["Agent posts confirmed matches and updates the ledger"]
-    A0 --> A1 --> A2 --> A3 --> A4
-  end
-  classDef ai fill:#154899,color:#fff,stroke:#154899
-  classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
-  class A0,A1,A4 ai
-  class A2,A3 human
-```
-
-### 6. Payroll questions and payslip delivery handled
-An agent sends payslips on schedule, answers routine employee questions about payslips and holiday balances from your payroll system, and collects timesheets with automatic reminders. The payroll team only handles exceptions and judgement calls.
-
-**Saves ~3h per week** · Roles: Payroll Specialist, Payroll Administrator · Tools: Payroll software, Microsoft Outlook, Excel
-
-```mermaid
-flowchart LR
-  subgraph Today
-    B0["Payroll administrator collects timesheets by email"]
-    B1["Chases late timesheets individually"]
-    B2["Payroll specialist runs payroll and sends payslips"]
-    B3["Answers repetitive questions about net pay, holiday days and"]
-    B4["Files records"]
-    B0 --> B1 --> B2 --> B3 --> B4
-  end
-  subgraph WithAI[With AI]
-    A0["Agent sends timesheet reminders and collects submissions"]
-    A1["Agent answers routine employee questions using payroll data"]
-    A2["Agent sends payslips on the agreed date"]
-    A3["You: payroll specialist checks the payroll run and handles e"]
-    A4["You: payroll administrator files records and manages pension"]
+    A0["Agent pulls bank feed and open invoices"]
+    A1["Agent proposes ledger code and match with confidence score"]
+    A2["Agent attaches source document to transaction"]
+    A3["You: approves or corrects suggested coding"]
+    A4["You: reviews exceptions and signs off reconciliation"]
     A0 --> A1 --> A2 --> A3 --> A4
   end
   classDef ai fill:#154899,color:#fff,stroke:#154899
@@ -214,55 +103,27 @@ flowchart LR
   class A3,A4 human
 ```
 
-### 7. Monthly management reports drafted
-The agent pulls the month's figures from Exact or Twinfield and drafts the standard commentary and variance notes for each client. Your senior accountant checks the numbers and adds the judgement.
+### 3. Routine client questions answered from approved templates (phase 1)
+An agent answers common portal and accounting questions using your approved FAQ and client records, and routes anything unusual to a senior accountant. Every answer is logged for review.
 
-**Saves ~3h per week** · Roles: Senior Bookkeeper / Accountant · Tools: Exact, Twinfield, Excel, Microsoft Outlook
-
-```mermaid
-flowchart LR
-  subgraph Today
-    B0["Senior accountant exports figures for each client"]
-    B1["Builds the report in Excel"]
-    B2["Writes the same commentary with updated numbers"]
-    B3["Checks against last month"]
-    B4["Sends it to the client"]
-    B0 --> B1 --> B2 --> B3 --> B4
-  end
-  subgraph WithAI[With AI]
-    A0["Agent exports the figures and builds the report pack"]
-    A1["Agent drafts the standard commentary and flags variances aga"]
-    A2["You: senior accountant checks the figures and adds client-sp"]
-    A3["You: senior accountant sends the report"]
-    A0 --> A1 --> A2 --> A3
-  end
-  classDef ai fill:#154899,color:#fff,stroke:#154899
-  classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
-  class A0,A1 ai
-  class A2,A3 human
-```
-
-### 8. New client onboarding pack assembled
-The agent takes the signed engagement letter and client details, creates the client record, sets up portal access, and drafts the welcome email and document checklist. Your administrator reviews and confirms instead of setting everything up by hand.
-
-**Saves ~2h per week** · Roles: Office Administrator, Practice Manager · Tools: Exact, Twinfield, Client portal, Microsoft Outlook, Excel
+**Saves ~8h per week** · Roles: Client Support Coordinator, Senior Accountant · Tools: Client portal, Email, Exact, Twinfield, Excel
 
 ```mermaid
 flowchart LR
   subgraph Today
-    B0["Administrator reads the signed letter and intake form"]
-    B1["Creates the client in Exact or Twinfield"]
-    B2["Sets up portal access and sends login details"]
-    B3["Writes a welcome email and document checklist"]
-    B4["Adds the client to the workflow sheet"]
+    B0["Client sends question by portal or email"]
+    B1["Coordinator searches old emails for answer"]
+    B2["Coordinator asks senior accountant if unsure"]
+    B3["Senior accountant writes reply from scratch"]
+    B4["Coordinator copies reply into portal and closes ticket"]
     B0 --> B1 --> B2 --> B3 --> B4
   end
   subgraph WithAI[With AI]
-    A0["Agent reads the signed letter and intake form"]
-    A1["Agent creates the client record and portal access"]
-    A2["Agent drafts the welcome email and document checklist"]
-    A3["You: administrator checks the details and sends the welcome "]
-    A4["Agent adds the client to the workflow sheet with the right d"]
+    A0["Agent reads question and client context in portal"]
+    A1["Agent drafts answer from approved FAQ and prior replies"]
+    A2["Agent sends routine answers with a review link"]
+    A3["You: approves non-routine answers before sending"]
+    A4["Agent logs question type for monthly FAQ updates"]
     A0 --> A1 --> A2 --> A3 --> A4
   end
   classDef ai fill:#154899,color:#fff,stroke:#154899
@@ -271,78 +132,245 @@ flowchart LR
   class A3 human
 ```
 
-### 9. Deadline and workload alerts across 400 clients
-The agent watches VAT, payroll and annual accounts deadlines for all clients and sends the practice manager a daily shortlist of what is due and what is late. It replaces the manual scan through spreadsheets.
+### 4. VAT returns pre-filled and checked before filing
+An agent gathers ledger data for each VAT period, prepares the return draft, and flags unusual input VAT claims. Your VAT specialist reviews and submits.
 
-**Saves ~2h per week** · Roles: Practice Manager, Director / Partner · Tools: Exact, Twinfield, Excel, Microsoft Outlook
+**Saves ~8h per week** · Roles: VAT Specialist, Compliance Coordinator · Tools: Exact, Twinfield, Excel, Filing system, Email
 
 ```mermaid
 flowchart LR
   subgraph Today
-    B0["Practice manager opens the workflow spreadsheet"]
-    B1["Checks deadlines client by client"]
-    B2["Notes late items and emails the team"]
-    B3["Updates the sheet after each update"]
-    B4["Repeats the scan weekly"]
+    B0["VAT specialist exports ledger data to Excel"]
+    B1["Manual check of sales and purchase VAT codes"]
+    B2["Build return in filing system"]
+    B3["Check deadline list for missing clients"]
+    B4["Submit return and save confirmation"]
     B0 --> B1 --> B2 --> B3 --> B4
   end
   subgraph WithAI[With AI]
-    A0["Agent reads deadlines and progress from Exact, Twinfield and"]
-    A1["Agent sends a daily shortlist of due, at-risk and late items"]
-    A2["You: practice manager assigns work and contacts the client i"]
-    A3["You: team updates status as work is completed"]
-    A4["Agent refreshes the shortlist each morning"]
+    A0["Agent pulls ledger data for each client and period"]
+    A1["Agent prepares VAT return draft with variance notes"]
+    A2["Agent flags input VAT claims outside normal pattern"]
+    A3["You: reviews draft and approves filing"]
+    A4["Agent files return and saves confirmation to client record"]
     A0 --> A1 --> A2 --> A3 --> A4
   end
   classDef ai fill:#154899,color:#fff,stroke:#154899
   classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
-  class A0,A1,A4 ai
-  class A2,A3 human
+  class A0,A1,A2,A4 ai
+  class A3 human
 ```
 
-## Roadmap
-**Phase 1 (Month 1 to 2): Stop the document chase**
-- Set up the document reminder agent against the client portal and Exact
-- Turn on email triage so routine client questions get a drafted reply
-- Start the daily deadline shortlist for the practice manager
-- Agree who reviews agent output and how quickly
+### 5. Payroll changes collected and checked automatically
+An agent collects monthly employee changes by email, checks them against payroll records, and prepares a variance report for the payroll run. The payroll lead reviews before submission.
 
-**Phase 2 (Month 3 to 5): Cut the manual data entry**
-- Connect invoice and receipt coding in Exact and Twinfield
-- Add bank reconciliation match suggestions
-- Roll out VAT return drafts with accountant review
-- Measure coding accuracy and adjust the confidence rules
+**Saves ~6h per week** · Roles: Payroll Administrator, Payroll Lead · Tools: Payroll software, Email, Excel, Document management
 
-**Phase 3 (Month 6 to 9): Run the practice with fewer manual steps**
-- Add payslip delivery and routine payroll question handling
-- Automate new client onboarding steps
-- Draft monthly management reports for senior accountants
-- Review hours saved per department and retire what did not work
+```mermaid
+flowchart LR
+  subgraph Today
+    B0["Payroll administrator asks clients for changes by email"]
+    B1["Manually enters changes into payroll software"]
+    B2["Calculates holiday pay and sick pay adjustments"]
+    B3["Lead checks payroll report line by line"]
+    B4["Files payroll taxes after approval"]
+    B0 --> B1 --> B2 --> B3 --> B4
+  end
+  subgraph WithAI[With AI]
+    A0["Agent requests and collects employee changes by email"]
+    A1["Agent compares changes to payroll records and flags gaps"]
+    A2["Agent prepares variance report for the monthly run"]
+    A3["You: reviews exceptions and approves payroll"]
+    A4["Agent files payroll taxes and saves reports"]
+    A0 --> A1 --> A2 --> A3 --> A4
+  end
+  classDef ai fill:#154899,color:#fff,stroke:#154899
+  classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
+  class A0,A1,A2,A4 ai
+  class A3 human
+```
 
-## Risks
-- **Client data privacy and GDPR compliance when agents read client documents and email**: Keep all data in EU hosting, sign processing agreements with every tool vendor, give agents the minimum access needed, and log what they read and send.
-- **Wrong ledger coding, wrong VAT figures or wrong payslips reaching a client or authority**: No figure goes out without a named human review. Use confidence thresholds so anything uncertain is flagged for a person, and keep an audit trail of every change.
-- **Clients irritated by automated reminders or replies**: Cap reminder frequency, write them in your normal tone, always include a way to reach a person, and let coordinators adjust the wording per client.
-- **Team pushback or slow adoption because people fear the change**: Start with one painful process, train the people affected, show them the hours it saves, and be clear that agents draft while staff decide.
-- **Limited API access in Exact, Twinfield or the portal blocks integration**: Check API access and export options before each build, and fall back to scheduled file imports or exports where no direct connection exists.
+### 6. Year-end accounts compiled from standard checklists
+An agent compiles year-end figures into standard financial statements and checks disclosure requirements against a firm checklist. The review accountant handles judgement calls.
 
-## KPIs
-- Hours per week spent chasing missing client documents
-- Percentage of invoices coded without a manual correction
-- Average days to close a monthly bookkeeping run
-- Percentage of routine client emails sent within one working day
-- Number of late VAT and payroll filings per quarter
-- Measured hours saved per week against the 49-hour plan
+**Saves ~7h per week** · Roles: Annual Accounts Preparer, Review Accountant · Tools: Exact, Twinfield, Excel, Word, Document management
 
-## Quote: phase 1
+```mermaid
+flowchart LR
+  subgraph Today
+    B0["Preparer collects ledgers and prior year file"]
+    B1["Reconciles accounts in Excel"]
+    B2["Builds standard statements in Word or Excel"]
+    B3["Checks disclosure checklist manually"]
+    B4["Emails client for approval and waits"]
+    B0 --> B1 --> B2 --> B3 --> B4
+  end
+  subgraph WithAI[With AI]
+    A0["Agent gathers ledgers and prior year data"]
+    A1["Agent reconciles accounts and flags mismatches"]
+    A2["Agent drafts standard financial statements"]
+    A3["You: reviews judgement areas and disclosures"]
+    A4["Agent sends approval request and tracks reply"]
+    A0 --> A1 --> A2 --> A3 --> A4
+  end
+  classDef ai fill:#154899,color:#fff,stroke:#154899
+  classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
+  class A0,A1,A2,A4 ai
+  class A3 human
+```
+
+### 7. Month-end close status tracked without chasing the team
+An agent tracks close tasks, client document status, and review points in one dashboard. It sends daily task reminders to owners and flags clients at risk of late close.
+
+**Saves ~5h per week** · Roles: Bookkeeping Team Lead, Bookkeeping Specialist, Senior Accountant · Tools: Exact, Twinfield, Client portal, Excel, Email
+
+```mermaid
+flowchart LR
+  subgraph Today
+    B0["Lead asks each bookkeeper for status"]
+    B1["Updates Excel tracker manually"]
+    B2["Checks deadlines in email and calendar"]
+    B3["Sends reminders by email"]
+    B4["Prepares status report for partner review"]
+    B0 --> B1 --> B2 --> B3 --> B4
+  end
+  subgraph WithAI[With AI]
+    A0["Agent reads task status from Exact, Twinfield and portal"]
+    A1["Agent updates close dashboard each morning"]
+    A2["Agent reminds task owners about due items"]
+    A3["Agent flags clients at risk of late close"]
+    A4["You: reviews dashboard and resolves blockers"]
+    A0 --> A1 --> A2 --> A3 --> A4
+  end
+  classDef ai fill:#154899,color:#fff,stroke:#154899
+  classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
+  class A0,A1,A2,A3 ai
+  class A4 human
+```
+
+### 8. New clients onboarded with clean data entry
+An agent collects ID and company details through a guided form, creates the client record in Exact or Twinfield, and sets up portal access. The specialist checks exceptions.
+
+**Saves ~4h per week** · Roles: Client Onboarding Specialist, Bookkeeping Specialist · Tools: Exact, Twinfield, Client portal, Email, Document management
+
+```mermaid
+flowchart LR
+  subgraph Today
+    B0["Onboarding specialist emails checklist to client"]
+    B1["Client sends ID and company documents by email"]
+    B2["Specialist types details into Exact or Twinfield"]
+    B3["Requests portal account manually"]
+    B4["Bookkeeper checks first transactions later"]
+    B0 --> B1 --> B2 --> B3 --> B4
+  end
+  subgraph WithAI[With AI]
+    A0["Agent sends guided onboarding form and tracks completion"]
+    A1["Agent validates company details against documents"]
+    A2["Agent creates client record in Exact or Twinfield"]
+    A3["Agent sets up portal access and sends welcome email"]
+    A4["You: checks exceptions and approves first period"]
+    A0 --> A1 --> A2 --> A3 --> A4
+  end
+  classDef ai fill:#154899,color:#fff,stroke:#154899
+  classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
+  class A0,A1,A2,A3 ai
+  class A4 human
+```
+
+### 9. Office invoices and leave requests handled by rules
+An agent logs supplier invoices, tracks leave requests, and prepares a weekly admin summary. The office manager approves payments and unusual requests.
+
+**Saves ~3h per week** · Roles: Office Manager, Operations Assistant · Tools: Email, Excel, Calendar, Document management
+
+```mermaid
+flowchart LR
+  subgraph Today
+    B0["Office manager opens supplier invoices by email"]
+    B1["Enters invoice details into Excel tracker"]
+    B2["Checks leave requests in email and calendar"]
+    B3["Updates internal admin tracker"]
+    B4["Prepares weekly summary for partner"]
+    B0 --> B1 --> B2 --> B3 --> B4
+  end
+  subgraph WithAI[With AI]
+    A0["Agent captures supplier invoices from email"]
+    A1["Agent enters invoice details and flags duplicates"]
+    A2["Agent logs leave requests and checks team calendar"]
+    A3["Agent prepares weekly admin summary"]
+    A4["You: approves payments and unusual leave"]
+    A0 --> A1 --> A2 --> A3 --> A4
+  end
+  classDef ai fill:#154899,color:#fff,stroke:#154899
+  classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
+  class A0,A1,A2,A3 ai
+  class A4 human
+```
+
+## 3. Pilot with one client group, review outputs, then expand agent by agent
+Start with 30 to 40 clients and a named reviewer for each agent. Measure accuracy, response rates, and hours returned before adding more clients. After the pilot, connect the remaining agents in the same way and train the team on exception handling.
+
+**Phase 1 (Weeks 1-6): Prove three agents with one client group**
+- Connect document chase agent to Exact, Twinfield and portal for 40 clients
+- Run bank coding agent in a review queue with two bookkeepers
+- Launch routine question agent with approved FAQ for portal questions
+- Measure accuracy, response rates, and hours returned each week
+- Hold a Friday review to fix exceptions before expanding
+
+**Phase 2 (Months 2-4): Add VAT, payroll and annual accounts support**
+- Add VAT return draft agent for a first group of clients
+- Add payroll change collection and variance agent
+- Add annual accounts compilation agent with disclosure checklist
+- Train named reviewers on exception handling for each agent
+- Report monthly hours saved and error rates to the partner team
+
+**Phase 3 (Months 5-9): Scale across all clients and train the team**
+- Roll out proven agents to all 400 clients in weekly batches
+- Add month-end status, onboarding, and office admin agents
+- Move staff from manual entry to review, advice, and client calls
+- Update procedures for agent audit logs and client consent
+- Review KPI targets and retire agents that do not return value
+
+**Risks**
+- **Client data confidentiality and GDPR compliance**: Use EU hosting, strict access controls, data processing agreements, and human review before any client communication is sent.
+- **Incorrect agent output causing filing errors**: Keep human approval before VAT, payroll, and annual accounts submissions, with exception queues and audit logs for every change.
+- **Client resistance to automated reminders**: Use firm-branded messages, allow clients to request a human call, and escalate after two reminders.
+- **Staff adoption and role change**: Train champions in each team, show weekly time returned, and reassign people to review and advisory work.
+- **Tool integration limits with Exact and Twinfield**: Start with import and export plus portal APIs, test with a small client set, and keep manual fallback until accuracy is proven.
+
+**KPIs**
+- Weekly hours saved on document chasing and bank coding
+- Percentage of bank transactions auto-coded with no correction
+- Average days to collect missing client documents
+- Client response rate to first reminder
+- VAT and payroll filings submitted before deadline
+- Routine client questions resolved without senior accountant
+
+## Investment: phase 1 costs $2,990 a month and gives back $9,959 a month in time
 | Agent | Saves | Setup | Monthly |
 |---|---:|---:|---:|
-| Missing documents chased automatically | 14h/wk | $790 | $910 |
-| Invoice and receipt data entry drafted | 11h/wk | $1,290 | $710 |
-| Client email triage and first replies | 5h/wk | $790 | $320 |
-| **Total** | **30h/wk** | **$2,870** | **$1,940** |
+| Client documents chased and tracked automatically | 16h/wk | $790 | $1,040 |
+| Bank transactions coded and matched automatically | 22h/wk | $1,290 | $1,430 |
+| Routine client questions answered from approved templates | 8h/wk | $790 | $520 |
+| **Total** | **46h/wk** | **$2,870** | **$2,990** |
 
-Setup is free when the agents run for 4 months. Full rollout of all 9 opportunities: $9,610 setup, $3,710/month.
+Setup is free when the agents run for 4 months. Full rollout of all 9 opportunities: $9,610 setup, $5,250/month.
+
+## Appendix: background
+- **Industry:** Accounting and bookkeeping
+- **What they do:** Brightwater Accountancy is a 28-person accounting and bookkeeping firm in Utrecht. You serve about 400 small businesses with bookkeeping, VAT returns, annual accounts, and payroll. Your team uses Exact, Twinfield, Excel, and a client portal, and spends significant time chasing clients for documents each month.
+- **Customers:** Small businesses in and around Utrecht, mainly owner-managed companies and local firms.
+- **Team size:** 11-50 (estimate 28)
+- **Tools:** Exact, Twinfield, Excel, Client portal, Email, Document management
+- **AI maturity:** 2/5, Early. You use Exact, Twinfield and a portal, but most repetitive work is still manual email and Excel. There are no production AI agents today.
+
+| Department | People | Roles |
+|---|---:|---|
+| Bookkeeping and Client Accounting | 11 | Bookkeeping Specialist (7), Senior Accountant (3), Bookkeeping Team Lead (1) |
+| Payroll | 4 | Payroll Administrator (3), Payroll Lead (1) |
+| VAT and Compliance | 4 | VAT Specialist (3), Compliance Coordinator (1) |
+| Annual Accounts | 4 | Annual Accounts Preparer (3), Review Accountant (1) |
+| Client Services and Support | 3 | Client Support Coordinator (2), Client Onboarding Specialist (1) |
+| Operations and Administration | 2 | Office Manager (1), Operations Assistant (1) |
 
 ---
 Want this for your own company? **[Get your free AI strategy →](https://completeaistrategy.com)**

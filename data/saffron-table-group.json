@@ -6,125 +6,162 @@
     "url": null
   },
   "prepared_for": null,
-  "created_at": "2026-09-27T10:03:26.696Z",
+  "created_at": "2026-09-27T11:17:05.124Z",
   "profile": {
     "company": {
       "name": "Saffron Table Group",
-      "industry": "Restaurant and hospitality",
-      "summary": "Saffron Table Group runs five restaurants in Amsterdam. You serve diners, private event hosts, and catering clients with about 120 staff including part-timers. Your office team of six covers HR, finance, and marketing.",
+      "industry": "Restaurants and hospitality",
+      "summary": "You run five restaurants in Amsterdam and serve daily diners plus small events and catering clients. Your team of about 120 includes part-time staff, with a 6-person office covering HR, finance and marketing. The business depends on reservations, rosters, supplier orders, allergen information and review management.",
       "offerings": [
-        "Full-service restaurant dining across five Amsterdam locations",
-        "Table reservations and walk-in seating",
-        "Private events and small catering service",
-        "Allergen information and dietary options",
-        "Guest reviews and feedback handling"
+        "Restaurant dining across five Amsterdam locations",
+        "Reservations and walk-in service",
+        "Events and catering for private and business groups",
+        "Supplier and kitchen operations for multiple sites",
+        "Allergen and dietary information handling",
+        "Review and guest feedback management"
       ],
-      "customers": "Local diners, tourists, private event hosts, and corporate catering clients in Amsterdam",
+      "customers": "Local diners, tourists, private event hosts, and nearby businesses booking catering or group events.",
       "locations": [
-        "Amsterdam, Netherlands (5 restaurants)"
+        "Amsterdam, Netherlands"
       ],
       "size_band": "51-200",
       "employee_estimate": 120,
       "tech_signals": [
-        "Reservation system (for example OpenTable or SevenRooms)",
-        "Point-of-sale system (for example Lightspeed or Toast)",
-        "Staff rota and scheduling software (for example Planday or D",
-        "Supplier ordering and stock tools (for example MarketMan)",
-        "Accounting software (for example Xero or QuickBooks)",
-        "Review platforms such as Google Business Profile and TripAdv",
-        "Payroll and HR records tools"
+        "Point-of-sale (POS) systems",
+        "Reservation and table management software",
+        "Staff rostering and time tracking tools",
+        "Accounting and payroll software",
+        "Supplier ordering or inventory tools",
+        "Review and feedback platforms",
+        "Allergen and menu management records"
       ],
       "evidence_quality": "low"
     },
     "departments": [
       {
-        "name": "Front of House and Restaurant Operations",
-        "headcount_estimate": 60,
+        "name": "Restaurant Operations",
+        "headcount_estimate": 18,
         "roles": [
           {
-            "title": "Restaurant Manager",
+            "title": "General Manager",
             "count_estimate": 5,
             "repetitive_tasks": [
-              "Build and adjust weekly floor rotas",
-              "Review daily sales and covers reports",
-              "Handle guest escalations and complaints",
-              "Order front-of-house supplies"
+              "Review daily sales and labor reports",
+              "Approve rosters and shift changes",
+              "Handle escalated guest issues",
+              "Track site budgets and supplier spend"
             ]
           },
           {
             "title": "Assistant Manager",
             "count_estimate": 5,
             "repetitive_tasks": [
-              "Cover rota gaps and breaks",
-              "Run cash-up and till checks",
-              "Follow up on guest complaints",
-              "Open and close the restaurant"
+              "Open and close the restaurant",
+              "Check reservations and floor plan",
+              "Record staff attendance",
+              "Log maintenance issues"
             ]
           },
           {
-            "title": "Waiter or Waitstaff",
-            "count_estimate": 35,
+            "title": "Shift Supervisor",
+            "count_estimate": 8,
             "repetitive_tasks": [
-              "Take food and drink orders",
-              "Serve tables and clear plates",
-              "Reset tables between sittings",
-              "Explain allergen and menu details"
+              "Run shift handovers",
+              "Adjust breaks and stations",
+              "Resolve guest complaints",
+              "Check closing checklist"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Front of House",
+        "headcount_estimate": 52,
+        "roles": [
+          {
+            "title": "Server",
+            "count_estimate": 28,
+            "repetitive_tasks": [
+              "Take orders and enter them into the POS",
+              "Check allergen requests with the kitchen",
+              "Handle payments and receipts",
+              "Reset tables for next guests"
             ]
           },
           {
-            "title": "Host or Reservations Coordinator",
-            "count_estimate": 15,
+            "title": "Host or Reservationist",
+            "count_estimate": 8,
             "repetitive_tasks": [
-              "Answer phone and email bookings",
-              "Update the reservation system",
-              "Manage waitlists and no-shows",
-              "Seat guests and track table turns"
+              "Manage bookings and walk-ins",
+              "Confirm group reservations",
+              "Answer phone and email inquiries",
+              "Update the table plan"
+            ]
+          },
+          {
+            "title": "Bartender",
+            "count_estimate": 8,
+            "repetitive_tasks": [
+              "Prepare drinks to recipe",
+              "Track bar stock",
+              "Close tabs and reconcile payments",
+              "Clean the bar area"
+            ]
+          },
+          {
+            "title": "Runner or Busser",
+            "count_estimate": 8,
+            "repetitive_tasks": [
+              "Deliver food to tables",
+              "Clear and reset tables",
+              "Restock service stations",
+              "Support servers during peak times"
             ]
           }
         ]
       },
       {
         "name": "Kitchen and Back of House",
-        "headcount_estimate": 46,
+        "headcount_estimate": 36,
         "roles": [
           {
             "title": "Head Chef",
             "count_estimate": 5,
             "repetitive_tasks": [
               "Plan menus and specials",
-              "Place supplier orders",
-              "Check allergen and food safety records",
-              "Review food cost and waste"
+              "Order food supplies",
+              "Check allergen and hygiene records",
+              "Schedule kitchen staff"
             ]
           },
           {
             "title": "Sous Chef",
             "count_estimate": 5,
             "repetitive_tasks": [
-              "Write daily prep lists",
-              "Check stock rotation and storage",
-              "Manage kitchen rota sections",
-              "Run quality and portion checks"
+              "Supervise prep and service",
+              "Manage stock rotation",
+              "Record waste",
+              "Cover head chef shifts"
             ]
           },
           {
             "title": "Line Cook",
-            "count_estimate": 25,
+            "count_estimate": 18,
             "repetitive_tasks": [
-              "Prepare ingredients for service",
-              "Cook and plate dishes to spec",
-              "Clean stations during and after service",
-              "Label and date prep items"
+              "Prepare dishes to recipe",
+              "Label and date food",
+              "Keep station clean",
+              "Report missing ingredients"
             ]
           },
           {
             "title": "Kitchen Porter",
-            "count_estimate": 11,
+            "count_estimate": 8,
             "repetitive_tasks": [
-              "Wash dishes and kitchen equipment",
-              "Manage waste and recycling",
-              "Receive and store deliveries",
-              "Help with basic prep tasks"
+              "Wash dishes and utensils",
+              "Take out waste",
+              "Clean kitchen surfaces",
+              "Organize deliveries"
             ]
           }
         ]
@@ -138,107 +175,107 @@
             "count_estimate": 3,
             "repetitive_tasks": [
               "Reply to event inquiries",
-              "Draft quotes and booking confirmations",
-              "Coordinate event dates with kitchens",
-              "Send final details to clients"
+              "Create quotes and contracts",
+              "Coordinate catering logistics",
+              "Send follow-up emails"
             ]
           },
           {
             "title": "Catering Chef",
-            "count_estimate": 3,
+            "count_estimate": 2,
             "repetitive_tasks": [
-              "Build event menus",
-              "Plan prep schedules for off-site jobs",
-              "Prepare allergen sheets",
-              "Check catering equipment lists"
+              "Plan event menus",
+              "Prep and pack food",
+              "Check allergen requirements",
+              "Track equipment"
             ]
           },
           {
             "title": "Event Server",
-            "count_estimate": 2,
+            "count_estimate": 3,
             "repetitive_tasks": [
               "Set up event spaces",
               "Serve food and drinks",
-              "Clear down after events",
-              "Report missing or damaged items"
+              "Clear event areas",
+              "Return equipment"
             ]
           }
         ]
       },
       {
-        "name": "HR and People",
+        "name": "HR",
         "headcount_estimate": 2,
         "roles": [
           {
             "title": "HR Manager",
             "count_estimate": 1,
             "repetitive_tasks": [
-              "Administer staff rotas and holiday records",
-              "Run onboarding for new hires",
-              "Update contracts and compliance files",
-              "Handle basic staff queries"
+              "Post job ads",
+              "Schedule interviews",
+              "Onboard new staff",
+              "Track contracts and right-to-work records"
             ]
           },
           {
-            "title": "HR and Admin Assistant",
+            "title": "HR or Payroll Assistant",
             "count_estimate": 1,
             "repetitive_tasks": [
-              "Process holiday requests",
-              "Keep employee records up to date",
-              "Post job ads and screen replies",
-              "Prepare payroll input"
+              "Update rosters and timesheets",
+              "Answer staff questions",
+              "File sick notes",
+              "Prepare payroll changes"
             ]
           }
         ]
       },
       {
-        "name": "Finance and Admin",
+        "name": "Finance",
         "headcount_estimate": 2,
         "roles": [
           {
             "title": "Finance Manager",
             "count_estimate": 1,
             "repetitive_tasks": [
-              "Run supplier payment runs",
-              "Review budgets and cost reports",
-              "Prepare VAT and payroll oversight",
-              "Check bank reconciliations"
+              "Reconcile daily sales",
+              "Pay suppliers",
+              "Prepare VAT and payroll data",
+              "Review site profit and loss"
             ]
           },
           {
             "title": "Accounts Assistant",
             "count_estimate": 1,
             "repetitive_tasks": [
-              "Enter supplier invoices",
-              "Reconcile sales and cash reports",
-              "Process expense claims",
-              "Answer supplier payment queries"
+              "Enter invoices",
+              "Match supplier orders to deliveries",
+              "Chase missing receipts",
+              "File financial records"
             ]
           }
         ]
       },
       {
-        "name": "Marketing and Reviews",
+        "name": "Marketing",
         "headcount_estimate": 2,
         "roles": [
           {
             "title": "Marketing Manager",
             "count_estimate": 1,
             "repetitive_tasks": [
-              "Plan local campaigns",
-              "Manage restaurant brand assets",
-              "Track event and catering promotion",
-              "Review marketing spend"
+              "Plan promotions",
+              "Manage review responses",
+              "Update website and social media",
+              "Track campaign results"
             ]
           },
           {
-            "title": "Marketing and Reviews Coordinator",
+            "title": "Marketing Assistant",
             "count_estimate": 1,
             "repetitive_tasks": [
-              "Reply to online reviews",
-              "Schedule social media posts",
-              "Send email newsletters",
-              "Update menu and event listings"
+              "Schedule social posts",
+              "Collect guest photos",
+              "Update menus online",
+              "Draft email newsletters"
             ]
           }
         ]
@@ -246,371 +283,353 @@
     ]
   },
   "strategy": {
-    "executive_summary": "Saffron Table Group runs five full-service restaurants in Amsterdam with about 120 staff and a six-person office team covering HR, finance, and marketing. Your teams already use digital tools for reservations, point of sale, rota planning, supplier ordering, accounting, and reviews, but most follow-up, reporting, and admin work is still manual. The best first wins are in reservations, event quotes, supplier invoices, and rota admin, where small agents can save your team time without changing how the restaurants run. We suggest starting with a few focused agents and keeping humans in control of guest-facing and money decisions. Total realistic savings from the plan below are about 92 staff hours per week across 120 employees.",
+    "situation": "Saffron Table Group runs five Amsterdam restaurants with about 120 staff and a six person office. Daily work depends on reservations, rosters, supplier orders, allergen checks, event quotes and guest feedback across separate systems.",
+    "complication": "Managers and office staff spend too much time retyping information, answering routine questions and chasing approvals. As sites get busier, these manual steps slow guest response, risk errors and hide where the real bottlenecks sit.",
+    "governing_thought": "Start with event quote drafting, routine HR roster answers, and daily sales and labor summaries to cut administrative drag, speed guest response, and prove value across your five restaurants.",
+    "key_arguments": [
+      {
+        "role": "where",
+        "headline": "Event, kitchen, and finance admin consume the most repeatable management time",
+        "support": "Your five sites create daily reports, rosters, supplier orders, allergen checks and event quotes. Office and management roles touch these most, while front line staff handle guest facing steps. The repeatable work sits in email, spreadsheets and system checks rather than in cooking or serving."
+      },
+      {
+        "role": "what",
+        "headline": "Event quotes, HR roster answers, and daily trading summaries offer the fastest proof",
+        "support": "These three areas use information you already have: event menus and prices, approved HR policies, and POS plus roster data. Each agent can start with email and spreadsheet inputs before deeper system work. They affect coordinators, HR and general managers, so success is visible quickly."
+      },
+      {
+        "role": "how",
+        "headline": "Run a four week pilot, measure weekly, then scale to all five sites",
+        "support": "Set up each agent with a named owner, approved source documents and a human approval step. Review weekly hours saved, response times and error flags. After the pilot, extend the same pattern to supplier orders, allergen checks, finance and marketing, then scale across all five restaurants."
+      }
+    ],
+    "executive_summary": "Saffron Table Group runs five Amsterdam restaurants with about 120 staff and a six person office. Daily work depends on reservations, rosters, supplier orders, allergen checks, event quotes and guest feedback across separate systems. Managers and office staff spend too much time retyping information, answering routine questions and chasing approvals. As sites get busier, these manual steps slow guest response, risk errors and hide where the real bottlenecks sit. Start with event quote drafting, routine HR roster answers, and daily sales and labor summaries to cut administrative drag, speed guest response, and prove value across your five restaurants.",
     "maturity": {
       "score": 2,
-      "label": "Early stage",
-      "note": "You have core systems in place but no AI agents in daily use. Most guest replies, quotes, roster changes, invoice entry, and reporting are handled by hand, so gains depend on clean data and simple approvals."
+      "label": "Early",
+      "note": "You have core restaurant systems such as POS, reservations and rostering, but most follow up, reporting and admin work is still manual. AI use is limited and not yet part of daily routines."
     },
     "opportunities": [
       {
-        "title": "Reservation emails and phone requests handled faster",
-        "department": "Front of House and Restaurant Operations",
-        "roles": [
-          "Host or Reservations Coordinator",
-          "Restaurant Manager"
-        ],
-        "description": "An agent reads booking emails and web forms, checks table availability in your reservation system, and drafts replies with options or waitlist offers. It sends routine confirmations and flags special requests, large parties, and allergy notes to the right manager.",
-        "before": [
-          "Guest emails or calls the restaurant.",
-          "Host checks the reservation system table by table.",
-          "Host replies with available times or adds to waitlist.",
-          "Manager handles special requests if time allows.",
-          "No-shows and waitlist are updated later."
-        ],
-        "after": [
-          "Agent reads the booking request and checks availability.",
-          "Agent drafts a reply with two or three suitable times.",
-          "Human: Host approves and sends, or edits if needed.",
-          "Agent updates the reservation system and waitlist.",
-          "Agent flags large parties and allergy notes to the manager."
-        ],
-        "hours_saved_per_week": 18,
-        "impact": 5,
-        "effort": 3,
-        "tools": [
-          "OpenTable or SevenRooms",
-          "Email inbox",
-          "Web booking forms"
-        ]
-      },
-      {
-        "title": "Event quotes prepared in under an hour",
+        "title": "Event inquiries answered with draft quotes",
         "department": "Events and Catering",
         "roles": [
-          "Events Coordinator",
-          "Catering Chef",
-          "Event Server"
+          "Events Coordinator"
         ],
-        "description": "An agent turns event inquiry emails into a first draft quote using your menu, minimum spend, and staffing rules. It checks kitchen availability, adds allergen notes, and follows up on quotes that have not been answered.",
+        "description": "The agent reads event inquiries, checks availability and drafts a reply with menu options and quote details. It logs the inquiry and sets a follow up reminder so coordinators focus on closing and logistics.",
         "before": [
-          "Inquiry arrives by email or phone.",
-          "Coordinator asks kitchen for date availability.",
-          "Coordinator builds quote from old documents.",
-          "Client waits for a reply.",
-          "Follow-up happens only if someone remembers."
+          "Inquiry arrives by email or phone",
+          "Coordinator checks the event booking sheet",
+          "Coordinator looks up menu and pricing details",
+          "Coordinator writes the quote and sends it",
+          "Coordinator tracks follow up manually"
         ],
         "after": [
-          "Agent reads the inquiry and extracts date, headcount, and budget.",
-          "Agent checks event calendar and kitchen capacity.",
-          "Agent drafts quote with menu options and allergen notes.",
-          "Human: Events Coordinator reviews and sends.",
-          "Agent schedules follow-up reminders and logs the reply."
-        ],
-        "hours_saved_per_week": 10,
-        "impact": 5,
-        "effort": 3,
-        "tools": [
-          "Email",
-          "Reservation or event calendar",
-          "Menu and price documents",
-          "Accounting software"
-        ]
-      },
-      {
-        "title": "Supplier invoices entered and matched",
-        "department": "Finance and Admin",
-        "roles": [
-          "Accounts Assistant",
-          "Finance Manager"
-        ],
-        "description": "An agent reads supplier invoices from email or PDF, codes them to the right restaurant and supplier, and checks them against orders in your stock or accounting system. It prepares the payment run list and flags price changes or missing delivery notes.",
-        "before": [
-          "Invoices arrive by email and post.",
-          "Assistant opens each invoice and types details into accounting.",
-          "Assistant matches invoice to supplier order manually.",
-          "Finance Manager checks exceptions.",
-          "Payment run is prepared from a spreadsheet."
-        ],
-        "after": [
-          "Agent collects invoices from email and shared folder.",
-          "Agent extracts supplier, amount, VAT, and invoice number.",
-          "Agent matches to purchase orders and flags differences.",
-          "Human: Accounts Assistant checks flagged items and approves.",
-          "Agent prepares payment run list for Finance Manager."
+          "Agent reads inquiry and checks the event booking sheet",
+          "Agent drafts reply with menu options and quote",
+          "Human: reviews price and availability, then sends",
+          "Agent logs the quote and sets a follow up reminder"
         ],
         "hours_saved_per_week": 12,
         "impact": 4,
-        "effort": 3,
-        "tools": [
-          "Xero or QuickBooks",
-          "MarketMan or supplier ordering tool",
-          "Email",
-          "Shared drive"
-        ]
-      },
-      {
-        "title": "Rota gaps filled and holiday requests processed",
-        "department": "HR and People",
-        "roles": [
-          "HR and Admin Assistant",
-          "Restaurant Manager",
-          "Assistant Manager"
-        ],
-        "description": "An agent tracks holiday requests, checks rota rules, and drafts approval replies. When a shift gap appears, it messages available staff by role and updates the rota once a manager approves.",
-        "before": [
-          "Staff send holiday requests by email or app.",
-          "HR Assistant checks rota and contract rules.",
-          "Manager approves or rejects by email.",
-          "Shift gaps are posted in staff group chats.",
-          "Rota is updated manually."
-        ],
-        "after": [
-          "Agent reads holiday requests and checks rota rules.",
-          "Agent drafts approval or rejection for HR.",
-          "Human: HR or Manager approves.",
-          "Agent messages available staff when a gap appears.",
-          "Agent updates rota after manager confirms."
-        ],
-        "hours_saved_per_week": 14,
-        "impact": 4,
-        "effort": 3,
-        "tools": [
-          "Planday or similar rota tool",
-          "Email",
-          "Staff messaging app",
-          "HR records"
-        ]
-      },
-      {
-        "title": "Guest reviews answered within one day",
-        "department": "Marketing and Reviews",
-        "roles": [
-          "Marketing and Reviews Coordinator",
-          "Restaurant Manager"
-        ],
-        "description": "An agent drafts replies to Google and TripAdvisor reviews in your brand voice and routes serious complaints to the right restaurant manager. It tracks common themes such as waiting times, noise, or menu requests and sends a weekly summary.",
-        "before": [
-          "Reviews sit unanswered for days.",
-          "Coordinator reads each review and writes a reply.",
-          "Serious complaints are forwarded by email.",
-          "Themes are noticed only anecdotally.",
-          "Weekly report is made by hand."
-        ],
-        "after": [
-          "Agent collects new reviews each morning.",
-          "Agent drafts a reply and a suggested action.",
-          "Human: Coordinator or Manager approves and posts.",
-          "Agent routes serious complaints to the right manager.",
-          "Agent sends a weekly themes summary."
-        ],
-        "hours_saved_per_week": 8,
-        "impact": 4,
         "effort": 2,
         "tools": [
-          "Google Business Profile",
-          "TripAdvisor",
           "Email",
-          "Spreadsheets"
-        ]
+          "Event booking spreadsheet",
+          "Menu and price list",
+          "Reservation and table management software"
+        ],
+        "phase1": true
       },
       {
-        "title": "Prep lists and supplier orders drafted overnight",
-        "department": "Kitchen and Back of House",
-        "roles": [
-          "Head Chef",
-          "Sous Chef",
-          "Line Cook"
-        ],
-        "description": "An agent reviews upcoming bookings, current stock, and menu plans to draft prep lists and supplier orders. It flags low stock and waste risks, then sends the draft to the Head Chef for approval.",
-        "before": [
-          "Head Chef checks bookings and stock.",
-          "Sous Chef writes prep lists by hand.",
-          "Orders are placed by phone or supplier portal.",
-          "Stock gaps are found during service.",
-          "Waste is reviewed after the week."
-        ],
-        "after": [
-          "Agent reads bookings, stock, and menu plan.",
-          "Agent drafts prep list by section and shift.",
-          "Agent drafts supplier order with quantities.",
-          "Human: Head Chef reviews and approves.",
-          "Agent sends order and saves prep list for kitchen."
-        ],
-        "hours_saved_per_week": 10,
-        "impact": 4,
-        "effort": 3,
-        "tools": [
-          "MarketMan or stock tool",
-          "Reservation system",
-          "Supplier portal",
-          "Spreadsheets"
-        ]
-      },
-      {
-        "title": "Allergen answers ready for waitstaff",
-        "department": "Kitchen and Back of House",
-        "roles": [
-          "Head Chef",
-          "Sous Chef",
-          "Waiter or Waitstaff"
-        ],
-        "description": "An agent keeps a searchable allergen and menu guide updated from kitchen sheets and supplier labels. Waitstaff can ask it plain questions and get an answer with the source and date.",
-        "before": [
-          "Waitstaff ask kitchen about allergens during service.",
-          "Kitchen checks paper sheets or packets.",
-          "Head Chef updates allergen records by hand.",
-          "Answers vary between shifts.",
-          "New menu items are added slowly."
-        ],
-        "after": [
-          "Agent reads kitchen allergen sheets and supplier labels.",
-          "Agent builds a searchable guide by dish.",
-          "Human: Head Chef checks and approves new entries.",
-          "Waitstaff ask the agent plain questions during prep.",
-          "Agent shows the source and last update date."
-        ],
-        "hours_saved_per_week": 8,
-        "impact": 4,
-        "effort": 3,
-        "tools": [
-          "Allergen sheets",
-          "Supplier labels",
-          "Menu documents",
-          "Staff messaging app"
-        ]
-      },
-      {
-        "title": "Daily sales and covers report ready by 9am",
-        "department": "Front of House and Restaurant Operations",
-        "roles": [
-          "Restaurant Manager",
-          "Finance Manager"
-        ],
-        "description": "An agent pulls sales, covers, and average spend from the POS and sends a short morning digest for each restaurant. It highlights unusual drops, busy periods, and staff cost against sales.",
-        "before": [
-          "Managers log into POS for each site.",
-          "They export sales and covers to spreadsheets.",
-          "Finance checks numbers later in the week.",
-          "Issues are spotted late.",
-          "Reports are shared in separate emails."
-        ],
-        "after": [
-          "Agent pulls previous day sales and covers from POS.",
-          "Agent compares to last week and target.",
-          "Agent writes a short digest per restaurant.",
-          "Human: Restaurant Manager reviews and acts.",
-          "Agent sends weekly summary to Finance."
-        ],
-        "hours_saved_per_week": 6,
-        "impact": 3,
-        "effort": 2,
-        "tools": [
-          "Lightspeed or Toast",
-          "Spreadsheets",
-          "Email"
-        ]
-      },
-      {
-        "title": "New hire onboarding paperwork chased automatically",
-        "department": "HR and People",
+        "title": "Routine HR questions answered from policies and rosters",
+        "department": "HR",
         "roles": [
           "HR Manager",
-          "HR and Admin Assistant"
+          "HR or Payroll Assistant"
         ],
-        "description": "An agent sends new hires the right forms, tracks what is missing, and reminds managers about expiring documents. It keeps a simple dashboard of who is ready to work and what is still outstanding.",
+        "description": "The agent answers common staff questions about shifts, pay dates, leave and uniforms using approved HR documents and roster data. It flags sensitive cases for a human and records repeated questions for FAQ updates.",
         "before": [
-          "HR sends forms manually.",
-          "New hire returns some documents by email.",
-          "HR chases missing items one by one.",
-          "Managers are told late about missing papers.",
-          "Compliance dates are tracked in a spreadsheet."
+          "Staff email or call HR with routine questions",
+          "HR checks rostering, payroll calendar and policy files",
+          "HR writes a reply for each question",
+          "HR repeats the same answers across sites",
+          "HR manually tracks common themes"
         ],
         "after": [
-          "Agent sends welcome pack and forms from templates.",
-          "Agent tracks returned documents and missing items.",
-          "Agent sends reminders to new hire and manager.",
-          "Human: HR checks exceptions and approves.",
-          "Agent updates compliance dashboard and expiry alerts."
+          "Agent reads the question and searches approved policy and roster data",
+          "Agent drafts an answer and flags exceptions",
+          "Human: confirms sensitive or disciplinary cases",
+          "Agent logs common questions for FAQ updates"
         ],
-        "hours_saved_per_week": 6,
+        "hours_saved_per_week": 10,
         "impact": 3,
         "effort": 2,
         "tools": [
-          "HR records",
           "Email",
-          "E-sign or forms tool",
+          "Staff rostering and time tracking tools",
+          "HR policy documents",
+          "Payroll calendar"
+        ],
+        "phase1": true
+      },
+      {
+        "title": "Daily sales and labor summary ready before opening",
+        "department": "Restaurant Operations",
+        "roles": [
+          "General Manager",
+          "Assistant Manager"
+        ],
+        "description": "The agent pulls prior day sales, labor hours and covers for each site and drafts a short morning summary. Managers see variances and open questions before the shift rather than building the report themselves.",
+        "before": [
+          "General manager opens POS reports for each site",
+          "Manager checks roster hours and overtime",
+          "Manager compares numbers to budget",
+          "Manager notes issues for the team",
+          "Manager writes or forwards a summary"
+        ],
+        "after": [
+          "Agent pulls prior day sales, labor and covers by site",
+          "Agent drafts a morning summary with variances and questions",
+          "Human: reviews and adds local actions",
+          "Agent sends the summary to managers"
+        ],
+        "hours_saved_per_week": 15,
+        "impact": 4,
+        "effort": 3,
+        "tools": [
+          "Point-of-sale (POS) systems",
+          "Staff rostering and time tracking tools",
+          "Accounting and payroll software",
+          "Email"
+        ],
+        "phase1": true
+      },
+      {
+        "title": "Supplier orders drafted from stock and par levels",
+        "department": "Kitchen and Back of House",
+        "roles": [
+          "Head Chef",
+          "Sous Chef"
+        ],
+        "description": "The agent reads inventory, par levels and recent deliveries to draft supplier orders by category. Chefs still check fresh quality and confirm quantities before anything is sent.",
+        "before": [
+          "Chefs check fridges, freezers and dry store",
+          "Chefs note low or missing items",
+          "Chefs review supplier lists and old emails",
+          "Chefs build an order per supplier",
+          "Chefs send orders and track confirmations"
+        ],
+        "after": [
+          "Agent reads inventory, par levels and recent deliveries",
+          "Agent drafts order by supplier with suggested quantities",
+          "Human: checks fresh quality and confirms quantities",
+          "Agent sends orders and logs confirmations"
+        ],
+        "hours_saved_per_week": 18,
+        "impact": 4,
+        "effort": 3,
+        "tools": [
+          "Supplier ordering or inventory tools",
+          "Email",
+          "Supplier price lists",
           "Spreadsheets"
-        ]
+        ],
+        "phase1": false
+      },
+      {
+        "title": "Allergen questions checked against menu records",
+        "department": "Front of House",
+        "roles": [
+          "Server",
+          "Host or Reservationist"
+        ],
+        "description": "The agent searches approved allergen and menu records to suggest safe options and flag uncertainty. Servers still confirm complex cases with the kitchen before advising guests.",
+        "before": [
+          "Guest asks about allergens",
+          "Server checks notes or asks the kitchen",
+          "Kitchen checks recipe records or binders",
+          "Server relays the answer to the guest",
+          "Request is often not logged"
+        ],
+        "after": [
+          "Agent searches approved allergen and menu records",
+          "Agent suggests safe options and flags uncertainty",
+          "Human: server confirms complex cases with the kitchen",
+          "Agent logs the request for menu review"
+        ],
+        "hours_saved_per_week": 20,
+        "impact": 5,
+        "effort": 4,
+        "tools": [
+          "Allergen and menu management records",
+          "Point-of-sale (POS) systems",
+          "Kitchen display or email",
+          "Menu database"
+        ],
+        "phase1": false
+      },
+      {
+        "title": "Guest review replies drafted for approval",
+        "department": "Marketing",
+        "roles": [
+          "Marketing Manager",
+          "Marketing Assistant"
+        ],
+        "description": "The agent collects new reviews, drafts on brand replies and tags common themes by site. Marketing edits and posts replies, then receives a weekly theme report.",
+        "before": [
+          "Reviews arrive across platforms",
+          "Marketing manager reads each review",
+          "Manager decides the response tone",
+          "Manager writes and posts replies",
+          "Themes are tracked manually"
+        ],
+        "after": [
+          "Agent pulls new reviews each morning",
+          "Agent drafts on brand replies and tags themes",
+          "Human: edits and posts replies",
+          "Agent sends a weekly theme report"
+        ],
+        "hours_saved_per_week": 8,
+        "impact": 3,
+        "effort": 2,
+        "tools": [
+          "Review and feedback platforms",
+          "Email",
+          "Social media tools",
+          "Spreadsheets"
+        ],
+        "phase1": false
+      },
+      {
+        "title": "Supplier invoices entered and matched",
+        "department": "Finance",
+        "roles": [
+          "Finance Manager",
+          "Accounts Assistant"
+        ],
+        "description": "The agent reads supplier invoices and matches them to purchase orders or delivery notes. It flags price and quantity gaps so finance only reviews exceptions before payment.",
+        "before": [
+          "Invoices arrive by email or post",
+          "Assistant enters invoice details",
+          "Assistant matches invoices to orders or deliveries",
+          "Assistant chases missing receipts",
+          "Assistant files financial records"
+        ],
+        "after": [
+          "Agent reads invoice and matches to order or delivery",
+          "Agent flags price or quantity gaps",
+          "Human: approves exceptions and payment",
+          "Agent posts approved invoices to accounting"
+        ],
+        "hours_saved_per_week": 16,
+        "impact": 4,
+        "effort": 3,
+        "tools": [
+          "Accounting and payroll software",
+          "Supplier ordering or inventory tools",
+          "Email",
+          "Invoice folder"
+        ],
+        "phase1": false
+      },
+      {
+        "title": "Interviews scheduled and onboarding paperwork chased",
+        "department": "HR",
+        "roles": [
+          "HR Manager",
+          "HR or Payroll Assistant"
+        ],
+        "description": "The agent screens applications against agreed criteria and sends interview slots and reminders. It chases contracts and right-to-work documents, updating a simple tracker.",
+        "before": [
+          "Hiring manager approves a role",
+          "HR posts the ad",
+          "HR reviews CVs manually",
+          "HR emails candidates and schedules interviews",
+          "HR collects contracts and right-to-work records"
+        ],
+        "after": [
+          "Agent screens applications against agreed criteria",
+          "Agent sends interview slots and reminders",
+          "Human: interviews and makes the decision",
+          "Agent chases onboarding documents and updates tracker"
+        ],
+        "hours_saved_per_week": 10,
+        "impact": 3,
+        "effort": 2,
+        "tools": [
+          "Email",
+          "Calendar",
+          "HR files",
+          "Applicant tracking or spreadsheet"
+        ],
+        "phase1": false
       }
     ],
     "roadmap": [
       {
         "phase": "Phase 1",
-        "timeframe": "Days 1 to 30",
-        "title": "Start with reservation and review agents",
+        "timeframe": "Weeks 1 to 4",
+        "title": "Prove three agents in daily work",
         "items": [
-          "Pick one restaurant as the pilot site.",
-          "Connect the reservation system, shared inbox, and review accounts.",
-          "Set rules for when a human must approve guest replies.",
-          "Train hosts and managers on the approval step.",
-          "Measure time saved and reply speed each week."
+          "Set up event quote drafting with one shared inbox",
+          "Connect HR policy answers to approved documents and roster data",
+          "Build daily sales and labor summary from POS and rosters",
+          "Review results weekly with named owners"
         ]
       },
       {
         "phase": "Phase 2",
-        "timeframe": "Days 31 to 90",
-        "title": "Add finance and events agents",
+        "timeframe": "Months 2 to 3",
+        "title": "Extend to kitchen, allergen and finance admin",
         "items": [
-          "Launch supplier invoice entry and matching for one accounting system.",
-          "Launch event quote drafts with the Events Coordinator.",
-          "Add holiday request and rota gap support for HR and managers.",
-          "Send weekly review themes to Marketing and Restaurant Managers.",
-          "Review accuracy and adjust approval rules."
+          "Draft supplier orders from inventory and par levels",
+          "Check allergen questions against approved menu records",
+          "Match supplier invoices to orders and deliveries",
+          "Train site teams on approval steps and exceptions"
         ]
       },
       {
         "phase": "Phase 3",
-        "timeframe": "Days 91 to 180",
-        "title": "Expand to kitchen and HR, then improve",
+        "timeframe": "Months 4 to 6",
+        "title": "Scale and improve across five sites",
         "items": [
-          "Add prep list and supplier order drafts for the kitchen.",
-          "Add the allergen and menu guide for waitstaff.",
-          "Add onboarding and compliance chase for HR.",
-          "Run a monthly check on hours saved, errors, and staff feedback.",
-          "Decide which agents to keep, change, or stop."
+          "Draft guest review replies for marketing approval",
+          "Schedule interviews and chase onboarding paperwork",
+          "Review weekly KPIs by site and department",
+          "Refine agents and expand to catering logistics"
         ]
       }
     ],
     "risks": [
       {
-        "risk": "The agent sends an incorrect reply to a guest.",
-        "mitigation": "Keep human approval for all guest-facing messages and set clear escalation rules for complaints and allergies."
+        "risk": "An agent gives wrong allergen, price or policy information",
+        "mitigation": "Use approved source documents, keep human approval for guest facing answers, and log every exception for weekly review."
       },
       {
-        "risk": "Staff do not use the agents because they add extra steps.",
-        "mitigation": "Start with one team, keep the approval step simple, and ask managers to name a champion for each agent."
+        "risk": "Staff do not use the new agents or revert to old habits",
+        "mitigation": "Start with simple email and spreadsheet inputs, name an owner per agent, and show time saved in weekly manager meetings."
       },
       {
-        "risk": "Data privacy or GDPR issues with guest, staff, or supplier data.",
-        "mitigation": "Keep data inside approved systems, limit access by role, and review supplier terms before connecting any tool."
+        "risk": "Data quality is inconsistent across POS, rosters and menus",
+        "mitigation": "Begin with one trusted data source per agent and clean key records before connecting more systems."
       },
       {
-        "risk": "Integration problems with POS, reservation, rota, or accounting systems.",
-        "mitigation": "Connect one system at a time, keep a manual fallback, and test with real data before going live."
+        "risk": "Guest or staff data is mishandled",
+        "mitigation": "Limit access by role, keep sensitive HR cases with humans, and set clear retention rules for logs and drafts."
       },
       {
-        "risk": "The team relies on the agent and misses exceptions.",
-        "mitigation": "Set review thresholds, run weekly accuracy checks, and keep a named person responsible for each agent."
+        "risk": "Too many changes at once across five restaurants",
+        "mitigation": "Follow the three phase rollout, review weekly, and only scale an agent after it meets agreed response time and accuracy checks."
       }
     ],
     "kpis": [
-      "Staff hours saved per week by agent, target 90 by month 6.",
-      "Average reply time to booking emails, target under 2 hours.",
-      "Event quote turnaround, target under 24 hours.",
-      "Supplier invoices processed per hour, target 2 times current rate.",
-      "Guest review response rate, target 90 percent within 24 hours.",
-      "Rota gaps filled without manager overtime, target 80 percent within 4 hours."
+      "Hours saved per week in event, HR and operations admin",
+      "Event inquiry response time",
+      "Roster question reply time",
+      "Daily sales and labor summaries sent before opening",
+      "Allergen questions resolved without a kitchen visit",
+      "Supplier invoice matching accuracy"
     ]
   },
   "quote": {
@@ -618,111 +637,104 @@
       "items": [
         {
           "n": 1,
-          "title": "Reservation emails and phone requests handled faster",
-          "hours": 18,
-          "setup": 1290,
-          "monthly": 1170
-        },
-        {
-          "n": 4,
-          "title": "Rota gaps filled and holiday requests processed",
-          "hours": 14,
-          "setup": 1290,
-          "monthly": 910
+          "title": "Event inquiries answered with draft quotes",
+          "hours": 12,
+          "setup": 790,
+          "monthly": 780
         },
         {
           "n": 2,
-          "title": "Event quotes prepared in under an hour",
+          "title": "Routine HR questions answered from policies and rosters",
           "hours": 10,
-          "setup": 1290,
-          "monthly": 650
-        }
-      ],
-      "setup": 3870,
-      "monthly": 2730,
-      "hours": 42,
-      "value_monthly": 9093
-    },
-    "full": {
-      "items": [
-        {
-          "n": 1,
-          "title": "Reservation emails and phone requests handled faster",
-          "hours": 18,
-          "setup": 1290,
-          "monthly": 1170
-        },
-        {
-          "n": 4,
-          "title": "Rota gaps filled and holiday requests processed",
-          "hours": 14,
-          "setup": 1290,
-          "monthly": 910
-        },
-        {
-          "n": 2,
-          "title": "Event quotes prepared in under an hour",
-          "hours": 10,
-          "setup": 1290,
+          "setup": 790,
           "monthly": 650
         },
         {
           "n": 3,
-          "title": "Supplier invoices entered and matched",
-          "hours": 12,
+          "title": "Daily sales and labor summary ready before opening",
+          "hours": 15,
           "setup": 1290,
+          "monthly": 970
+        }
+      ],
+      "setup": 2870,
+      "monthly": 2400,
+      "hours": 37,
+      "value_monthly": 8011
+    },
+    "full": {
+      "items": [
+        {
+          "n": 5,
+          "title": "Allergen questions checked against menu records",
+          "hours": 20,
+          "setup": 1890,
+          "monthly": 1300
+        },
+        {
+          "n": 1,
+          "title": "Event inquiries answered with draft quotes",
+          "hours": 12,
+          "setup": 790,
           "monthly": 780
         },
         {
-          "n": 5,
-          "title": "Guest reviews answered within one day",
-          "hours": 8,
-          "setup": 790,
-          "monthly": 520
-        },
-        {
-          "n": 6,
-          "title": "Prep lists and supplier orders drafted overnight",
-          "hours": 10,
+          "n": 4,
+          "title": "Supplier orders drafted from stock and par levels",
+          "hours": 18,
           "setup": 1290,
-          "monthly": 650
+          "monthly": 1170
         },
         {
           "n": 7,
-          "title": "Allergen answers ready for waitstaff",
-          "hours": 8,
+          "title": "Supplier invoices entered and matched",
+          "hours": 16,
           "setup": 1290,
-          "monthly": 520
+          "monthly": 1040
+        },
+        {
+          "n": 3,
+          "title": "Daily sales and labor summary ready before opening",
+          "hours": 15,
+          "setup": 1290,
+          "monthly": 970
+        },
+        {
+          "n": 2,
+          "title": "Routine HR questions answered from policies and rosters",
+          "hours": 10,
+          "setup": 790,
+          "monthly": 650
         },
         {
           "n": 8,
-          "title": "Daily sales and covers report ready by 9am",
-          "hours": 6,
+          "title": "Interviews scheduled and onboarding paperwork chased",
+          "hours": 10,
           "setup": 790,
-          "monthly": 390
+          "monthly": 650
         },
         {
-          "n": 9,
-          "title": "New hire onboarding paperwork chased automatically",
-          "hours": 6,
+          "n": 6,
+          "title": "Guest review replies drafted for approval",
+          "hours": 8,
           "setup": 790,
-          "monthly": 390
+          "monthly": 520
         }
       ],
-      "setup": 10110,
-      "monthly": 5980,
-      "hours": 92,
-      "value_monthly": 19918
+      "setup": 8920,
+      "monthly": 7080,
+      "hours": 109,
+      "value_monthly": 23599
     },
     "rate": 50,
     "free_setup_months": 4
   },
   "totals": {
-    "hours_week": 92,
-    "annual_hours": 4232,
-    "annual_value": 211600,
-    "fte": 2.3,
-    "opportunities": 9,
+    "hours_week": 109,
+    "annual_hours": 5014,
+    "annual_value": 250700,
+    "fte": 2.7,
+    "opportunities": 8,
     "employees": 120,
     "rate": 50
   },

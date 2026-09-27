@@ -5,180 +5,67 @@
 
 | Hours saved per week | Value per year | Roles freed up | Opportunities |
 |---:|---:|---:|---:|
-| **325h** | **$747,500** | **8.1 FTE** | **9** |
+| **144h** | **$331,200** | **3.6 FTE** | **8** |
 
-## Summary
-Evergreen Home Care runs 150 care workers across Glasgow with local authority and NHS funding, so small rota changes and record gaps quickly affect families and compliance. Your team already uses rostering software, mobile care notes, and Microsoft 365, but coordinators, seniors, and admin staff still spend hours on phone calls, spreadsheets, and chasing paperwork. The first wins are filling rota gaps faster, checking care notes, screening carer applications, and checking timesheets before payroll. Start with one or two agents in Care Coordination and Compliance, measure the hours saved, then add recruitment and finance. Keep humans approving care decisions and anything clinical.
+## Our recommendation
+**Start with rostering, care note quality, and carer recruitment agents; they reduce daily firefighting, improve records, and speed hiring.**
 
-## Company snapshot
-- **Industry:** Home care and social care services
-- **What they do:** Evergreen Home Care provides home care in Glasgow. You and your team send carers to elderly clients' homes for personal care, medication reminders, and daily living support. You also run nursing, scheduling, recruitment, compliance training, and office functions to keep visits covered and records up to date.
-- **Customers:** Elderly people and their families in Glasgow, often funded through local authorities or the NHS.
-- **Team size:** 201-1000 (estimate 210)
-- **Tools:** Rostering and care management software such as Birdie, Log m, Mobile care notes apps used by carers on phones, Microsoft 365 for email, documents, and spreadsheets, Payroll software such as Sage or Xero, HR and applicant tracking systems for recruitment, Learning management system for mandatory training records, Phone and messaging tools for on-call coordination
-- **AI maturity:** 2/5, Developing. You have rostering and mobile care notes in place, and Microsoft 365 is used across the office. Much of the rota, recruitment, invoice, and compliance work is still manual or spreadsheet based, so there is room to add simple agents without replacing your main systems.
+Evergreen Home Care runs visiting care across Greater Glasgow with about 210 staff, using rostering software, mobile care notes, an LMS, HR systems, and Microsoft 365 or Google Workspace. Demand for care is rising, but rota gaps, late care notes, and slow carer onboarding still pull coordinators, senior carers, and recruiters into manual admin that delays care and adds compliance risk.
 
-## Team and roles
-| Department | People | Roles |
-|---|---:|---|
-| Care Delivery | 150 | Care Worker (140), Senior Carer (8), Field Supervisor (2) |
-| Care Coordination | 18 | Care Coordinator (10), Scheduling Administrator (5), On-call Coordinator (3) |
-| Nursing and Clinical | 12 | Registered Nurse (9), Clinical Lead (2), Care Assessor (1) |
-| HR and Recruitment | 9 | Recruitment Coordinator (4), HR Administrator (3), Training Coordinator (2) |
-| Compliance and Training | 7 | Compliance Officer (3), Trainer (3), Quality Auditor (1) |
-| Admin and Finance | 9 | Finance Assistant (4), Payroll Officer (2), Office Administrator (2), Receptionist (1) |
-| Management | 5 | Registered Manager (1), Operations Manager (1), Care Manager (2), Business Administrator (1) |
+1. **Rota gaps, care notes, and recruitment admin absorb the most repetitive effort.** Care Coordination spends each morning rebuilding rotas and calling carers to cover cancellations. Senior Carers then chase incomplete notes, while HR screens applications and tracks PVG and references by hand. These tasks repeat daily and are easy to measure.
+2. **These three agents are high impact, low effort, and proven within weeks.** They use data already in rostering, mobile notes, and HR systems, so setup does not need new clinical decisions. They affect the largest teams and create quick proof for later nursing, compliance, and finance work.
+3. **Roll out in four weeks per agent with human approval and weekly checks.** Start with one coordinator pod, one carer group, and one recruitment queue. Keep humans approving rota changes, care note escalations, and interview invitations. After eight weeks, scale what works and retire what does not.
 
-## Opportunities
-| # | Opportunity | Department | Hours/week | Impact | Effort |
-|---:|---|---|---:|:-:|:-:|
-| 1 | Rota gaps filled faster | Care Coordination | 80 | 5/5 | 3/5 |
-| 2 | Care notes checked before they become problems | Compliance and Training | 35 | 4/5 | 2/5 |
-| 3 | Carer applications screened and interviews booked | HR and Recruitment | 45 | 4/5 | 2/5 |
-| 4 | Timesheets and invoices checked before payroll | Admin and Finance | 50 | 4/5 | 3/5 |
-| 5 | Care plan updates drafted for nurses | Nursing and Clinical | 30 | 4/5 | 4/5 |
-| 6 | Training certificates tracked and renewals booked | Compliance and Training | 25 | 3/5 | 2/5 |
-| 7 | Family questions answered and updates sent | Care Delivery | 25 | 3/5 | 3/5 |
-| 8 | Incidents and complaints logged and tracked | Compliance and Training | 20 | 3/5 | 3/5 |
-| 9 | Daily management report in your inbox | Management | 15 | 3/5 | 2/5 |
+**Phase 1 at a glance:** Last-minute carer cancellations filled faster · Care notes checked and missing details flagged · Carer applications screened and PVG tracked. About 77 hours a week back for $5,000/month (setup $3,370, free on a 4-month run).
 
-### 1. Rota gaps filled faster
-An agent watches your rota for gaps and cancellations. It checks carer availability, skills, and travel time, then drafts messages to the best-matched carers and proposes a fill for a coordinator to approve.
+## 1. Rota gaps, care notes, and recruitment admin absorb the most repetitive effort.
+Care Coordination spends each morning rebuilding rotas and calling carers to cover cancellations. Senior Carers then chase incomplete notes, while HR screens applications and tracks PVG and references by hand. These tasks repeat daily and are easy to measure.
 
-**Saves ~80h per week** · Roles: Care Coordinator, Scheduling Administrator, On-call Coordinator · Tools: Rostering and care management software, Phone and SMS, Microsoft 365, Email
+| Department | Hours saved / week | Share |
+|---|---:|---:|
+| Care Coordination | 43 | 30% |
+| Care Delivery | 30 | 21% |
+| HR and Recruitment | 22 | 15% |
+| Training and Compliance | 15 | 10% |
+| Office and Finance | 14 | 10% |
+| Nursing and Clinical | 12 | 8% |
+| Management | 8 | 6% |
 
-```mermaid
-flowchart LR
-  subgraph Today
-    B0["Coordinator spots a gap or gets a sick call"]
-    B1["Calls or texts carers one by one"]
-    B2["Waits for replies and checks travel time"]
-    B3["Updates the rota system"]
-    B4["Rings the client about the change"]
-    B0 --> B1 --> B2 --> B3 --> B4
-  end
-  subgraph WithAI[With AI]
-    A0["Agent flags the gap and suggests matched carers"]
-    A1["Agent drafts SMS or email to carers"]
-    A2["Agent collects replies and ranks options"]
-    A3["You: Coordinator confirms the fill and updates the rota"]
-    A4["Agent logs the change and drafts a client update"]
-    A0 --> A1 --> A2 --> A3 --> A4
-  end
-  classDef ai fill:#154899,color:#fff,stroke:#154899
-  classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
-  class A0,A1,A2,A4 ai
-  class A3 human
-```
+## 2. These three agents are high impact, low effort, and proven within weeks.
+They use data already in rostering, mobile notes, and HR systems, so setup does not need new clinical decisions. They affect the largest teams and create quick proof for later nursing, compliance, and finance work.
 
-### 2. Care notes checked before they become problems
-An agent scans mobile care notes each evening for missing entries, medication gaps, and changes in condition. It drafts a short exception list and follow-up messages for seniors to review.
+| # | Opportunity | Department | Hours/week | Impact | Effort | Phase |
+|---:|---|---|---:|:-:|:-:|:-:|
+| 1 | Last-minute carer cancellations filled faster | Care Coordination | 25 | 5/5 | 3/5 | 1 |
+| 2 | Care notes checked and missing details flagged | Care Delivery | 30 | 4/5 | 3/5 | 1 |
+| 3 | Carer applications screened and PVG tracked | HR and Recruitment | 22 | 4/5 | 2/5 | 1 |
+| 4 | Mandatory training renewals chased automatically | Training and Compliance | 15 | 4/5 | 2/5 | later |
+| 5 | Clinical records audits summarised for nurses | Nursing and Clinical | 12 | 4/5 | 4/5 | later |
+| 6 | Council invoices and unpaid invoices chased | Office and Finance | 14 | 4/5 | 3/5 | later |
+| 7 | Daily staffing risk report ready before 8am | Management | 8 | 4/5 | 3/5 | later |
+| 8 | Client and family routine calls answered and logged | Care Coordination | 18 | 3/5 | 2/5 | later |
 
-**Saves ~35h per week** · Roles: Quality Auditor, Senior Carer, Compliance Officer · Tools: Mobile care notes app, Microsoft 365, Email
+### 1. Last-minute carer cancellations filled faster (phase 1)
+The agent watches the daily rota for cancellations and gaps, checks carer skills, availability, and travel time, then sends cover requests and logs replies. It updates the scheduling system once a human coordinator confirms the change.
+
+**Saves ~25h per week** · Roles: Care Coordinator, Scheduling Assistant · Tools: Rostering and scheduling software, Mobile care notes app, SMS or messaging, Microsoft 365 or Google Workspace
 
 ```mermaid
 flowchart LR
   subgraph Today
-    B0["Senior carers spot-check a handful of notes"]
-    B1["Quality auditor samples records weekly"]
-    B2["Issues are emailed or mentioned in handover"]
-    B3["Action log updated by hand"]
-    B4["Manager reviews at month end"]
+    B0["Coordinator sees cancellation on screen or hears by phone"]
+    B1["Manually checks carer availability in rostering system"]
+    B2["Calls or messages carers one by one"]
+    B3["Updates the rota and informs the client or family"]
+    B4["Logs the change for payroll and care notes"]
     B0 --> B1 --> B2 --> B3 --> B4
   end
   subgraph WithAI[With AI]
-    A0["Agent scans all notes nightly"]
-    A1["Agent flags missing medication, falls, or skin issues"]
-    A2["Agent drafts follow-up messages to carers"]
-    A3["You: Senior or auditor reviews and sends"]
-    A4["Agent updates the action log"]
-    A0 --> A1 --> A2 --> A3 --> A4
-  end
-  classDef ai fill:#154899,color:#fff,stroke:#154899
-  classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
-  class A0,A1,A2,A4 ai
-  class A3 human
-```
-
-### 3. Carer applications screened and interviews booked
-An agent reads new carer applications, checks them against your basic criteria, and drafts replies. It books interview slots, sends reminders, and chases references and PVG checks.
-
-**Saves ~45h per week** · Roles: Recruitment Coordinator, HR Administrator · Tools: Applicant tracking system, Microsoft 365, Email, Calendar
-
-```mermaid
-flowchart LR
-  subgraph Today
-    B0["Coordinator opens each application"]
-    B1["Checks right to work, experience, and availability"]
-    B2["Sends reply and proposes interview times"]
-    B3["Chases references and PVG by email or phone"]
-    B4["Updates the applicant tracking system"]
-    B0 --> B1 --> B2 --> B3 --> B4
-  end
-  subgraph WithAI[With AI]
-    A0["Agent screens applications against your criteria"]
-    A1["Agent drafts replies and interview invites"]
-    A2["Agent books slots in the calendar"]
-    A3["Agent sends reference and PVG reminders"]
-    A4["You: Coordinator reviews, interviews, and makes decisions"]
-    A0 --> A1 --> A2 --> A3 --> A4
-  end
-  classDef ai fill:#154899,color:#fff,stroke:#154899
-  classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
-  class A0,A1,A2,A3 ai
-  class A4 human
-```
-
-### 4. Timesheets and invoices checked before payroll
-An agent pulls timesheets and rota data, checks pay rates, mileage, and shift lengths, and flags differences. It drafts invoices and pay queries for your team to approve.
-
-**Saves ~50h per week** · Roles: Finance Assistant, Payroll Officer · Tools: Sage or Xero, Rostering software, Microsoft 365, Email
-
-```mermaid
-flowchart LR
-  subgraph Today
-    B0["Timesheets arrive by app, email, or paper"]
-    B1["Payroll officer types hours and mileage"]
-    B2["Finance assistant checks rates and shifts"]
-    B3["Queries are emailed back and forth"]
-    B4["Invoices are created by hand"]
-    B0 --> B1 --> B2 --> B3 --> B4
-  end
-  subgraph WithAI[With AI]
-    A0["Agent pulls timesheets and rota data"]
-    A1["Agent checks rates, mileage, and shift lengths"]
-    A2["Agent flags differences and drafts queries"]
-    A3["You: Payroll or finance approves corrections"]
-    A4["Agent drafts invoices and updates the ledger"]
-    A0 --> A1 --> A2 --> A3 --> A4
-  end
-  classDef ai fill:#154899,color:#fff,stroke:#154899
-  classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
-  class A0,A1,A2,A4 ai
-  class A3 human
-```
-
-### 5. Care plan updates drafted for nurses
-An agent reads assessment notes, medication records, and GP letters, then drafts care plan updates and highlights what changed. A nurse reviews and approves before anything is saved.
-
-**Saves ~30h per week** · Roles: Registered Nurse, Care Assessor, Clinical Lead · Tools: Care management software, Microsoft 365, Email
-
-```mermaid
-flowchart LR
-  subgraph Today
-    B0["Nurse visits client and takes notes"]
-    B1["Nurse writes up assessment later"]
-    B2["Care plan updated manually in the system"]
-    B3["GP or hospital letter filed by hand"]
-    B4["Changes sent to coordinators by email"]
-    B0 --> B1 --> B2 --> B3 --> B4
-  end
-  subgraph WithAI[With AI]
-    A0["Agent reads assessment notes and letters"]
-    A1["Agent drafts care plan changes and flags risks"]
-    A2["You: Nurse reviews, edits, and approves"]
-    A3["Agent saves approved update and notifies coordinators"]
-    A4["Agent logs the change for audit"]
+    A0["Agent flags gaps and suggests best-matched carers"]
+    A1["Agent sends cover requests by SMS and app message"]
+    A2["You: Coordinator confirms the carer and any client impact"]
+    A3["Agent updates the rota and sends confirmations"]
+    A4["Agent logs the change for payroll and care notes"]
     A0 --> A1 --> A2 --> A3 --> A4
   end
   classDef ai fill:#154899,color:#fff,stroke:#154899
@@ -187,56 +74,27 @@ flowchart LR
   class A2 human
 ```
 
-### 6. Training certificates tracked and renewals booked
-An agent watches mandatory training dates, sends reminders to carers, and books renewal sessions. It updates the training log and flags anyone who cannot work until training is complete.
+### 2. Care notes checked and missing details flagged (phase 1)
+The agent reviews care notes after visits, checks them against the care plan, and flags missing medication, mood, eating, or safeguarding details. Senior Carers see a short list each morning and follow up with carers.
 
-**Saves ~25h per week** · Roles: Training Coordinator, Compliance Officer · Tools: Learning management system, Microsoft 365, Email, Calendar
-
-```mermaid
-flowchart LR
-  subgraph Today
-    B0["Coordinator opens spreadsheet of training dates"]
-    B1["Checks who is due for renewal"]
-    B2["Emails carers and managers"]
-    B3["Books sessions by hand"]
-    B4["Updates the training log"]
-    B0 --> B1 --> B2 --> B3 --> B4
-  end
-  subgraph WithAI[With AI]
-    A0["Agent checks training dates daily"]
-    A1["Agent sends reminders to carers and managers"]
-    A2["Agent books renewal sessions"]
-    A3["Agent updates the training log"]
-    A4["You: Coordinator handles exceptions and non-attendance"]
-    A0 --> A1 --> A2 --> A3 --> A4
-  end
-  classDef ai fill:#154899,color:#fff,stroke:#154899
-  classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
-  class A0,A1,A2,A3 ai
-  class A4 human
-```
-
-### 7. Family questions answered and updates sent
-An agent drafts routine updates to families about visit changes, late arrivals, or supply needs. It answers common questions by SMS or email and passes anything clinical or complex to a human.
-
-**Saves ~25h per week** · Roles: Senior Carer, Field Supervisor, Care Coordinator · Tools: Phone and SMS, Email, Care management software, Microsoft 365
+**Saves ~30h per week** · Roles: Home Care Assistant, Senior Carer · Tools: Mobile care notes app, Rostering and scheduling software, Microsoft 365 or Google Workspace, LMS for training records
 
 ```mermaid
 flowchart LR
   subgraph Today
-    B0["Family calls the office or carer"]
-    B1["Coordinator checks the rota and care notes"]
-    B2["Calls or emails the family back"]
-    B3["Logs the conversation"]
-    B4["Repeats for each family"]
+    B0["Carer writes notes on mobile app after visit"]
+    B1["Senior Carer opens each client record to check quality"]
+    B2["Missing details found days later by phone or visit"]
+    B3["Coordinator or nurse is told about changes manually"]
+    B4["Compliance officer audits notes and finds gaps"]
     B0 --> B1 --> B2 --> B3 --> B4
   end
   subgraph WithAI[With AI]
-    A0["Agent answers common questions from an approved script"]
-    A1["Agent drafts visit change updates"]
-    A2["Agent logs the contact"]
-    A3["You: Coordinator or senior handles clinical or unhappy famil"]
-    A4["Agent sends a follow-up if needed"]
+    A0["Carer submits care notes as usual"]
+    A1["Agent checks notes against care plan and required fields"]
+    A2["Agent sends carer a prompt for missing details"]
+    A3["You: Senior Carer reviews flagged notes and escalates concer"]
+    A4["Agent logs completed follow-ups for audit"]
     A0 --> A1 --> A2 --> A3 --> A4
   end
   classDef ai fill:#154899,color:#fff,stroke:#154899
@@ -245,27 +103,27 @@ flowchart LR
   class A3 human
 ```
 
-### 8. Incidents and complaints logged and tracked
-An agent reads incident emails and forms, pulls out the key facts, and drafts a log entry with actions. It tracks open actions and reminds owners before deadlines.
+### 3. Carer applications screened and PVG tracked (phase 1)
+The agent screens carer applications against role criteria, books interviews, and tracks PVG, references, and onboarding documents. It sends reminders and updates the HR system when a human confirms each step.
 
-**Saves ~20h per week** · Roles: Compliance Officer, Quality Auditor, Registered Manager · Tools: Microsoft 365, Incident system, Email
+**Saves ~22h per week** · Roles: Recruitment Coordinator, HR Administrator · Tools: HR and payroll software, PVG and reference checking portals, Email and calendar, Microsoft 365 or Google Workspace
 
 ```mermaid
 flowchart LR
   subgraph Today
-    B0["Incident reported by phone, email, or form"]
-    B1["Officer writes up details by hand"]
-    B2["Log updated in spreadsheet or system"]
-    B3["Actions emailed to managers"]
-    B4["Follow-up chased manually"]
+    B0["Recruitment coordinator reads each application"]
+    B1["Checks basic criteria by hand"]
+    B2["Books interviews by email or phone"]
+    B3["Tracks PVG and references in spreadsheet"]
+    B4["Sends onboarding paperwork manually"]
     B0 --> B1 --> B2 --> B3 --> B4
   end
   subgraph WithAI[With AI]
-    A0["Agent reads incident report and extracts facts"]
-    A1["Agent drafts log entry and action list"]
-    A2["You: Officer reviews and approves"]
-    A3["Agent sends actions to owners"]
-    A4["Agent reminds owners before deadlines"]
+    A0["Agent screens applications and ranks suitable candidates"]
+    A1["Agent sends interview slots and confirmation emails"]
+    A2["You: Recruitment coordinator confirms shortlist and intervie"]
+    A3["Agent tracks PVG, references, and document expiry"]
+    A4["Agent updates HR system and sends onboarding pack"]
     A0 --> A1 --> A2 --> A3 --> A4
   end
   classDef ai fill:#154899,color:#fff,stroke:#154899
@@ -274,81 +132,214 @@ flowchart LR
   class A2 human
 ```
 
-### 9. Daily management report in your inbox
-An agent gathers rota gaps, incidents, training compliance, and finance flags into one short daily email. You get the numbers and a plain summary without asking three teams for updates.
+### 4. Mandatory training renewals chased automatically
+The agent tracks training certificates and renewal dates, books refresher sessions, and reminds carers before certificates expire. It prepares a compliance view for audits.
 
-**Saves ~15h per week** · Roles: Business Administrator, Operations Manager, Registered Manager · Tools: Microsoft 365, Rostering software, Learning management system, Sage or Xero
+**Saves ~15h per week** · Roles: Training Coordinator, Compliance Officer · Tools: Learning management system, HR and payroll software, Email and SMS, Microsoft 365 or Google Workspace
 
 ```mermaid
 flowchart LR
   subgraph Today
-    B0["Manager asks coordinators for staffing numbers"]
-    B1["Admin pulls training and incident data"]
-    B2["Finance sends invoice or payroll flags"]
-    B3["Data copied into a spreadsheet"]
-    B4["Report written and emailed"]
+    B0["Training coordinator checks LMS and spreadsheets"]
+    B1["Finds carers with expired or soon-to-expire training"]
+    B2["Emails or calls carers to book refreshers"]
+    B3["Books external trainers manually"]
+    B4["Updates records after training is complete"]
     B0 --> B1 --> B2 --> B3 --> B4
   end
   subgraph WithAI[With AI]
-    A0["Agent pulls data from rostering, training, and finance"]
-    A1["Agent drafts a short daily summary"]
-    A2["Agent highlights changes since yesterday"]
-    A3["You: Manager reviews and asks questions"]
-    A4["Agent saves the report for audit"]
+    A0["Agent monitors certificate dates and flags renewals"]
+    A1["Agent sends reminders and booking links to carers"]
+    A2["You: Training coordinator approves exceptions and bookings"]
+    A3["Agent updates LMS and compliance records"]
+    A4["Agent prepares audit evidence list"]
     A0 --> A1 --> A2 --> A3 --> A4
   end
   classDef ai fill:#154899,color:#fff,stroke:#154899
   classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
-  class A0,A1,A2,A4 ai
-  class A3 human
+  class A0,A1,A3,A4 ai
+  class A2 human
 ```
 
-## Roadmap
-**Phase 1 (Weeks 1 to 4): Rota and care notes**
-- Connect rostering software, mobile care notes, and Microsoft 365
-- Set up rota gap agent for Care Coordination
-- Set up care note checker for Compliance and Training
-- Train coordinators and senior carers on approvals
-- Review hours saved and false alerts after two weeks
+### 5. Clinical records audits summarised for nurses
+The agent reviews medication and care plan records, drafts incident and safeguarding report summaries, and flags missing clinical information. Nurses approve or change every clinical conclusion.
 
-**Phase 2 (Weeks 5 to 12): Recruitment, training, and finance admin**
-- Add carer application screening and interview booking
-- Add reference and PVG chase reminders
-- Add training certificate tracker and renewal booking
-- Add timesheet and invoice checking agent
-- Agree who approves exceptions in HR and Finance
+**Saves ~12h per week** · Roles: Registered Nurse, Clinical Lead · Tools: Mobile care notes app, Clinical templates, Microsoft 365 or Google Workspace, Email and phone notes
 
-**Phase 3 (Months 4 to 6): Clinical, family, and management reporting**
-- Add care plan draft assistant for nurses
-- Add family update and common question agent
-- Add incident and complaint log assistant
-- Add daily management report
-- Review all agents with the Registered Manager and adjust scripts
+```mermaid
+flowchart LR
+  subgraph Today
+    B0["Nurse opens care plans and medication records one by one"]
+    B1["Checks hospital discharge notes and GP letters"]
+    B2["Writes incident or safeguarding report from scratch"]
+    B3["Speaks with GPs and district nurses by phone"]
+    B4["Clinical Lead audits records in batches"]
+    B0 --> B1 --> B2 --> B3 --> B4
+  end
+  subgraph WithAI[With AI]
+    A0["Agent gathers records and highlights gaps or changes"]
+    A1["Agent drafts incident or safeguarding summary"]
+    A2["You: Nurse reviews, edits, and approves clinical actions"]
+    A3["Agent files the report and logs follow-up tasks"]
+    A4["Agent prepares audit summary for Clinical Lead"]
+    A0 --> A1 --> A2 --> A3 --> A4
+  end
+  classDef ai fill:#154899,color:#fff,stroke:#154899
+  classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
+  class A0,A1,A3,A4 ai
+  class A2 human
+```
 
-## Risks
-- **Data protection and client confidentiality**: Use approved systems, limit access by role, keep audit logs, and sign off with your data protection lead before launch.
-- **Care quality could suffer if staff trust drafts without checking**: Keep human approval for care plans, medication, incidents, and family clinical questions. Spot-check agent output weekly.
-- **Staff may not use the agents**: Start with coordinators and seniors who feel the pain, give short training, and show time saved in their own rota.
-- **Integration limits with rostering or care notes software**: Check API access first. If no API, use email or spreadsheet exports and keep the first version simple.
-- **Too many alerts or wrong matches**: Set clear rules, start with one team, and review false positives after two weeks before expanding.
+### 6. Council invoices and unpaid invoices chased
+The agent reconciles timesheets with invoices, prepares council invoice queries, and chases overdue private client payments. It sends draft emails for a human to approve before they go out.
 
-## KPIs
-- Rota gaps filled within 30 minutes (percentage)
-- Care notes completed with no missing medication or personal care fields (percentage)
-- Time from carer application to interview booked (days)
-- Training compliance above 95 percent (percentage)
-- Payroll and invoice queries resolved within 2 working days (percentage)
-- Hours saved per week across live agents (number)
+**Saves ~14h per week** · Roles: Payroll and Finance Assistant, Administrator · Tools: Payroll and finance software, Council and NHS referral portals, Email, Microsoft 365 or Google Workspace
 
-## Quote: phase 1
+```mermaid
+flowchart LR
+  subgraph Today
+    B0["Finance assistant exports timesheets and visit data"]
+    B1["Checks visits against invoices by hand"]
+    B2["Raises queries with councils by email"]
+    B3["Chases unpaid invoices from a spreadsheet"]
+    B4["Updates finance system after payment"]
+    B0 --> B1 --> B2 --> B3 --> B4
+  end
+  subgraph WithAI[With AI]
+    A0["Agent matches timesheets to invoices and flags differences"]
+    A1["Agent drafts council queries and overdue reminders"]
+    A2["You: Finance assistant approves and sends messages"]
+    A3["Agent logs replies and updates finance system"]
+    A4["Agent reports aged debt weekly"]
+    A0 --> A1 --> A2 --> A3 --> A4
+  end
+  classDef ai fill:#154899,color:#fff,stroke:#154899
+  classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
+  class A0,A1,A3,A4 ai
+  class A2 human
+```
+
+### 7. Daily staffing risk report ready before 8am
+The agent pulls rota gaps, incidents, complaints, and overdue training into one morning brief. Managers get a short risk list with owners and suggested next steps.
+
+**Saves ~8h per week** · Roles: Registered Manager, Area Supervisor, Operations Manager · Tools: Rostering and scheduling software, Mobile care notes app, Learning management system, Microsoft 365 or Google Workspace
+
+```mermaid
+flowchart LR
+  subgraph Today
+    B0["Managers check rostering system for gaps"]
+    B1["Read incident emails and care note alerts"]
+    B2["Check complaints log and training compliance"]
+    B3["Call supervisors for updates"]
+    B4["Prepare notes for handover or meetings"]
+    B0 --> B1 --> B2 --> B3 --> B4
+  end
+  subgraph WithAI[With AI]
+    A0["Agent collects rota, incident, complaint, and training data"]
+    A1["Agent produces a one-page morning brief"]
+    A2["You: Manager reviews and assigns actions"]
+    A3["Agent sends actions to owners and tracks replies"]
+    A4["Agent updates brief through the day"]
+    A0 --> A1 --> A2 --> A3 --> A4
+  end
+  classDef ai fill:#154899,color:#fff,stroke:#154899
+  classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
+  class A0,A1,A3,A4 ai
+  class A2 human
+```
+
+### 8. Client and family routine calls answered and logged
+The agent answers common client and family calls, logs visit changes, sends confirmations, and escalates clinical or safeguarding concerns to a human. It keeps a clean contact history in the scheduling system.
+
+**Saves ~18h per week** · Roles: Scheduling Assistant, Care Coordinator · Tools: Phone system, Rostering and scheduling software, Contact log or CRM, Microsoft 365 or Google Workspace
+
+```mermaid
+flowchart LR
+  subgraph Today
+    B0["Family or client calls main line"]
+    B1["Scheduling assistant writes details on paper or screen"]
+    B2["Checks rota and calls coordinator for changes"]
+    B3["Updates scheduling system manually"]
+    B4["Returns call if information is missing"]
+    B0 --> B1 --> B2 --> B3 --> B4
+  end
+  subgraph WithAI[With AI]
+    A0["Agent answers routine calls and captures details"]
+    A1["Agent checks rota and proposes change options"]
+    A2["You: Coordinator approves visit changes or clinical escalati"]
+    A3["Agent sends confirmation to family and updates system"]
+    A4["Agent logs call and flags unresolved issues"]
+    A0 --> A1 --> A2 --> A3 --> A4
+  end
+  classDef ai fill:#154899,color:#fff,stroke:#154899
+  classDef human fill:#FFF1E2,color:#B8600F,stroke:#F98F2C
+  class A0,A1,A3,A4 ai
+  class A2 human
+```
+
+## 3. Roll out in four weeks per agent with human approval and weekly checks.
+Start with one coordinator pod, one carer group, and one recruitment queue. Keep humans approving rota changes, care note escalations, and interview invitations. After eight weeks, scale what works and retire what does not.
+
+**Phase 1 (Weeks 1 to 8): Prove three agents on one coordinator pod, one carer group, and one recruitment queue**
+- Set up rota gap agent with Care Coordination and confirm approval rules.
+- Connect care note checking to mobile notes for one carer group.
+- Pilot carer screening and PVG tracking in HR.
+- Agree weekly review, data protection rules, and success measures.
+
+**Phase 2 (Months 3 to 5): Scale what works and add training, clinical, and finance agents**
+- Extend rota and care note agents to all coordinators and carer groups.
+- Add training renewal and clinical audit agents with human review.
+- Add invoice reconciliation and routine call agents.
+- Train team leads to own each agent and its exceptions.
+
+**Phase 3 (Months 6 to 9): Run a managed AI operations layer across departments**
+- Connect agents to one reporting view for managers.
+- Review accuracy, time saved, and compliance impact each month.
+- Replace low-value agents and expand high-value ones.
+- Keep a named human owner for every clinical, safeguarding, and HR decision.
+
+**Risks**
+- **Care notes and personal data are sensitive.**: Use role-based access, data processing agreements, audit logs, and keep client records inside approved systems.
+- **Staff may not trust agent suggestions.**: Pilot with volunteers, show how to override, and measure accuracy weekly.
+- **Poor integration with rostering or care notes software.**: Start with export and import or APIs where available, and keep human confirmation until stable.
+- **Safeguarding or clinical issues may be missed.**: Route all clinical and safeguarding flags to a named human reviewer within one hour.
+- **Agent answers may upset families.**: Limit phone agent to routine questions, use clear scripts, and transfer complex calls to a person.
+
+**KPIs**
+- Rota gaps filled within 30 minutes
+- Care notes completed within 15 minutes of visit end
+- Carer application to interview time in days
+- Mandatory training compliance rate
+- Council invoice query resolution days
+- Coordinator overtime hours per week
+
+## Investment: phase 1 costs $5,000 a month and gives back $16,671 a month in time
 | Agent | Saves | Setup | Monthly |
 |---|---:|---:|---:|
-| Rota gaps filled faster | 80h/wk | $1,290 | $2,900 |
-| Carer applications screened and interviews booked | 45h/wk | $790 | $2,900 |
-| Care notes checked before they become problems | 35h/wk | $790 | $2,270 |
-| **Total** | **160h/wk** | **$2,870** | **$8,070** |
+| Last-minute carer cancellations filled faster | 25h/wk | $1,290 | $1,620 |
+| Care notes checked and missing details flagged | 30h/wk | $1,290 | $1,950 |
+| Carer applications screened and PVG tracked | 22h/wk | $790 | $1,430 |
+| **Total** | **77h/wk** | **$3,370** | **$5,000** |
 
-Setup is free when the agents run for 4 months. Full rollout of all 9 opportunities: $10,210 setup, $18,430/month.
+Setup is free when the agents run for 4 months. Full rollout of all 8 opportunities: $9,420 setup, $9,350/month.
+
+## Appendix: background
+- **Industry:** Home care and social care
+- **What they do:** Evergreen Home Care is a home care provider in Glasgow with about 210 employees. Your team mostly delivers visiting care to older adults in their own homes, backed by coordinators, nurses, HR and office staff. You recruit carers constantly and manage rosters, care notes, compliance training and council or NHS referrals.
+- **Customers:** Older adults and their families in Glasgow, plus local councils and NHS teams that fund or refer care packages.
+- **Team size:** 201-1000 (estimate 210)
+- **Tools:** Care rostering and scheduling software, Mobile care notes app, Learning management system for mandatory training, HR and payroll software, Microsoft 365 or Google Workspace, PVG and reference checking portals, Council and NHS referral portals
+- **AI maturity:** 2/5, Early. You have solid digital tools for rostering, care notes, training, and HR, but no visible AI in daily operations. Start with narrow agents on existing data and keep humans in the loop.
+
+| Department | People | Roles |
+|---|---:|---|
+| Care Delivery | 150 | Home Care Assistant (140), Senior Carer (10) |
+| Care Coordination | 18 | Care Coordinator (12), Scheduling Assistant (6) |
+| Nursing and Clinical | 12 | Registered Nurse (8), Clinical Lead (4) |
+| HR and Recruitment | 8 | Recruitment Coordinator (5), HR Administrator (3) |
+| Training and Compliance | 6 | Training Coordinator (3), Compliance Officer (3) |
+| Office and Finance | 10 | Administrator (4), Payroll and Finance Assistant (3), Data and Systems Administrator (3) |
+| Management | 6 | Registered Manager (2), Operations Manager (1), Area Supervisor (3) |
 
 ---
 Want this for your own company? **[Get your free AI strategy →](https://completeaistrategy.com)**

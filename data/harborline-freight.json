@@ -6,21 +6,20 @@
     "url": null
   },
   "prepared_for": null,
-  "created_at": "2026-09-27T10:02:23.047Z",
+  "created_at": "2026-09-27T11:16:10.627Z",
   "profile": {
     "company": {
       "name": "Harborline Freight",
       "industry": "Freight forwarding and logistics",
-      "summary": "Harborline Freight is a road and sea freight forwarder based in Rotterdam, Netherlands. You book container and truck transport for importers, handle customs paperwork, track shipments, and invoice clients. Your team of about 85 people runs planning, customs, customer service, finance, sales, and warehouse operations.",
+      "summary": "Harborline Freight is a road and sea freight forwarder based in Rotterdam, Netherlands. You and your team book container and truck transport for importers, handle customs paperwork, track shipments, and invoice clients. The company has about 85 employees across planning, customs, customer service, finance, sales, and warehouse.",
       "offerings": [
-        "Road freight forwarding",
-        "Sea freight forwarding",
-        "Customs clearance and paperwork",
+        "Road freight forwarding for truck transport",
+        "Sea freight forwarding for container transport",
+        "Customs paperwork and import declarations",
         "Shipment tracking and status updates",
-        "Client invoicing and billing",
-        "Warehousing and cargo handling"
+        "Client invoicing and billing"
       ],
-      "customers": "Importers and exporters that need road and sea transport, customs clearance, and shipment visibility. Likely small to mid-sized trading companies and manufacturers shipping into and out of Europe.",
+      "customers": "Importers that need container and truck transport into and through the Netherlands and Europe.",
       "locations": [
         "Rotterdam, Netherlands"
       ],
@@ -37,34 +36,36 @@
     "departments": [
       {
         "name": "Planning",
-        "headcount_estimate": 15,
+        "headcount_estimate": 18,
         "roles": [
           {
             "title": "Freight Planner",
-            "count_estimate": 7,
+            "count_estimate": 8,
             "repetitive_tasks": [
-              "Checking carrier schedules",
-              "Booking container slots",
-              "Updating transport plans in the TMS",
-              "Matching loads to available trucks"
+              "Check new bookings against capacity",
+              "Assign trucks and containers to loads",
+              "Update the TMS with route changes",
+              "Flag delays to customer service"
             ]
           },
           {
-            "title": "Route Optimizer",
-            "count_estimate": 4,
+            "title": "Route Coordinator",
+            "count_estimate": 6,
             "repetitive_tasks": [
-              "Comparing route options",
-              "Adjusting plans for delays",
-              "Confirming pickup times with drivers"
+              "Confirm pickup and delivery times",
+              "Share route details with drivers",
+              "Track on-time performance",
+              "Resolve minor route conflicts"
             ]
           },
           {
-            "title": "Capacity Coordinator",
+            "title": "Capacity Buyer",
             "count_estimate": 4,
             "repetitive_tasks": [
-              "Tracking available truck and container space",
-              "Sending booking confirmations",
-              "Recording capacity data in Excel"
+              "Request rates from carriers",
+              "Compare truck and container prices",
+              "Book extra capacity",
+              "Keep rate notes in Excel"
             ]
           }
         ]
@@ -75,21 +76,32 @@
         "roles": [
           {
             "title": "Customs Declarant",
-            "count_estimate": 8,
+            "count_estimate": 7,
             "repetitive_tasks": [
-              "Filling customs declaration forms",
-              "Looking up HS codes",
-              "Checking import and export documents",
-              "Submitting declarations to customs authorities"
+              "Prepare import declarations",
+              "Classify goods with tariff codes",
+              "Submit documents to customs",
+              "Fix rejected entries"
             ]
           },
           {
-            "title": "Compliance Specialist",
-            "count_estimate": 4,
+            "title": "Customs Assistant",
+            "count_estimate": 3,
             "repetitive_tasks": [
-              "Reviewing customs regulations updates",
-              "Auditing declaration accuracy",
-              "Keeping client compliance records"
+              "Collect invoices and packing lists",
+              "Check declaration details",
+              "Upload documents to customs portals",
+              "Update the TMS with clearance status"
+            ]
+          },
+          {
+            "title": "Compliance Clerk",
+            "count_estimate": 2,
+            "repetitive_tasks": [
+              "Track changes in customs rules",
+              "Check licenses and permits",
+              "Keep compliance records",
+              "Support audits"
             ]
           }
         ]
@@ -99,21 +111,33 @@
         "headcount_estimate": 15,
         "roles": [
           {
-            "title": "Account Coordinator",
-            "count_estimate": 8,
+            "title": "Customer Service Rep",
+            "count_estimate": 10,
             "repetitive_tasks": [
-              "Answering shipment status emails",
-              "Updating tracking sheets in Excel",
-              "Sending delay notifications to clients"
+              "Answer shipment status emails",
+              "Log customer requests in the TMS",
+              "Send arrival notices",
+              "Escalate delays to planning"
             ]
           },
           {
-            "title": "Tracking Specialist",
-            "count_estimate": 7,
+            "title": "Shipment Tracker",
+            "count_estimate": 3,
             "repetitive_tasks": [
-              "Checking carrier tracking portals",
-              "Logging shipment events in the TMS",
-              "Handling basic customer complaints"
+              "Check carrier tracking pages",
+              "Update shipment milestones",
+              "Send daily status reports",
+              "Flag missing updates"
+            ]
+          },
+          {
+            "title": "Claims Handler",
+            "count_estimate": 2,
+            "repetitive_tasks": [
+              "Open damage and loss claims",
+              "Collect claim evidence",
+              "Track claim progress",
+              "Update finance on credits"
             ]
           }
         ]
@@ -126,84 +150,122 @@
             "title": "Accounts Receivable Clerk",
             "count_estimate": 4,
             "repetitive_tasks": [
-              "Generating invoices in Exact Online",
-              "Matching payments to invoices",
-              "Chasing overdue payments by email"
+              "Create client invoices from shipment data",
+              "Match invoices to job files",
+              "Chase overdue payments",
+              "Record payments in Exact Online"
             ]
           },
           {
             "title": "Accounts Payable Clerk",
             "count_estimate": 3,
             "repetitive_tasks": [
-              "Entering supplier bills",
-              "Scheduling payment runs",
-              "Checking invoice details against contracts"
+              "Enter carrier invoices",
+              "Match carrier bills to bookings",
+              "Query rate differences",
+              "Prepare payment runs"
             ]
           },
           {
-            "title": "Billing Clerk",
-            "count_estimate": 3,
+            "title": "Billing Specialist",
+            "count_estimate": 2,
             "repetitive_tasks": [
-              "Preparing client billing statements",
-              "Resolving invoice questions",
-              "Recording billing adjustments"
+              "Check invoice accuracy",
+              "Fix billing errors",
+              "Send credit notes",
+              "Reconcile monthly billing"
+            ]
+          },
+          {
+            "title": "Finance Manager",
+            "count_estimate": 1,
+            "repetitive_tasks": [
+              "Review cash flow",
+              "Approve payment runs",
+              "Prepare management reports",
+              "Handle bank and audit requests"
             ]
           }
         ]
       },
       {
         "name": "Sales",
-        "headcount_estimate": 10,
+        "headcount_estimate": 8,
         "roles": [
           {
             "title": "Account Manager",
-            "count_estimate": 6,
+            "count_estimate": 4,
             "repetitive_tasks": [
-              "Preparing rate quotes",
-              "Following up on leads",
-              "Updating customer records in Excel"
+              "Quote road and sea rates",
+              "Follow up with importers",
+              "Review account volumes",
+              "Renew rate agreements"
             ]
           },
           {
-            "title": "Business Development Representative",
-            "count_estimate": 4,
+            "title": "Sales Rep",
+            "count_estimate": 3,
             "repetitive_tasks": [
-              "Sending proposals via Outlook",
-              "Researching potential clients",
-              "Logging sales activities"
+              "Call new importer leads",
+              "Send rate sheets",
+              "Log activity in Excel",
+              "Book introductory calls"
+            ]
+          },
+          {
+            "title": "Bid Coordinator",
+            "count_estimate": 1,
+            "repetitive_tasks": [
+              "Prepare tender documents",
+              "Gather rates from carriers",
+              "Check bid deadlines",
+              "Submit pricing packs"
             ]
           }
         ]
       },
       {
         "name": "Warehouse",
-        "headcount_estimate": 23,
+        "headcount_estimate": 22,
         "roles": [
           {
-            "title": "Warehouse Operator",
+            "title": "Warehouse Operative",
             "count_estimate": 12,
             "repetitive_tasks": [
-              "Scanning cargo labels",
-              "Loading and unloading trucks",
-              "Moving goods to storage areas"
+              "Load and unload cargo",
+              "Scan goods into storage",
+              "Pick orders for dispatch",
+              "Keep the floor clear"
             ]
           },
           {
             "title": "Forklift Driver",
             "count_estimate": 6,
             "repetitive_tasks": [
-              "Transporting pallets",
-              "Stacking containers",
-              "Checking load safety"
+              "Move pallets and containers",
+              "Load trucks",
+              "Check equipment daily",
+              "Report damage"
+            ]
+          },
+          {
+            "title": "Warehouse Supervisor",
+            "count_estimate": 2,
+            "repetitive_tasks": [
+              "Plan daily labor",
+              "Check loading accuracy",
+              "Handle safety briefings",
+              "Escalate issues to planning"
             ]
           },
           {
             "title": "Inventory Clerk",
-            "count_estimate": 5,
+            "count_estimate": 2,
             "repetitive_tasks": [
-              "Doing stock counts",
-              "Checking goods against paperwork",
-              "Updating inventory records in Excel"
+              "Count stock",
+              "Update inventory sheets",
+              "Investigate stock differences",
+              "Prepare warehouse documents"
             ]
           }
         ]
@@ -211,437 +273,501 @@
     ]
   },
   "strategy": {
-    "executive_summary": "Harborline Freight runs on a TMS, Exact Online, Outlook, and many Excel sheets. Your 85-person team handles planning, customs, service, finance, sales, and warehouse work, and most repetitive admin still sits with people. Start with customs declarations, shipment status replies, invoice matching, and quote prep. These are high-volume, document-heavy tasks where an agent can draft, check, and follow up while your team approves exceptions. Keep warehouse automation out of phase one because the work is mostly physical.",
+    "situation": "Harborline Freight runs road and sea freight forwarding from Rotterdam with about 85 staff across planning, customs, customer service, finance, sales, and warehouse. Most daily work runs through Outlook, Excel, a TMS, and Exact Online.",
+    "complication": "Bookings, customs paperwork, shipment tracking, and billing still depend on people copying data between email, spreadsheets, and the TMS. As volumes rise, delays and errors show up in customer updates, declarations, and invoices.",
+    "governing_thought": "Start with a shipment status agent, a customs declaration assistant, and an invoice matching agent to cut repetitive admin, speed customer answers, and free your team for exceptions.",
+    "key_arguments": [
+      {
+        "role": "where",
+        "headline": "Planning, customs, customer service, and finance carry most of the repetitive admin",
+        "support": "Shipment status questions, declaration preparation, and invoice matching repeat every day across four departments. These tasks follow clear rules and pull from systems you already use. They are also where small delays create customer complaints and billing disputes."
+      },
+      {
+        "role": "what",
+        "headline": "Shipment status, customs drafts, and invoice matching give fast proof with low effort",
+        "support": "Each of these three agents connects to Outlook and the TMS without replacing your core systems. Customs and invoice work keep a human approval step, so risk stays controlled. Customer service sees faster answers within weeks, which builds support for wider use."
+      },
+      {
+        "role": "how",
+        "headline": "Start with human review, then expand to planning, sales, warehouse, and compliance",
+        "support": "Run the first three agents with a named owner in each department and a daily review of outputs. Fix data gaps in the TMS before adding more connections. Once error rates and time savings hold, add planning, sales, carrier invoice, warehouse, and compliance agents in the same way."
+      }
+    ],
+    "executive_summary": "Harborline Freight runs road and sea freight forwarding from Rotterdam with about 85 staff across planning, customs, customer service, finance, sales, and warehouse. Most daily work runs through Outlook, Excel, a TMS, and Exact Online. Bookings, customs paperwork, shipment tracking, and billing still depend on people copying data between email, spreadsheets, and the TMS. As volumes rise, delays and errors show up in customer updates, declarations, and invoices. Start with a shipment status agent, a customs declaration assistant, and an invoice matching agent to cut repetitive admin, speed customer answers, and free your team for exceptions.",
     "maturity": {
       "score": 2,
-      "label": "Early",
-      "note": "You have core systems in place, but AI use is limited to occasional manual experiments. Data lives in TMS, Exact Online, Outlook, and Excel, so agents need careful mapping before they can act."
+      "label": "Early piloting",
+      "note": "You have core systems and practical Excel skills, but most repetitive work is still manual. A focused first wave of three agents can prove value before a wider rollout."
     },
     "opportunities": [
       {
-        "title": "Customs declarations drafted and checked before submission",
+        "title": "Shipment status questions answered automatically",
+        "department": "Customer Service",
+        "roles": [
+          "Customer Service Rep",
+          "Shipment Tracker"
+        ],
+        "description": "The agent reads shipment status emails, checks the TMS and carrier tracking pages, and drafts a reply with the latest milestone. It also sends daily arrival notices and flags shipments with no update for more than 24 hours.",
+        "before": [
+          "Customer emails ask where the container is",
+          "Rep opens TMS and carrier site",
+          "Rep copies milestone into email",
+          "Rep logs request in TMS",
+          "Tracker compiles daily report manually"
+        ],
+        "after": [
+          "Agent reads email and matches shipment ID",
+          "Agent pulls latest status from TMS and carrier pages",
+          "Agent drafts reply with milestone and expected date",
+          "Human: Rep reviews and sends replies for exceptions",
+          "Agent sends arrival notices and flags missing updates"
+        ],
+        "hours_saved_per_week": 32,
+        "impact": 5,
+        "effort": 2,
+        "tools": [
+          "Outlook",
+          "TMS",
+          "Carrier tracking portals"
+        ],
+        "phase1": true
+      },
+      {
+        "title": "Customs declarations prepared before review",
         "department": "Customs",
         "roles": [
           "Customs Declarant",
-          "Compliance Specialist"
+          "Customs Assistant"
         ],
-        "description": "An agent reads commercial invoices, packing lists, and transport documents, then suggests HS codes and fills the customs declaration. It flags gaps or mismatches for a declarant to review before submission.",
+        "description": "The agent collects invoices and packing lists from email, pulls shipment details from the TMS, and prepares a draft import declaration with suggested tariff codes. It checks the draft against past entries and submits only after a declarant approves.",
         "before": [
-          "Collect invoice, packing list, and transport documents",
-          "Look up HS codes manually",
-          "Type the declaration into the customs portal",
-          "Check details against the paperwork",
-          "Submit and save confirmation"
+          "Assistant collects invoices and packing lists",
+          "Declarant opens TMS and customs portal",
+          "Declarant classifies goods and types declaration",
+          "Declarant submits entry",
+          "Rejected entries are fixed manually"
         ],
         "after": [
-          "Agent reads new documents from Outlook and TMS",
-          "Agent suggests HS codes and fills the declaration",
-          "Human: Reviews exceptions and approves the declaration",
-          "Agent submits to the customs portal and logs the result",
-          "Human: Handles customs queries and audits"
+          "Agent collects documents from email and TMS",
+          "Agent drafts declaration and suggests tariff codes",
+          "Human: Declarant reviews and corrects codes",
+          "Agent submits approved entry to customs portal",
+          "Agent logs clearance status in TMS"
         ],
-        "hours_saved_per_week": 16,
-        "impact": 5,
-        "effort": 4,
-        "tools": [
-          "TMS",
-          "Outlook",
-          "Customs portal",
-          "Excel"
-        ]
-      },
-      {
-        "title": "Shipment status replies sent without manual portal checks",
-        "department": "Customer Service",
-        "roles": [
-          "Account Coordinator",
-          "Tracking Specialist"
-        ],
-        "description": "An agent checks carrier tracking portals and the TMS for each active shipment, then drafts status replies and delay notices. Your team reviews unusual cases and sends the final message.",
-        "before": [
-          "Open carrier portals one by one",
-          "Copy reference numbers",
-          "Update Excel tracking sheets",
-          "Write status emails",
-          "Send delay notices"
-        ],
-        "after": [
-          "Agent checks carrier portals and TMS on a schedule",
-          "Agent updates tracking sheet and drafts replies",
-          "Human: Reviews flagged delays and edits wording",
-          "Agent sends routine status updates",
-          "Human: Handles complaints and urgent reroutes"
-        ],
-        "hours_saved_per_week": 18,
+        "hours_saved_per_week": 30,
         "impact": 5,
         "effort": 3,
         "tools": [
-          "TMS",
-          "Carrier portals",
           "Outlook",
+          "TMS",
+          "Customs portal",
           "Excel"
-        ]
+        ],
+        "phase1": true
       },
       {
-        "title": "Invoice matching and overdue reminders handled daily",
+        "title": "Client invoices matched and prepared automatically",
         "department": "Finance",
         "roles": [
           "Accounts Receivable Clerk",
-          "Billing Clerk"
+          "Billing Specialist"
         ],
-        "description": "An agent pulls invoices from Exact Online, matches incoming payments, and drafts polite overdue reminders. It lists partial payments and disputes for a clerk to resolve.",
+        "description": "The agent builds draft client invoices from TMS shipment data and rate agreements, then matches each invoice to the job file. It checks for missing charges and routes only unclear cases to billing staff.",
         "before": [
-          "Generate invoices in Exact Online",
-          "Download bank payment files",
-          "Match payments to invoices in Excel",
-          "Check overdue list",
-          "Write reminder emails one by one"
+          "AR clerk exports shipment data from TMS",
+          "Clerk checks rate agreement in Excel",
+          "Clerk creates invoice in Exact Online",
+          "Clerk matches invoice to job file",
+          "Billing specialist fixes errors"
         ],
         "after": [
-          "Agent pulls invoices and payments from Exact Online",
-          "Agent matches payments and flags differences",
-          "Human: Reviews disputes and partial payments",
-          "Agent drafts and sends reminder emails",
-          "Human: Approves write-offs or payment plans"
+          "Agent pulls shipment data and rate agreement",
+          "Agent creates draft invoice in Exact Online",
+          "Agent matches invoice to job file and flags missing charges",
+          "Human: Billing specialist reviews flagged invoices",
+          "Agent posts approved invoices and updates tracker"
         ],
-        "hours_saved_per_week": 12,
-        "impact": 4,
-        "effort": 3,
-        "tools": [
-          "Exact Online",
-          "Outlook",
-          "Excel"
-        ]
-      },
-      {
-        "title": "Capacity updates and booking confirmations prepared for planners",
-        "department": "Planning",
-        "roles": [
-          "Capacity Coordinator",
-          "Freight Planner"
-        ],
-        "description": "An agent tracks available truck and container space from carrier updates and the TMS, then prepares booking confirmations and updates the capacity sheet. Planners step in when capacity is tight or a booking needs a decision.",
-        "before": [
-          "Check carrier emails and schedule pages",
-          "Update capacity Excel sheet",
-          "Draft booking confirmations",
-          "Send confirmations to carriers",
-          "Adjust plans in TMS"
-        ],
-        "after": [
-          "Agent reads carrier updates and TMS capacity data",
-          "Agent updates the capacity sheet",
-          "Agent drafts booking confirmations",
-          "Human: Reviews tight capacity and approves bookings",
-          "Agent sends confirmations and logs them in TMS"
-        ],
-        "hours_saved_per_week": 10,
+        "hours_saved_per_week": 24,
         "impact": 4,
         "effort": 3,
         "tools": [
           "TMS",
-          "Outlook",
+          "Exact Online",
           "Excel",
-          "Carrier portals"
-        ]
+          "Outlook"
+        ],
+        "phase1": true
       },
       {
-        "title": "Rate quotes prepared from your own rate sheets",
+        "title": "Capacity requests and rate comparisons handled faster",
+        "department": "Planning",
+        "roles": [
+          "Capacity Buyer",
+          "Freight Planner"
+        ],
+        "description": "The agent sends rate requests to regular carriers, collects replies, and puts truck and container prices into a comparison sheet. Planners see the best options first and approve bookings.",
+        "before": [
+          "Buyer emails carriers for rates",
+          "Replies arrive in different formats",
+          "Buyer copies rates into Excel",
+          "Buyer compares prices manually",
+          "Planner books capacity"
+        ],
+        "after": [
+          "Agent sends rate requests from approved carrier list",
+          "Agent reads replies and normalizes prices",
+          "Agent ranks options by price and transit time",
+          "Human: Buyer checks unusual rates and approves",
+          "Agent books approved capacity in TMS"
+        ],
+        "hours_saved_per_week": 18,
+        "impact": 4,
+        "effort": 3,
+        "tools": [
+          "Outlook",
+          "Excel",
+          "TMS"
+        ],
+        "phase1": false
+      },
+      {
+        "title": "Route change messages sent to drivers and customers",
+        "department": "Planning",
+        "roles": [
+          "Route Coordinator",
+          "Freight Planner"
+        ],
+        "description": "The agent watches the TMS for route changes and delay flags, then drafts driver instructions and customer delay notices. Coordinators approve messages before they go out.",
+        "before": [
+          "Planner updates route in TMS",
+          "Coordinator calls or emails driver",
+          "Coordinator emails customer service",
+          "Customer service informs customer",
+          "Changes are logged later"
+        ],
+        "after": [
+          "Agent detects route change in TMS",
+          "Agent drafts driver message and customer notice",
+          "Human: Coordinator reviews and approves",
+          "Agent sends messages and logs them in TMS",
+          "Agent updates on-time performance sheet"
+        ],
+        "hours_saved_per_week": 16,
+        "impact": 3,
+        "effort": 2,
+        "tools": [
+          "TMS",
+          "Outlook",
+          "Excel"
+        ],
+        "phase1": false
+      },
+      {
+        "title": "Carrier invoices checked against bookings",
+        "department": "Finance",
+        "roles": [
+          "Accounts Payable Clerk"
+        ],
+        "description": "The agent enters carrier invoices from email or PDF into Exact Online and matches them to the original booking. It flags rate differences for the AP clerk to review before payment.",
+        "before": [
+          "Carrier invoice arrives by email",
+          "AP clerk opens invoice PDF",
+          "Clerk finds booking in TMS",
+          "Clerk enters invoice in Exact Online",
+          "Clerk queries rate differences by email"
+        ],
+        "after": [
+          "Agent reads carrier invoice from email",
+          "Agent matches invoice to booking in TMS",
+          "Agent enters invoice in Exact Online",
+          "Agent flags rate differences",
+          "Human: AP clerk reviews flags and approves payment run"
+        ],
+        "hours_saved_per_week": 20,
+        "impact": 4,
+        "effort": 3,
+        "tools": [
+          "Outlook",
+          "TMS",
+          "Exact Online"
+        ],
+        "phase1": false
+      },
+      {
+        "title": "Rate quotes for importers drafted in minutes",
         "department": "Sales",
         "roles": [
           "Account Manager",
-          "Business Development Representative"
+          "Sales Rep"
         ],
-        "description": "An agent reads a quote request, finds the right rates in your Excel rate sheets and TMS, and drafts a quote in Outlook. Account managers set final prices and approve discounts.",
+        "description": "The agent gathers current road and sea rates from approved carrier lists and past quotes, then drafts a quote for the account manager to review. It also prepares follow-up emails for open quotes.",
         "before": [
-          "Read quote request email",
-          "Open rate sheets and TMS",
-          "Calculate route and surcharges",
-          "Type quote in Outlook",
-          "Follow up manually"
+          "Importer asks for a rate",
+          "Account manager checks carrier rate sheets",
+          "Manager builds quote in Excel",
+          "Manager emails quote",
+          "Manager follows up manually"
         ],
         "after": [
-          "Agent reads the request and pulls matching rates",
-          "Agent drafts the quote with options",
-          "Human: Checks margin and approves final price",
-          "Agent sends the quote and logs it",
-          "Agent follows up after three days"
+          "Agent reads quote request from email",
+          "Agent pulls current rates and past similar quotes",
+          "Agent drafts quote and follow-up email",
+          "Human: Account manager reviews and sends quote",
+          "Agent tracks quote status and reminds owner"
         ],
-        "hours_saved_per_week": 9,
+        "hours_saved_per_week": 15,
         "impact": 4,
         "effort": 2,
         "tools": [
           "Outlook",
           "Excel",
           "TMS"
-        ]
+        ],
+        "phase1": false
       },
       {
-        "title": "Goods checked against paperwork on arrival",
+        "title": "Warehouse inventory counts updated without paper",
         "department": "Warehouse",
         "roles": [
           "Inventory Clerk",
-          "Warehouse Operator"
+          "Warehouse Supervisor"
         ],
-        "description": "An agent compares scanned packing lists and labels against expected cargo data, then updates inventory records and flags short or damaged shipments. Warehouse staff still handle physical checks and put-away.",
+        "description": "The agent takes scanned goods data and updates inventory sheets, then flags count differences for the inventory clerk. Supervisors get a daily exception list instead of full manual counts.",
         "before": [
-          "Print paperwork for incoming load",
-          "Check labels against packing list",
-          "Note shortages or damage",
-          "Update inventory Excel sheet",
-          "File paperwork"
+          "Operatives scan goods into storage",
+          "Inventory clerk prints count sheets",
+          "Clerk counts stock by hand",
+          "Clerk updates Excel inventory sheet",
+          "Supervisor investigates differences"
         ],
         "after": [
-          "Agent reads scanned paperwork and TMS cargo data",
-          "Agent compares expected vs received details",
-          "Human: Checks physical cargo and confirms mismatches",
-          "Agent updates inventory records and flags issues",
-          "Human: Resolves damage claims or shortages"
+          "Agent pulls scan data from warehouse system",
+          "Agent updates inventory sheet",
+          "Agent flags differences above threshold",
+          "Human: Inventory clerk counts only flagged items",
+          "Agent sends daily exception report to supervisor"
         ],
-        "hours_saved_per_week": 8,
+        "hours_saved_per_week": 14,
         "impact": 3,
-        "effort": 3,
+        "effort": 4,
         "tools": [
+          "Warehouse scanner system",
           "Excel",
-          "TMS",
-          "Outlook",
-          "Scanner exports"
-        ]
+          "Outlook"
+        ],
+        "phase1": false
       },
       {
-        "title": "Supplier bills entered and checked before payment runs",
-        "department": "Finance",
-        "roles": [
-          "Accounts Payable Clerk"
-        ],
-        "description": "An agent reads supplier bills from Outlook, enters them in Exact Online, and checks amounts against contracts or rate agreements. A clerk approves the payment run and handles price disputes.",
-        "before": [
-          "Open supplier bill emails",
-          "Type bills into Exact Online",
-          "Check against contract or rate sheet",
-          "Flag differences manually",
-          "Prepare payment run list"
-        ],
-        "after": [
-          "Agent reads supplier bills from a shared mailbox",
-          "Agent enters bills in Exact Online",
-          "Agent checks amounts against contracts",
-          "Human: Reviews flagged differences and approves",
-          "Agent prepares the payment run list"
-        ],
-        "hours_saved_per_week": 8,
-        "impact": 3,
-        "effort": 3,
-        "tools": [
-          "Exact Online",
-          "Outlook",
-          "Excel"
-        ]
-      },
-      {
-        "title": "Customs rule changes summarized for your team",
+        "title": "Customs rule changes summarized for compliance",
         "department": "Customs",
         "roles": [
-          "Compliance Specialist",
-          "Customs Declarant"
+          "Compliance Clerk"
         ],
-        "description": "An agent watches official customs sites and newsletters, summarizes changes that affect your routes and products, and flags declarations that may need a second look. Compliance staff decide what to change.",
+        "description": "The agent monitors official customs and permit sources for changes that affect Harborline's lanes and goods. It drafts a short weekly summary and flags licenses that need review.",
         "before": [
-          "Visit customs websites",
-          "Skim newsletters",
-          "Copy relevant updates into emails",
-          "Check past declarations manually",
-          "Brief team in meetings"
+          "Clerk checks customs websites",
+          "Clerk reads long updates",
+          "Clerk notes possible impacts in a file",
+          "Clerk emails affected teams",
+          "License checks are done separately"
         ],
         "after": [
-          "Agent monitors customs sources and newsletters",
-          "Agent writes a short summary for your routes",
-          "Agent flags affected declarations",
-          "Human: Decides rule impact and training needs",
-          "Agent logs decisions for audit"
+          "Agent monitors official sources and trade news",
+          "Agent summarizes changes for your lanes",
+          "Agent flags licenses and permits to review",
+          "Human: Compliance clerk confirms impact and actions",
+          "Agent stores summary in compliance records"
         ],
-        "hours_saved_per_week": 5,
+        "hours_saved_per_week": 10,
         "impact": 3,
         "effort": 2,
         "tools": [
+          "Web sources",
           "Outlook",
-          "Customs websites",
           "Excel"
-        ]
+        ],
+        "phase1": false
       }
     ],
     "roadmap": [
       {
         "phase": "Phase 1",
-        "timeframe": "Weeks 1 to 4",
-        "title": "Pick two safe wins and set the rules",
+        "timeframe": "Weeks 1-6",
+        "title": "Prove three agents on everyday admin",
         "items": [
-          "Connect agents to Outlook and Excel only, no automatic sends.",
-          "Start with shipment status drafts and customs document pre-fill.",
-          "Write clear rules for when a human must approve.",
-          "Train one owner per department.",
-          "Review output daily for two weeks."
+          "Map shipment status emails, customs documents, and invoice data to TMS fields",
+          "Build the shipment status agent with a customer service review step",
+          "Build the customs declaration draft agent with declarant approval",
+          "Build the invoice matching agent with billing specialist review",
+          "Track time saved, reply speed, and error rates each week"
         ]
       },
       {
         "phase": "Phase 2",
-        "timeframe": "Weeks 5 to 12",
-        "title": "Add finance and planning agents",
+        "timeframe": "Weeks 7-14",
+        "title": "Connect planning, sales, and carrier invoice work",
         "items": [
-          "Connect Exact Online for invoice matching and supplier bills.",
-          "Connect TMS read access for planning capacity updates.",
-          "Run quote prep for two account managers.",
-          "Set exception queues for disputes, delays, and customs checks.",
-          "Measure hours saved and error rates weekly."
+          "Add capacity request and rate comparison agent for planning",
+          "Add route change message agent for drivers and customers",
+          "Add carrier invoice matching agent for accounts payable",
+          "Add rate quote drafting agent for sales",
+          "Review results with department owners before moving on"
         ]
       },
       {
         "phase": "Phase 3",
-        "timeframe": "Weeks 13 to 24",
-        "title": "Scale what works and stop what does not",
+        "timeframe": "Weeks 15-24",
+        "title": "Extend to warehouse and compliance, then scale what works",
         "items": [
-          "Expand customs and service agents to all teams.",
-          "Add warehouse paperwork check for one inbound dock.",
-          "Review every agent monthly against KPIs.",
-          "Remove agents that create more checks than they save.",
-          "Train new staff on human review steps."
+          "Add inventory update agent for warehouse scan data",
+          "Add customs rule summary agent for compliance",
+          "Tune first three agents based on six months of use",
+          "Set a monthly review of accuracy, time saved, and staff feedback",
+          "Decide which agents to expand to more teams or lanes"
         ]
       }
     ],
     "risks": [
       {
-        "risk": "Bad customs or HS code suggestions could cause delays or fines.",
-        "mitigation": "Keep a declarant approval on every declaration and sample audit 10 percent of agent drafts each week."
+        "risk": "Bad TMS data leads to wrong customer replies or invoices",
+        "mitigation": "Start with human review, add confidence flags, and clean key fields before each agent goes live."
       },
       {
-        "risk": "Clients may notice automated replies and lose trust.",
-        "mitigation": "Use your own tone, sign with a named coordinator, and review delay messages before sending for the first month."
+        "risk": "Customs mistakes create fines or delayed clearance",
+        "mitigation": "Keep declarant approval before submission, limit tariff suggestions, and store an audit log of every draft."
       },
       {
-        "risk": "Excel and TMS data may be messy, so agents give wrong answers.",
-        "mitigation": "Clean the rate sheets and key TMS fields before each rollout, and give agents read-only access at first."
+        "risk": "Staff worry that agents will replace their jobs",
+        "mitigation": "Explain that agents handle repetitive steps, train people for exception handling, and share time saved with the team."
       },
       {
-        "risk": "Staff may avoid the agents or use them in the wrong way.",
-        "mitigation": "Name a department owner, run short training, and track usage and exception rates in weekly meetings."
+        "risk": "Carrier portals change or block automated access",
+        "mitigation": "Use email and TMS data first, add portal access only where allowed, and keep manual fallback steps documented."
       },
       {
-        "risk": "Over-automation could hide problems until they get large.",
-        "mitigation": "Set approval limits and exception queues, and review agent logs every week for missed items."
+        "risk": "Invoice errors hurt cash flow or client trust",
+        "mitigation": "Run sample checks for the first month, set approval thresholds, and review a weekly reconciliation report."
       }
     ],
     "kpis": [
-      "Average time to answer a shipment status email",
-      "Customs declarations submitted with no correction",
-      "Overdue invoices older than 30 days as a share of total",
-      "Quote turnaround time from request to sent quote",
-      "Agent drafts approved without change",
-      "Hours saved per week across live agents"
+      "Share of shipment status emails answered within 2 hours",
+      "Customs declarations submitted without rejection",
+      "Invoice matching accuracy and days from shipment to invoice",
+      "Hours saved per week by team",
+      "Quote response time for importer requests",
+      "On-time customer update rate for delayed shipments"
     ]
   },
   "quote": {
     "phase1": {
       "items": [
         {
-          "n": 2,
-          "title": "Shipment status replies sent without manual portal checks",
-          "hours": 18,
-          "setup": 1290,
-          "monthly": 1170
-        },
-        {
           "n": 1,
-          "title": "Customs declarations drafted and checked before submission",
-          "hours": 16,
-          "setup": 1890,
-          "monthly": 1040
+          "title": "Shipment status questions answered automatically",
+          "hours": 32,
+          "setup": 790,
+          "monthly": 2080
         },
         {
-          "n": 5,
-          "title": "Rate quotes prepared from your own rate sheets",
-          "hours": 9,
-          "setup": 790,
-          "monthly": 580
+          "n": 2,
+          "title": "Customs declarations prepared before review",
+          "hours": 30,
+          "setup": 1290,
+          "monthly": 1950
+        },
+        {
+          "n": 3,
+          "title": "Client invoices matched and prepared automatically",
+          "hours": 24,
+          "setup": 1290,
+          "monthly": 1560
         }
       ],
-      "setup": 3970,
-      "monthly": 2790,
-      "hours": 43,
-      "value_monthly": 9310
+      "setup": 3370,
+      "monthly": 5590,
+      "hours": 86,
+      "value_monthly": 18619
     },
     "full": {
       "items": [
         {
+          "n": 1,
+          "title": "Shipment status questions answered automatically",
+          "hours": 32,
+          "setup": 790,
+          "monthly": 2080
+        },
+        {
           "n": 2,
-          "title": "Shipment status replies sent without manual portal checks",
+          "title": "Customs declarations prepared before review",
+          "hours": 30,
+          "setup": 1290,
+          "monthly": 1950
+        },
+        {
+          "n": 3,
+          "title": "Client invoices matched and prepared automatically",
+          "hours": 24,
+          "setup": 1290,
+          "monthly": 1560
+        },
+        {
+          "n": 7,
+          "title": "Rate quotes for importers drafted in minutes",
+          "hours": 15,
+          "setup": 790,
+          "monthly": 970
+        },
+        {
+          "n": 6,
+          "title": "Carrier invoices checked against bookings",
+          "hours": 20,
+          "setup": 1290,
+          "monthly": 1300
+        },
+        {
+          "n": 4,
+          "title": "Capacity requests and rate comparisons handled faster",
           "hours": 18,
           "setup": 1290,
           "monthly": 1170
         },
         {
-          "n": 1,
-          "title": "Customs declarations drafted and checked before submission",
+          "n": 5,
+          "title": "Route change messages sent to drivers and customers",
           "hours": 16,
-          "setup": 1890,
+          "setup": 790,
           "monthly": 1040
         },
         {
-          "n": 5,
-          "title": "Rate quotes prepared from your own rate sheets",
-          "hours": 9,
-          "setup": 790,
-          "monthly": 580
-        },
-        {
-          "n": 3,
-          "title": "Invoice matching and overdue reminders handled daily",
-          "hours": 12,
-          "setup": 1290,
-          "monthly": 780
-        },
-        {
-          "n": 4,
-          "title": "Capacity updates and booking confirmations prepared for planners",
+          "n": 9,
+          "title": "Customs rule changes summarized for compliance",
           "hours": 10,
-          "setup": 1290,
+          "setup": 790,
           "monthly": 650
         },
         {
-          "n": 6,
-          "title": "Goods checked against paperwork on arrival",
-          "hours": 8,
-          "setup": 1290,
-          "monthly": 520
-        },
-        {
-          "n": 7,
-          "title": "Supplier bills entered and checked before payment runs",
-          "hours": 8,
-          "setup": 1290,
-          "monthly": 520
-        },
-        {
           "n": 8,
-          "title": "Customs rule changes summarized for your team",
-          "hours": 5,
-          "setup": 790,
-          "monthly": 320
+          "title": "Warehouse inventory counts updated without paper",
+          "hours": 14,
+          "setup": 1890,
+          "monthly": 910
         }
       ],
-      "setup": 9920,
-      "monthly": 5580,
-      "hours": 86,
-      "value_monthly": 18619
+      "setup": 10210,
+      "monthly": 11630,
+      "hours": 179,
+      "value_monthly": 38754
     },
     "rate": 50,
     "free_setup_months": 4
   },
   "totals": {
-    "hours_week": 86,
-    "annual_hours": 3956,
-    "annual_value": 197800,
-    "fte": 2.2,
-    "opportunities": 8,
+    "hours_week": 179,
+    "annual_hours": 8234,
+    "annual_value": 411700,
+    "fte": 4.5,
+    "opportunities": 9,
     "employees": 85,
     "rate": 50
   },
