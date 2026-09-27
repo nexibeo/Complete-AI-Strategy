@@ -1,0 +1,718 @@
+{
+  "slug": "lumen-legal",
+  "example": true,
+  "company": {
+    "name": "Lumen Legal",
+    "url": null
+  },
+  "prepared_for": null,
+  "created_at": "2026-09-27T10:03:57.944Z",
+  "profile": {
+    "company": {
+      "name": "Lumen Legal",
+      "industry": "Legal services",
+      "summary": "Lumen Legal is a 45 person law firm in Antwerp, Belgium. You and your team advise employers and companies on employment and commercial law, draft and review contracts, track deadlines, and handle time registration and billing. Your clients are businesses that need practical legal support in Belgium.",
+      "offerings": [
+        "Employment law advice",
+        "Commercial law advice",
+        "Contract drafting and review",
+        "Document review and legal research",
+        "Deadline tracking and case management",
+        "Client intake and billing support"
+      ],
+      "customers": "Businesses, employers, and companies in Belgium, from small firms to larger enterprises needing employment and commercial law support.",
+      "locations": [
+        "Antwerp, Belgium"
+      ],
+      "size_band": "11-50",
+      "employee_estimate": 45,
+      "tech_signals": [
+        "Microsoft 365",
+        "Legal practice management software",
+        "Time and billing software",
+        "Document management system",
+        "E-signature tools",
+        "Client intake forms"
+      ],
+      "evidence_quality": "medium"
+    },
+    "departments": [
+      {
+        "name": "Employment Law",
+        "headcount_estimate": 12,
+        "roles": [
+          {
+            "title": "Employment Partner",
+            "count_estimate": 1,
+            "repetitive_tasks": [
+              "Reviewing matter status",
+              "Meeting clients on key cases",
+              "Approving final advice",
+              "Business development follow ups"
+            ]
+          },
+          {
+            "title": "Senior Employment Lawyer",
+            "count_estimate": 3,
+            "repetitive_tasks": [
+              "Drafting and reviewing employment contracts",
+              "Advising on dismissals and settlements",
+              "Tracking tribunal deadlines",
+              "Replying to client emails"
+            ]
+          },
+          {
+            "title": "Employment Associate",
+            "count_estimate": 5,
+            "repetitive_tasks": [
+              "Legal research",
+              "Drafting memos",
+              "Preparing case files",
+              "Updating matter notes"
+            ]
+          },
+          {
+            "title": "Employment Paralegal",
+            "count_estimate": 3,
+            "repetitive_tasks": [
+              "Organizing exhibits",
+              "Filing court documents",
+              "Scheduling meetings",
+              "Maintaining deadline calendars"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Commercial Law",
+        "headcount_estimate": 12,
+        "roles": [
+          {
+            "title": "Commercial Partner",
+            "count_estimate": 1,
+            "repetitive_tasks": [
+              "Setting contract strategy",
+              "Joining client negotiations",
+              "Approving bills",
+              "Allocating team work"
+            ]
+          },
+          {
+            "title": "Senior Commercial Lawyer",
+            "count_estimate": 3,
+            "repetitive_tasks": [
+              "Drafting commercial agreements",
+              "Reviewing supplier contracts",
+              "Advising on disputes",
+              "Managing transaction closings"
+            ]
+          },
+          {
+            "title": "Commercial Associate",
+            "count_estimate": 5,
+            "repetitive_tasks": [
+              "Running due diligence checks",
+              "Drafting board resolutions",
+              "Legal research",
+              "Updating deal checklists"
+            ]
+          },
+          {
+            "title": "Commercial Paralegal",
+            "count_estimate": 3,
+            "repetitive_tasks": [
+              "Document review",
+              "Managing data rooms",
+              "Coordinating signatures",
+              "Filing transaction documents"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Paralegal and Document Services",
+        "headcount_estimate": 8,
+        "roles": [
+          {
+            "title": "Senior Paralegal",
+            "count_estimate": 3,
+            "repetitive_tasks": [
+              "Reviewing discovery documents",
+              "Managing case files",
+              "Preparing trial bundles",
+              "Checking legal citations"
+            ]
+          },
+          {
+            "title": "Legal Assistant",
+            "count_estimate": 5,
+            "repetitive_tasks": [
+              "Formatting legal documents",
+              "Scheduling client appointments",
+              "Updating contact records",
+              "Sending deadline reminders"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Secretarial and Administration",
+        "headcount_estimate": 6,
+        "roles": [
+          {
+            "title": "Legal Secretary",
+            "count_estimate": 4,
+            "repetitive_tasks": [
+              "Typing and formatting letters",
+              "Managing calendars",
+              "Handling phone calls",
+              "Filing correspondence"
+            ]
+          },
+          {
+            "title": "Office Manager",
+            "count_estimate": 1,
+            "repetitive_tasks": [
+              "Ordering supplies",
+              "Coordinating IT support",
+              "Managing vendor contracts",
+              "Organizing office schedules"
+            ]
+          },
+          {
+            "title": "Receptionist",
+            "count_estimate": 1,
+            "repetitive_tasks": [
+              "Greeting clients",
+              "Answering calls",
+              "Sorting mail",
+              "Booking meeting rooms"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Finance and Billing",
+        "headcount_estimate": 5,
+        "roles": [
+          {
+            "title": "Finance Manager",
+            "count_estimate": 1,
+            "repetitive_tasks": [
+              "Reviewing monthly reports",
+              "Approving invoices",
+              "Managing budgets",
+              "Preparing partner distributions"
+            ]
+          },
+          {
+            "title": "Billing Specialist",
+            "count_estimate": 2,
+            "repetitive_tasks": [
+              "Reviewing time entries",
+              "Generating client invoices",
+              "Following up on unpaid bills",
+              "Processing write offs"
+            ]
+          },
+          {
+            "title": "Bookkeeper",
+            "count_estimate": 2,
+            "repetitive_tasks": [
+              "Recording expenses",
+              "Reconciling bank statements",
+              "Entering supplier invoices",
+              "Preparing VAT filings"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Management and Operations",
+        "headcount_estimate": 2,
+        "roles": [
+          {
+            "title": "Managing Partner",
+            "count_estimate": 1,
+            "repetitive_tasks": [
+              "Setting firm strategy",
+              "Reviewing performance",
+              "Handling client escalations",
+              "Overseeing compliance"
+            ]
+          },
+          {
+            "title": "Operations Manager",
+            "count_estimate": 1,
+            "repetitive_tasks": [
+              "Scheduling staff",
+              "Handling HR admin",
+              "Managing vendors",
+              "Preparing reports"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "strategy": {
+    "executive_summary": "Lumen Legal is a 45 person firm where most of the work is done by hand: deadlines written into calendars one by one, contracts read end to end, time entries checked line by line, and clients answered from a shared inbox. You already have Microsoft 365, a practice management system, a document management system and time and billing software, which is the foundation these agents need. The realistic first year gain is around 60 hours a week across the firm, close to 3 to 4 percent of your capacity, focused on the tasks your lawyers and paralegals like least. Nothing an agent produces should leave the firm without a named person approving it, and every draft should point back to the source document. Start with deadlines, contract first-pass review and billing preparation, because those are the easiest to measure and the least risky.",
+    "maturity": {
+      "score": 2,
+      "label": "Early",
+      "note": "You have the systems in place (Microsoft 365, practice management, document management, time and billing) but almost no AI in daily work. Deadline tracking, contract review and time entry checks are still manual, so there is a clear starting point with low risk."
+    },
+    "opportunities": [
+      {
+        "title": "Contract first-pass review against your playbook",
+        "department": "Commercial Law",
+        "roles": [
+          "Senior Commercial Lawyer",
+          "Commercial Associate",
+          "Commercial Paralegal"
+        ],
+        "description": "An agent reads each incoming contract and compares the clauses against your firm's standard positions and fallback wording. It returns a short list of deviations with the clause text and a link to the source, and a lawyer still makes every call.",
+        "before": [
+          "Open the contract and read it end to end",
+          "Search past matters for a similar agreement",
+          "Check each clause against your standard positions by hand",
+          "Write a note listing the deviations",
+          "Send it to the responsible lawyer for review"
+        ],
+        "after": [
+          "Agent collects the contract from the shared mailbox or document management system",
+          "Agent extracts the clauses and flags deviations from your playbook",
+          "Agent drafts a summary note with clause references and source links",
+          "Human: senior lawyer reviews the flagged list and decides what to push back on",
+          "Human: lawyer edits the note and sends the advice"
+        ],
+        "hours_saved_per_week": 10,
+        "impact": 5,
+        "effort": 3,
+        "tools": [
+          "Microsoft 365",
+          "Document management system",
+          "Practice management system"
+        ]
+      },
+      {
+        "title": "Deadline and tribunal calendar agent",
+        "department": "Employment Law",
+        "roles": [
+          "Employment Paralegal",
+          "Senior Employment Lawyer",
+          "Employment Associate"
+        ],
+        "description": "An agent watches incoming court and tribunal correspondence, pulls out each deadline and adds it to the matter calendar with reminders at 14, 7 and 2 days. Your paralegals keep the final check every morning.",
+        "before": [
+          "Read court letters and emails as they arrive",
+          "Write deadlines into the matter calendar by hand",
+          "Set reminders manually for each one",
+          "Check the calendar each week to see what is coming"
+        ],
+        "after": [
+          "Agent reads inbound court mail and email",
+          "Agent adds each deadline to the matter calendar with a link to the source document",
+          "Agent sends reminders at 14, 7 and 2 days",
+          "Human: paralegal checks new entries each morning and corrects anything wrong"
+        ],
+        "hours_saved_per_week": 8,
+        "impact": 5,
+        "effort": 3,
+        "tools": [
+          "Microsoft 365",
+          "Practice management system",
+          "Deadline calendar"
+        ]
+      },
+      {
+        "title": "Time entry review and draft invoices",
+        "department": "Finance and Billing",
+        "roles": [
+          "Billing Specialist",
+          "Finance Manager"
+        ],
+        "description": "An agent reviews the week's time entries against matter budgets and billing rules, flags entries with missing detail or the wrong matter, and prepares draft invoices. Nothing is sent until your billing team approves it.",
+        "before": [
+          "Export time entries to a spreadsheet",
+          "Read each line for a missing narrative or wrong matter",
+          "Email fee earners about gaps and wait for replies",
+          "Build each invoice by hand in the billing system"
+        ],
+        "after": [
+          "Agent exports time entries and checks them against matter rules and budgets",
+          "Agent emails fee earners a short list of entries that need more detail",
+          "Agent drafts the invoices in the billing system",
+          "Human: billing specialist reviews the drafts and sends them"
+        ],
+        "hours_saved_per_week": 8,
+        "impact": 4,
+        "effort": 3,
+        "tools": [
+          "Time and billing software",
+          "Microsoft 365",
+          "Practice management system"
+        ]
+      },
+      {
+        "title": "Document review and bundle preparation",
+        "department": "Paralegal and Document Services",
+        "roles": [
+          "Senior Paralegal",
+          "Legal Assistant"
+        ],
+        "description": "An agent reads a set of documents, groups them by type, date and issue, and builds a first pass index and bundle. It lists the citations it finds so a paralegal can check them against the source.",
+        "before": [
+          "Open each document one by one",
+          "Tag by type and date by hand",
+          "Build an index in Excel",
+          "Check citations in a legal database",
+          "Assemble the bundle and export it"
+        ],
+        "after": [
+          "Agent reads the document set and groups it by type, date and issue",
+          "Agent builds a draft index with page references",
+          "Agent lists the citations that need checking",
+          "Human: senior paralegal checks the index, corrects it and finalises the bundle"
+        ],
+        "hours_saved_per_week": 9,
+        "impact": 4,
+        "effort": 4,
+        "tools": [
+          "Document management system",
+          "Microsoft 365",
+          "Legal research database"
+        ]
+      },
+      {
+        "title": "Client question triage and draft replies",
+        "department": "Employment Law",
+        "roles": [
+          "Senior Employment Lawyer",
+          "Employment Associate",
+          "Employment Paralegal"
+        ],
+        "description": "An agent reads the shared client inbox, sorts questions by topic, client and urgency, and drafts replies to routine questions using your firm's standard answers. A lawyer reviews and sends every reply.",
+        "before": [
+          "Check the shared inbox several times a day",
+          "Forward each email to the right lawyer",
+          "Lawyer reads the thread history",
+          "Lawyer writes the reply from scratch"
+        ],
+        "after": [
+          "Agent sorts the inbox by topic, client and urgency",
+          "Agent drafts replies to routine questions using your standard answers",
+          "Agent routes anything unusual to the right lawyer with a short summary",
+          "Human: lawyer reviews the draft, edits it and sends it"
+        ],
+        "hours_saved_per_week": 7,
+        "impact": 4,
+        "effort": 3,
+        "tools": [
+          "Microsoft 365",
+          "Practice management system"
+        ]
+      },
+      {
+        "title": "New client intake and conflict check pack",
+        "department": "Secretarial and Administration",
+        "roles": [
+          "Legal Secretary",
+          "Receptionist",
+          "Office Manager"
+        ],
+        "description": "An agent takes inbound intake forms and emails, pulls out the key facts, creates the client record, and prepares a conflict check summary and a draft engagement letter for a person to approve.",
+        "before": [
+          "Reception forwards the enquiry to a secretary",
+          "Secretary retypes the client details into the practice system",
+          "Secretary emails the client for anything missing",
+          "Someone runs a name search for conflicts",
+          "Secretary drafts the engagement letter from a template"
+        ],
+        "after": [
+          "Agent reads the intake form and replies to the client for anything missing",
+          "Agent creates the client record in the practice system",
+          "Agent runs the conflict name check and drafts a short summary",
+          "Human: secretary confirms conflicts and sends the engagement letter"
+        ],
+        "hours_saved_per_week": 6,
+        "impact": 3,
+        "effort": 3,
+        "tools": [
+          "Client intake forms",
+          "Practice management system",
+          "Microsoft 365"
+        ]
+      },
+      {
+        "title": "Data room and signature coordination",
+        "department": "Commercial Law",
+        "roles": [
+          "Commercial Paralegal",
+          "Commercial Associate"
+        ],
+        "description": "An agent keeps the deal data room up to date, chases outstanding documents on a fixed schedule, and runs the e-signature sequence for closing documents. It sends a status note once a day.",
+        "before": [
+          "Paralegal uploads and names files by hand",
+          "Email each party for missing documents",
+          "Track signature status in a spreadsheet",
+          "Send reminders one at a time"
+        ],
+        "after": [
+          "Agent files and names incoming documents automatically",
+          "Agent chases missing items on a set schedule",
+          "Agent runs the e-signature sequence and tracks status",
+          "Human: paralegal checks the daily status note and steps in where needed"
+        ],
+        "hours_saved_per_week": 5,
+        "impact": 3,
+        "effort": 3,
+        "tools": [
+          "E-signature tools",
+          "Document management system",
+          "Microsoft 365"
+        ]
+      },
+      {
+        "title": "Client appointment scheduling and reminders",
+        "department": "Secretarial and Administration",
+        "roles": [
+          "Legal Secretary",
+          "Receptionist"
+        ],
+        "description": "An agent handles meeting requests by email, proposes times based on the lawyer's calendar, books the room or Teams link, and sends confirmation and a reminder the day before. Anything unusual goes to a secretary.",
+        "before": [
+          "Client emails or calls for an appointment",
+          "Secretary checks several calendars",
+          "Secretary emails back and forth to agree a time",
+          "Secretary books the room and sends a confirmation",
+          "Reminder sent by hand the day before"
+        ],
+        "after": [
+          "Agent reads the request and proposes times from calendar availability",
+          "Agent books the room or Teams link and confirms by email",
+          "Agent sends a reminder the day before with the agenda",
+          "Human: secretary handles reschedules and anything unusual"
+        ],
+        "hours_saved_per_week": 5,
+        "impact": 3,
+        "effort": 2,
+        "tools": [
+          "Microsoft 365",
+          "Practice management system"
+        ]
+      },
+      {
+        "title": "Weekly matter and performance reporting",
+        "department": "Management and Operations",
+        "roles": [
+          "Managing Partner",
+          "Operations Manager"
+        ],
+        "description": "An agent pulls matter status, deadlines and billing figures into a one page weekly report with the exceptions highlighted. It flags matters that are off budget or behind schedule.",
+        "before": [
+          "Partner asks each team lead for a status update",
+          "Operations manager copies figures from the billing system",
+          "Spreadsheet updated by hand",
+          "Report written and circulated"
+        ],
+        "after": [
+          "Agent pulls matter, deadline and billing data on a set schedule",
+          "Agent drafts the weekly report with exceptions highlighted",
+          "Human: operations manager checks the figures and sends the report"
+        ],
+        "hours_saved_per_week": 4,
+        "impact": 3,
+        "effort": 2,
+        "tools": [
+          "Practice management system",
+          "Time and billing software",
+          "Microsoft 365"
+        ]
+      }
+    ],
+    "roadmap": [
+      {
+        "phase": "Phase 1",
+        "timeframe": "Weeks 1 to 6",
+        "title": "Get the basics connected",
+        "items": [
+          "Connect Microsoft 365, your practice management system and your document management system to the agent platform",
+          "Write down one firm rule: nothing leaves the firm without a named person approving it",
+          "Set up the deadline and tribunal calendar agent for the Employment Law team",
+          "Set up appointment scheduling and reminders for reception",
+          "Name one owner per team who checks agent output and reports problems"
+        ]
+      },
+      {
+        "phase": "Phase 2",
+        "timeframe": "Weeks 7 to 16",
+        "title": "Move into the legal work",
+        "items": [
+          "Roll out contract first-pass review to Commercial Law, starting with supplier contracts",
+          "Roll out client question triage and draft replies to the Employment Law shared inbox",
+          "Roll out time entry review and draft invoices to Finance and Billing",
+          "Pilot document review and bundle preparation with two paralegals on one live case",
+          "Review hours saved and error rates at the end of week 12 before deciding on phase 3"
+        ]
+      },
+      {
+        "phase": "Phase 3",
+        "timeframe": "Weeks 17 to 30",
+        "title": "Cover the rest of the firm",
+        "items": [
+          "Add new client intake and conflict check packs",
+          "Add data room and signature coordination for Commercial Law transactions",
+          "Add weekly matter and performance reporting for the managing partner",
+          "Extend document review and bundle preparation to all paralegals",
+          "Review the full year of results with your compliance advisor and set targets for year two"
+        ]
+      }
+    ],
+    "risks": [
+      {
+        "risk": "Client and matter data going into tools that are not approved for it",
+        "mitigation": "Keep every agent inside your Microsoft 365 tenant and your existing systems, sign a data processing agreement with each supplier, leave client names out of prompts where they are not needed, and apply the same confidentiality rules you use today."
+      },
+      {
+        "risk": "A wrong draft from an agent being treated as final and sent to a client or a court",
+        "mitigation": "No agent output leaves the firm without a named lawyer or paralegal approving it, and every draft shows the source document and clause it came from. Reviewers check the source, not just the summary."
+      },
+      {
+        "risk": "Lawyers who bill by the hour do not use the tools",
+        "mitigation": "Start with the tasks nobody wants to do (deadlines, time entries, bundling), show the time saved on the first two live matters, and track use per team each month so you can see who has adopted it and who has not."
+      },
+      {
+        "risk": "Cost and setup time running past what you planned",
+        "mitigation": "Fix the scope of each phase, give each phase one owner, and stop and review before spending on the next phase. Do not start more than two new agents at once."
+      },
+      {
+        "risk": "GDPR and Belgian bar rules not being met for personal data in the tools",
+        "mitigation": "Keep a short data processing register, set retention limits on anything the agents store, and check the setup with your compliance advisor before phase 2 begins."
+      }
+    ],
+    "kpis": [
+      "Hours saved per week across the firm (target: around 60 by the end of phase 3)",
+      "Deadlines missed or entered late (target: zero)",
+      "Average working days from client question to reply",
+      "Share of draft invoices sent within 5 working days of month end",
+      "Average contract review turnaround in days",
+      "Share of agent drafts changed or rejected by a human reviewer (quality check)"
+    ]
+  },
+  "quote": {
+    "phase1": {
+      "items": [
+        {
+          "n": 1,
+          "title": "Contract first-pass review against your playbook",
+          "hours": 10,
+          "setup": 1290,
+          "monthly": 650
+        },
+        {
+          "n": 2,
+          "title": "Deadline and tribunal calendar agent",
+          "hours": 8,
+          "setup": 1290,
+          "monthly": 520
+        },
+        {
+          "n": 3,
+          "title": "Time entry review and draft invoices",
+          "hours": 8,
+          "setup": 1290,
+          "monthly": 520
+        }
+      ],
+      "setup": 3870,
+      "monthly": 1690,
+      "hours": 26,
+      "value_monthly": 5629
+    },
+    "full": {
+      "items": [
+        {
+          "n": 1,
+          "title": "Contract first-pass review against your playbook",
+          "hours": 10,
+          "setup": 1290,
+          "monthly": 650
+        },
+        {
+          "n": 2,
+          "title": "Deadline and tribunal calendar agent",
+          "hours": 8,
+          "setup": 1290,
+          "monthly": 520
+        },
+        {
+          "n": 3,
+          "title": "Time entry review and draft invoices",
+          "hours": 8,
+          "setup": 1290,
+          "monthly": 520
+        },
+        {
+          "n": 5,
+          "title": "Client question triage and draft replies",
+          "hours": 7,
+          "setup": 1290,
+          "monthly": 450
+        },
+        {
+          "n": 4,
+          "title": "Document review and bundle preparation",
+          "hours": 9,
+          "setup": 1890,
+          "monthly": 580
+        },
+        {
+          "n": 8,
+          "title": "Client appointment scheduling and reminders",
+          "hours": 5,
+          "setup": 790,
+          "monthly": 320
+        },
+        {
+          "n": 6,
+          "title": "New client intake and conflict check pack",
+          "hours": 6,
+          "setup": 1290,
+          "monthly": 390
+        },
+        {
+          "n": 9,
+          "title": "Weekly matter and performance reporting",
+          "hours": 4,
+          "setup": 790,
+          "monthly": 290
+        },
+        {
+          "n": 7,
+          "title": "Data room and signature coordination",
+          "hours": 5,
+          "setup": 1290,
+          "monthly": 320
+        }
+      ],
+      "setup": 11210,
+      "monthly": 4040,
+      "hours": 62,
+      "value_monthly": 13423
+    },
+    "rate": 50,
+    "free_setup_months": 4
+  },
+  "totals": {
+    "hours_week": 62,
+    "annual_hours": 2852,
+    "annual_value": 142600,
+    "fte": 1.6,
+    "opportunities": 9,
+    "employees": 45,
+    "rate": 50
+  },
+  "sources": [],
+  "model": "deepseek/deepseek-v4.1-flash"
+}

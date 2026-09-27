@@ -1,0 +1,648 @@
+{
+  "slug": "verdant-roots-landscaping",
+  "example": true,
+  "company": {
+    "name": "Verdant Roots Landscaping",
+    "url": null
+  },
+  "prepared_for": null,
+  "created_at": "2026-09-27T10:09:48.779Z",
+  "profile": {
+    "company": {
+      "name": "Verdant Roots Landscaping",
+      "industry": "Gardening and grounds maintenance",
+      "summary": "Verdant Roots Landscaping is a gardening and grounds maintenance company near Brisbane, Australia. You quote new garden projects, schedule field crews, run recurring maintenance contracts, invoice customers, and collect job photos. Your team is mostly field crews with a small office group handling sales, scheduling, and accounts.",
+      "offerings": [
+        "New garden design and planting",
+        "Recurring garden and lawn maintenance",
+        "Irrigation installation and repair",
+        "Outdoor paving, paths, and retaining walls",
+        "Tree, shrub, and hedge care",
+        "Green waste removal and site clean-up"
+      ],
+      "customers": "Homeowners, property managers, body corporates, schools, and small commercial sites around Brisbane and nearby suburbs.",
+      "locations": [
+        "Brisbane, Queensland, Australia",
+        "Brisbane surrounding suburbs"
+      ],
+      "size_band": "11-50",
+      "employee_estimate": 30,
+      "tech_signals": [
+        "No public website or software list found",
+        "Job scheduling and crew dispatch software such as ServiceM8 ",
+        "Quoting and invoicing tools such as Xero or QuickBooks",
+        "Mobile phones and tablets for job notes, checklists, and cus",
+        "Cloud photo storage such as Google Drive or Dropbox",
+        "Microsoft 365 or Google Workspace for office documents and e"
+      ],
+      "evidence_quality": "low"
+    },
+    "departments": [
+      {
+        "name": "Field Maintenance",
+        "headcount_estimate": 16,
+        "roles": [
+          {
+            "title": "Maintenance Crew Leader",
+            "count_estimate": 4,
+            "repetitive_tasks": [
+              "Daily job sheet review and crew briefing",
+              "Mowing, edging, and pruning checks",
+              "Photo capture before and after work",
+              "Timesheet and material use reporting"
+            ]
+          },
+          {
+            "title": "Gardener / Grounds Worker",
+            "count_estimate": 8,
+            "repetitive_tasks": [
+              "Mowing, edging, and weed control",
+              "Pruning hedges and shrubs",
+              "Loading green waste",
+              "Filling out paper or app job notes"
+            ]
+          },
+          {
+            "title": "Lawn Care Technician",
+            "count_estimate": 4,
+            "repetitive_tasks": [
+              "Applying fertiliser and weed treatment",
+              "Checking irrigation and spray equipment",
+              "Recording product use",
+              "Taking site photos"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Garden Projects",
+        "headcount_estimate": 8,
+        "roles": [
+          {
+            "title": "Project Supervisor",
+            "count_estimate": 2,
+            "repetitive_tasks": [
+              "Daily site checks and safety talks",
+              "Ordering materials and plants",
+              "Updating project notes",
+              "Coordinating subcontractors"
+            ]
+          },
+          {
+            "title": "Garden Installer",
+            "count_estimate": 5,
+            "repetitive_tasks": [
+              "Soil prep and planting",
+              "Laying paving and edging",
+              "Building retaining walls",
+              "Site clean-up and waste removal"
+            ]
+          },
+          {
+            "title": "Irrigation Technician",
+            "count_estimate": 1,
+            "repetitive_tasks": [
+              "Trenching and pipe installation",
+              "Testing sprinklers and drippers",
+              "Repairing leaks and valves",
+              "Recording parts used"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sales and Estimating",
+        "headcount_estimate": 2,
+        "roles": [
+          {
+            "title": "Estimator / Salesperson",
+            "count_estimate": 2,
+            "repetitive_tasks": [
+              "Site measurements and photo notes",
+              "Preparing quotes from price lists",
+              "Following up sent quotes",
+              "Revising scope and pricing"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Scheduling and Customer Service",
+        "headcount_estimate": 2,
+        "roles": [
+          {
+            "title": "Scheduler / Admin",
+            "count_estimate": 1,
+            "repetitive_tasks": [
+              "Booking and moving crews",
+              "Handling weather delays",
+              "Sending customer reminders",
+              "Updating job statuses"
+            ]
+          },
+          {
+            "title": "Customer Service Admin",
+            "count_estimate": 1,
+            "repetitive_tasks": [
+              "Answering calls and emails",
+              "Logging maintenance requests",
+              "Uploading customer photos",
+              "Chasing invoice queries"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Finance and Admin",
+        "headcount_estimate": 1,
+        "roles": [
+          {
+            "title": "Bookkeeper / Admin",
+            "count_estimate": 1,
+            "repetitive_tasks": [
+              "Invoice creation and sending",
+              "Accounts payable entry",
+              "Payroll support",
+              "Reconciling supplier statements"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Management",
+        "headcount_estimate": 1,
+        "roles": [
+          {
+            "title": "Owner / Manager",
+            "count_estimate": 1,
+            "repetitive_tasks": [
+              "Reviewing weekly job profitability",
+              "Approving quotes and invoices",
+              "Checking crew rosters",
+              "Responding to escalated customer issues"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "strategy": {
+    "executive_summary": "Most of your 30 staff are on tools, so the real AI wins sit with your five office staff and four crew leaders, who currently move every enquiry, quote, and schedule change by hand. Agents can triage enquiries, draft quotes from your price list, chase sent quotes, handle wet-weather rescheduling, and send invoice reminders, all inside ServiceM8, Xero, and the email you already use. Start with quote handling and reminders, which are low risk and should save about 11 hours a week in the first month. Across all three phases, expect roughly 25 to 30 hours back per week, worth around $30,000 a year in loaded wages, without changing how your crews work on site.",
+    "maturity": {
+      "score": 2,
+      "label": "Digitised but manual",
+      "note": "You already run ServiceM8, Xero, and mobile job apps, but the connections between them are people re-typing and forwarding. That makes your first automations cheap to set up, because the data is already in the cloud, it just never moves by itself."
+    },
+    "opportunities": [
+      {
+        "title": "Quote enquiries answered in minutes",
+        "department": "Sales and Estimating",
+        "roles": [
+          "Estimator / Salesperson",
+          "Customer Service Admin"
+        ],
+        "description": "An agent reads each new email or web enquiry, pulls out the address, job type, and photos, and creates a draft job in ServiceM8. It replies within minutes with your standard questions and an indicative price range, so your estimators spend time only on serious leads.",
+        "before": [
+          "Check email through the day and note new enquiries",
+          "Call or email back for address, access, and details",
+          "Visit site to measure and photograph",
+          "Type up the quote from your price list",
+          "Send it and chase when you remember"
+        ],
+        "after": [
+          "Agent: logs the enquiry and drafts a reply with clarifying questions within minutes",
+          "Human: reviews and sends the reply",
+          "Human: visits site only for qualified jobs",
+          "Agent: assembles a quote draft from your price list",
+          "Human: checks the numbers and sends"
+        ],
+        "hours_saved_per_week": 5,
+        "impact": 5,
+        "effort": 2,
+        "tools": [
+          "Email (Microsoft 365 or Google Workspace)",
+          "ServiceM8",
+          "Price list spreadsheet",
+          "Xero"
+        ]
+      },
+      {
+        "title": "Wet-weather rescheduling without phone tag",
+        "department": "Scheduling and Customer Service",
+        "roles": [
+          "Scheduler / Admin",
+          "Customer Service Admin",
+          "Maintenance Crew Leader"
+        ],
+        "description": "When rain stops work or a job runs long, the agent drafts a revised crew schedule, writes customer texts with new arrival windows, and updates job statuses in ServiceM8 for one-tap approval. A wet Brisbane week stops being a full day of phone calls.",
+        "before": [
+          "Rain forces last-minute changes to the day's jobs",
+          "Call each crew leader with new instructions",
+          "Ring or text each affected customer one by one",
+          "Update job statuses in ServiceM8 by hand",
+          "Spend the afternoon sorting out confused callbacks"
+        ],
+        "after": [
+          "Human: marks the affected jobs in the app",
+          "Agent: proposes a revised schedule and drafts customer texts",
+          "Human: approves or edits with one tap",
+          "Agent: sends messages, updates statuses, and logs the change"
+        ],
+        "hours_saved_per_week": 4,
+        "impact": 4,
+        "effort": 3,
+        "tools": [
+          "ServiceM8",
+          "SMS",
+          "Email",
+          "Weather feed"
+        ]
+      },
+      {
+        "title": "Routine customer questions handled without the phone",
+        "department": "Scheduling and Customer Service",
+        "roles": [
+          "Customer Service Admin",
+          "Scheduler / Admin"
+        ],
+        "description": "An agent answers routine email and SMS questions like next visit date, rain delays, and invoice copies using live job data from ServiceM8. It also turns maintenance request emails, including customer photos, into draft jobs so nothing sits in the inbox overnight.",
+        "before": [
+          "Answer the same questions by phone and email all day",
+          "Write down maintenance requests and retype them later",
+          "Upload customer photos to job records by hand",
+          "Requests that arrive after hours sit until someone checks the inbox"
+        ],
+        "after": [
+          "Agent: answers routine questions from live job data",
+          "Agent: converts request emails into draft jobs with photos attached",
+          "Human: handles calls and anything the agent is unsure about",
+          "Human: approves new jobs in ServiceM8"
+        ],
+        "hours_saved_per_week": 4,
+        "impact": 4,
+        "effort": 3,
+        "tools": [
+          "Email",
+          "SMS",
+          "ServiceM8",
+          "Google Drive"
+        ]
+      },
+      {
+        "title": "No quote goes cold",
+        "department": "Sales and Estimating",
+        "roles": [
+          "Estimator / Salesperson"
+        ],
+        "description": "The agent tracks every quote you send, sends polite follow-ups on day 3 and day 7 using your templates, and flags anything silent after two weeks for a phone call. Your estimator gets a short weekly list of who to call instead of guessing.",
+        "before": [
+          "Remember which quotes are still outstanding",
+          "Send follow-ups when there is spare time",
+          "Some quotes never get a second contact",
+          "Rebuild scope and pricing from scratch when customers finally reply"
+        ],
+        "after": [
+          "Agent: sends day 3 and day 7 follow-ups from your templates",
+          "Agent: records replies and updates quote status",
+          "Human: calls only the quotes the agent flags as cold",
+          "Human: revises scope with the customer when they re-engage"
+        ],
+        "hours_saved_per_week": 3,
+        "impact": 4,
+        "effort": 2,
+        "tools": [
+          "ServiceM8",
+          "Xero",
+          "Email"
+        ]
+      },
+      {
+        "title": "Invoice reminders sent and queries answered",
+        "department": "Finance and Admin",
+        "roles": [
+          "Bookkeeper / Admin",
+          "Customer Service Admin"
+        ],
+        "description": "The agent sends scheduled payment reminders from Xero and answers routine questions like invoice copies and bank details from your templates. Genuine disputes get flagged to you with a short summary so your bookkeeper only touches accounts that need a person.",
+        "before": [
+          "Notice overdue invoices in Xero",
+          "Send reminders when the day allows",
+          "Answer repeated questions about copies and payment details",
+          "Chase disputed amounts by phone with no notes ready"
+        ],
+        "after": [
+          "Agent: sends reminders on your schedule and in your tone",
+          "Agent: answers routine invoice questions from templates",
+          "Agent: flags disputes with a one-paragraph summary",
+          "Human: calls the flagged accounts and settles disputes"
+        ],
+        "hours_saved_per_week": 3,
+        "impact": 3,
+        "effort": 2,
+        "tools": [
+          "Xero",
+          "Email",
+          "ServiceM8"
+        ]
+      },
+      {
+        "title": "Job photos filed and attached automatically",
+        "department": "Field Maintenance",
+        "roles": [
+          "Maintenance Crew Leader",
+          "Gardener / Grounds Worker",
+          "Lawn Care Technician"
+        ],
+        "description": "Crews keep taking photos on their phones as they do now, but an agent sorts them into the right job folder and attaches them to the ServiceM8 record, named by site and date. It checks each closed job and alerts the crew leader on the spot if before or after photos are missing.",
+        "before": [
+          "Photos sit across a dozen phones",
+          "Crews upload or forward them at the depot",
+          "Office staff sort, rename, and attach them to jobs",
+          "Some jobs end up with no photo record at all"
+        ],
+        "after": [
+          "Human: takes photos as usual on the job",
+          "Agent: sorts, renames, and attaches photos to the right job",
+          "Agent: alerts the crew leader if a closed job has no photos",
+          "Human: reviews a weekly list of photo gaps"
+        ],
+        "hours_saved_per_week": 3,
+        "impact": 3,
+        "effort": 3,
+        "tools": [
+          "ServiceM8",
+          "Google Drive or Dropbox",
+          "Mobile phone cameras"
+        ]
+      },
+      {
+        "title": "Voice notes become job notes and timesheet checks",
+        "department": "Field Maintenance",
+        "roles": [
+          "Maintenance Crew Leader",
+          "Lawn Care Technician",
+          "Gardener / Grounds Worker"
+        ],
+        "description": "Crew leaders send a 30-second voice note at the end of each job and the agent turns it into structured job notes, product use records, and flags such as a broken sprinkler or a customer complaint. Timesheet oddities get flagged to the scheduler before payroll, not after.",
+        "before": [
+          "Fill in paper or app notes at the end of the day",
+          "Remember product quantities later or guess",
+          "Office re-keys details into records",
+          "Errors surface at payroll or on the invoice"
+        ],
+        "after": [
+          "Human: records a 30-second voice note at each job",
+          "Agent: writes structured notes and product records into ServiceM8",
+          "Agent: flags oddities like missing hours or unusual material use",
+          "Human: reviews flagged items only"
+        ],
+        "hours_saved_per_week": 3,
+        "impact": 3,
+        "effort": 3,
+        "tools": [
+          "ServiceM8",
+          "Voice notes on mobile",
+          "Xero payroll"
+        ]
+      },
+      {
+        "title": "Plant and material orders drafted for you",
+        "department": "Garden Projects",
+        "roles": [
+          "Project Supervisor"
+        ],
+        "description": "From each approved project the agent drafts a plant and material order against your supplier price lists, checks it for common misses like soil and mulch, and emails a draft to the nursery for your approval. Stage reminders to subcontractors for paving and irrigation go out automatically.",
+        "before": [
+          "Build an order list from the approved plan",
+          "Look up prices across supplier lists",
+          "Email or phone each order in",
+          "Discover missing items mid-job and pay for return trips"
+        ],
+        "after": [
+          "Agent: drafts the order list from the job scope and price lists",
+          "Agent: emails draft orders to your suppliers",
+          "Human: checks quantities and approves",
+          "Agent: sends stage reminders to subcontractors"
+        ],
+        "hours_saved_per_week": 2,
+        "impact": 3,
+        "effort": 3,
+        "tools": [
+          "ServiceM8",
+          "Supplier price lists",
+          "Email",
+          "Xero"
+        ]
+      },
+      {
+        "title": "Monday morning job profitability report",
+        "department": "Management",
+        "roles": [
+          "Owner / Manager",
+          "Bookkeeper / Admin"
+        ],
+        "description": "The agent pulls invoiced amounts, labour hours, and material costs from Xero and ServiceM8 and writes a one-page Monday report ranking jobs by margin and flagging any that ran over estimate. You spend your review time on decisions instead of pulling numbers.",
+        "before": [
+          "Export hours, invoices, and costs into a spreadsheet",
+          "Rebuild the weekly numbers by hand",
+          "Spot overruns days late",
+          "Chase crew leaders for explanations"
+        ],
+        "after": [
+          "Agent: compiles the one-page report by 9am Monday",
+          "Agent: flags jobs over budget with likely causes from job notes",
+          "Human: reviews and decides on pricing or crew changes",
+          "Human: questions crew leaders only about flagged jobs"
+        ],
+        "hours_saved_per_week": 2,
+        "impact": 3,
+        "effort": 3,
+        "tools": [
+          "Xero",
+          "ServiceM8",
+          "Google Sheets or Excel"
+        ]
+      }
+    ],
+    "roadmap": [
+      {
+        "phase": "Phase 1",
+        "timeframe": "Weeks 1-4",
+        "title": "Office quick wins",
+        "items": [
+          "Set up enquiry triage with quote drafts in ServiceM8, linked to your Xero price lists",
+          "Turn on quote follow-ups using your approved email templates",
+          "Start scheduled invoice reminders and routine query replies from Xero",
+          "Record baseline response and follow-up times so you can prove the saving"
+        ]
+      },
+      {
+        "phase": "Phase 2",
+        "timeframe": "Weeks 5-10",
+        "title": "Crews and customers in sync",
+        "items": [
+          "Launch the weather and schedule change assistant with one-tap approvals",
+          "Deploy the customer service inbox agent for routine questions and request logging",
+          "Pilot automatic photo filing with two crews, then extend to all field teams",
+          "Train crew leaders on voice notes in a 30-minute session"
+        ]
+      },
+      {
+        "phase": "Phase 3",
+        "timeframe": "Months 4-6",
+        "title": "Tighten the numbers",
+        "items": [
+          "Roll out voice job notes and timesheet checks across all crews",
+          "Start the Monday profitability report to the owner",
+          "Draft plant and material orders for Garden Projects",
+          "Review results, retire whatever is not earning its keep, and pick the next automation"
+        ]
+      }
+    ],
+    "risks": [
+      {
+        "risk": "A quote goes out with wrong prices or scope.",
+        "mitigation": "The agent drafts, a person checks and sends. Your price list stays the single source of truth and any price change needs approval."
+      },
+      {
+        "risk": "Field crews ignore new steps and data quality suffers.",
+        "mitigation": "Crew-facing steps stay inside tools they already use, ServiceM8 and voice notes. Pilot with one crew leader and fix the friction before rolling out to everyone."
+      },
+      {
+        "risk": "Customer photos, addresses, and payment details are exposed or misused.",
+        "mitigation": "Use Australian data hosting, restrict access to office roles, and set a written rule that customer data is never pasted into personal AI accounts."
+      },
+      {
+        "risk": "Automated messages annoy customers or carry wrong information.",
+        "mitigation": "Every customer-facing schedule change and quote needs one-tap human approval. The agent drafts, your team sends."
+      },
+      {
+        "risk": "Automations quietly break as prices, staff, or seasons change.",
+        "mitigation": "Book a monthly one-hour check with the consultant who set it up to update price lists, templates, and message rules."
+      }
+    ],
+    "kpis": [
+      "Median response time to new quote enquiries under 2 business hours, down from same-day or worse",
+      "100% of sent quotes followed up within 5 days",
+      "Days sales outstanding on invoices down 5 days within 90 days",
+      "95% of completed jobs with before and after photos attached within 24 hours",
+      "20 or more admin hours saved per week by month 3, measured against the Phase 1 baseline",
+      "Monday profitability report delivered by 9am every week"
+    ]
+  },
+  "quote": {
+    "phase1": {
+      "items": [
+        {
+          "n": 1,
+          "title": "Quote enquiries answered in minutes",
+          "hours": 5,
+          "setup": 790,
+          "monthly": 320
+        },
+        {
+          "n": 4,
+          "title": "No quote goes cold",
+          "hours": 3,
+          "setup": 790,
+          "monthly": 290
+        },
+        {
+          "n": 2,
+          "title": "Wet-weather rescheduling without phone tag",
+          "hours": 4,
+          "setup": 1290,
+          "monthly": 290
+        }
+      ],
+      "setup": 2870,
+      "monthly": 900,
+      "hours": 12,
+      "value_monthly": 2598
+    },
+    "full": {
+      "items": [
+        {
+          "n": 1,
+          "title": "Quote enquiries answered in minutes",
+          "hours": 5,
+          "setup": 790,
+          "monthly": 320
+        },
+        {
+          "n": 4,
+          "title": "No quote goes cold",
+          "hours": 3,
+          "setup": 790,
+          "monthly": 290
+        },
+        {
+          "n": 2,
+          "title": "Wet-weather rescheduling without phone tag",
+          "hours": 4,
+          "setup": 1290,
+          "monthly": 290
+        },
+        {
+          "n": 3,
+          "title": "Routine customer questions handled without the phone",
+          "hours": 4,
+          "setup": 1290,
+          "monthly": 290
+        },
+        {
+          "n": 5,
+          "title": "Invoice reminders sent and queries answered",
+          "hours": 3,
+          "setup": 790,
+          "monthly": 290
+        },
+        {
+          "n": 6,
+          "title": "Job photos filed and attached automatically",
+          "hours": 3,
+          "setup": 1290,
+          "monthly": 290
+        },
+        {
+          "n": 7,
+          "title": "Voice notes become job notes and timesheet checks",
+          "hours": 3,
+          "setup": 1290,
+          "monthly": 290
+        },
+        {
+          "n": 8,
+          "title": "Plant and material orders drafted for you",
+          "hours": 2,
+          "setup": 1290,
+          "monthly": 290
+        },
+        {
+          "n": 9,
+          "title": "Monday morning job profitability report",
+          "hours": 2,
+          "setup": 1290,
+          "monthly": 290
+        }
+      ],
+      "setup": 10110,
+      "monthly": 2640,
+      "hours": 29,
+      "value_monthly": 6279
+    },
+    "rate": 50,
+    "free_setup_months": 4
+  },
+  "totals": {
+    "hours_week": 29,
+    "annual_hours": 1334,
+    "annual_value": 66700,
+    "fte": 0.7,
+    "opportunities": 9,
+    "employees": 30,
+    "rate": 50
+  },
+  "sources": [],
+  "model": "z-ai/glm-5.3-flash"
+}

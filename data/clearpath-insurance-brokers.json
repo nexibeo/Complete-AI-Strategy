@@ -1,0 +1,757 @@
+{
+  "slug": "clearpath-insurance-brokers",
+  "example": true,
+  "company": {
+    "name": "Clearpath Insurance Brokers",
+    "url": null
+  },
+  "prepared_for": null,
+  "created_at": "2026-09-27T10:08:36.318Z",
+  "profile": {
+    "company": {
+      "name": "Clearpath Insurance Brokers",
+      "industry": "Insurance brokerage",
+      "summary": "Clearpath Insurance Brokers is an independent insurance broker in Toronto with about 55 employees. You sell commercial and personal lines insurance, helping businesses and individuals get quotes from carriers, compare options, renew policies, and get claims support. Your team runs on an agency management system and many PDFs.",
+      "offerings": [
+        "Commercial insurance brokerage for businesses",
+        "Personal lines insurance for home and auto",
+        "Carrier quote comparison and placement",
+        "Policy renewal management",
+        "Claims support and advocacy"
+      ],
+      "customers": "Small and mid-sized businesses, professionals, homeowners, and auto owners in Toronto and across Ontario.",
+      "locations": [
+        "Toronto, Ontario, Canada"
+      ],
+      "size_band": "51-200",
+      "employee_estimate": 55,
+      "tech_signals": [
+        "Agency management system",
+        "Carrier quote portals",
+        "PDF documents",
+        "Email",
+        "Spreadsheets",
+        "E-signature tools"
+      ],
+      "evidence_quality": "medium"
+    },
+    "departments": [
+      {
+        "name": "Commercial Lines",
+        "headcount_estimate": 16,
+        "roles": [
+          {
+            "title": "Commercial Account Manager",
+            "count_estimate": 8,
+            "repetitive_tasks": [
+              "Collect client operations and payroll details",
+              "Request quotes from multiple carriers",
+              "Compare coverage and premiums in spreadsheets",
+              "Prepare renewal summaries for clients"
+            ]
+          },
+          {
+            "title": "Commercial Account Executive",
+            "count_estimate": 4,
+            "repetitive_tasks": [
+              "Qualify new business leads",
+              "Present quote options to clients",
+              "Follow up on missing underwriting information",
+              "Update the agency management system"
+            ]
+          },
+          {
+            "title": "Commercial Broker Assistant",
+            "count_estimate": 4,
+            "repetitive_tasks": [
+              "Enter client data into the agency management system",
+              "Chase carriers for documents",
+              "Issue certificates of insurance",
+              "Send renewal reminders"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Personal Lines",
+        "headcount_estimate": 14,
+        "roles": [
+          {
+            "title": "Personal Lines Account Manager",
+            "count_estimate": 7,
+            "repetitive_tasks": [
+              "Collect home and auto details from clients",
+              "Request quotes from carriers",
+              "Compare coverage and price",
+              "Handle policy renewals"
+            ]
+          },
+          {
+            "title": "Personal Lines Broker Assistant",
+            "count_estimate": 4,
+            "repetitive_tasks": [
+              "Enter data into the agency management system",
+              "Process payments",
+              "Issue pink slips",
+              "File PDF policy documents"
+            ]
+          },
+          {
+            "title": "Personal Lines Customer Service Representative",
+            "count_estimate": 3,
+            "repetitive_tasks": [
+              "Answer client calls and emails",
+              "Process address and vehicle changes",
+              "Send claims questions to the claims team",
+              "Follow up on missing documents"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Claims Support",
+        "headcount_estimate": 6,
+        "roles": [
+          {
+            "title": "Claims Advocate",
+            "count_estimate": 3,
+            "repetitive_tasks": [
+              "Open claims with carriers",
+              "Gather incident details and photos",
+              "Follow up with adjusters on status",
+              "Update clients on progress"
+            ]
+          },
+          {
+            "title": "Claims Assistant",
+            "count_estimate": 2,
+            "repetitive_tasks": [
+              "Enter claim details into the agency management system",
+              "Upload documents to carrier portals",
+              "Send reminder emails",
+              "Track deadlines"
+            ]
+          },
+          {
+            "title": "Claims Coordinator",
+            "count_estimate": 1,
+            "repetitive_tasks": [
+              "Maintain the open claims list",
+              "Prepare weekly status reports",
+              "Flag delayed claims",
+              "Coordinate with account managers"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sales and Marketing",
+        "headcount_estimate": 6,
+        "roles": [
+          {
+            "title": "Business Development Manager",
+            "count_estimate": 2,
+            "repetitive_tasks": [
+              "Prospect local businesses",
+              "Attend networking events",
+              "Follow up on leads",
+              "Set discovery meetings"
+            ]
+          },
+          {
+            "title": "Sales Support Specialist",
+            "count_estimate": 2,
+            "repetitive_tasks": [
+              "Prepare proposal packets",
+              "Schedule client meetings",
+              "Update the CRM or agency system",
+              "Track quote follow ups"
+            ]
+          },
+          {
+            "title": "Marketing Coordinator",
+            "count_estimate": 2,
+            "repetitive_tasks": [
+              "Write email newsletters",
+              "Manage social media posts",
+              "Track campaign responses",
+              "Update website content"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Accounting and Finance",
+        "headcount_estimate": 5,
+        "roles": [
+          {
+            "title": "Accounting Manager",
+            "count_estimate": 1,
+            "repetitive_tasks": [
+              "Reconcile carrier statements",
+              "Approve client refunds",
+              "Review commission reports",
+              "Manage month end close"
+            ]
+          },
+          {
+            "title": "Accounts Receivable Clerk",
+            "count_estimate": 2,
+            "repetitive_tasks": [
+              "Process client payments",
+              "Follow up on overdue invoices",
+              "Post receipts",
+              "Send statements"
+            ]
+          },
+          {
+            "title": "Accounts Payable Clerk",
+            "count_estimate": 1,
+            "repetitive_tasks": [
+              "Pay carrier statements",
+              "Match invoices to policies",
+              "File payment records",
+              "Flag billing issues"
+            ]
+          },
+          {
+            "title": "Payroll and Benefits Administrator",
+            "count_estimate": 1,
+            "repetitive_tasks": [
+              "Process payroll",
+              "Manage staff benefit enrollments",
+              "Track vacation",
+              "File payroll records"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Operations, Admin, and IT",
+        "headcount_estimate": 6,
+        "roles": [
+          {
+            "title": "Operations Manager",
+            "count_estimate": 1,
+            "repetitive_tasks": [
+              "Manage the agency management system",
+              "Review vendor contracts",
+              "Document office procedures",
+              "Coordinate staff training"
+            ]
+          },
+          {
+            "title": "IT and Systems Administrator",
+            "count_estimate": 1,
+            "repetitive_tasks": [
+              "Support agency management system users",
+              "Manage email and file access",
+              "Run backups",
+              "Coordinate software updates"
+            ]
+          },
+          {
+            "title": "Compliance Officer",
+            "count_estimate": 1,
+            "repetitive_tasks": [
+              "Review licensing records",
+              "Audit client files",
+              "Track regulatory changes",
+              "Prepare compliance reports"
+            ]
+          },
+          {
+            "title": "Reception and Admin Assistant",
+            "count_estimate": 2,
+            "repetitive_tasks": [
+              "Answer the main phone",
+              "Sort mail",
+              "Scan documents",
+              "Enter data into the agency system"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Leadership and Management",
+        "headcount_estimate": 2,
+        "roles": [
+          {
+            "title": "Managing Director",
+            "count_estimate": 1,
+            "repetitive_tasks": [
+              "Set company strategy",
+              "Manage carrier relationships",
+              "Review large accounts",
+              "Approve budgets"
+            ]
+          },
+          {
+            "title": "Finance and HR Director",
+            "count_estimate": 1,
+            "repetitive_tasks": [
+              "Oversee accounting and HR",
+              "Review financial reports",
+              "Manage hiring and benefits",
+              "Set budgets"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "strategy": {
+    "executive_summary": "Clearpath Insurance Brokers runs on an agency management system, carrier portals, and a lot of PDFs, which means your team spends real hours copying data, chasing documents, and sending the same follow-up emails. The biggest wins here are not fancy AI projects: they are agents that pre-fill quote requests from client documents, chase missing underwriting info automatically, and keep the agency system updated so your brokers and assistants stop typing the same details three times. A renewal pipeline agent and a claims status updater round out the high-value items. Together these save your team an estimated 130 hours a week, under 6% of total staff time, mostly in Commercial Lines, Personal Lines, and Claims Support.",
+    "maturity": {
+      "score": 2,
+      "label": "Early",
+      "note": "You have core systems in place but rely heavily on manual data entry, PDF handling, and email follow-ups. There is no visible automation today."
+    },
+    "opportunities": [
+      {
+        "title": "Quote requests assembled from client documents in minutes",
+        "department": "Commercial Lines",
+        "roles": [
+          "Commercial Account Manager",
+          "Commercial Broker Assistant"
+        ],
+        "description": "An agent reads client-submitted PDFs, spreadsheets, and emails, extracts payroll, operations, and exposure details, and pre-fills carrier quote request forms or emails. Your account managers review and send instead of retyping everything by hand.",
+        "before": [
+          "Request client details by email",
+          "Chase client for missing information",
+          "Manually extract figures from PDFs",
+          "Fill out carrier portal quote requests one by one"
+        ],
+        "after": [
+          "Human: broker forwards client email or uploads documents",
+          "Agent extracts and structures the requested details",
+          "Agent flags missing fields and drafts a request to the client",
+          "Agent pre-fills carrier quote requests",
+          "Human: broker reviews and submits"
+        ],
+        "hours_saved_per_week": 30,
+        "impact": 5,
+        "effort": 3,
+        "tools": [
+          "Agency management system",
+          "Carrier quote portals",
+          "Email",
+          "PDF document processing"
+        ]
+      },
+      {
+        "title": "Renewals tracked and reminders sent automatically",
+        "department": "Commercial Lines",
+        "roles": [
+          "Commercial Account Manager",
+          "Commercial Broker Assistant"
+        ],
+        "description": "An agent monitors renewal dates in the agency system and runs a structured outreach sequence at 90, 60, and 30 days, updating account managers on which clients have responded. No policy quietly slips past its renewal date.",
+        "before": [
+          "Assistant checks renewal report in agency system",
+          "Sends manual reminder emails",
+          "Follows up inconsistently with carriers",
+          "Account manager finds gaps at the last minute"
+        ],
+        "after": [
+          "Agent pulls upcoming renewals weekly",
+          "Agent sends staged reminders to clients and carriers",
+          "Agent tracks responses and flags non-responders",
+          "Human: account managers call only the flagged accounts"
+        ],
+        "hours_saved_per_week": 22,
+        "impact": 5,
+        "effort": 2,
+        "tools": [
+          "Agency management system",
+          "Email",
+          "Shared calendar"
+        ]
+      },
+      {
+        "title": "Missing underwriting information chased automatically",
+        "department": "Commercial Lines",
+        "roles": [
+          "Commercial Account Executive",
+          "Commercial Broker Assistant"
+        ],
+        "description": "An agent tracks quotes sitting in underwriting, identifies what is missing, and sends polite, persistent follow-ups to clients and carriers. It drafts the emails and updates the quote status so your executives only step in when a human nudge matters.",
+        "before": [
+          "Executive notes missing items manually",
+          "Sends follow-up emails when time allows",
+          "Quotes sit idle for days",
+          "Assistant re-checks status by phone"
+        ],
+        "after": [
+          "Agent detects stalled quotes and missing items",
+          "Agent sends scheduled follow-ups to clients and carriers",
+          "Agent updates quote status in the system",
+          "Human: executive reviews agent digest and handles exceptions"
+        ],
+        "hours_saved_per_week": 18,
+        "impact": 4,
+        "effort": 2,
+        "tools": [
+          "Agency management system",
+          "Email",
+          "Carrier quote portals"
+        ]
+      },
+      {
+        "title": "Claims intake and adjuster follow-ups handled faster",
+        "department": "Claims Support",
+        "roles": [
+          "Claims Advocate",
+          "Claims Assistant",
+          "Claims Coordinator"
+        ],
+        "description": "An agent collects first notice of loss details from client calls and emails, opens the claim file in the agency system, and chases adjusters on a fixed schedule for status updates. Clients get automatic progress updates, and delayed claims get flagged for your coordinator.",
+        "before": [
+          "Advocate gathers incident details by email and phone",
+          "Assistant manually enters claim into agency system",
+          "Assistant uploads documents to carrier portal",
+          "Coordinator builds the weekly status list by hand"
+        ],
+        "after": [
+          "Human: advocate confirms details with client",
+          "Agent structures the claim and enters it in the system",
+          "Agent sends adjuster follow-ups on schedule and logs responses",
+          "Agent flags delayed claims and drafts client updates",
+          "Human: coordinator reviews flags and approves client messages"
+        ],
+        "hours_saved_per_week": 20,
+        "impact": 4,
+        "effort": 3,
+        "tools": [
+          "Agency management system",
+          "Email",
+          "Carrier portals"
+        ]
+      },
+      {
+        "title": "Personal lines policy changes and document filing handled at the front desk",
+        "department": "Personal Lines",
+        "roles": [
+          "Personal Lines Customer Service Representative",
+          "Personal Lines Broker Assistant"
+        ],
+        "description": "An agent triages incoming client emails, drafts address and vehicle change requests, and files incoming policy PDFs into the right client records in the agency system. Your reps confirm and send instead of doing data entry all day.",
+        "before": [
+          "Rep reads each email and types change requests",
+          "Assistant re-enters details in the agency system",
+          "Assistant files PDF policy documents manually",
+          "Rep calls clients back to confirm"
+        ],
+        "after": [
+          "Agent triages email and drafts change requests",
+          "Agent files incoming policy PDFs to client records",
+          "Agent drafts a confirmation reply to the client",
+          "Human: rep reviews, approves, and sends"
+        ],
+        "hours_saved_per_week": 18,
+        "impact": 3,
+        "effort": 3,
+        "tools": [
+          "Agency management system",
+          "Email",
+          "PDF document processing"
+        ]
+      },
+      {
+        "title": "Overdue invoice follow-ups sent consistently",
+        "department": "Accounting and Finance",
+        "roles": [
+          "Accounts Receivable Clerk"
+        ],
+        "description": "An agent watches your receivables aging and sends polite, escalating payment reminders to clients, posting receipts and updating the ledger when payments land. Your clerk focuses on the accounts that genuinely need a phone call.",
+        "before": [
+          "Clerk runs aging report",
+          "Sends reminder emails one by one",
+          "Posts receipts manually",
+          "Chases a few by phone when time allows"
+        ],
+        "after": [
+          "Agent monitors aging daily and sends staged reminders",
+          "Agent matches incoming payments and posts receipts",
+          "Agent flags accounts for a personal call",
+          "Human: clerk calls flagged clients and resolves disputes"
+        ],
+        "hours_saved_per_week": 10,
+        "impact": 3,
+        "effort": 2,
+        "tools": [
+          "Accounting software",
+          "Email",
+          "Agency management system"
+        ]
+      },
+      {
+        "title": "New lead qualification and meeting scheduling for business development",
+        "department": "Sales and Marketing",
+        "roles": [
+          "Business Development Manager",
+          "Sales Support Specialist"
+        ],
+        "description": "An agent responds to inbound quote inquiries within minutes, asks a short set of qualifying questions, and books discovery calls straight into your developers' calendars. Your team walks into meetings with prospect details already captured in the system.",
+        "before": [
+          "Prospect emails or calls in",
+          "Support specialist replies within hours or days",
+          "Back-and-forth emails to schedule",
+          "Details entered into the system by hand"
+        ],
+        "after": [
+          "Agent replies to inquiry immediately and asks qualifying questions",
+          "Agent books qualified prospects into calendars",
+          "Agent logs prospect details in the system",
+          "Human: developer joins the call prepared"
+        ],
+        "hours_saved_per_week": 8,
+        "impact": 3,
+        "effort": 2,
+        "tools": [
+          "Email",
+          "Website contact forms",
+          "Scheduling tool",
+          "Agency management system or CRM"
+        ]
+      },
+      {
+        "title": "Compliance file audits and licensing tracking automated",
+        "department": "Operations, Admin, and IT",
+        "roles": [
+          "Compliance Officer"
+        ],
+        "description": "An agent scans client files in the agency system for missing signatures, expired documents, or incomplete records, and produces a weekly exception report. It also tracks broker license expiry dates and sends renewal reminders.",
+        "before": [
+          "Officer samples files manually for audit",
+          "Checks license dates in a spreadsheet",
+          "Chases brokers for expired documents",
+          "Builds compliance reports by hand"
+        ],
+        "after": [
+          "Agent scans files continuously and flags gaps",
+          "Agent tracks license expiries and sends reminders",
+          "Agent drafts the weekly exception report",
+          "Human: officer reviews report and follows up on flagged items"
+        ],
+        "hours_saved_per_week": 6,
+        "impact": 3,
+        "effort": 3,
+        "tools": [
+          "Agency management system",
+          "E-signature tools",
+          "Spreadsheets"
+        ]
+      },
+      {
+        "title": "Carrier statement matching for accounts payable",
+        "department": "Accounting and Finance",
+        "roles": [
+          "Accounts Payable Clerk",
+          "Accounting Manager"
+        ],
+        "description": "An agent reads carrier statements and invoices, matches them to policies in the agency system, and flags mismatches or billing anomalies before payment. Your clerk approves rather than line-by-line matching.",
+        "before": [
+          "Clerk downloads carrier statements",
+          "Manually matches invoices to policies",
+          "Flags issues from memory",
+          "Files payment records"
+        ],
+        "after": [
+          "Agent ingests carrier statements and matches to policies",
+          "Agent flags discrepancies and billing anomalies",
+          "Agent drafts payment approval list for review",
+          "Human: clerk reviews flags and approves payments"
+        ],
+        "hours_saved_per_week": 6,
+        "impact": 2,
+        "effort": 3,
+        "tools": [
+          "Agency management system",
+          "Accounting software",
+          "PDF document processing"
+        ]
+      }
+    ],
+    "roadmap": [
+      {
+        "phase": "Phase 1",
+        "timeframe": "Weeks 1-8",
+        "title": "Quick wins with email and reminders",
+        "items": [
+          "Set up renewal tracking and staged reminder emails in Commercial Lines",
+          "Deploy automated follow-ups on stalled quotes and missing underwriting info",
+          "Deploy receivables reminder agent in Accounting",
+          "Baseline measurement: count hours spent on renewals, follow-ups, and collections"
+        ]
+      },
+      {
+        "phase": "Phase 2",
+        "timeframe": "Weeks 9-16",
+        "title": "Document processing and claims",
+        "items": [
+          "Roll out PDF extraction for commercial quote requests",
+          "Launch claims intake and adjuster follow-up agent",
+          "Launch personal lines email triage and PDF filing agent",
+          "Train staff on reviewing agent output before it goes to clients"
+        ]
+      },
+      {
+        "phase": "Phase 3",
+        "timeframe": "Weeks 17-26",
+        "title": "Front desk, compliance, and reporting",
+        "items": [
+          "Deploy lead qualification and scheduling for inbound inquiries",
+          "Automate compliance file audits and license tracking",
+          "Automate carrier statement matching in accounts payable",
+          "Review results against baseline and decide what to expand or retire"
+        ]
+      }
+    ],
+    "risks": [
+      {
+        "risk": "Regulated insurance communications sent without human review could create compliance or E&O exposure.",
+        "mitigation": "Every client-facing message is drafted by the agent but requires one-click approval from a licensed staff member. No agent sends binding or coverage advice on its own."
+      },
+      {
+        "risk": "Agency management system may lack a clean API, making integrations harder than expected.",
+        "mitigation": "Start Phase 1 with email-only automations that need no system integration, and confirm API access with your vendor before committing to deeper phases."
+      },
+      {
+        "risk": "Staff distrust agents and keep doing work manually, so savings never materialize.",
+        "mitigation": "Pick one owner per agent, run a 4-week pilot with real metrics, and only roll out agents that beat the manual process on accuracy and speed."
+      },
+      {
+        "risk": "Client data sent to AI tools raises privacy and PIPEDA concerns.",
+        "mitigation": "Use business-tier tools with no training on your data, restrict access by role, and get your compliance officer to sign off on the data flow before launch."
+      },
+      {
+        "risk": "Agents draft wrong extraction from messy client PDFs, leading to bad quotes.",
+        "mitigation": "Agents always flag low-confidence fields and show a side-by-side of extracted versus source data so the broker can verify before submitting."
+      }
+    ],
+    "kpis": [
+      "Renewal reminders sent on time: target 100% of renewals contacted at 90, 60, and 30 days",
+      "Average time from client inquiry to first response: under 15 minutes for inbound leads",
+      "Hours logged per week on manual data entry in Commercial Lines: 25% reduction within 90 days",
+      "Percentage of overdue invoices followed up within 48 hours: target 95%",
+      "Claims status updates sent to clients at least every 7 days: target 90% of open claims",
+      "Agent accuracy rate on document extraction: above 95% before removing broker review"
+    ]
+  },
+  "quote": {
+    "phase1": {
+      "items": [
+        {
+          "n": 2,
+          "title": "Renewals tracked and reminders sent automatically",
+          "hours": 22,
+          "setup": 790,
+          "monthly": 1430
+        },
+        {
+          "n": 1,
+          "title": "Quote requests assembled from client documents in minutes",
+          "hours": 30,
+          "setup": 1290,
+          "monthly": 1950
+        },
+        {
+          "n": 3,
+          "title": "Missing underwriting information chased automatically",
+          "hours": 18,
+          "setup": 790,
+          "monthly": 1170
+        }
+      ],
+      "setup": 2870,
+      "monthly": 4550,
+      "hours": 70,
+      "value_monthly": 15155
+    },
+    "full": {
+      "items": [
+        {
+          "n": 2,
+          "title": "Renewals tracked and reminders sent automatically",
+          "hours": 22,
+          "setup": 790,
+          "monthly": 1430
+        },
+        {
+          "n": 1,
+          "title": "Quote requests assembled from client documents in minutes",
+          "hours": 30,
+          "setup": 1290,
+          "monthly": 1950
+        },
+        {
+          "n": 3,
+          "title": "Missing underwriting information chased automatically",
+          "hours": 18,
+          "setup": 790,
+          "monthly": 1170
+        },
+        {
+          "n": 4,
+          "title": "Claims intake and adjuster follow-ups handled faster",
+          "hours": 20,
+          "setup": 1290,
+          "monthly": 1300
+        },
+        {
+          "n": 5,
+          "title": "Personal lines policy changes and document filing handled at the front desk",
+          "hours": 18,
+          "setup": 1290,
+          "monthly": 1170
+        },
+        {
+          "n": 6,
+          "title": "Overdue invoice follow-ups sent consistently",
+          "hours": 10,
+          "setup": 790,
+          "monthly": 650
+        },
+        {
+          "n": 7,
+          "title": "New lead qualification and meeting scheduling for business development",
+          "hours": 8,
+          "setup": 790,
+          "monthly": 520
+        },
+        {
+          "n": 8,
+          "title": "Compliance file audits and licensing tracking automated",
+          "hours": 6,
+          "setup": 1290,
+          "monthly": 390
+        },
+        {
+          "n": 9,
+          "title": "Carrier statement matching for accounts payable",
+          "hours": 6,
+          "setup": 1290,
+          "monthly": 390
+        }
+      ],
+      "setup": 9610,
+      "monthly": 8970,
+      "hours": 138,
+      "value_monthly": 29877
+    },
+    "rate": 50,
+    "free_setup_months": 4
+  },
+  "totals": {
+    "hours_week": 138,
+    "annual_hours": 6348,
+    "annual_value": 317400,
+    "fte": 3.5,
+    "opportunities": 9,
+    "employees": 55,
+    "rate": 50
+  },
+  "sources": [],
+  "model": "z-ai/glm-5.3-flash"
+}

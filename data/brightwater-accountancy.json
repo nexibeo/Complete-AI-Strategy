@@ -1,0 +1,671 @@
+{
+  "slug": "brightwater-accountancy",
+  "example": true,
+  "company": {
+    "name": "Brightwater Accountancy",
+    "url": null
+  },
+  "prepared_for": null,
+  "created_at": "2026-09-27T10:02:28.952Z",
+  "profile": {
+    "company": {
+      "name": "Brightwater Accountancy",
+      "industry": "Accounting and bookkeeping services",
+      "summary": "Brightwater Accountancy is a 28-person accounting and bookkeeping firm in Utrecht. You serve 400 small businesses with bookkeeping, VAT returns, annual accounts, and payroll. Your team uses Exact, Twinfield, Excel, and a client portal, and spends a lot of time chasing clients for documents every month.",
+      "offerings": [
+        "Bookkeeping",
+        "VAT returns",
+        "Annual accounts",
+        "Payroll",
+        "Client portal and document collection"
+      ],
+      "customers": "400 small businesses, likely Dutch SMEs, sole traders, and owner-managed companies around Utrecht.",
+      "locations": [
+        "Utrecht, Netherlands"
+      ],
+      "size_band": "11-50",
+      "employee_estimate": 28,
+      "tech_signals": [
+        "Exact",
+        "Twinfield",
+        "Microsoft Excel",
+        "Client portal",
+        "Email",
+        "Microsoft 365 (typical for this size)",
+        "PDF scanning and basic OCR (likely)"
+      ],
+      "evidence_quality": "medium"
+    },
+    "departments": [
+      {
+        "name": "Bookkeeping and Client Accounting",
+        "headcount_estimate": 12,
+        "roles": [
+          {
+            "title": "Senior Bookkeeper / Accountant",
+            "count_estimate": 3,
+            "repetitive_tasks": [
+              "Coding bank transactions",
+              "Reconciling ledgers",
+              "Chasing missing receipts and invoices",
+              "Preparing monthly reports"
+            ]
+          },
+          {
+            "title": "Bookkeeper",
+            "count_estimate": 6,
+            "repetitive_tasks": [
+              "Entering data from invoices and receipts",
+              "Bank reconciliation",
+              "VAT coding",
+              "Updating the client portal"
+            ]
+          },
+          {
+            "title": "Junior Bookkeeper / Assistant",
+            "count_estimate": 3,
+            "repetitive_tasks": [
+              "Scanning and filing documents",
+              "Sending document reminders",
+              "Basic data entry",
+              "Answering simple client queries"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Payroll",
+        "headcount_estimate": 4,
+        "roles": [
+          {
+            "title": "Payroll Specialist",
+            "count_estimate": 3,
+            "repetitive_tasks": [
+              "Processing monthly payroll",
+              "Calculating holiday pay",
+              "Sending payslips",
+              "Handling payroll queries"
+            ]
+          },
+          {
+            "title": "Payroll Administrator",
+            "count_estimate": 1,
+            "repetitive_tasks": [
+              "Collecting timesheets",
+              "Updating employee details",
+              "Filing payroll records",
+              "Managing pension submissions"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "VAT and Annual Accounts",
+        "headcount_estimate": 5,
+        "roles": [
+          {
+            "title": "Tax Accountant / Accounts Preparer",
+            "count_estimate": 3,
+            "repetitive_tasks": [
+              "Preparing VAT returns",
+              "Drafting annual accounts",
+              "Reconciling tax ledgers",
+              "Gathering missing information"
+            ]
+          },
+          {
+            "title": "Tax Reviewer / Manager",
+            "count_estimate": 2,
+            "repetitive_tasks": [
+              "Reviewing VAT and accounts",
+              "Checking compliance",
+              "Client calls",
+              "Filing with authorities"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Client Services and Administration",
+        "headcount_estimate": 4,
+        "roles": [
+          {
+            "title": "Client Coordinator",
+            "count_estimate": 2,
+            "repetitive_tasks": [
+              "Chasing clients for documents",
+              "Scheduling reminders",
+              "Answering portal questions",
+              "Updating client records"
+            ]
+          },
+          {
+            "title": "Office Administrator",
+            "count_estimate": 2,
+            "repetitive_tasks": [
+              "Managing email and post",
+              "Scanning documents",
+              "Invoicing clients",
+              "Onboarding new clients"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Practice Management and Operations",
+        "headcount_estimate": 3,
+        "roles": [
+          {
+            "title": "Director / Partner",
+            "count_estimate": 1,
+            "repetitive_tasks": [
+              "Client relationship management",
+              "Business development",
+              "Reviewing team performance",
+              "Signing off accounts"
+            ]
+          },
+          {
+            "title": "Practice Manager",
+            "count_estimate": 1,
+            "repetitive_tasks": [
+              "Workflow planning",
+              "Staff scheduling",
+              "Billing and collections",
+              "Software administration"
+            ]
+          },
+          {
+            "title": "IT / Operations Support",
+            "count_estimate": 1,
+            "repetitive_tasks": [
+              "Managing Exact and Twinfield access",
+              "Portal support",
+              "Data backups",
+              "Troubleshooting Excel templates"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "strategy": {
+    "executive_summary": "Brightwater Accountancy runs on a skilled team of 28 across bookkeeping, payroll, VAT and accounts, and client services. The biggest time sink is not the accounting work itself, it is chasing 400 clients for documents, typing invoice data, and answering routine questions. Your systems (Exact, Twinfield, the portal, Excel, Outlook) already hold the data an agent needs, so most wins come from connecting what you have rather than buying new software. We propose nine agents that remove the repetitive middle of your month: reminders, coding, reconciliation, VAT drafts, payslips, email triage, onboarding and deadline alerts. Realistic savings are around 49 hours a week across the firm, about 4 percent of total team hours, with a human always checking the output before it reaches a client or an authority.",
+    "maturity": {
+      "score": 2,
+      "label": "Early",
+      "note": "You have solid accounting systems and a client portal, plus some scanning and OCR in place. AI use today is limited to basic document reading. There is no automated chasing, coding, or reporting, and most coordination still runs through Excel and Outlook by hand."
+    },
+    "opportunities": [
+      {
+        "title": "Missing documents chased automatically",
+        "department": "Client Services and Administration",
+        "roles": [
+          "Client Coordinator",
+          "Junior Bookkeeper / Assistant",
+          "Bookkeeper"
+        ],
+        "description": "An agent checks the client portal each morning against the document list for each monthly bookkeeping run, then sends personalised reminders to clients who are missing receipts, invoices or bank statements. It escalates to a call list after a set number of days and stops as soon as the document arrives.",
+        "before": [
+          "Coordinator opens the portal and Exact to see which clients are missing documents",
+          "Writes reminder emails one by one in Outlook",
+          "Tracks who was chased and when in an Excel sheet",
+          "Repeats the same chase every few days",
+          "Tells the bookkeeper which clients are still outstanding"
+        ],
+        "after": [
+          "Agent scans the portal and ledger for missing documents each morning",
+          "Agent sends a personalised reminder listing exactly what is missing",
+          "Agent increases the frequency or tone after several days with no response",
+          "Human: coordinator reviews the escalation list of clients not responding after 3 days",
+          "Human: coordinator or bookkeeper calls the few clients on the escalation list"
+        ],
+        "hours_saved_per_week": 14,
+        "impact": 5,
+        "effort": 2,
+        "tools": [
+          "Client portal",
+          "Exact",
+          "Twinfield",
+          "Microsoft Outlook",
+          "Excel"
+        ]
+      },
+      {
+        "title": "Invoice and receipt data entry drafted",
+        "department": "Bookkeeping and Client Accounting",
+        "roles": [
+          "Bookkeeper",
+          "Junior Bookkeeper / Assistant",
+          "Senior Bookkeeper / Accountant"
+        ],
+        "description": "The agent reads scanned invoices and receipts, extracts supplier, amount, date and VAT, and proposes the ledger account and VAT code in Exact or Twinfield. Your bookkeeper checks and posts instead of typing everything from scratch.",
+        "before": [
+          "Junior scans and files incoming documents",
+          "Bookkeeper opens each PDF and reads the details",
+          "Types supplier, amount, date and VAT code into Exact or Twinfield",
+          "Checks the coding against last month",
+          "Files the document in the portal"
+        ],
+        "after": [
+          "Agent reads each scanned document and extracts the key fields",
+          "Agent proposes a ledger account and VAT code based on past entries for that supplier",
+          "Human: bookkeeper reviews the proposed entries and corrects any errors",
+          "Human: bookkeeper posts the batch to Exact or Twinfield",
+          "Agent files the document and updates the portal"
+        ],
+        "hours_saved_per_week": 11,
+        "impact": 5,
+        "effort": 3,
+        "tools": [
+          "Exact",
+          "Twinfield",
+          "Client portal",
+          "PDF scanning"
+        ]
+      },
+      {
+        "title": "VAT return drafts ready for review",
+        "department": "VAT and Annual Accounts",
+        "roles": [
+          "Tax Accountant / Accounts Preparer",
+          "Tax Reviewer / Manager"
+        ],
+        "description": "The agent pulls the quarter's ledger data, checks it against the previous return, flags unusual movements and drafts the VAT return in the right format. Your tax accountant reviews the draft instead of building it from zero.",
+        "before": [
+          "Accountant exports ledger data for each client",
+          "Reconciles VAT accounts manually in Excel",
+          "Checks for missing or odd entries",
+          "Fills in the VAT return form",
+          "Passes it to the reviewer"
+        ],
+        "after": [
+          "Agent exports and reconciles ledger data for each client",
+          "Agent flags odd movements, missing entries and large swings from last quarter",
+          "Human: tax accountant reviews the flagged items and confirms the figures",
+          "Agent fills in the draft VAT return",
+          "Human: tax reviewer checks and files with the authorities"
+        ],
+        "hours_saved_per_week": 5,
+        "impact": 4,
+        "effort": 3,
+        "tools": [
+          "Exact",
+          "Twinfield",
+          "Excel",
+          "Belastingdienst portal"
+        ]
+      },
+      {
+        "title": "Client email triage and first replies",
+        "department": "Client Services and Administration",
+        "roles": [
+          "Office Administrator",
+          "Client Coordinator"
+        ],
+        "description": "The agent reads incoming client email, sorts it by topic and client, drafts a reply for the common questions (document requests, portal access, invoice copies) and routes anything that needs a person. Your administrator sends or edits the draft instead of writing every reply from scratch.",
+        "before": [
+          "Administrator reads every email in the shared inbox",
+          "Decides who should handle it",
+          "Writes replies to routine questions",
+          "Forwards the rest to bookkeepers or payroll",
+          "Keeps a list of open items"
+        ],
+        "after": [
+          "Agent sorts incoming email by client and topic",
+          "Agent drafts replies for routine questions using your templates and client records",
+          "Human: administrator reviews and sends the drafts, editing where needed",
+          "Agent routes the rest to the right person with a short summary",
+          "Agent updates the open items list"
+        ],
+        "hours_saved_per_week": 5,
+        "impact": 4,
+        "effort": 2,
+        "tools": [
+          "Microsoft Outlook",
+          "Client portal",
+          "Exact",
+          "Excel"
+        ]
+      },
+      {
+        "title": "Bank reconciliation match suggestions",
+        "department": "Bookkeeping and Client Accounting",
+        "roles": [
+          "Bookkeeper",
+          "Senior Bookkeeper / Accountant"
+        ],
+        "description": "The agent compares bank transactions to open invoices and receipts and suggests matches, leaving only the unclear ones for a person. Your bookkeeper confirms the batch and investigates the exceptions.",
+        "before": [
+          "Bookkeeper downloads bank statements",
+          "Opens Exact or Twinfield and matches line by line",
+          "Searches for the matching invoice or receipt",
+          "Marks exceptions to investigate later",
+          "Repeats the process for each client"
+        ],
+        "after": [
+          "Agent pulls bank statements and open items",
+          "Agent suggests matches with a confidence level",
+          "Human: bookkeeper confirms the high-confidence batch",
+          "Human: bookkeeper investigates the flagged exceptions",
+          "Agent posts confirmed matches and updates the ledger"
+        ],
+        "hours_saved_per_week": 4,
+        "impact": 4,
+        "effort": 3,
+        "tools": [
+          "Exact",
+          "Twinfield",
+          "Bank feeds",
+          "Excel"
+        ]
+      },
+      {
+        "title": "Payroll questions and payslip delivery handled",
+        "department": "Payroll",
+        "roles": [
+          "Payroll Specialist",
+          "Payroll Administrator"
+        ],
+        "description": "An agent sends payslips on schedule, answers routine employee questions about payslips and holiday balances from your payroll system, and collects timesheets with automatic reminders. The payroll team only handles exceptions and judgement calls.",
+        "before": [
+          "Payroll administrator collects timesheets by email",
+          "Chases late timesheets individually",
+          "Payroll specialist runs payroll and sends payslips",
+          "Answers repetitive questions about net pay, holiday days and pension",
+          "Files records"
+        ],
+        "after": [
+          "Agent sends timesheet reminders and collects submissions",
+          "Agent answers routine employee questions using payroll data",
+          "Agent sends payslips on the agreed date",
+          "Human: payroll specialist checks the payroll run and handles exceptions",
+          "Human: payroll administrator files records and manages pension submissions"
+        ],
+        "hours_saved_per_week": 3,
+        "impact": 3,
+        "effort": 3,
+        "tools": [
+          "Payroll software",
+          "Microsoft Outlook",
+          "Excel"
+        ]
+      },
+      {
+        "title": "Monthly management reports drafted",
+        "department": "Bookkeeping and Client Accounting",
+        "roles": [
+          "Senior Bookkeeper / Accountant"
+        ],
+        "description": "The agent pulls the month's figures from Exact or Twinfield and drafts the standard commentary and variance notes for each client. Your senior accountant checks the numbers and adds the judgement.",
+        "before": [
+          "Senior accountant exports figures for each client",
+          "Builds the report in Excel",
+          "Writes the same commentary with updated numbers",
+          "Checks against last month",
+          "Sends it to the client"
+        ],
+        "after": [
+          "Agent exports the figures and builds the report pack",
+          "Agent drafts the standard commentary and flags variances against last month",
+          "Human: senior accountant checks the figures and adds client-specific notes",
+          "Human: senior accountant sends the report"
+        ],
+        "hours_saved_per_week": 3,
+        "impact": 3,
+        "effort": 2,
+        "tools": [
+          "Exact",
+          "Twinfield",
+          "Excel",
+          "Microsoft Outlook"
+        ]
+      },
+      {
+        "title": "New client onboarding pack assembled",
+        "department": "Practice Management and Operations",
+        "roles": [
+          "Office Administrator",
+          "Practice Manager"
+        ],
+        "description": "The agent takes the signed engagement letter and client details, creates the client record, sets up portal access, and drafts the welcome email and document checklist. Your administrator reviews and confirms instead of setting everything up by hand.",
+        "before": [
+          "Administrator reads the signed letter and intake form",
+          "Creates the client in Exact or Twinfield",
+          "Sets up portal access and sends login details",
+          "Writes a welcome email and document checklist",
+          "Adds the client to the workflow sheet"
+        ],
+        "after": [
+          "Agent reads the signed letter and intake form",
+          "Agent creates the client record and portal access",
+          "Agent drafts the welcome email and document checklist",
+          "Human: administrator checks the details and sends the welcome pack",
+          "Agent adds the client to the workflow sheet with the right deadlines"
+        ],
+        "hours_saved_per_week": 2,
+        "impact": 3,
+        "effort": 3,
+        "tools": [
+          "Exact",
+          "Twinfield",
+          "Client portal",
+          "Microsoft Outlook",
+          "Excel"
+        ]
+      },
+      {
+        "title": "Deadline and workload alerts across 400 clients",
+        "department": "Practice Management and Operations",
+        "roles": [
+          "Practice Manager",
+          "Director / Partner"
+        ],
+        "description": "The agent watches VAT, payroll and annual accounts deadlines for all clients and sends the practice manager a daily shortlist of what is due and what is late. It replaces the manual scan through spreadsheets.",
+        "before": [
+          "Practice manager opens the workflow spreadsheet",
+          "Checks deadlines client by client",
+          "Notes late items and emails the team",
+          "Updates the sheet after each update",
+          "Repeats the scan weekly"
+        ],
+        "after": [
+          "Agent reads deadlines and progress from Exact, Twinfield and the workflow sheet",
+          "Agent sends a daily shortlist of due, at-risk and late items",
+          "Human: practice manager assigns work and contacts the client if needed",
+          "Human: team updates status as work is completed",
+          "Agent refreshes the shortlist each morning"
+        ],
+        "hours_saved_per_week": 2,
+        "impact": 3,
+        "effort": 2,
+        "tools": [
+          "Exact",
+          "Twinfield",
+          "Excel",
+          "Microsoft Outlook"
+        ]
+      }
+    ],
+    "roadmap": [
+      {
+        "phase": "Phase 1",
+        "timeframe": "Month 1 to 2",
+        "title": "Stop the document chase",
+        "items": [
+          "Set up the document reminder agent against the client portal and Exact",
+          "Turn on email triage so routine client questions get a drafted reply",
+          "Start the daily deadline shortlist for the practice manager",
+          "Agree who reviews agent output and how quickly"
+        ]
+      },
+      {
+        "phase": "Phase 2",
+        "timeframe": "Month 3 to 5",
+        "title": "Cut the manual data entry",
+        "items": [
+          "Connect invoice and receipt coding in Exact and Twinfield",
+          "Add bank reconciliation match suggestions",
+          "Roll out VAT return drafts with accountant review",
+          "Measure coding accuracy and adjust the confidence rules"
+        ]
+      },
+      {
+        "phase": "Phase 3",
+        "timeframe": "Month 6 to 9",
+        "title": "Run the practice with fewer manual steps",
+        "items": [
+          "Add payslip delivery and routine payroll question handling",
+          "Automate new client onboarding steps",
+          "Draft monthly management reports for senior accountants",
+          "Review hours saved per department and retire what did not work"
+        ]
+      }
+    ],
+    "risks": [
+      {
+        "risk": "Client data privacy and GDPR compliance when agents read client documents and email",
+        "mitigation": "Keep all data in EU hosting, sign processing agreements with every tool vendor, give agents the minimum access needed, and log what they read and send."
+      },
+      {
+        "risk": "Wrong ledger coding, wrong VAT figures or wrong payslips reaching a client or authority",
+        "mitigation": "No figure goes out without a named human review. Use confidence thresholds so anything uncertain is flagged for a person, and keep an audit trail of every change."
+      },
+      {
+        "risk": "Clients irritated by automated reminders or replies",
+        "mitigation": "Cap reminder frequency, write them in your normal tone, always include a way to reach a person, and let coordinators adjust the wording per client."
+      },
+      {
+        "risk": "Team pushback or slow adoption because people fear the change",
+        "mitigation": "Start with one painful process, train the people affected, show them the hours it saves, and be clear that agents draft while staff decide."
+      },
+      {
+        "risk": "Limited API access in Exact, Twinfield or the portal blocks integration",
+        "mitigation": "Check API access and export options before each build, and fall back to scheduled file imports or exports where no direct connection exists."
+      }
+    ],
+    "kpis": [
+      "Hours per week spent chasing missing client documents",
+      "Percentage of invoices coded without a manual correction",
+      "Average days to close a monthly bookkeeping run",
+      "Percentage of routine client emails sent within one working day",
+      "Number of late VAT and payroll filings per quarter",
+      "Measured hours saved per week against the 49-hour plan"
+    ]
+  },
+  "quote": {
+    "phase1": {
+      "items": [
+        {
+          "n": 1,
+          "title": "Missing documents chased automatically",
+          "hours": 14,
+          "setup": 790,
+          "monthly": 910
+        },
+        {
+          "n": 2,
+          "title": "Invoice and receipt data entry drafted",
+          "hours": 11,
+          "setup": 1290,
+          "monthly": 710
+        },
+        {
+          "n": 4,
+          "title": "Client email triage and first replies",
+          "hours": 5,
+          "setup": 790,
+          "monthly": 320
+        }
+      ],
+      "setup": 2870,
+      "monthly": 1940,
+      "hours": 30,
+      "value_monthly": 6495
+    },
+    "full": {
+      "items": [
+        {
+          "n": 1,
+          "title": "Missing documents chased automatically",
+          "hours": 14,
+          "setup": 790,
+          "monthly": 910
+        },
+        {
+          "n": 2,
+          "title": "Invoice and receipt data entry drafted",
+          "hours": 11,
+          "setup": 1290,
+          "monthly": 710
+        },
+        {
+          "n": 4,
+          "title": "Client email triage and first replies",
+          "hours": 5,
+          "setup": 790,
+          "monthly": 320
+        },
+        {
+          "n": 3,
+          "title": "VAT return drafts ready for review",
+          "hours": 5,
+          "setup": 1290,
+          "monthly": 320
+        },
+        {
+          "n": 5,
+          "title": "Bank reconciliation match suggestions",
+          "hours": 4,
+          "setup": 1290,
+          "monthly": 290
+        },
+        {
+          "n": 7,
+          "title": "Monthly management reports drafted",
+          "hours": 3,
+          "setup": 790,
+          "monthly": 290
+        },
+        {
+          "n": 6,
+          "title": "Payroll questions and payslip delivery handled",
+          "hours": 3,
+          "setup": 1290,
+          "monthly": 290
+        },
+        {
+          "n": 9,
+          "title": "Deadline and workload alerts across 400 clients",
+          "hours": 2,
+          "setup": 790,
+          "monthly": 290
+        },
+        {
+          "n": 8,
+          "title": "New client onboarding pack assembled",
+          "hours": 2,
+          "setup": 1290,
+          "monthly": 290
+        }
+      ],
+      "setup": 9610,
+      "monthly": 3710,
+      "hours": 49,
+      "value_monthly": 10609
+    },
+    "rate": 50,
+    "free_setup_months": 4
+  },
+  "totals": {
+    "hours_week": 49,
+    "annual_hours": 2254,
+    "annual_value": 112700,
+    "fte": 1.2,
+    "opportunities": 9,
+    "employees": 28,
+    "rate": 50
+  },
+  "sources": [],
+  "model": "deepseek/deepseek-v4.1-flash"
+}

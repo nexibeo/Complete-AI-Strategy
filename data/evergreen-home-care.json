@@ -1,0 +1,799 @@
+{
+  "slug": "evergreen-home-care",
+  "example": true,
+  "company": {
+    "name": "Evergreen Home Care",
+    "url": null
+  },
+  "prepared_for": null,
+  "created_at": "2026-09-27T10:05:08.813Z",
+  "profile": {
+    "company": {
+      "name": "Evergreen Home Care",
+      "industry": "Home care and social care services",
+      "summary": "Evergreen Home Care provides home care in Glasgow. You and your team send carers to elderly clients' homes for personal care, medication reminders, and daily living support. You also run nursing, scheduling, recruitment, compliance training, and office functions to keep visits covered and records up to date.",
+      "offerings": [
+        "Home care visits for elderly clients",
+        "Personal care such as bathing, dressing, and mobility support",
+        "Medication reminders and basic health monitoring",
+        "Dementia and memory support at home",
+        "Respite care for family carers",
+        "Clinical oversight from registered nurses"
+      ],
+      "customers": "Elderly people and their families in Glasgow, often funded through local authorities or the NHS.",
+      "locations": [
+        "Glasgow, Scotland"
+      ],
+      "size_band": "201-1000",
+      "employee_estimate": 210,
+      "tech_signals": [
+        "Rostering and care management software such as Birdie, Log m",
+        "Mobile care notes apps used by carers on phones",
+        "Microsoft 365 for email, documents, and spreadsheets",
+        "Payroll software such as Sage or Xero",
+        "HR and applicant tracking systems for recruitment",
+        "Learning management system for mandatory training records",
+        "Phone and messaging tools for on-call coordination"
+      ],
+      "evidence_quality": "medium"
+    },
+    "departments": [
+      {
+        "name": "Care Delivery",
+        "headcount_estimate": 150,
+        "roles": [
+          {
+            "title": "Care Worker",
+            "count_estimate": 140,
+            "repetitive_tasks": [
+              "Travel between client visits",
+              "Follow care plan tasks at each visit",
+              "Log visit notes on a mobile app",
+              "Record medication support and report changes"
+            ]
+          },
+          {
+            "title": "Senior Carer",
+            "count_estimate": 8,
+            "repetitive_tasks": [
+              "Cover last-minute shifts",
+              "Mentor new carers",
+              "Spot-check care notes",
+              "Handle family concerns during visits"
+            ]
+          },
+          {
+            "title": "Field Supervisor",
+            "count_estimate": 2,
+            "repetitive_tasks": [
+              "Conduct spot checks in clients' homes",
+              "Investigate incidents and complaints",
+              "Review and update care plans",
+              "Report findings to management"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Care Coordination",
+        "headcount_estimate": 18,
+        "roles": [
+          {
+            "title": "Care Coordinator",
+            "count_estimate": 10,
+            "repetitive_tasks": [
+              "Fill last-minute rota gaps",
+              "Call carers and clients to confirm visits",
+              "Update the scheduling system",
+              "Log cancellations and changes"
+            ]
+          },
+          {
+            "title": "Scheduling Administrator",
+            "count_estimate": 5,
+            "repetitive_tasks": [
+              "Input carer availability",
+              "Confirm visit times with clients",
+              "Update rota changes",
+              "Send daily schedules to carers"
+            ]
+          },
+          {
+            "title": "On-call Coordinator",
+            "count_estimate": 3,
+            "repetitive_tasks": [
+              "Take after-hours calls",
+              "Rearrange visits when carers call in sick",
+              "Log incidents and urgent issues",
+              "Contact families about changes"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Nursing and Clinical",
+        "headcount_estimate": 12,
+        "roles": [
+          {
+            "title": "Registered Nurse",
+            "count_estimate": 9,
+            "repetitive_tasks": [
+              "Complete client assessments",
+              "Update care plans",
+              "Audit medication records",
+              "Liaise with GPs and hospitals"
+            ]
+          },
+          {
+            "title": "Clinical Lead",
+            "count_estimate": 2,
+            "repetitive_tasks": [
+              "Review complex cases",
+              "Approve care plans",
+              "Train carers on clinical tasks",
+              "Review incident reports"
+            ]
+          },
+          {
+            "title": "Care Assessor",
+            "count_estimate": 1,
+            "repetitive_tasks": [
+              "Visit new clients for assessments",
+              "Write up assessment notes",
+              "Arrange start dates with coordinators",
+              "Review care needs after changes"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "HR and Recruitment",
+        "headcount_estimate": 9,
+        "roles": [
+          {
+            "title": "Recruitment Coordinator",
+            "count_estimate": 4,
+            "repetitive_tasks": [
+              "Screen carer applications",
+              "Schedule interviews",
+              "Chase references and PVG checks",
+              "Update the applicant tracking system"
+            ]
+          },
+          {
+            "title": "HR Administrator",
+            "count_estimate": 3,
+            "repetitive_tasks": [
+              "Complete onboarding paperwork",
+              "Maintain staff records",
+              "Answer routine HR queries",
+              "Track probation and review dates"
+            ]
+          },
+          {
+            "title": "Training Coordinator",
+            "count_estimate": 2,
+            "repetitive_tasks": [
+              "Book mandatory training sessions",
+              "Track training certificates",
+              "Send renewal reminders",
+              "Update the training log"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Compliance and Training",
+        "headcount_estimate": 7,
+        "roles": [
+          {
+            "title": "Compliance Officer",
+            "count_estimate": 3,
+            "repetitive_tasks": [
+              "Audit care records",
+              "Track incidents and complaints",
+              "Update policies and procedures",
+              "Prepare reports for regulators"
+            ]
+          },
+          {
+            "title": "Trainer",
+            "count_estimate": 3,
+            "repetitive_tasks": [
+              "Deliver manual handling training",
+              "Deliver medication and safeguarding training",
+              "Record attendance",
+              "Assess carer competency"
+            ]
+          },
+          {
+            "title": "Quality Auditor",
+            "count_estimate": 1,
+            "repetitive_tasks": [
+              "Spot-check care notes",
+              "Review client feedback",
+              "Create action plans",
+              "Follow up on audit findings"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Admin and Finance",
+        "headcount_estimate": 9,
+        "roles": [
+          {
+            "title": "Finance Assistant",
+            "count_estimate": 4,
+            "repetitive_tasks": [
+              "Invoice local authorities and private clients",
+              "Process supplier invoices",
+              "Reconcile payments",
+              "Chase overdue accounts"
+            ]
+          },
+          {
+            "title": "Payroll Officer",
+            "count_estimate": 2,
+            "repetitive_tasks": [
+              "Input timesheets and mileage",
+              "Check pay rates and shifts",
+              "Resolve pay queries",
+              "Prepare payroll reports"
+            ]
+          },
+          {
+            "title": "Office Administrator",
+            "count_estimate": 2,
+            "repetitive_tasks": [
+              "Order office and care supplies",
+              "File records and documents",
+              "Answer calls and emails",
+              "Support managers with admin tasks"
+            ]
+          },
+          {
+            "title": "Receptionist",
+            "count_estimate": 1,
+            "repetitive_tasks": [
+              "Greet visitors",
+              "Answer and route calls",
+              "Log messages for coordinators",
+              "Manage post and deliveries"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Management",
+        "headcount_estimate": 5,
+        "roles": [
+          {
+            "title": "Registered Manager",
+            "count_estimate": 1,
+            "repetitive_tasks": [
+              "Review care quality and KPIs",
+              "Approve major rota changes",
+              "Handle escalated complaints",
+              "Report to the Care Inspectorate"
+            ]
+          },
+          {
+            "title": "Operations Manager",
+            "count_estimate": 1,
+            "repetitive_tasks": [
+              "Review daily staffing levels",
+              "Manage budgets and costs",
+              "Meet with coordinators and nurses",
+              "Report to senior management"
+            ]
+          },
+          {
+            "title": "Care Manager",
+            "count_estimate": 2,
+            "repetitive_tasks": [
+              "Review client care plans",
+              "Support carers with complex cases",
+              "Meet families to discuss care",
+              "Check compliance with contracts"
+            ]
+          },
+          {
+            "title": "Business Administrator",
+            "count_estimate": 1,
+            "repetitive_tasks": [
+              "Prepare management reports",
+              "Maintain contracts and records",
+              "Schedule meetings",
+              "Track key performance data"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "strategy": {
+    "executive_summary": "Evergreen Home Care runs 150 care workers across Glasgow with local authority and NHS funding, so small rota changes and record gaps quickly affect families and compliance. Your team already uses rostering software, mobile care notes, and Microsoft 365, but coordinators, seniors, and admin staff still spend hours on phone calls, spreadsheets, and chasing paperwork. The first wins are filling rota gaps faster, checking care notes, screening carer applications, and checking timesheets before payroll. Start with one or two agents in Care Coordination and Compliance, measure the hours saved, then add recruitment and finance. Keep humans approving care decisions and anything clinical.",
+    "maturity": {
+      "score": 2,
+      "label": "Developing",
+      "note": "You have rostering and mobile care notes in place, and Microsoft 365 is used across the office. Much of the rota, recruitment, invoice, and compliance work is still manual or spreadsheet based, so there is room to add simple agents without replacing your main systems."
+    },
+    "opportunities": [
+      {
+        "title": "Rota gaps filled faster",
+        "department": "Care Coordination",
+        "roles": [
+          "Care Coordinator",
+          "Scheduling Administrator",
+          "On-call Coordinator"
+        ],
+        "description": "An agent watches your rota for gaps and cancellations. It checks carer availability, skills, and travel time, then drafts messages to the best-matched carers and proposes a fill for a coordinator to approve.",
+        "before": [
+          "Coordinator spots a gap or gets a sick call",
+          "Calls or texts carers one by one",
+          "Waits for replies and checks travel time",
+          "Updates the rota system",
+          "Rings the client about the change"
+        ],
+        "after": [
+          "Agent flags the gap and suggests matched carers",
+          "Agent drafts SMS or email to carers",
+          "Agent collects replies and ranks options",
+          "Human: Coordinator confirms the fill and updates the rota",
+          "Agent logs the change and drafts a client update"
+        ],
+        "hours_saved_per_week": 80,
+        "impact": 5,
+        "effort": 3,
+        "tools": [
+          "Rostering and care management software",
+          "Phone and SMS",
+          "Microsoft 365",
+          "Email"
+        ]
+      },
+      {
+        "title": "Care notes checked before they become problems",
+        "department": "Compliance and Training",
+        "roles": [
+          "Quality Auditor",
+          "Senior Carer",
+          "Compliance Officer"
+        ],
+        "description": "An agent scans mobile care notes each evening for missing entries, medication gaps, and changes in condition. It drafts a short exception list and follow-up messages for seniors to review.",
+        "before": [
+          "Senior carers spot-check a handful of notes",
+          "Quality auditor samples records weekly",
+          "Issues are emailed or mentioned in handover",
+          "Action log updated by hand",
+          "Manager reviews at month end"
+        ],
+        "after": [
+          "Agent scans all notes nightly",
+          "Agent flags missing medication, falls, or skin issues",
+          "Agent drafts follow-up messages to carers",
+          "Human: Senior or auditor reviews and sends",
+          "Agent updates the action log"
+        ],
+        "hours_saved_per_week": 35,
+        "impact": 4,
+        "effort": 2,
+        "tools": [
+          "Mobile care notes app",
+          "Microsoft 365",
+          "Email"
+        ]
+      },
+      {
+        "title": "Carer applications screened and interviews booked",
+        "department": "HR and Recruitment",
+        "roles": [
+          "Recruitment Coordinator",
+          "HR Administrator"
+        ],
+        "description": "An agent reads new carer applications, checks them against your basic criteria, and drafts replies. It books interview slots, sends reminders, and chases references and PVG checks.",
+        "before": [
+          "Coordinator opens each application",
+          "Checks right to work, experience, and availability",
+          "Sends reply and proposes interview times",
+          "Chases references and PVG by email or phone",
+          "Updates the applicant tracking system"
+        ],
+        "after": [
+          "Agent screens applications against your criteria",
+          "Agent drafts replies and interview invites",
+          "Agent books slots in the calendar",
+          "Agent sends reference and PVG reminders",
+          "Human: Coordinator reviews, interviews, and makes decisions"
+        ],
+        "hours_saved_per_week": 45,
+        "impact": 4,
+        "effort": 2,
+        "tools": [
+          "Applicant tracking system",
+          "Microsoft 365",
+          "Email",
+          "Calendar"
+        ]
+      },
+      {
+        "title": "Timesheets and invoices checked before payroll",
+        "department": "Admin and Finance",
+        "roles": [
+          "Finance Assistant",
+          "Payroll Officer"
+        ],
+        "description": "An agent pulls timesheets and rota data, checks pay rates, mileage, and shift lengths, and flags differences. It drafts invoices and pay queries for your team to approve.",
+        "before": [
+          "Timesheets arrive by app, email, or paper",
+          "Payroll officer types hours and mileage",
+          "Finance assistant checks rates and shifts",
+          "Queries are emailed back and forth",
+          "Invoices are created by hand"
+        ],
+        "after": [
+          "Agent pulls timesheets and rota data",
+          "Agent checks rates, mileage, and shift lengths",
+          "Agent flags differences and drafts queries",
+          "Human: Payroll or finance approves corrections",
+          "Agent drafts invoices and updates the ledger"
+        ],
+        "hours_saved_per_week": 50,
+        "impact": 4,
+        "effort": 3,
+        "tools": [
+          "Sage or Xero",
+          "Rostering software",
+          "Microsoft 365",
+          "Email"
+        ]
+      },
+      {
+        "title": "Care plan updates drafted for nurses",
+        "department": "Nursing and Clinical",
+        "roles": [
+          "Registered Nurse",
+          "Care Assessor",
+          "Clinical Lead"
+        ],
+        "description": "An agent reads assessment notes, medication records, and GP letters, then drafts care plan updates and highlights what changed. A nurse reviews and approves before anything is saved.",
+        "before": [
+          "Nurse visits client and takes notes",
+          "Nurse writes up assessment later",
+          "Care plan updated manually in the system",
+          "GP or hospital letter filed by hand",
+          "Changes sent to coordinators by email"
+        ],
+        "after": [
+          "Agent reads assessment notes and letters",
+          "Agent drafts care plan changes and flags risks",
+          "Human: Nurse reviews, edits, and approves",
+          "Agent saves approved update and notifies coordinators",
+          "Agent logs the change for audit"
+        ],
+        "hours_saved_per_week": 30,
+        "impact": 4,
+        "effort": 4,
+        "tools": [
+          "Care management software",
+          "Microsoft 365",
+          "Email"
+        ]
+      },
+      {
+        "title": "Training certificates tracked and renewals booked",
+        "department": "Compliance and Training",
+        "roles": [
+          "Training Coordinator",
+          "Compliance Officer"
+        ],
+        "description": "An agent watches mandatory training dates, sends reminders to carers, and books renewal sessions. It updates the training log and flags anyone who cannot work until training is complete.",
+        "before": [
+          "Coordinator opens spreadsheet of training dates",
+          "Checks who is due for renewal",
+          "Emails carers and managers",
+          "Books sessions by hand",
+          "Updates the training log"
+        ],
+        "after": [
+          "Agent checks training dates daily",
+          "Agent sends reminders to carers and managers",
+          "Agent books renewal sessions",
+          "Agent updates the training log",
+          "Human: Coordinator handles exceptions and non-attendance"
+        ],
+        "hours_saved_per_week": 25,
+        "impact": 3,
+        "effort": 2,
+        "tools": [
+          "Learning management system",
+          "Microsoft 365",
+          "Email",
+          "Calendar"
+        ]
+      },
+      {
+        "title": "Family questions answered and updates sent",
+        "department": "Care Delivery",
+        "roles": [
+          "Senior Carer",
+          "Field Supervisor",
+          "Care Coordinator"
+        ],
+        "description": "An agent drafts routine updates to families about visit changes, late arrivals, or supply needs. It answers common questions by SMS or email and passes anything clinical or complex to a human.",
+        "before": [
+          "Family calls the office or carer",
+          "Coordinator checks the rota and care notes",
+          "Calls or emails the family back",
+          "Logs the conversation",
+          "Repeats for each family"
+        ],
+        "after": [
+          "Agent answers common questions from an approved script",
+          "Agent drafts visit change updates",
+          "Agent logs the contact",
+          "Human: Coordinator or senior handles clinical or unhappy families",
+          "Agent sends a follow-up if needed"
+        ],
+        "hours_saved_per_week": 25,
+        "impact": 3,
+        "effort": 3,
+        "tools": [
+          "Phone and SMS",
+          "Email",
+          "Care management software",
+          "Microsoft 365"
+        ]
+      },
+      {
+        "title": "Incidents and complaints logged and tracked",
+        "department": "Compliance and Training",
+        "roles": [
+          "Compliance Officer",
+          "Quality Auditor",
+          "Registered Manager"
+        ],
+        "description": "An agent reads incident emails and forms, pulls out the key facts, and drafts a log entry with actions. It tracks open actions and reminds owners before deadlines.",
+        "before": [
+          "Incident reported by phone, email, or form",
+          "Officer writes up details by hand",
+          "Log updated in spreadsheet or system",
+          "Actions emailed to managers",
+          "Follow-up chased manually"
+        ],
+        "after": [
+          "Agent reads incident report and extracts facts",
+          "Agent drafts log entry and action list",
+          "Human: Officer reviews and approves",
+          "Agent sends actions to owners",
+          "Agent reminds owners before deadlines"
+        ],
+        "hours_saved_per_week": 20,
+        "impact": 3,
+        "effort": 3,
+        "tools": [
+          "Microsoft 365",
+          "Incident system",
+          "Email"
+        ]
+      },
+      {
+        "title": "Daily management report in your inbox",
+        "department": "Management",
+        "roles": [
+          "Business Administrator",
+          "Operations Manager",
+          "Registered Manager"
+        ],
+        "description": "An agent gathers rota gaps, incidents, training compliance, and finance flags into one short daily email. You get the numbers and a plain summary without asking three teams for updates.",
+        "before": [
+          "Manager asks coordinators for staffing numbers",
+          "Admin pulls training and incident data",
+          "Finance sends invoice or payroll flags",
+          "Data copied into a spreadsheet",
+          "Report written and emailed"
+        ],
+        "after": [
+          "Agent pulls data from rostering, training, and finance",
+          "Agent drafts a short daily summary",
+          "Agent highlights changes since yesterday",
+          "Human: Manager reviews and asks questions",
+          "Agent saves the report for audit"
+        ],
+        "hours_saved_per_week": 15,
+        "impact": 3,
+        "effort": 2,
+        "tools": [
+          "Microsoft 365",
+          "Rostering software",
+          "Learning management system",
+          "Sage or Xero"
+        ]
+      }
+    ],
+    "roadmap": [
+      {
+        "phase": "Phase 1",
+        "timeframe": "Weeks 1 to 4",
+        "title": "Rota and care notes",
+        "items": [
+          "Connect rostering software, mobile care notes, and Microsoft 365",
+          "Set up rota gap agent for Care Coordination",
+          "Set up care note checker for Compliance and Training",
+          "Train coordinators and senior carers on approvals",
+          "Review hours saved and false alerts after two weeks"
+        ]
+      },
+      {
+        "phase": "Phase 2",
+        "timeframe": "Weeks 5 to 12",
+        "title": "Recruitment, training, and finance admin",
+        "items": [
+          "Add carer application screening and interview booking",
+          "Add reference and PVG chase reminders",
+          "Add training certificate tracker and renewal booking",
+          "Add timesheet and invoice checking agent",
+          "Agree who approves exceptions in HR and Finance"
+        ]
+      },
+      {
+        "phase": "Phase 3",
+        "timeframe": "Months 4 to 6",
+        "title": "Clinical, family, and management reporting",
+        "items": [
+          "Add care plan draft assistant for nurses",
+          "Add family update and common question agent",
+          "Add incident and complaint log assistant",
+          "Add daily management report",
+          "Review all agents with the Registered Manager and adjust scripts"
+        ]
+      }
+    ],
+    "risks": [
+      {
+        "risk": "Data protection and client confidentiality",
+        "mitigation": "Use approved systems, limit access by role, keep audit logs, and sign off with your data protection lead before launch."
+      },
+      {
+        "risk": "Care quality could suffer if staff trust drafts without checking",
+        "mitigation": "Keep human approval for care plans, medication, incidents, and family clinical questions. Spot-check agent output weekly."
+      },
+      {
+        "risk": "Staff may not use the agents",
+        "mitigation": "Start with coordinators and seniors who feel the pain, give short training, and show time saved in their own rota."
+      },
+      {
+        "risk": "Integration limits with rostering or care notes software",
+        "mitigation": "Check API access first. If no API, use email or spreadsheet exports and keep the first version simple."
+      },
+      {
+        "risk": "Too many alerts or wrong matches",
+        "mitigation": "Set clear rules, start with one team, and review false positives after two weeks before expanding."
+      }
+    ],
+    "kpis": [
+      "Rota gaps filled within 30 minutes (percentage)",
+      "Care notes completed with no missing medication or personal care fields (percentage)",
+      "Time from carer application to interview booked (days)",
+      "Training compliance above 95 percent (percentage)",
+      "Payroll and invoice queries resolved within 2 working days (percentage)",
+      "Hours saved per week across live agents (number)"
+    ]
+  },
+  "quote": {
+    "phase1": {
+      "items": [
+        {
+          "n": 1,
+          "title": "Rota gaps filled faster",
+          "hours": 80,
+          "setup": 1290,
+          "monthly": 2900
+        },
+        {
+          "n": 3,
+          "title": "Carer applications screened and interviews booked",
+          "hours": 45,
+          "setup": 790,
+          "monthly": 2900
+        },
+        {
+          "n": 2,
+          "title": "Care notes checked before they become problems",
+          "hours": 35,
+          "setup": 790,
+          "monthly": 2270
+        }
+      ],
+      "setup": 2870,
+      "monthly": 8070,
+      "hours": 160,
+      "value_monthly": 34640
+    },
+    "full": {
+      "items": [
+        {
+          "n": 1,
+          "title": "Rota gaps filled faster",
+          "hours": 80,
+          "setup": 1290,
+          "monthly": 2900
+        },
+        {
+          "n": 3,
+          "title": "Carer applications screened and interviews booked",
+          "hours": 45,
+          "setup": 790,
+          "monthly": 2900
+        },
+        {
+          "n": 2,
+          "title": "Care notes checked before they become problems",
+          "hours": 35,
+          "setup": 790,
+          "monthly": 2270
+        },
+        {
+          "n": 4,
+          "title": "Timesheets and invoices checked before payroll",
+          "hours": 50,
+          "setup": 1290,
+          "monthly": 2900
+        },
+        {
+          "n": 6,
+          "title": "Training certificates tracked and renewals booked",
+          "hours": 25,
+          "setup": 790,
+          "monthly": 1620
+        },
+        {
+          "n": 5,
+          "title": "Care plan updates drafted for nurses",
+          "hours": 30,
+          "setup": 1890,
+          "monthly": 1950
+        },
+        {
+          "n": 7,
+          "title": "Family questions answered and updates sent",
+          "hours": 25,
+          "setup": 1290,
+          "monthly": 1620
+        },
+        {
+          "n": 9,
+          "title": "Daily management report in your inbox",
+          "hours": 15,
+          "setup": 790,
+          "monthly": 970
+        },
+        {
+          "n": 8,
+          "title": "Incidents and complaints logged and tracked",
+          "hours": 20,
+          "setup": 1290,
+          "monthly": 1300
+        }
+      ],
+      "setup": 10210,
+      "monthly": 18430,
+      "hours": 325,
+      "value_monthly": 70363
+    },
+    "rate": 50,
+    "free_setup_months": 4
+  },
+  "totals": {
+    "hours_week": 325,
+    "annual_hours": 14950,
+    "annual_value": 747500,
+    "fte": 8.1,
+    "opportunities": 9,
+    "employees": 210,
+    "rate": 50
+  },
+  "sources": [],
+  "model": "deepseek/deepseek-v4.1-flash"
+}

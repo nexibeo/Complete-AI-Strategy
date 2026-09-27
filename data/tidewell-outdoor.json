@@ -1,0 +1,641 @@
+{
+  "slug": "tidewell-outdoor",
+  "example": true,
+  "company": {
+    "name": "Tidewell Outdoor",
+    "url": null
+  },
+  "prepared_for": null,
+  "created_at": "2026-09-27T10:05:03.070Z",
+  "profile": {
+    "company": {
+      "name": "Tidewell Outdoor",
+      "industry": "Outdoor and camping gear retail (e-commerce)",
+      "summary": "You sell outdoor and camping gear online from Gothenburg, Sweden. Your 15 person team runs a Shopify store with about 3,000 products and handles many customer emails about orders, returns, and sizing. Your customers are mainly Swedish and Nordic outdoor shoppers, from casual campers to serious hikers.",
+      "offerings": [
+        "Tents and shelters",
+        "Sleeping bags and sleeping pads",
+        "Outdoor clothing and footwear",
+        "Hiking and camping equipment",
+        "Camp cooking and accessories",
+        "Replacement parts and gear care"
+      ],
+      "customers": "You sell direct to consumers in Sweden and nearby Nordic countries. Typical buyers are campers, hikers, families, and outdoor hobbyists. A small share may be clubs or local resellers.",
+      "locations": [
+        "Gothenburg, Sweden"
+      ],
+      "size_band": "11-50",
+      "employee_estimate": 15,
+      "tech_signals": [
+        "Shopify",
+        "Shared email inbox or helpdesk",
+        "Inventory or order management software",
+        "Shipping label and returns tools",
+        "Google Analytics or similar web analytics",
+        "Email marketing tool"
+      ],
+      "evidence_quality": "medium"
+    },
+    "departments": [
+      {
+        "name": "Customer Service",
+        "headcount_estimate": 4,
+        "roles": [
+          {
+            "title": "Customer Service Agent",
+            "count_estimate": 4,
+            "repetitive_tasks": [
+              "Answer emails on order status and delivery delays",
+              "Process returns and exchanges",
+              "Reply to sizing and product fit questions",
+              "Update tracking details and refund notes"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Marketing",
+        "headcount_estimate": 3,
+        "roles": [
+          {
+            "title": "Marketing Specialist",
+            "count_estimate": 2,
+            "repetitive_tasks": [
+              "Write and schedule product emails",
+              "Post to social media and update product pages",
+              "Check ad and campaign reports",
+              "Draft seasonal promotion copy"
+            ]
+          },
+          {
+            "title": "Content and SEO Specialist",
+            "count_estimate": 1,
+            "repetitive_tasks": [
+              "Write product descriptions and buying guides",
+              "Update category pages and metadata",
+              "Track search rankings and traffic",
+              "Fix broken links and outdated content"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Purchasing",
+        "headcount_estimate": 2,
+        "roles": [
+          {
+            "title": "Purchasing Manager",
+            "count_estimate": 1,
+            "repetitive_tasks": [
+              "Send reorder requests to suppliers",
+              "Check stock levels and lead times",
+              "Compare supplier prices and shipping costs",
+              "Update purchase orders and arrival dates"
+            ]
+          },
+          {
+            "title": "Purchasing Assistant",
+            "count_estimate": 1,
+            "repetitive_tasks": [
+              "Enter supplier order confirmations",
+              "Track late or partial deliveries",
+              "Update product cost and SKU records",
+              "Prepare simple stock reports"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Warehouse and Fulfilment",
+        "headcount_estimate": 4,
+        "roles": [
+          {
+            "title": "Warehouse Lead",
+            "count_estimate": 1,
+            "repetitive_tasks": [
+              "Plan daily pick and pack work",
+              "Check stock counts and bin locations",
+              "Handle carrier pickup issues",
+              "Review return and damage reports"
+            ]
+          },
+          {
+            "title": "Warehouse Operative",
+            "count_estimate": 3,
+            "repetitive_tasks": [
+              "Pick, pack, and label online orders",
+              "Receive and check supplier deliveries",
+              "Count and move stock",
+              "Sort returned items for restock or repair"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "IT and Development",
+        "headcount_estimate": 1,
+        "roles": [
+          {
+            "title": "E-commerce Developer",
+            "count_estimate": 1,
+            "repetitive_tasks": [
+              "Update Shopify theme and product templates",
+              "Fix checkout, app, and integration issues",
+              "Test site speed and mobile layout",
+              "Set up tracking tags and data feeds"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Leadership and Admin",
+        "headcount_estimate": 1,
+        "roles": [
+          {
+            "title": "Founder or General Manager",
+            "count_estimate": 1,
+            "repetitive_tasks": [
+              "Review sales, margin, and cashflow reports",
+              "Set prices and promotions",
+              "Manage supplier relationships",
+              "Plan team schedules and hiring"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "strategy": {
+    "executive_summary": "Tidewell Outdoor runs a 3,000 product Shopify store from Gothenburg with 15 people and a steady flow of order, return, sizing, and stock questions. Your team already has the core systems in place, but most work still moves through shared inboxes, spreadsheets, and manual checks. We estimate your current AI maturity at 2 out of 5: basic tools are connected, but agents are not yet doing routine work. A focused first program can save about 39 hours per week, roughly 6.5 percent of your team's 600 weekly hours, without changing your storefront or warehouse process. Start with customer service replies and stock reorder checks, then expand into marketing and reporting.",
+    "maturity": {
+      "score": 2,
+      "label": "Early automation",
+      "note": "You have Shopify, a shared inbox or helpdesk, inventory tools, and analytics. The next step is small agents that draft routine replies, check stock, and prepare reports for human approval."
+    },
+    "opportunities": [
+      {
+        "title": "Order status and delay replies handled in minutes",
+        "department": "Customer Service",
+        "roles": [
+          "Customer Service Agent"
+        ],
+        "description": "An agent checks Shopify, carrier tracking, and your helpdesk for order status questions and delivery delays. It drafts a reply with the current tracking link, delay reason if known, and next step for the customer.",
+        "before": [
+          "Agent opens shared inbox",
+          "Searches Shopify order number",
+          "Checks carrier tracking site",
+          "Writes reply and updates ticket"
+        ],
+        "after": [
+          "Agent reads customer email",
+          "AI agent pulls order and tracking data",
+          "AI agent drafts reply with tracking and delay note",
+          "Human: Agent reviews and sends",
+          "Human: Agent updates exception notes if needed"
+        ],
+        "hours_saved_per_week": 7,
+        "impact": 5,
+        "effort": 2,
+        "tools": [
+          "Shopify",
+          "Shared email inbox or helpdesk",
+          "Carrier tracking",
+          "Shipping label tool"
+        ]
+      },
+      {
+        "title": "Returns and exchanges processed with less back and forth",
+        "department": "Customer Service",
+        "roles": [
+          "Customer Service Agent"
+        ],
+        "description": "An agent reads return requests, checks the order and return policy, and prepares the return label, refund or exchange options. It flags damaged or late items for the warehouse.",
+        "before": [
+          "Agent reads return email",
+          "Checks order in Shopify",
+          "Confirms policy and item condition",
+          "Creates return label or exchange",
+          "Writes refund notes"
+        ],
+        "after": [
+          "AI agent classifies return reason",
+          "AI agent checks order and policy",
+          "AI agent drafts label and exchange options",
+          "Human: Agent approves and sends",
+          "AI agent logs reason for reporting"
+        ],
+        "hours_saved_per_week": 6,
+        "impact": 5,
+        "effort": 3,
+        "tools": [
+          "Shopify",
+          "Returns tool",
+          "Shared email inbox or helpdesk",
+          "Shipping label tool"
+        ]
+      },
+      {
+        "title": "Sizing and fit questions answered from product data",
+        "department": "Customer Service",
+        "roles": [
+          "Customer Service Agent"
+        ],
+        "description": "An agent answers common sizing, weight, and compatibility questions using product pages, specs, and past replies. It sends a draft with links to size guides and similar products.",
+        "before": [
+          "Agent reads sizing question",
+          "Opens product page and spec sheet",
+          "Checks old emails for similar answers",
+          "Writes reply with links"
+        ],
+        "after": [
+          "AI agent finds product specs and size guide",
+          "AI agent drafts answer with fit notes",
+          "Human: Agent checks accuracy and sends",
+          "AI agent tags unanswered spec gaps"
+        ],
+        "hours_saved_per_week": 4,
+        "impact": 4,
+        "effort": 2,
+        "tools": [
+          "Shopify",
+          "Shared email inbox or helpdesk",
+          "Product spec sheets",
+          "Google Analytics"
+        ]
+      },
+      {
+        "title": "Reorder suggestions before stock runs out",
+        "department": "Purchasing",
+        "roles": [
+          "Purchasing Manager",
+          "Purchasing Assistant"
+        ],
+        "description": "An agent checks stock levels, sales velocity, supplier lead times, and open purchase orders each morning. It drafts reorder requests for items likely to run out and notes late or partial deliveries.",
+        "before": [
+          "Purchasing manager exports stock report",
+          "Checks sales velocity in Shopify",
+          "Reviews supplier lead times in email or spreadsheet",
+          "Writes reorder email",
+          "Updates purchase order dates"
+        ],
+        "after": [
+          "AI agent pulls stock, sales, and open order data",
+          "AI agent flags items below reorder point",
+          "AI agent drafts supplier email and PO update",
+          "Human: Purchasing manager checks and sends",
+          "Human: Assistant updates arrival dates"
+        ],
+        "hours_saved_per_week": 5,
+        "impact": 4,
+        "effort": 3,
+        "tools": [
+          "Inventory or order management software",
+          "Shopify",
+          "Supplier email",
+          "Spreadsheets"
+        ]
+      },
+      {
+        "title": "Seasonal emails and social posts prepared from your product feed",
+        "department": "Marketing",
+        "roles": [
+          "Marketing Specialist"
+        ],
+        "description": "An agent drafts product emails and social posts from new stock, best sellers, and seasonal themes. It schedules them in your email tool and keeps product links and prices correct.",
+        "before": [
+          "Marketer picks products for campaign",
+          "Writes email and social copy",
+          "Checks prices and links manually",
+          "Schedules in email tool",
+          "Posts or queues social media"
+        ],
+        "after": [
+          "AI agent selects products from your feed",
+          "AI agent drafts email and social copy",
+          "Human: Marketer edits and approves",
+          "AI agent schedules in email tool",
+          "AI agent logs campaign for reports"
+        ],
+        "hours_saved_per_week": 4,
+        "impact": 3,
+        "effort": 2,
+        "tools": [
+          "Shopify",
+          "Email marketing tool",
+          "Social media scheduler",
+          "Google Analytics"
+        ]
+      },
+      {
+        "title": "Product descriptions and buying guides kept up to date",
+        "department": "Marketing",
+        "roles": [
+          "Content and SEO Specialist"
+        ],
+        "description": "An agent writes first drafts for product descriptions, category pages, and buying guides from your specs and customer questions. It also flags broken links, missing metadata, and outdated pages.",
+        "before": [
+          "Specialist picks product or category",
+          "Reads specs and supplier notes",
+          "Writes description and metadata",
+          "Checks internal links",
+          "Publishes in Shopify"
+        ],
+        "after": [
+          "AI agent pulls specs and common customer questions",
+          "AI agent drafts description and metadata",
+          "AI agent flags broken links and missing fields",
+          "Human: Specialist edits and publishes",
+          "AI agent tracks ranking changes"
+        ],
+        "hours_saved_per_week": 5,
+        "impact": 4,
+        "effort": 2,
+        "tools": [
+          "Shopify",
+          "Google Analytics",
+          "Search Console",
+          "Product spec sheets"
+        ]
+      },
+      {
+        "title": "Weekly sales, margin, and cashflow summary ready on Monday",
+        "department": "Leadership and Admin",
+        "roles": [
+          "Founder or General Manager"
+        ],
+        "description": "An agent pulls sales, margin, stock, and cashflow data into a short weekly report. It highlights changes, slow sellers, and cash risks so you can decide faster.",
+        "before": [
+          "Founder exports Shopify sales report",
+          "Combines margin and stock data in spreadsheet",
+          "Checks bank or accounting figures",
+          "Writes notes for team",
+          "Shares in meeting"
+        ],
+        "after": [
+          "AI agent pulls sales, margin, stock, and cash data",
+          "AI agent drafts weekly summary with exceptions",
+          "Human: Founder reviews and adjusts decisions",
+          "AI agent sends to leadership channel",
+          "AI agent stores report for trend tracking"
+        ],
+        "hours_saved_per_week": 3,
+        "impact": 4,
+        "effort": 3,
+        "tools": [
+          "Shopify",
+          "Google Analytics",
+          "Spreadsheets",
+          "Accounting software",
+          "Inventory or order management software"
+        ]
+      },
+      {
+        "title": "Return and damage reports sorted for the warehouse",
+        "department": "Warehouse and Fulfilment",
+        "roles": [
+          "Warehouse Lead",
+          "Warehouse Operative"
+        ],
+        "description": "An agent groups return and damage reports by reason, SKU, and carrier. It prepares a daily list for restock, repair, or claim so your team does less sorting and paperwork.",
+        "before": [
+          "Warehouse lead reads return emails and notes",
+          "Sorts items by condition",
+          "Checks SKU and order details",
+          "Writes restock or damage list",
+          "Updates return notes"
+        ],
+        "after": [
+          "AI agent groups returns by reason and SKU",
+          "AI agent prepares restock or repair list",
+          "Human: Warehouse lead checks and assigns work",
+          "Human: Operative sorts physical items",
+          "AI agent updates claim log for carrier"
+        ],
+        "hours_saved_per_week": 3,
+        "impact": 3,
+        "effort": 3,
+        "tools": [
+          "Returns tool",
+          "Inventory or order management software",
+          "Shopify",
+          "Carrier claim portal"
+        ]
+      },
+      {
+        "title": "Shopify and integration issues triaged before they grow",
+        "department": "IT and Development",
+        "roles": [
+          "E-commerce Developer"
+        ],
+        "description": "An agent watches checkout errors, app alerts, and site speed reports, then writes a short issue summary with steps tried and likely cause. It routes urgent problems to you and keeps a log.",
+        "before": [
+          "Developer checks app and store alerts",
+          "Reads customer or team messages about bugs",
+          "Reproduces issue manually",
+          "Checks logs and theme changes",
+          "Writes fix notes"
+        ],
+        "after": [
+          "AI agent collects alerts, messages, and speed data",
+          "AI agent groups and ranks issues",
+          "AI agent drafts summary with likely cause",
+          "Human: Developer checks and fixes",
+          "AI agent updates issue log"
+        ],
+        "hours_saved_per_week": 2,
+        "impact": 3,
+        "effort": 4,
+        "tools": [
+          "Shopify",
+          "Google Analytics",
+          "Error monitoring",
+          "Shared email inbox or helpdesk",
+          "Spreadsheets"
+        ]
+      }
+    ],
+    "roadmap": [
+      {
+        "phase": "Phase 1",
+        "timeframe": "Weeks 1-4",
+        "title": "Fix the highest volume work in Customer Service and Purchasing",
+        "items": [
+          "Connect helpdesk, Shopify, and carrier tracking to an order status agent.",
+          "Set up return and exchange drafting with human approval.",
+          "Add sizing and fit answer drafts from product specs.",
+          "Build daily reorder and late delivery alerts for Purchasing.",
+          "Define approval rules and escalation contacts."
+        ]
+      },
+      {
+        "phase": "Phase 2",
+        "timeframe": "Weeks 5-10",
+        "title": "Add marketing content and leadership reporting",
+        "items": [
+          "Launch product email and social post drafting from your Shopify feed.",
+          "Start product description and buying guide drafts with SEO checks.",
+          "Build weekly sales, margin, and cashflow summary for the founder.",
+          "Train the team on review steps and tone of voice.",
+          "Track hours saved and error rates weekly."
+        ]
+      },
+      {
+        "phase": "Phase 3",
+        "timeframe": "Weeks 11-16",
+        "title": "Cover warehouse, IT, and ongoing improvement",
+        "items": [
+          "Add return and damage sorting lists for the warehouse.",
+          "Set up Shopify and integration issue triage for IT.",
+          "Connect carrier claim logs and stock count exceptions.",
+          "Review agents monthly and retire low value ones.",
+          "Expand to Nordic language replies where quality holds."
+        ]
+      }
+    ],
+    "risks": [
+      {
+        "risk": "Wrong order or return information sent to customers.",
+        "mitigation": "Keep human approval before sending, and set clear escalation for delayed or damaged orders."
+      },
+      {
+        "risk": "Product specs and stock data are incomplete.",
+        "mitigation": "Start with your top 200 SKUs, add missing fields, and review data quality weekly."
+      },
+      {
+        "risk": "The team is busy and skips review steps.",
+        "mitigation": "Assign owners, keep daily review under 30 minutes, and measure time saved."
+      },
+      {
+        "risk": "Customer data privacy and GDPR concerns.",
+        "mitigation": "Limit access, use approved tools, keep logs, and avoid putting customer data into public AI tools."
+      },
+      {
+        "risk": "Agent costs or complexity grow without clear return.",
+        "mitigation": "Start with three agents, review monthly, and cancel any agent that does not show clear hours saved."
+      }
+    ],
+    "kpis": [
+      "Hours saved per week by department from agent logs.",
+      "First reply time for customer service emails.",
+      "Return processing time from request to label.",
+      "Stockouts on your top 200 SKUs.",
+      "Email campaign preparation time and click rate.",
+      "Weekly report delivery on Monday before 9:00."
+    ]
+  },
+  "quote": {
+    "phase1": {
+      "items": [
+        {
+          "n": 1,
+          "title": "Order status and delay replies handled in minutes",
+          "hours": 7,
+          "setup": 790,
+          "monthly": 450
+        },
+        {
+          "n": 2,
+          "title": "Returns and exchanges processed with less back and forth",
+          "hours": 6,
+          "setup": 1290,
+          "monthly": 390
+        },
+        {
+          "n": 6,
+          "title": "Product descriptions and buying guides kept up to date",
+          "hours": 5,
+          "setup": 790,
+          "monthly": 320
+        }
+      ],
+      "setup": 2870,
+      "monthly": 1160,
+      "hours": 18,
+      "value_monthly": 3897
+    },
+    "full": {
+      "items": [
+        {
+          "n": 1,
+          "title": "Order status and delay replies handled in minutes",
+          "hours": 7,
+          "setup": 790,
+          "monthly": 450
+        },
+        {
+          "n": 2,
+          "title": "Returns and exchanges processed with less back and forth",
+          "hours": 6,
+          "setup": 1290,
+          "monthly": 390
+        },
+        {
+          "n": 6,
+          "title": "Product descriptions and buying guides kept up to date",
+          "hours": 5,
+          "setup": 790,
+          "monthly": 320
+        },
+        {
+          "n": 3,
+          "title": "Sizing and fit questions answered from product data",
+          "hours": 4,
+          "setup": 790,
+          "monthly": 290
+        },
+        {
+          "n": 4,
+          "title": "Reorder suggestions before stock runs out",
+          "hours": 5,
+          "setup": 1290,
+          "monthly": 320
+        },
+        {
+          "n": 5,
+          "title": "Seasonal emails and social posts prepared from your product feed",
+          "hours": 4,
+          "setup": 790,
+          "monthly": 290
+        },
+        {
+          "n": 7,
+          "title": "Weekly sales, margin, and cashflow summary ready on Monday",
+          "hours": 3,
+          "setup": 1290,
+          "monthly": 290
+        },
+        {
+          "n": 8,
+          "title": "Return and damage reports sorted for the warehouse",
+          "hours": 3,
+          "setup": 1290,
+          "monthly": 290
+        },
+        {
+          "n": 9,
+          "title": "Shopify and integration issues triaged before they grow",
+          "hours": 2,
+          "setup": 1890,
+          "monthly": 290
+        }
+      ],
+      "setup": 10210,
+      "monthly": 2930,
+      "hours": 39,
+      "value_monthly": 8444
+    },
+    "rate": 50,
+    "free_setup_months": 4
+  },
+  "totals": {
+    "hours_week": 39,
+    "annual_hours": 1794,
+    "annual_value": 89700,
+    "fte": 1,
+    "opportunities": 9,
+    "employees": 15,
+    "rate": 50
+  },
+  "sources": [],
+  "model": "deepseek/deepseek-v4.1-flash"
+}
